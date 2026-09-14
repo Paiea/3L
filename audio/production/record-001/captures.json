@@ -1,0 +1,21 @@
+{
+  "record": "001",
+  "status": "capturing",
+  "source_sha256": "6e52b0a3fcd9f4e05ecff10f924c7f5857ba9abc83b088499ba77939a115230a",
+  "routing_mode": "exact_quote_locked",
+  "notes": "Fresh current-prose v2. Greg=deep, Ithar=normal. No legacy audio reused because legacy prose does not match current Record 001.",
+  "segments": [
+    {"index":1,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/12587179-f741-452e-b4c3-6c8ccfdbd511.mp3","pause_after_ms":1100},
+    {"index":2,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/80842f19-f40a-4ff1-bfc0-ac4e4a943ae8.mp3","pause_after_ms":1100},
+    {"index":3,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/310480aa-21e0-4788-a73b-830e79ba095e.mp3","pause_after_ms":1100},
+    {"index":4,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8d773da3-8509-4d60-be98-1ac32a5ea288.mp3","pause_after_ms":1100},
+    {"index":5,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/309719cd-d7a1-478f-9b50-02a246015579.mp3","pause_after_ms":1100},
+    {"index":6,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e077a58f-56c5-4b32-9cdd-27141cc4f88e.mp3","pause_after_ms":1100},
+    {"index":7,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/97f7eb6c-ec44-4003-8cdb-a6675ca238e7.mp3","pause_after_ms":1100},
+    {"index":8,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4ca5d74c-d436-4f61-bf1e-64c533b4d34e.mp3","pause_after_ms":1100},
+    {"index":9,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7facfbd0-cbcf-4dc5-ac5b-2672d05de892.mp3","pause_after_ms":450},
+    {"index":10,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/6fc30eac-f255-4b0c-8842-7fd5f1c9a643.mp3","pause_after_ms":450},
+    {"index":11,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/60fe9e4a-52e9-4215-a270-cfd2472b069a.mp3","pause_after_ms":450},
+    {"index":12,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7495df4d-7f13-4f0a-a475-52de9d2fd558.mp3","pause_after_ms":450}
+  ]
+}
