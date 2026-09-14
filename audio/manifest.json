@@ -2,5 +2,15 @@
   "schema_version": 1,
   "authority": "Production audio is derived from current manuscript prose and never story authority.",
   "default_presentation": "audio_first_when_available",
-  "records": {}
+  "records": {
+    "r002": {
+      "status": "candidate",
+      "src": "audio/assets/record-002-quote-locked-v2.mp3",
+      "source_sha256": "c4a901146f3d4e7fc39e6937c8e63b571303f7af0e1f51cd9733a87ab2b46ce0",
+      "audio_sha256": "a1d8e88f623a5c84eb8e3669eca10a52ee1562dcc1c81de6e53ae997d41b8141",
+      "duration_seconds": 770.76,
+      "routing_mode": "exact_quote_locked",
+      "listened": true
+    }
+  }
 }
