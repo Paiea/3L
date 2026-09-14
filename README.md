@@ -36,6 +36,8 @@ Public navigation shows only records marked published. `?record=011&work=1` may 
 
 Audio is the flagship presentation layer when it exists. Production audio is derived from the approved `current.md`, never a competing story authority. `audio/manifest.json` records published audio and the source prose hash used to make it.
 
+`audio/README.md` is the mandatory production contract for every record. It requires exact quote-locked speaker ownership, occurrence-aware duplicate handling, Greg=`deep`, Ithar=`normal`, and deliberate assembly-owned speaker handoffs. Audio production must validate that routing contract before generation.
+
 Audio is produced deliberately after prose approval. Saving manuscript prose does not automatically generate audio.
 
 ## Images
