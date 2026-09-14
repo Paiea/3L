@@ -1,0 +1,25 @@
+name: Probe full audio asset
+
+on:
+  push:
+    branches: [setup/ai-first-reader]
+    paths: [.github/workflows/probe-aidoc-full-audio.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Inspect full audio page
+        run: |
+          set -euo pipefail
+          url='https://www.aidocmaker.com/g0/audio?name=f5212c5e404c4e18abbf6ecb69eaea8c'
+          curl -L --fail --show-error "$url" -o /tmp/page
+          file /tmp/page
+          wc -c /tmp/page
+          head -c 1000 /tmp/page || true
+          echo
+          grep -Eo 'https?://[^"<> ]+\.(mp3|wav|m4a)(\?[^"<> ]*)?' /tmp/page | head -20 || true
+          grep -Eo 'https?://[^"<> ]+' /tmp/page | grep -E '(audio|storage|googleapis|mp3)' | head -30 || true
