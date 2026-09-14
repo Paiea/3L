@@ -10,12 +10,12 @@
 </style>
 </head>
 <body>
-<div class="working-banner">Working prose preview · not public release authority</div>
+<div class="working-banner">Working prose preview · candidate audio may appear here · not public release authority</div>
 <header class="site-head"><div class="shell"><div class="brand">3L · The Third Leg</div><div class="sub">Audio first · prose always available</div></div></header>
 <main class="shell">
 <section id="record" hidden>
 <header class="record-head"><div class="record-no" id="recordNo"></div><h1 id="title"></h1><div class="meta" id="meta"></div><div id="statusBadge"></div></header>
-<section class="audio" id="audioBox" hidden><strong>Listen</strong><audio id="player" controls preload="metadata"></audio></section>
+<section class="audio" id="audioBox" hidden><strong id="audioLabel">Listen</strong><audio id="player" controls preload="metadata"></audio></section>
 <article class="prose" id="prose"></article>
 <nav class="nav"><a class="prev" id="prev">← Previous</a><select class="record-select" id="recordSelect" aria-label="Choose record"></select><a class="next" id="next">Next →</a></nav>
 </section>
@@ -83,7 +83,14 @@
     setNav($('prev'),prev);setNav($('next'),next);
 
     const a=audio.records?.[current.id];
-    if(a?.status==='published'&&a.src){$('audioBox').hidden=false;$('player').src=a.src;$('meta').textContent+=' · audio available'}
+    const publicAudio=a?.status==='published';
+    const candidateAudio=working&&a?.status==='candidate';
+    if((publicAudio||candidateAudio)&&a.src){
+      $('audioBox').hidden=false;
+      $('player').src=a.src;
+      $('audioLabel').textContent=candidateAudio?'Listen · Candidate':'Listen';
+      $('meta').textContent+=candidateAudio?' · candidate audio':' · audio available';
+    }
     document.title=`${current.display||current.slot} · ${current.title} · 3L`;
   }).catch(err=>fail(`Reader could not load: ${err.message}`));
 })();
