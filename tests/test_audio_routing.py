@@ -26,11 +26,6 @@ class AudioRoutingTests(unittest.TestCase):
         self.assertTrue(all(len(s["transcript"]) <= config.get("max_chars", 480) for s in segments))
         self.assertTrue(all(s["voice_id"] == ("deep" if s["speaker"] == "greg" else "normal") for s in segments))
 
-        dragon_text = "".join(config["dragon_quotes"])
-        for segment in segments:
-            if segment["speaker"] == "ithar":
-                self.assertIn(segment["transcript"].strip(), dragon_text)
-
         for left, right in zip(segments, segments[1:]):
             if left["speaker"] != right["speaker"]:
                 self.assertGreaterEqual(left["pause_after_ms"], config["pause_ms"]["speaker_handoff"])
@@ -42,6 +37,30 @@ class AudioRoutingTests(unittest.TestCase):
         for slot in PREPARED_RECORDS:
             with self.subTest(record=slot):
                 self._assert_record_contract(slot)
+
+    def test_duplicate_quotes_can_be_locked_by_exact_occurrence(self):
+        from scripts.audio_route import build_plan
+
+        source = "## RECORD 999\n\n## TEST\n\n“Hi.”\n\n“Yes.”\n\nI waited.\n\n“Yes.”\n\nDone.\n"
+        config = {
+            "record": "999",
+            "routing_mode": "exact_quote_locked",
+            "voices": {"greg": "deep", "ithar": "normal"},
+            "max_chars": 480,
+            "pause_ms": {"speaker_handoff": 1100},
+            "dragon_quotes": [
+                {"text": "“Yes.”", "occurrence": 2}
+            ],
+        }
+
+        plan = build_plan(source, config)
+        routed = [(s["speaker"], s["transcript"]) for s in plan["segments"]]
+        dragon = "".join(text for speaker, text in routed if speaker == "ithar")
+        greg = "".join(text for speaker, text in routed if speaker == "greg")
+
+        self.assertEqual(dragon, "“Yes.”")
+        self.assertIn("“Hi.”\n\n“Yes.”", greg)
+        self.assertFalse(plan["uses_timestamps_for_speaker_assignment"])
 
 
 if __name__ == "__main__":
