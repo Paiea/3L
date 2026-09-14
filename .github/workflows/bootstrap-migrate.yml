@@ -77,7 +77,8 @@ jobs:
               encoding='utf-8'
           )
           PY
-          for n in $(seq -w 1 79); do
+          for i in $(seq 1 79); do
+            n=$(printf '%03d' "$i")
             cmp "/tmp/old-3l/3l/manuscript/record-${n}.md" "manuscript/records/${n}/current.md"
             cmp "/tmp/old-3l/3l/manuscript/record-${n}.md" "manuscript/records/${n}/versions/original-run.md"
           done
