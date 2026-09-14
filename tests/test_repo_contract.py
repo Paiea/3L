@@ -38,13 +38,26 @@ class RepoContractTests(unittest.TestCase):
         self.assertNotIn("records/001.html", html)
         self.assertFalse((ROOT / "records").exists())
 
-    def test_work_reader_can_preview_candidate_audio_without_publication(self):
+    def test_reference_audio_is_public_and_library_first(self):
         html = (ROOT / "index.html").read_text(encoding="utf-8")
-        self.assertIn("status==='candidate'", html)
-        self.assertIn("working", html)
         audio = json.loads((ROOT / "audio" / "manifest.json").read_text(encoding="utf-8"))
-        self.assertEqual(audio["records"]["r002"]["status"], "candidate")
-        self.assertEqual(audio["records"]["r002"]["src"], "audio/assets/record-002-quote-locked-v2.mp3")
+        self.assertTrue(all(audio["records"][f"r{i:03d}"]["status"] == "published" for i in range(1, 11)))
+        self.assertIn('id="audioLibrary"', html)
+        self.assertIn("Audio Library", html)
+        self.assertIn("duration_seconds", html)
+
+    def test_autoplay_next_is_user_controlled_and_persistent(self):
+        html = (ROOT / "index.html").read_text(encoding="utf-8")
+        self.assertIn('id="autoplayNext"', html)
+        self.assertIn("3l.autoplayNext", html)
+        self.assertIn("localStorage", html)
+        self.assertIn("addEventListener('ended'", html)
+
+    def test_audio_start_precedes_async_prose_fetch(self):
+        html = (ROOT / "index.html").read_text(encoding="utf-8")
+        play = html.index("if(startPlayback&&canUseAudio(current))")
+        prose_fetch = html.index("const prose=await fetch(current.path")
+        self.assertLess(play, prose_fetch)
 
     def test_agent_handshake_keeps_archive_cold(self):
         agents = (ROOT / "AGENTS.md").read_text(encoding="utf-8").lower()
