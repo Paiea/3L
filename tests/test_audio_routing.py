@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PREPARED_RECORDS = ("002", "003", "004", "005")
+PREPARED_RECORDS = ("001", "002", "003", "004", "005")
 
 
 class AudioRoutingTests(unittest.TestCase):
