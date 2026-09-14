@@ -17,9 +17,17 @@ jobs:
           set -euo pipefail
           url='https://www.aidocmaker.com/g0/audio?name=f5212c5e404c4e18abbf6ecb69eaea8c'
           curl -L --fail --show-error "$url" -o /tmp/page
-          file /tmp/page
-          wc -c /tmp/page
-          head -c 1000 /tmp/page || true
-          echo
-          grep -Eo 'https?://[^"<> ]+\.(mp3|wav|m4a)(\?[^"<> ]*)?' /tmp/page | head -20 || true
-          grep -Eo 'https?://[^"<> ]+' /tmp/page | grep -E '(audio|storage|googleapis|mp3)' | head -30 || true
+          echo '--- context id matches ---'
+          grep -Eo '.{0,180}f5212c5e404c4e18abbf6ecb69eaea8c.{0,300}' /tmp/page | head -10 || true
+          echo '--- likely audio/api metadata ---'
+          grep -Eo '.{0,160}(audioUrl|audio_url|downloadUrl|download_url|googleapis|storage|/api/|g0/audio|\.mp3).{0,320}' /tmp/page | head -40 || true
+          echo '--- next data ---'
+          python - <<'PY'
+          import re
+          from pathlib import Path
+          s=Path('/tmp/page').read_text(errors='replace')
+          for pat in [r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', r'self\.__next_f\.push\((.*?)\)</script>']:
+              m=re.search(pat,s)
+              if m:
+                  print(m.group(1)[:8000])
+          PY
