@@ -12,16 +12,36 @@ jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - name: Identify audio page scripts
+      - name: Resolve audio page bundle and API hints
         run: |
           set -euo pipefail
-          curl -L --fail --show-error \
-            'https://www.aidocmaker.com/g0/audio?name=f5212c5e404c4e18abbf6ecb69eaea8c' \
-            -o /tmp/page
-          python - <<'PY'
+          base='https://www.aidocmaker.com'
+          build='build-TfctsWXpff2fKS'
+          curl -L --fail --show-error "$base/_next/static/$build/_buildManifest.js" -o /tmp/manifest.js
+          echo '--- audio route manifest context ---'
+          grep -Eo '.{0,300}\[appCode\].{0,500}' /tmp/manifest.js | head -20 || true
+          grep -Eo '.{0,300}audio.{0,500}' /tmp/manifest.js | head -30 || true
+          python - <<'PY' >/tmp/chunks.txt
           import re
           from pathlib import Path
-          s=Path('/tmp/page').read_text(errors='replace')
-          for src in re.findall(r'<script[^>]+src="([^"]+)"', s):
-              print(src)
+          s=Path('/tmp/manifest.js').read_text(errors='replace')
+          # Print JS chunk-like strings near the dynamic audio route.
+          p=s.find('/[appCode]/audio')
+          if p >= 0:
+              window=s[max(0,p-1500):p+2500]
+              print(window)
+              for x in re.findall(r'"([^"\n]+\.js)"', window):
+                  print('CHUNK',x)
           PY
+          cat /tmp/chunks.txt
+          chunk=$(grep '^CHUNK ' /tmp/chunks.txt | tail -1 | sed 's/^CHUNK //')
+          if [ -n "${chunk:-}" ]; then
+            case "$chunk" in
+              /*) url="$base$chunk" ;;
+              *) url="$base/_next/$chunk" ;;
+            esac
+            echo "FETCHING $url"
+            curl -L --fail --show-error "$url" -o /tmp/audio-page.js || true
+            echo '--- API hints ---'
+            grep -aoE '.{0,180}(fetch\(|axios|/api/|audio|name=|download|storage|googleapis|blob|context).{0,320}' /tmp/audio-page.js | head -100 || true
+          fi
