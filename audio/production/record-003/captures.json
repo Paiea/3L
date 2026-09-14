@@ -1,0 +1,19 @@
+{
+  "record":"003",
+  "status":"capturing",
+  "source_sha256":"20d5efc54a5dbb394c1159c895833302dcbaf001ea7ce5a8c6e5d616009fd4fb",
+  "routing_mode":"exact_quote_locked",
+  "notes":"Recovered production by regenerating missing unpersisted takes from the validated route plan. Greg=deep, Ithar=normal. Assembly owns silence.",
+  "segments":[
+    {"index":1,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e34c930a-5bcf-4938-aac8-370e23956bae.mp3","pause_after_ms":450},
+    {"index":2,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2147523e-4838-47cb-b006-b2e85a58cca8.mp3","pause_after_ms":450},
+    {"index":3,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/c0bff5f1-1860-47d7-9fbb-7df067ade2c9.mp3","pause_after_ms":1100},
+    {"index":4,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/c2d58e7f-6372-4546-9277-f31b85d121ae.mp3","pause_after_ms":450},
+    {"index":5,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4dcb3dca-c240-4113-85e3-0cffc71ffed3.mp3","pause_after_ms":1100},
+    {"index":6,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/6b60588b-1abc-4ed1-9446-ce51f1a9bd64.mp3","pause_after_ms":450},
+    {"index":7,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/58b8aef7-4bc5-4aa1-90c1-57c89630e554.mp3","pause_after_ms":1100},
+    {"index":8,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b6540480-b396-4c65-aa49-25ba159b8659.mp3","pause_after_ms":1100},
+    {"index":9,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/25d454c9-767c-4b53-b893-437d8971206b.mp3","pause_after_ms":450},
+    {"index":10,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/076e1b64-235c-40d4-aeff-bc5a68cc1e86.mp3","pause_after_ms":450}
+  ]
+}
