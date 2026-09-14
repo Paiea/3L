@@ -23,7 +23,9 @@ Rules:
 - Never infer speaker ownership from start/end times in an older recording.
 - Never let a chunk cross a Greg/Ithar ownership boundary.
 - A long speech may be split into multiple capture-safe chunks, but every resulting chunk keeps the same locked speaker.
-- If an exact locked Ithar quote cannot be found once and only once in current prose, routing fails instead of guessing.
+- If a locked quote is unique, exact text is sufficient.
+- If identical quoted text occurs more than once, lock the exact text plus its 1-based occurrence in the manuscript. Never use audio timing to disambiguate duplicates.
+- If a lock cannot resolve exactly against current prose, routing fails instead of guessing.
 - Timestamps may be used after routing for editing, navigation, or QC. They may never decide who speaks.
 
 This exists specifically to prevent a timing drift from causing Ithar to read Greg's next line or Greg to read Ithar's line.
@@ -37,7 +39,7 @@ Every join should be classified by what the listener experiences:
 - **continuation**: same speaker, same thought, no dramatic beat. Usually very small or no inserted pause when a capture split occurs mid-sentence.
 - **paragraph / thought turn**: same voice, new sentence group or meaningful shift. Start around 350–500 ms.
 - **action beat**: dialogue or narration gives way to a physical action, observation, or reaction that should register before speech resumes. Start around 500–800 ms.
-- **Greg ↔ Ithar handoff**: different embodied speaker. Start around 900–1200 ms. Never hard-splice this transition.
+- **Greg ↔ Ithar handoff**: different embodied speaker. Default production baseline is about 1100 ms, usually within 900–1200 ms. Never hard-splice this transition.
 - **major beat / scene turn**: the listener should feel the record breathe. Start around 1200–1600 ms.
 
 These are starting ranges, not immutable timing law. The ear wins. If a seam sounds crowded, widen it. If it sounds theatrically slow, tighten it.
