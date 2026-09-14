@@ -4,19 +4,51 @@ import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PREPARED_RECORDS = ("001", "002", "003", "004", "005")
+ROUTING_DIR = ROOT / "audio" / "routing"
 
 
 class AudioRoutingTests(unittest.TestCase):
-    def _assert_record_contract(self, slot):
+    def _assert_record_contract(self, config_path):
         from scripts.audio_route import build_plan
 
+        slot = config_path.stem.removeprefix("record-")
         source_path = ROOT / f"manuscript/records/{slot}/current.md"
-        config_path = ROOT / f"audio/routing/record-{slot}.json"
-        self.assertTrue(config_path.is_file(), f"missing exact routing config for Record {slot}")
+        self.assertTrue(source_path.is_file(), f"missing current prose for routing config {config_path.name}")
 
         source = source_path.read_text(encoding="utf-8")
         config = json.loads(config_path.read_text(encoding="utf-8"))
+
+        self.assertEqual(config.get("record"), slot)
+        self.assertEqual(config.get("routing_mode"), "exact_quote_locked")
+        self.assertEqual(config.get("voices"), {"greg": "deep", "ithar": "normal"})
+        self.assertLessEqual(int(config.get("max_chars", 480)), 480)
+        self.assertGreaterEqual(int(config.get("pause_ms", {}).get("speaker_handoff", 0)), 1100)
+
+        forbidden_routing_keys = {
+            "timestamp",
+            "timestamps",
+            "timecode",
+            "timecodes",
+            "start_time",
+            "end_time",
+            "start_ms",
+            "end_ms",
+            "start_seconds",
+            "end_seconds",
+        }
+
+        def walk_keys(value):
+            if isinstance(value, dict):
+                for key, child in value.items():
+                    yield key
+                    yield from walk_keys(child)
+            elif isinstance(value, list):
+                for child in value:
+                    yield from walk_keys(child)
+
+        bad_keys = sorted({key for key in walk_keys(config) if key.lower() in forbidden_routing_keys})
+        self.assertEqual(bad_keys, [], f"timestamp-like routing metadata is forbidden: {bad_keys}")
+
         plan = build_plan(source, config)
         segments = plan["segments"]
 
@@ -33,10 +65,18 @@ class AudioRoutingTests(unittest.TestCase):
         self.assertEqual(plan["routing_mode"], "exact_quote_locked")
         self.assertFalse(plan["uses_timestamps_for_speaker_assignment"])
 
-    def test_prepared_records_are_quote_locked_and_preview_safe(self):
-        for slot in PREPARED_RECORDS:
-            with self.subTest(record=slot):
-                self._assert_record_contract(slot)
+    def test_every_prepared_record_is_discovered_and_enforced(self):
+        configs = sorted(ROUTING_DIR.glob("record-*.json"))
+        self.assertTrue(configs, "at least one audio routing config must exist")
+        for config_path in configs:
+            with self.subTest(config=config_path.name):
+                self._assert_record_contract(config_path)
+
+    def test_project_handshake_points_audio_jobs_to_the_contract(self):
+        project = json.loads((ROOT / "PROJECT.json").read_text(encoding="utf-8"))
+        production = project.get("production", {})
+        self.assertEqual(production.get("audio_contract"), "audio/README.md")
+        self.assertEqual(production.get("audio_routing_mode"), "exact_quote_locked")
 
     def test_duplicate_quotes_can_be_locked_by_exact_occurrence(self):
         from scripts.audio_route import build_plan
