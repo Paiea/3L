@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "authority": "Production audio is derived from current manuscript prose and never story authority.",
+  "default_presentation": "audio_first_when_available",
+  "records": {}
+}
