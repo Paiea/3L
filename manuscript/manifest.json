@@ -120,7 +120,7 @@
       "title": "THE CONFIDANT",
       "path": "manuscript/records/011/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
       "word_count": 2917
     },
@@ -131,7 +131,7 @@
       "title": "THE LEDGER",
       "path": "manuscript/records/012/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
       "word_count": 4137
     },
@@ -142,7 +142,7 @@
       "title": "THE DESIGNEE",
       "path": "manuscript/records/013/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
       "word_count": 2557
     },
