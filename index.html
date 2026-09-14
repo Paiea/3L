@@ -178,7 +178,6 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
       if(!current) return fail('That record is not in the manuscript manifest.');
       if(!working&&!current.published) return fail('That record is preserved story material but is not publicly released yet.');
 
-      const prose=await fetch(current.path,{cache:'no-store'}).then(r=>{if(!r.ok) throw new Error(current.path);return r.text()});
       activeRecord=current;
       $('error').hidden=true;
       $('landing').hidden=true;
@@ -186,7 +185,7 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
       $('recordNo').textContent=`Record ${current.display||current.slot}`;
       $('title').textContent=current.title.replace(/^THE\s+/i,'THE ');
       $('meta').textContent=`${current.word_count.toLocaleString()} words`;
-      $('prose').innerHTML=renderMarkdown(prose);
+      $('prose').innerHTML='<p class="meta">Loading chapter…</p>';
       $('statusBadge').innerHTML='';
       if(working||current.prose_status!=='reference') $('statusBadge').innerHTML=`<span class="status">${escapeHtml(current.prose_status.replaceAll('_',' '))}</span>`;
 
@@ -215,9 +214,10 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
 
       if(push) history.pushState({record:current.id},'',recordUrl(current));
       document.title=`${current.display||current.slot} · ${current.title} · 3L`;
-      if(startPlayback&&canUseAudio(current)){
-        try{await $('player').play()}catch{}
-      }
+      if(startPlayback&&canUseAudio(current)) $('player').play().catch(()=>{});
+
+      const prose=await fetch(current.path,{cache:'no-store'}).then(r=>{if(!r.ok) throw new Error(current.path);return r.text()});
+      $('prose').innerHTML=renderMarkdown(prose);
     }
 
     $('audioLibraryList').querySelectorAll('[data-audio-record]').forEach(button=>{
