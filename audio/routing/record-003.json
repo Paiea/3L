@@ -1,0 +1,30 @@
+{
+  "record": "003",
+  "routing_mode": "exact_quote_locked",
+  "voices": {
+    "greg": "deep",
+    "ithar": "normal"
+  },
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "dragon_quotes": [
+    "“You came here because of the Line. That is not the same as coming here for the Line. You knew my name before the western stations began failing. You knew the mountain before the ninth station bled pressure into the eastern sink. You knew Nhal had known me before your present kingdom appointed the first keeper now attempting to repair that station. You searched for me before the crisis you offered as your reason for arriving.\n\n“I am not assuming your earlier reason matters. I am assuming only that it exists. Those are different claims.”",
+    "“If the Line were repaired now, what would you do next? Do not give me a direction and call it home. Tell me what home means, and what you intend to do there after the emergency you have used to explain your arrival is gone.”",
+    "“You have already done that twice.”",
+    "“I possess enough mountain.”",
+    "“You. More precisely, your account.\n\n“The discrepancy began with you. Your Line knowledge may be consequence, coincidence, or merely one expression of the same event. The name is another. Nhal is another. Your body attempting movements it has not learned is another. Your present rank is not the interesting part. The habits your body displays despite that rank are.\n\n“You keep offering nouns as explanations. Returned. Remembered. S-class. Ranker. Line. Nhal. Life. Each one is a container. You place forty years inside a word and then appear irritated when I ask what is in it.\n\n“I do not want your preferred summary of yourself, Greg. I want enough of the account to determine why these containers hold what they hold.”",
+    "“I do not require eighty years in sequence.\n\n“You believe the second life is the story because it is the one you inhabit. Reasonable. You also believe the first is context because you have already assigned its role. Less reasonable.\n\n“In the second life, every choice made with foreknowledge carries a piece of the first. Every person you sought because you remembered them. Every person you avoided. Every road you did not take. Every skill you attempted before your body was ready. Every danger you recognized. Every danger you failed to recognize because you believed you already understood it.\n\n“The first life is not background to the second. It is pressure applied to it.\n\n“You may describe the second life as the path. When the path depends upon the first, you will tell me enough of the first to explain the dependency. You may compress repetition. You may omit what you genuinely do not remember. You may not convert years into summaries merely because the years embarrass you, bore you, or fail to support the explanation you currently prefer.\n\n“If you say you worked somewhere for six years, and six years are truly indistinguishable to you, I gain nothing by forcing you to invent distinctions. If you remember the first morning, a particular lunch, the person who sat across from you, the first time you were late, the day your wages changed, an argument in the third year, and the meal after your final shift, then you do not remember six years as one sentence.\n\n“You have spent decades deciding which memories explain who you became. I have no reason to trust that selection. You know what mattered to you when you last interpreted it. That is not necessarily what mattered. The reason you remember a thing may not be the reason you believe you remember it.”",
+    "“You are urgent, Greg. Not the Line. You.\n\n“You are sixty soon. Your species measures a life in decades and then behaves surprised when there are not enough of them. You are not surprised. That interests me.\n\n“You have been searching for me for years. You have already lived two lives by your own description. You arrived with enough food to reach me, not enough to return comfortably. Your planning prioritizes arrival over departure.\n\n“I do not know what conclusion belongs to those facts yet. I know only that they belong in the account.”",
+    "“You leave. You may die on the mountain. You may live. The Line may fail. I will not burn you for refusing conversation.”",
+    "“There is water behind the second stone shelf. There are animals below the eastern face. The other eastern face, before you ask. I can show you where. If this account requires weeks or months, you may sleep, eat, hunt badly, and continue being human while you tell it.”",
+    "“You are welcome to do that outside.”",
+    "“Where does the discrepancy begin?”",
+    "“Begin there.”"
+  ]
+}
