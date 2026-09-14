@@ -1,0 +1,38 @@
+name: Build audio route plan 001
+
+on:
+  push:
+    branches: [setup/ai-first-reader]
+    paths: [.github/workflows/build-audio-route-plan-001.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: setup/ai-first-reader
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build exact route plan
+        run: |
+          set -euo pipefail
+          mkdir -p audio/production/record-001
+          python scripts/audio_route.py \
+            manuscript/records/001/current.md \
+            audio/routing/record-001.json \
+            audio/production/record-001/route-plan.json
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit route plan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/production/record-001/route-plan.json
+          git commit -m "audio: build route plan 001"
+          git pull --rebase origin setup/ai-first-reader
+          git push origin HEAD:setup/ai-first-reader
