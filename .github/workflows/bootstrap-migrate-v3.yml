@@ -1,0 +1,95 @@
+name: One-time 3L manuscript migration v3
+
+on:
+  push:
+    branches: [setup/ai-first-reader]
+    paths: [.github/workflows/bootstrap-migrate-v3.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: setup/ai-first-reader
+          fetch-depth: 0
+      - name: Clone old story repository
+        run: git clone --depth 1 https://github.com/Paiea/peg-leg-greg-reader.git /tmp/old-3l
+      - name: Copy exact Records 001-079 and legacy authority
+        shell: bash
+        run: |
+          set -euo pipefail
+          test ! -e manuscript/records/001/current.md
+          python - <<'PY'
+          import json, re, shutil
+          from pathlib import Path
+
+          old = Path('/tmp/old-3l/3l')
+          root = Path('.')
+          records = []
+          for n in range(1, 80):
+              slot = f'{n:03d}'
+              src = old / 'manuscript' / f'record-{slot}.md'
+              if not src.is_file():
+                  raise SystemExit(f'missing source {src}')
+              text = src.read_text(encoding='utf-8')
+              headings = re.findall(r'^##\s+(.+?)\s*$', text, flags=re.M)
+              title = headings[1].strip() if len(headings) > 1 else f'RECORD {slot}'
+              dest = root / 'manuscript' / 'records' / slot
+              (dest / 'versions').mkdir(parents=True, exist_ok=True)
+              shutil.copyfile(src, dest / 'current.md')
+              shutil.copyfile(src, dest / 'versions' / 'original-run.md')
+              records.append({
+                  'id': f'r{slot}',
+                  'slot': slot,
+                  'display': slot,
+                  'title': title,
+                  'path': f'manuscript/records/{slot}/current.md',
+                  'story_status': 'valid',
+                  'prose_status': 'reference' if n <= 10 else 'needs_rehearsal',
+                  'published': n <= 10,
+                  'word_count': len(re.findall(r"\b[\w’'-]+\b", text)),
+              })
+          manifest = {
+              'schema_version': 1,
+              'order_authority': True,
+              'note': 'Order comes from this array. Never infer navigation from numeric arithmetic.',
+              'records': records,
+          }
+          (root / 'manuscript' / 'manifest.json').write_text(json.dumps(manifest, indent=2) + '\n', encoding='utf-8')
+
+          archive = root / 'development' / 'archive' / 'legacy-authority'
+          archive.mkdir(parents=True, exist_ok=True)
+          for name in ['STORY_AUTHORITY.md', 'PROMISE_LEDGER.md', 'VOICE_PERFORMANCE_AUTHORITY.md']:
+              src = old / name
+              if src.is_file():
+                  shutil.copyfile(src, archive / name)
+          (archive / 'README.md').write_text(
+              '# Legacy 3L authority archive\n\n'
+              'Copied from `Paiea/peg-leg-greg-reader/3l` during standalone migration. '
+              'Historical research only. Current manuscript prose wins every conflict.\n',
+              encoding='utf-8'
+          )
+          PY
+          for i in $(seq 1 79); do
+            n=$(printf '%03d' "$i")
+            cmp "/tmp/old-3l/3l/manuscript/record-${n}.md" "manuscript/records/${n}/current.md"
+            cmp "/tmp/old-3l/3l/manuscript/record-${n}.md" "manuscript/records/${n}/versions/original-run.md"
+          done
+          python scripts/check_repo.py
+          python -m unittest tests.test_repo_contract -v
+      - name: Commit and rebase exact migration
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manuscript/records manuscript/manifest.json development/archive
+          git commit -m "chore: preserve 3L story frontier through Record 079"
+          git pull --rebase origin setup/ai-first-reader
+          python scripts/check_repo.py
+          python -m unittest tests.test_repo_contract -v
+          git push origin HEAD:setup/ai-first-reader
