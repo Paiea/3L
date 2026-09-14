@@ -1,3 +1,4 @@
+# rerun after enabling unittest discovery
 name: Verify clean Record 002 candidate
 
 on:
