@@ -5,7 +5,7 @@
   "routing_mode": "exact_quote_locked",
   "notes": "Preview-safe takes. Greg=deep, Ithar=normal. Pause values come from the validated route plan.",
   "segments": [
-    {"index":1,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2d6f2eb3-4dda-4d7f-871e-7837debf12a4.mp3","pause_after_ms":450},
+    {"index":1,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2ac1e4cf-0338-4e74-8b46-20a412298bd0.mp3","pause_after_ms":450},
     {"index":2,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/851d39e8-e021-441e-9186-0a076edfcfee.mp3","pause_after_ms":450},
     {"index":3,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b4dd0cee-6375-4fe7-9d7b-ed874504c753.mp3","pause_after_ms":450},
     {"index":4,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/92de56ed-054d-48d2-9374-73ddb46743cf.mp3","pause_after_ms":450},
