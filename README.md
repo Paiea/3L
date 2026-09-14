@@ -1,32 +1,47 @@
 # 3L · The Third Leg
 
-This repository is the authoritative home for 3L.
+3L is an audio-first long-form fantasy record. This repository is its story authority, rehearsal workspace, reader, and production handoff.
 
-## AI handshake
+## Start here
 
-Read `PROJECT.json` first. It names the current frontier and the smallest context set required to resume work. Do not search the repository before following that router unless the requested task requires deeper context.
-
-For normal story continuation, read only the files in `read_first`. Load `deep_context_if_needed` only when continuity, time, promises, or whole-book structure actually requires it.
+AI workers read `AGENTS.md`, then `PROJECT.json`. `PROJECT.json` names the working mode and the smallest files needed for the next job. Do not begin with repository-wide search.
 
 ## Authority
 
-**Canonical prose wins.** For each record, `manuscript/records/NNN/canonical.md` is the story authority. If any brain, timeline, promise, draft, development note, or archived version conflicts with canonical prose, fix the supporting file rather than bending the prose to match it.
+For any record, `manuscript/records/<slot>/current.md` wins every story conflict. Brain files, manifests, drafts, archived systems, audio, images, and old versions must yield to current prose.
 
-Current reference frontier: Records 001–010.
+All Records 001–079 are preserved story authority. Records 001–010 are the current prose-quality reference. Records 011–079 are valid story material marked `needs_rehearsal`, not discarded canon.
 
-Records 011+ in the older `Paiea/peg-leg-greg-reader` repository are development/archive material until explicitly promoted here.
+`manuscript/manifest.json` owns record order. Never infer previous/next from arithmetic. This lets a future rehearsal split a record without renumbering the whole book.
 
-## Writing loop
+## Rehearsal
 
-1. Draft interactively with the user.
-2. Save exploratory versions under `drafts/record-NNN/` when useful.
-3. When the user approves a record, promote its exact text to `manuscript/records/NNN/canonical.md`.
-4. If replacing existing canon, archive the superseded canonical text first under that record's `versions/` directory.
-5. Update `brain/CURRENT.md` and `brain/TIMELINE.md` after canon changes. Update deeper files only when their information actually changes.
-6. Advance `PROJECT.json` only when canon is approved.
+`REHEARSAL.md` defines the restoration pass. The default working target is Record 011. Rehearsal restores missing resolution in layers rather than rewriting everything indiscriminately.
+
+The normal unit is one record. The seam-check unit is five records.
+
+## Versions
+
+`current.md` is always the winner. Meaningful superseded versions live under that record's `versions/` directory. Git history remains the fine-grained recovery layer.
+
+Exploratory prose belongs under `drafts/` and cannot publish accidentally.
 
 ## Reader
 
-`index.html` is one runtime Markdown reader. It reads `PROJECT.json` and loads canonical Markdown directly. There are no generated per-record HTML pages and no manuscript-triggered build pipeline.
+`index.html` is the whole reader application. It loads Markdown at runtime from the manifest. There are no generated per-record HTML pages.
 
-Audio is intentionally outside v1. The prose reader must remain useful even when no audio exists.
+Public navigation shows only records marked published. `?record=011&work=1` may be used as an unlinked working preview for a preserved or rehearsed record.
+
+## Audio
+
+Audio is the flagship presentation layer when it exists. Production audio is derived from the approved `current.md`, never a competing story authority. `audio/manifest.json` records published audio and the source prose hash used to make it.
+
+Audio is produced deliberately after prose approval. Saving manuscript prose does not automatically generate audio.
+
+## Images
+
+Images are sparse and optional. There is no chapter-art quota or image-production pipeline. Use art only when a cover, frontispiece, major location, or rare story anchor earns it.
+
+## Old repository
+
+`Paiea/peg-leg-greg-reader/3l` remains historical archaeology. Selected old authority files are copied under `development/archive/` for reference, but they are never default handshake material.
