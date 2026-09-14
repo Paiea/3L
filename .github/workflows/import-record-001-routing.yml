@@ -1,0 +1,127 @@
+name: Import Record 001 exact routing
+
+on:
+  push:
+    branches: [setup/ai-first-reader]
+    paths: [.github/workflows/import-record-001-routing.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: setup/ai-first-reader
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Derive exact Ithar locks from legacy performance labels
+        run: |
+          curl -L --fail --show-error \
+            https://raw.githubusercontent.com/Paiea/peg-leg-greg-reader/main/3l/performance/record-001.performance.md \
+            -o /tmp/record-001.performance.md
+          python - <<'PY'
+          import json
+          from collections import Counter, defaultdict
+          from pathlib import Path
+          from scripts.audio_route import manuscript_body, quoted_spans, build_plan
+
+          perf = Path('/tmp/record-001.performance.md').read_text(encoding='utf-8').replace('\r','')
+          source_path = Path('manuscript/records/001/current.md')
+          source = source_path.read_text(encoding='utf-8')
+          body = manuscript_body(source)
+          found = list(quoted_spans(body))
+          found_quotes = [q for _,_,q in found]
+
+          roles = {'NARRATOR / GREG', 'GREG', 'DRAGON'}
+          lines = perf.splitlines()
+          blocks = []
+          role = None
+          buffer = []
+          started = False
+          for line in lines:
+              stripped = line.strip()
+              if stripped == '---' and not started:
+                  started = True
+                  role = None
+                  buffer = []
+                  continue
+              if not started:
+                  continue
+              if stripped in roles:
+                  if role is not None:
+                      text='\n'.join(buffer).strip()
+                      if text:
+                          blocks.append((role,text))
+                  role = stripped
+                  buffer = []
+              else:
+                  buffer.append(line)
+          if role is not None:
+              text='\n'.join(buffer).strip()
+              if text:
+                  blocks.append((role,text))
+
+          dragon_blocks = [text for role,text in blocks if role == 'DRAGON']
+          if not dragon_blocks:
+              raise SystemExit('no DRAGON blocks found')
+
+          # Resolve each labeled Dragon block against quoted manuscript spans in sequence.
+          locks=[]
+          search_from=0
+          seen=defaultdict(int)
+          matched_indices=[]
+          for n,text in enumerate(dragon_blocks, start=1):
+              matches=[i for i,q in enumerate(found_quotes) if i >= search_from and q == text]
+              if not matches:
+                  near=[(i,q) for i,q in enumerate(found_quotes) if i >= search_from and (q.startswith(text[:40]) or text.startswith(q[:40]))]
+                  print(f'UNMATCHED DRAGON BLOCK {n}: {text!r}')
+                  print('near candidates:', near[:5])
+                  raise SystemExit(2)
+              idx=matches[0]
+              search_from=idx+1
+              seen[text]+=1
+              locks.append({'text': text, 'occurrence': found_quotes[:idx+1].count(text)})
+              matched_indices.append(idx)
+
+          config={
+              'record':'001',
+              'routing_mode':'exact_quote_locked',
+              'voices':{'greg':'deep','ithar':'normal'},
+              'max_chars':480,
+              'pause_ms':{
+                  'continuation':220,
+                  'paragraph':450,
+                  'action':700,
+                  'speaker_handoff':1100,
+                  'major_beat':1400
+              },
+              'legacy_source':'Paiea/peg-leg-greg-reader:3l/performance/record-001.performance.md',
+              'legacy_role_block_count':len(dragon_blocks),
+              'dragon_quotes':locks
+          }
+          out=Path('audio/routing/record-001.json')
+          out.parent.mkdir(parents=True, exist_ok=True)
+          out.write_text(json.dumps(config, indent=2, ensure_ascii=False)+'\n', encoding='utf-8')
+
+          plan=build_plan(source, config)
+          ithar=''.join(s['transcript'] for s in plan['segments'] if s['speaker']=='ithar')
+          expected=''.join(dragon_blocks)
+          if ithar != expected:
+              raise SystemExit('routed Ithar text differs from labeled performance Dragon text')
+          print(f'locked {len(dragon_blocks)} DRAGON blocks to exact manuscript quotes')
+          print(f'quoted spans in manuscript: {len(found_quotes)}')
+          print(f'unique duplicate-aware locks: {len(locks)}')
+          PY
+          python -m unittest tests.test_audio_routing -v
+      - name: Commit exact routing config
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/routing/record-001.json
+          git commit -m "audio: lock Record 001 routing to exact quotes"
+          git pull --rebase origin setup/ai-first-reader
+          git push origin HEAD:setup/ai-first-reader
