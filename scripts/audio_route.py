@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Build deterministic, quote-locked audio routing plans from canonical prose.
 
-Speaker ownership comes only from exact quoted manuscript text. Timestamps are
-not accepted as routing input. Canonical prose is never modified.
+Speaker ownership comes only from exact quoted manuscript text. When identical
+quotes repeat, a lock may name the exact 1-based occurrence of that quote.
+Timestamps are not accepted as routing input. Canonical prose is never modified.
 """
 
 import hashlib
@@ -47,8 +48,6 @@ def split_exact(text: str, limit: int):
     out = []
     remaining = text
     while len(remaining) > limit:
-        # The candidate window is exactly limit characters. This guarantees
-        # that a preferred boundary can never produce a limit+1 segment.
         window = remaining[:limit]
         cut = window.rfind("\n\n")
         if cut >= max(40, limit // 3):
@@ -66,31 +65,71 @@ def split_exact(text: str, limit: int):
     return out
 
 
+def _resolve_dragon_indices(found_quotes, locks):
+    """Return indices of quoted spans explicitly owned by Ithar.
+
+    A lock may be either:
+      - an exact quote string, which must be unique in the manuscript, or
+      - {"text": exact_quote, "occurrence": N}, where N is the 1-based
+        occurrence among identical exact quotes.
+    """
+    if not locks:
+        raise ValueError("dragon_quotes must not be empty")
+
+    selected = set()
+    lock_keys = set()
+    for lock in locks:
+        if isinstance(lock, str):
+            text = lock
+            matches = [i for i, quote in enumerate(found_quotes) if quote == text]
+            if len(matches) != 1:
+                raise ValueError(
+                    f"plain dragon quote must appear exactly once; found {len(matches)}: {text[:80]!r}"
+                )
+            key = (text, 1)
+            index = matches[0]
+        elif isinstance(lock, dict):
+            text = lock.get("text")
+            occurrence = lock.get("occurrence")
+            if not isinstance(text, str) or not text:
+                raise ValueError("occurrence lock requires non-empty text")
+            if not isinstance(occurrence, int) or occurrence < 1:
+                raise ValueError("occurrence lock requires occurrence >= 1")
+            matches = [i for i, quote in enumerate(found_quotes) if quote == text]
+            if occurrence > len(matches):
+                raise ValueError(
+                    f"dragon quote occurrence {occurrence} not found; only {len(matches)} matches: {text[:80]!r}"
+                )
+            key = (text, occurrence)
+            index = matches[occurrence - 1]
+        else:
+            raise ValueError("dragon quote locks must be strings or {text, occurrence} objects")
+
+        if key in lock_keys:
+            raise ValueError(f"duplicate dragon quote lock: {key!r}")
+        if index in selected:
+            raise ValueError(f"multiple dragon locks resolve to quoted span {index + 1}")
+        lock_keys.add(key)
+        selected.add(index)
+
+    return selected
+
+
 def build_plan(source: str, config: dict) -> dict:
     if config.get("routing_mode") != "exact_quote_locked":
         raise ValueError("routing_mode must be exact_quote_locked")
 
     body = manuscript_body(source)
-    dragon_quotes = config.get("dragon_quotes", [])
-    if not dragon_quotes:
-        raise ValueError("dragon_quotes must not be empty")
-    if len(dragon_quotes) != len(set(dragon_quotes)):
-        raise ValueError("dragon_quotes must be unique")
-
     found = list(quoted_spans(body))
     found_quotes = [q for _, _, q in found]
-    for quote in dragon_quotes:
-        count = found_quotes.count(quote)
-        if count != 1:
-            raise ValueError(f"locked dragon quote must appear exactly once; found {count}: {quote[:80]!r}")
+    dragon_indices = _resolve_dragon_indices(found_quotes, config.get("dragon_quotes", []))
 
     raw = []
     cursor = 0
-    dragon_set = set(dragon_quotes)
-    for start, end, quote in found:
+    for quote_index, (start, end, quote) in enumerate(found):
         if start > cursor:
             raw.append(("greg", body[cursor:start]))
-        speaker = "ithar" if quote in dragon_set else "greg"
+        speaker = "ithar" if quote_index in dragon_indices else "greg"
         raw.append((speaker, quote))
         cursor = end
     if cursor < len(body):
