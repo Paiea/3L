@@ -74,7 +74,7 @@ def _resolve_dragon_indices(found_quotes, locks):
         occurrence among identical exact quotes.
     """
     if not locks:
-        raise ValueError("dragon_quotes must not be empty")
+        return set()
 
     selected = set()
     lock_keys = set()

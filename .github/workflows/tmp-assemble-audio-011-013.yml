@@ -1,0 +1,146 @@
+name: Assemble audio 011-013
+
+on:
+  push:
+    branches: [rehearsal/audio-011-013]
+    paths:
+      - '.github/workflows/tmp-assemble-audio-011-013.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rehearsal/audio-011-013
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version | head -1
+      - name: Validate route and capture authority
+        run: |
+          python - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          for slot in ('011','012','013'):
+              source_path = Path(f'manuscript/records/{slot}/current.md')
+              source_sha = hashlib.sha256(source_path.read_bytes()).hexdigest()
+              plan = json.loads(Path(f'audio/production/record-{slot}/route-plan.json').read_text())
+              cap = json.loads(Path(f'audio/production/record-{slot}/captures.json').read_text())
+              assert plan['record'] == slot and cap['record'] == slot
+              assert plan['routing_mode'] == cap['routing_mode'] == 'exact_quote_locked'
+              assert plan['uses_timestamps_for_speaker_assignment'] is False
+              assert plan['source_sha256'] == cap['source_sha256'] == source_sha
+              assert cap['status'] == 'candidate_unlistened'
+              assert ''.join(s['transcript'] for s in plan['segments']) == plan['audio_body']
+              assert len(plan['segments']) == len(cap['segments'])
+              assert [s['index'] for s in plan['segments']] == [s['index'] for s in cap['segments']]
+              assert all(s['speaker'] == 'greg' and s['voice_id'] == 'deep' for s in plan['segments'])
+              for route, capture in zip(plan['segments'], cap['segments']):
+                  assert route['pause_after_ms'] == capture['pause_after_ms']
+                  assert capture['preview_url'].startswith('https://storage.googleapis.com/')
+              print(slot, len(plan['segments']), source_sha)
+          PY
+      - name: Assemble candidates with explicit route silence
+        run: |
+          python - <<'PY'
+          import hashlib, json, subprocess, urllib.request
+          from pathlib import Path
+
+          def run(*args):
+              subprocess.run(args, check=True)
+
+          manifest_path = Path('audio/manifest.json')
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          Path('audio/assets').mkdir(parents=True, exist_ok=True)
+
+          for slot in ('011','012','013'):
+              plan = json.loads(Path(f'audio/production/record-{slot}/route-plan.json').read_text(encoding='utf-8'))
+              captures = json.loads(Path(f'audio/production/record-{slot}/captures.json').read_text(encoding='utf-8'))
+              work = Path(f'/tmp/audio-{slot}')
+              work.mkdir(parents=True, exist_ok=True)
+              concat = []
+
+              for route, cap in zip(plan['segments'], captures['segments']):
+                  idx = route['index']
+                  mp3 = work / f'{idx:03d}.mp3'
+                  wav = work / f'{idx:03d}.wav'
+                  try:
+                      urllib.request.urlretrieve(cap['preview_url'], mp3)
+                  except Exception as exc:
+                      raise RuntimeError(f'{slot}/{idx} download failed: {exc}') from exc
+                  run('ffmpeg','-y','-loglevel','error','-i',str(mp3),'-ar','24000','-ac','1','-c:a','pcm_s16le',str(wav))
+                  concat.append(wav)
+                  pause_ms = int(route['pause_after_ms'])
+                  if pause_ms > 0:
+                      silence = work / f'{idx:03d}-silence.wav'
+                      run('ffmpeg','-y','-loglevel','error','-f','lavfi','-i','anullsrc=r=24000:cl=mono','-t',f'{pause_ms/1000:.3f}','-c:a','pcm_s16le',str(silence))
+                      concat.append(silence)
+
+              concat_file = work / 'concat.txt'
+              concat_file.write_text(''.join(f"file '{p}'\n" for p in concat), encoding='utf-8')
+              joined = work / 'joined.wav'
+              out = Path(f'audio/assets/record-{slot}-quote-locked-v2.mp3')
+              run('ffmpeg','-y','-loglevel','error','-f','concat','-safe','0','-i',str(concat_file),'-c','copy',str(joined))
+              run('ffmpeg','-y','-loglevel','error','-i',str(joined),'-c:a','libmp3lame','-b:a','128k',str(out))
+              duration = float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','default=noprint_wrappers=1:nokey=1',str(out)], text=True).strip())
+              audio_sha = hashlib.sha256(out.read_bytes()).hexdigest()
+              verification = {
+                  'record': slot,
+                  'source_sha256': plan['source_sha256'],
+                  'routing_mode': 'exact_quote_locked',
+                  'uses_timestamps_for_speaker_assignment': False,
+                  'assembly_owns_silence': True,
+                  'segment_count': len(plan['segments']),
+                  'duration_seconds': round(duration, 3),
+                  'audio_sha256': audio_sha,
+                  'asset': str(out),
+                  'status': 'candidate_unlistened'
+              }
+              Path(f'audio/production/record-{slot}/verification-v2.json').write_text(json.dumps(verification, indent=2) + '\n', encoding='utf-8')
+              manifest['records'][f'r{slot}'] = {
+                  'status': 'candidate',
+                  'src': str(out),
+                  'source_sha256': plan['source_sha256'],
+                  'audio_sha256': audio_sha,
+                  'duration_seconds': round(duration, 3),
+                  'routing_mode': 'exact_quote_locked',
+                  'listened': False
+              }
+              print(slot, len(plan['segments']), round(duration,3), audio_sha)
+
+          manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+          PY
+      - name: Fresh repository verification
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+          python - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          audio = json.loads(Path('audio/manifest.json').read_text())
+          for slot in ('011','012','013'):
+              v = json.loads(Path(f'audio/production/record-{slot}/verification-v2.json').read_text())
+              entry = audio['records'][f'r{slot}']
+              asset = Path(entry['src'])
+              assert asset.is_file() and asset.stat().st_size > 0
+              assert entry['status'] == 'candidate' and entry['listened'] is False
+              assert entry['source_sha256'] == v['source_sha256']
+              assert entry['audio_sha256'] == v['audio_sha256'] == hashlib.sha256(asset.read_bytes()).hexdigest()
+              assert entry['duration_seconds'] == v['duration_seconds']
+              print(slot, entry['duration_seconds'], entry['audio_sha256'])
+          PY
+      - name: Commit assembled candidates
+        run: |
+          git config user.name 'Paiea'
+          git config user.email 'paiea.tv@gmail.com'
+          git add audio/assets/record-011-quote-locked-v2.mp3 audio/assets/record-012-quote-locked-v2.mp3 audio/assets/record-013-quote-locked-v2.mp3 audio/production/record-011/verification-v2.json audio/production/record-012/verification-v2.json audio/production/record-013/verification-v2.json audio/manifest.json
+          git commit -m 'audio: assemble Records 011-013 candidates'
+          git push origin HEAD:rehearsal/audio-011-013

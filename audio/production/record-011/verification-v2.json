@@ -1,0 +1,12 @@
+{
+  "record": "011",
+  "source_sha256": "6487f167260e7df459207f651885ad0c059249e329414df17c17f0980bcace0a",
+  "routing_mode": "exact_quote_locked",
+  "uses_timestamps_for_speaker_assignment": false,
+  "assembly_owns_silence": true,
+  "segment_count": 38,
+  "duration_seconds": 1018.608,
+  "audio_sha256": "b6e14ec8afd6d9032af7ff102b6949a309dd6c7e656f16ae6eae6b174f06ccc6",
+  "asset": "audio/assets/record-011-quote-locked-v2.mp3",
+  "status": "candidate_unlistened"
+}

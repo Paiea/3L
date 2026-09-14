@@ -102,6 +102,24 @@ class AudioRoutingTests(unittest.TestCase):
         self.assertIn("“Hi.”\n\n“Yes.”", greg)
         self.assertFalse(plan["uses_timestamps_for_speaker_assignment"])
 
+    def test_record_without_ithar_dialogue_routes_entire_body_to_greg(self):
+        from scripts.audio_route import build_plan
+
+        source = "## RECORD 999\n\n## TEST\n\nNo dragon here.\n\n“Human quote.”\n\nDone.\n"
+        config = {
+            "record": "999",
+            "routing_mode": "exact_quote_locked",
+            "voices": {"greg": "deep", "ithar": "normal"},
+            "max_chars": 480,
+            "pause_ms": {"speaker_handoff": 1100},
+            "dragon_quotes": [],
+        }
+
+        plan = build_plan(source, config)
+        self.assertEqual({segment["speaker"] for segment in plan["segments"]}, {"greg"})
+        self.assertEqual("".join(segment["transcript"] for segment in plan["segments"]), plan["audio_body"])
+        self.assertFalse(plan["uses_timestamps_for_speaker_assignment"])
+
 
 if __name__ == "__main__":
     unittest.main()

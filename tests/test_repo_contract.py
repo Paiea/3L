@@ -15,18 +15,20 @@ class RepoContractTests(unittest.TestCase):
         project = json.loads((ROOT / "PROJECT.json").read_text(encoding="utf-8"))
         self.assertEqual(project["frontiers"]["story"], "r079")
         self.assertEqual(project["frontiers"]["reference_quality_through"], "r010")
+        self.assertEqual(project["frontiers"]["restored_through"], "r010")
         self.assertEqual(project["frontiers"]["rehearsal_target"], "r011")
         self.assertEqual(project["frontiers"]["next_new"], "r080")
         self.assertEqual(project["default_mode"], "rehearsal")
 
-    def test_manifest_owns_order_and_initial_quality_state(self):
+    def test_manifest_owns_order_and_current_quality_state(self):
         manifest = json.loads((ROOT / "manuscript" / "manifest.json").read_text(encoding="utf-8"))
         records = manifest["records"]
         self.assertEqual(len(records), 79)
         self.assertEqual(records[0]["id"], "r001")
         self.assertEqual(records[-1]["id"], "r079")
         self.assertTrue(all(r["prose_status"] == "reference" for r in records[:10]))
-        self.assertTrue(all(r["prose_status"] == "needs_rehearsal" for r in records[10:]))
+        self.assertTrue(all(r["prose_status"] == "restored" for r in records[10:13]))
+        self.assertTrue(all(r["prose_status"] == "needs_rehearsal" for r in records[13:]))
         self.assertTrue(all(r["published"] for r in records[:10]))
         self.assertTrue(all(not r["published"] for r in records[10:]))
 
