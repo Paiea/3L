@@ -53,6 +53,12 @@ class RepoContractTests(unittest.TestCase):
         self.assertIn("localStorage", html)
         self.assertIn("addEventListener('ended'", html)
 
+    def test_audio_start_precedes_async_prose_fetch(self):
+        html = (ROOT / "index.html").read_text(encoding="utf-8")
+        play = html.index("if(startPlayback&&canUseAudio(current))")
+        prose_fetch = html.index("const prose=await fetch(current.path")
+        self.assertLess(play, prose_fetch)
+
     def test_agent_handshake_keeps_archive_cold(self):
         agents = (ROOT / "AGENTS.md").read_text(encoding="utf-8").lower()
         self.assertIn("project.json", agents)
