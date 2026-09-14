@@ -18,74 +18,32 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Derive exact Ithar locks from legacy performance labels
+      - name: Build exact Ithar locks from current manuscript labels
         run: |
-          curl -L --fail --show-error \
-            https://raw.githubusercontent.com/Paiea/peg-leg-greg-reader/main/3l/performance/record-001.performance.md \
-            -o /tmp/record-001.performance.md
           python - <<'PY'
           import json
-          from collections import Counter, defaultdict
           from pathlib import Path
           from scripts.audio_route import manuscript_body, quoted_spans, build_plan
 
-          perf = Path('/tmp/record-001.performance.md').read_text(encoding='utf-8').replace('\r','')
+          # One-time human/AI scene labeling against the CURRENT manuscript.
+          # These are quote ordinals, not audio timecodes. They are used only
+          # to generate the durable exact-text + occurrence locks below.
+          ithar_quote_ordinals = [
+              1,2,3,5,7,8,9,10,11,13,15,17,18,20,22,24,28,32,35,37,
+              42,43,57,62,66,67,74,77,78,79,83,97,100,101,103,104,106,107
+          ]
+
           source_path = Path('manuscript/records/001/current.md')
           source = source_path.read_text(encoding='utf-8')
-          body = manuscript_body(source)
-          found = list(quoted_spans(body))
-          found_quotes = [q for _,_,q in found]
+          quotes = [q for _,_,q in quoted_spans(manuscript_body(source))]
+          if len(quotes) != 108:
+              raise SystemExit(f'expected 108 quoted spans in current Record 001, found {len(quotes)}')
 
-          roles = {'NARRATOR / GREG', 'GREG', 'DRAGON'}
-          lines = perf.splitlines()
-          blocks = []
-          role = None
-          buffer = []
-          started = False
-          for line in lines:
-              stripped = line.strip()
-              if stripped == '---' and not started:
-                  started = True
-                  role = None
-                  buffer = []
-                  continue
-              if not started:
-                  continue
-              if stripped in roles:
-                  if role is not None:
-                      text='\n'.join(buffer).strip()
-                      if text:
-                          blocks.append((role,text))
-                  role = stripped
-                  buffer = []
-              else:
-                  buffer.append(line)
-          if role is not None:
-              text='\n'.join(buffer).strip()
-              if text:
-                  blocks.append((role,text))
-
-          dragon_blocks = [text for role,text in blocks if role == 'DRAGON']
-          if not dragon_blocks:
-              raise SystemExit('no DRAGON blocks found')
-
-          # Resolve each labeled Dragon block against quoted manuscript spans in sequence.
           locks=[]
-          search_from=0
-          seen=defaultdict(int)
-          matched_indices=[]
-          for n,text in enumerate(dragon_blocks, start=1):
-              matches=[i for i,q in enumerate(found_quotes) if i >= search_from and q == text]
-              if not matches:
-                  near=[(i,q) for i,q in enumerate(found_quotes) if i >= search_from and (q.startswith(text[:40]) or text.startswith(q[:40]))]
-                  print(f'UNMATCHED DRAGON BLOCK {n}: {text!r}')
-                  print('near candidates:', near[:5])
-                  raise SystemExit(2)
-              idx=matches[0]
-              search_from=idx+1
-              seen[text]+=1
-              locks.append({'text': text, 'occurrence': found_quotes[:idx+1].count(text)})
-              matched_indices.append(idx)
+          for ordinal in ithar_quote_ordinals:
+              text=quotes[ordinal-1]
+              occurrence=quotes[:ordinal].count(text)
+              locks.append({'text': text, 'occurrence': occurrence})
 
           config={
               'record':'001',
@@ -99,8 +57,12 @@ jobs:
                   'speaker_handoff':1100,
                   'major_beat':1400
               },
-              'legacy_source':'Paiea/peg-leg-greg-reader:3l/performance/record-001.performance.md',
-              'legacy_role_block_count':len(dragon_blocks),
+              'source_labeling':{
+                  'method':'current_manuscript_quote_ordinals_to_exact_locks',
+                  'quoted_span_count':len(quotes),
+                  'ithar_span_count':len(locks),
+                  'uses_audio_timestamps':False
+              },
               'dragon_quotes':locks
           }
           out=Path('audio/routing/record-001.json')
@@ -108,13 +70,14 @@ jobs:
           out.write_text(json.dumps(config, indent=2, ensure_ascii=False)+'\n', encoding='utf-8')
 
           plan=build_plan(source, config)
+          selected=[]
+          for ordinal in ithar_quote_ordinals:
+              selected.append(quotes[ordinal-1])
           ithar=''.join(s['transcript'] for s in plan['segments'] if s['speaker']=='ithar')
-          expected=''.join(dragon_blocks)
-          if ithar != expected:
-              raise SystemExit('routed Ithar text differs from labeled performance Dragon text')
-          print(f'locked {len(dragon_blocks)} DRAGON blocks to exact manuscript quotes')
-          print(f'quoted spans in manuscript: {len(found_quotes)}')
-          print(f'unique duplicate-aware locks: {len(locks)}')
+          if ithar != ''.join(selected):
+              raise SystemExit('routed Ithar text differs from selected current-manuscript quote spans')
+          print(f'locked {len(locks)} Ithar spans from {len(quotes)} current manuscript quotes')
+          print('no audio timestamps used')
           PY
           python -m unittest tests.test_audio_routing -v
       - name: Commit exact routing config
