@@ -38,6 +38,19 @@ Never assume previous/next record is numeric ±1. Use manifest order. This allow
 
 Audio is the flagship public experience when available. Production audio must be derived from the approved current prose and store the source prose SHA-256 in `audio/manifest.json`. If prose changes afterward, the old audio is stale until deliberately rebuilt.
 
+**Before any production audio work for any record, read and obey `audio/README.md`.** This is mandatory even when the chapter has been produced before.
+
+The per-record routing gate is non-negotiable:
+
+- Build routing from current `manuscript/records/<slot>/current.md` only.
+- Speaker ownership comes from exact manuscript quote locks, never timestamps or timing windows.
+- Greg uses `deep`; Ithar uses `normal`.
+- Repeated identical quotes must use explicit occurrence-aware locks.
+- No chunk may cross a Greg/Ithar boundary.
+- Greg/Ithar handoffs use at least 1100 ms of assembly-owned pause before ear-level tuning.
+- A routing config that no longer matches current prose fails instead of guessing.
+- Production generation starts only after the routing plan validates.
+
 Do not auto-generate audio on manuscript commits.
 
 ## Images
