@@ -1,0 +1,19 @@
+{
+  "record": "006",
+  "routing_mode": "exact_quote_locked",
+  "voices": {"greg": "deep", "ithar": "normal"},
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "dragon_quotes": [
+    {
+      "text": "“You said the contract was four weeks. You remained at East Four for eleven years. Do not give me eleven years as though the number is the answer. You removed the years and called the removal a summary. If most of that time was work, then tell me about work. If it was repetitive, then repetition occupied eleven years of your life too.”",
+      "occurrence": 1
+    }
+  ]
+}
