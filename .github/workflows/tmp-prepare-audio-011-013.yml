@@ -1,0 +1,92 @@
+name: Prepare audio 011-013
+
+on:
+  push:
+    branches: [rehearsal/audio-011-013]
+    paths:
+      - '.github/workflows/tmp-prepare-audio-011-013.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: rehearsal/audio-011-013
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Mark restored and build exact route plans
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          manifest_path = Path('manuscript/manifest.json')
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          targets = {'r011', 'r012', 'r013'}
+          found = set()
+          for record in manifest['records']:
+              if record['id'] in targets:
+                  record['prose_status'] = 'restored'
+                  found.add(record['id'])
+          if found != targets:
+              raise SystemExit(f'missing manifest records: {sorted(targets - found)}')
+          manifest_path.write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+
+          base = {
+              'routing_mode': 'exact_quote_locked',
+              'voices': {'greg': 'deep', 'ithar': 'normal'},
+              'max_chars': 480,
+              'pause_ms': {
+                  'continuation': 220,
+                  'paragraph': 450,
+                  'action': 700,
+                  'speaker_handoff': 1100,
+                  'major_beat': 1400,
+              },
+              'dragon_quotes': [],
+          }
+          routing_dir = Path('audio/routing')
+          routing_dir.mkdir(parents=True, exist_ok=True)
+          for slot in ('011', '012', '013'):
+              config = {'record': slot, **base}
+              path = routing_dir / f'record-{slot}.json'
+              path.write_text(json.dumps(config, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+          PY
+          for slot in 011 012 013; do
+            mkdir -p "audio/production/record-$slot"
+            python scripts/audio_route.py \
+              "manuscript/records/$slot/current.md" \
+              "audio/routing/record-$slot.json" \
+              "audio/production/record-$slot/route-plan.json"
+          done
+      - name: Validate prepared state
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          for slot in ('011', '012', '013'):
+              plan = json.loads(Path(f'audio/production/record-{slot}/route-plan.json').read_text(encoding='utf-8'))
+              assert plan['routing_mode'] == 'exact_quote_locked'
+              assert plan['uses_timestamps_for_speaker_assignment'] is False
+              assert plan['segments']
+              assert all(s['speaker'] == 'greg' and s['voice_id'] == 'deep' for s in plan['segments'])
+              assert ''.join(s['transcript'] for s in plan['segments']) == plan['audio_body']
+              print(slot, len(plan['segments']), plan['source_sha256'])
+          PY
+      - name: Commit prepared records
+        run: |
+          rm .github/workflows/tmp-prepare-audio-011-013.yml
+          git config user.name 'Paiea'
+          git config user.email 'paiea.tv@gmail.com'
+          git add manuscript/manifest.json audio/routing/record-011.json audio/routing/record-012.json audio/routing/record-013.json \
+            audio/production/record-011/route-plan.json audio/production/record-012/route-plan.json audio/production/record-013/route-plan.json \
+            .github/workflows/tmp-prepare-audio-011-013.yml
+          git commit -m 'audio: prepare restored Records 011-013'
+          git push origin HEAD:rehearsal/audio-011-013
