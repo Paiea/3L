@@ -1,27 +1,35 @@
 # Manuscript Versioning
 
-The version system is deliberately simple.
+The version model is intentionally simple.
 
-## Canon
+## Current authority
 
-`manuscript/records/NNN/canonical.md` is the only canonical prose for Record NNN. The newest approved `canonical.md` wins over every draft, superseded version, brain file, development note, or old-repository copy.
+`manuscript/records/<slot>/current.md` is the current prose authority for that record. It wins over every draft, archived version, brain file, development note, audio file, image, or old-repository copy.
 
-## Drafts
+## Preserved versions
+
+Meaningful superseded versions live under:
+
+`manuscript/records/<slot>/versions/`
+
+The initial migration preserves the old-repository prose as `versions/original-run.md` and also installs that same text as `current.md`.
+
+Do not create a named version for every small edit. Git history already handles fine-grained recovery. Create explicit versions for meaningful rewrites, restoration passes, structural experiments, or user-requested alternatives worth comparing later.
+
+## Drafts and rehearsal candidates
 
 Exploratory prose belongs under:
 
-`drafts/record-NNN/draft-NNN-label.md`
+`drafts/record-<slot>/`
 
-Drafts are non-canonical and may contradict each other freely.
+The standard restoration candidate may simply be:
 
-## Replacing canon
+`drafts/record-<slot>/rehearsal.md`
 
-Before replacing an existing canonical record, preserve its exact superseded text under:
+Drafts may contradict each other and never publish automatically.
 
-`manuscript/records/NNN/versions/vNNN-label.md`
+## Promotion
 
-Then write the newly approved text to `canonical.md`.
+Before replacing an existing `current.md` with a meaningfully revised winner, preserve the superseded current text under `versions/` unless an identical named version already exists. Then replace `current.md`, update `manuscript/manifest.json`, and update derived brain files only when story facts or current working state actually changed.
 
-The `versions/` directory is historical reference only. Never infer authority from timestamps or version numbers. `canonical.md` always wins.
-
-Git history remains a second recovery layer beneath these explicit human-readable versions.
+Authority is determined by path, not timestamps: `current.md` always wins.
