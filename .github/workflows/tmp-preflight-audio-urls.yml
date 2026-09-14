@@ -19,6 +19,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          # rerun after refreshing Record 008 segment 001
           python - <<'PY'
           import json, sys, urllib.request, urllib.error
           from pathlib import Path
