@@ -38,6 +38,14 @@ class RepoContractTests(unittest.TestCase):
         self.assertNotIn("records/001.html", html)
         self.assertFalse((ROOT / "records").exists())
 
+    def test_work_reader_can_preview_candidate_audio_without_publication(self):
+        html = (ROOT / "index.html").read_text(encoding="utf-8")
+        self.assertIn("status==='candidate'", html)
+        self.assertIn("working", html)
+        audio = json.loads((ROOT / "audio" / "manifest.json").read_text(encoding="utf-8"))
+        self.assertEqual(audio["records"]["r002"]["status"], "candidate")
+        self.assertEqual(audio["records"]["r002"]["src"], "audio/assets/record-002-quote-locked-v2.mp3")
+
     def test_agent_handshake_keeps_archive_cold(self):
         agents = (ROOT / "AGENTS.md").read_text(encoding="utf-8").lower()
         self.assertIn("project.json", agents)
