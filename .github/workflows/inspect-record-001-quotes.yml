@@ -25,7 +25,11 @@ jobs:
           quotes=[q for _,_,q in quoted_spans(manuscript_body(source))]
           counts=Counter(quotes)
           for i,q in enumerate(quotes,1):
-              if counts[q] > 1 or q in {'“Mm.”','“No.”','“Yes.”','“Ah.”'}:
-                  print(f'{i:03d} occurrence={quotes[:i].count(q)} total={counts[q]} {q!r}')
+              preview=' '.join(q.split())
+              if len(preview)>150:
+                  preview=preview[:147]+'...'
+              occurrence=quotes[:i].count(q)
+              suffix=f' occurrence={occurrence}/{counts[q]}' if counts[q]>1 else ''
+              print(f'{i:03d}{suffix} {preview}')
           print('TOTAL_QUOTES',len(quotes))
           PY
