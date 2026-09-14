@@ -47,7 +47,9 @@ def split_exact(text: str, limit: int):
     out = []
     remaining = text
     while len(remaining) > limit:
-        window = remaining[: limit + 1]
+        # The candidate window is exactly limit characters. This guarantees
+        # that a preferred boundary can never produce a limit+1 segment.
+        window = remaining[:limit]
         cut = window.rfind("\n\n")
         if cut >= max(40, limit // 3):
             cut += 2
@@ -107,9 +109,9 @@ def build_plan(source: str, config: dict) -> dict:
     voices = config.get("voices", {})
     max_chars = int(config.get("max_chars", 480))
     pauses = config.get("pause_ms", {})
-    paragraph_pause = int(pauses.get("paragraph", 420))
+    paragraph_pause = int(pauses.get("paragraph", 450))
     continuation_pause = int(pauses.get("continuation", 220))
-    handoff_pause = int(pauses.get("speaker_handoff", 900))
+    handoff_pause = int(pauses.get("speaker_handoff", 1100))
 
     segments = []
     for speaker, text in merged:
