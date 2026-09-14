@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "project": "3L",
+  "title": "The Third Leg",
+  "authority": "Canonical manuscript prose wins every conflict.",
+  "canon_frontier": 10,
+  "active_record": 11,
+  "published_through": 10,
+  "canonical_record_template": "manuscript/records/{record:03d}/canonical.md",
+  "read_first": [
+    "brain/CURRENT.md",
+    "manuscript/records/009/canonical.md",
+    "manuscript/records/010/canonical.md"
+  ],
+  "deep_context_if_needed": [
+    "brain/TIMELINE.md",
+    "brain/STORY.md",
+    "brain/PROMISES.md"
+  ],
+  "draft_root": "drafts",
+  "development_root": "development",
+  "reader": {
+    "entry": "index.html",
+    "mode": "runtime_markdown",
+    "audio_enabled": false
+  }
+}
