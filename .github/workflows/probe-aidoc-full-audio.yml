@@ -12,29 +12,16 @@ jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - name: Inspect full audio client bundle
+      - name: Identify audio page scripts
         run: |
           set -euo pipefail
-          base='https://www.aidocmaker.com'
-          url="$base/g0/audio?name=f5212c5e404c4e18abbf6ecb69eaea8c"
-          curl -L --fail --show-error "$url" -o /tmp/page
-          python - <<'PY' >/tmp/scripts.txt
+          curl -L --fail --show-error \
+            'https://www.aidocmaker.com/g0/audio?name=f5212c5e404c4e18abbf6ecb69eaea8c' \
+            -o /tmp/page
+          python - <<'PY'
           import re
           from pathlib import Path
           s=Path('/tmp/page').read_text(errors='replace')
           for src in re.findall(r'<script[^>]+src="([^"]+)"', s):
               print(src)
           PY
-          cat /tmp/scripts.txt
-          mkdir -p /tmp/js
-          n=0
-          while IFS= read -r src; do
-            n=$((n+1))
-            case "$src" in
-              http*) full="$src" ;;
-              *) full="$base$src" ;;
-            esac
-            curl -L --fail --show-error "$full" -o "/tmp/js/$n.js" || true
-          done </tmp/scripts.txt
-          echo '--- likely resolver/API strings ---'
-          grep -RaoE '.{0,180}(g0/audio|audio\?name|context_id|audio_url|preview_url|googleapis|mcp-preview|\.mp3|fetch\(|/api/).{0,300}' /tmp/js | head -120 || true
