@@ -1,27 +1,56 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "project": "3L",
   "title": "The Third Leg",
-  "authority": "Canonical manuscript prose wins every conflict.",
-  "canon_frontier": 10,
-  "active_record": 11,
-  "published_through": 10,
-  "canonical_record_template": "manuscript/records/{record:03d}/canonical.md",
-  "read_first": [
-    "brain/CURRENT.md",
-    "manuscript/records/009/canonical.md",
-    "manuscript/records/010/canonical.md"
-  ],
-  "deep_context_if_needed": [
-    "brain/TIMELINE.md",
-    "brain/STORY.md",
-    "brain/PROMISES.md"
-  ],
-  "draft_root": "drafts",
-  "development_root": "development",
+  "authority": "manuscript current prose wins every story conflict",
+  "default_mode": "rehearsal",
+  "frontiers": {
+    "story": "r079",
+    "reference_quality_through": "r010",
+    "restored_through": "r010",
+    "rehearsal_target": "r011",
+    "next_new": "r080"
+  },
+  "manuscript_manifest": "manuscript/manifest.json",
+  "audio_manifest": "audio/manifest.json",
+  "modes": {
+    "rehearsal": {
+      "read_first": [
+        "REHEARSAL.md",
+        "brain/CURRENT.md",
+        "manuscript/records/010/current.md",
+        "manuscript/records/011/current.md",
+        "manuscript/records/012/current.md"
+      ],
+      "deep_context_if_needed": [
+        "brain/TIMELINE.md",
+        "brain/STORY.md",
+        "brain/PROMISES.md"
+      ]
+    },
+    "new_writing": {
+      "read_first": [
+        "brain/STORY.md",
+        "manuscript/records/077/current.md",
+        "manuscript/records/078/current.md",
+        "manuscript/records/079/current.md"
+      ],
+      "deep_context_if_needed": [
+        "brain/TIMELINE.md",
+        "brain/PROMISES.md"
+      ]
+    }
+  },
   "reader": {
     "entry": "index.html",
     "mode": "runtime_markdown",
-    "audio_enabled": false
+    "order_authority": "manuscript/manifest.json",
+    "working_preview_query": "work=1",
+    "audio_first_when_available": true
+  },
+  "production": {
+    "audio": "manual_pull_based",
+    "images": "sparse_optional",
+    "generated_record_pages": false
   }
 }
