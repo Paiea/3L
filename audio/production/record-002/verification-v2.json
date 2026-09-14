@@ -1,0 +1,12 @@
+{
+  "record": "002",
+  "status": "candidate_unlistened",
+  "routing_mode": "exact_quote_locked",
+  "uses_timestamps_for_speaker_assignment": false,
+  "source_sha256": "c4a901146f3d4e7fc39e6937c8e63b571303f7af0e1f51cd9733a87ab2b46ce0",
+  "segment_count": 36,
+  "duration_seconds": 770.76,
+  "sha256": "a1d8e88f623a5c84eb8e3669eca10a52ee1562dcc1c81de6e53ae997d41b8141",
+  "asset": "audio/assets/record-002-quote-locked-v2.mp3",
+  "note": "Listen before publication. Wider handoff pauses; 1.4s after Ithar Ah; 80ms only at one mid-sentence Ithar clip split."
+}

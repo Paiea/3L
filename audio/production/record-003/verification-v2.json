@@ -1,0 +1,12 @@
+{
+  "record": "003",
+  "status": "candidate_unlistened",
+  "routing_mode": "exact_quote_locked",
+  "uses_timestamps_for_speaker_assignment": false,
+  "source_sha256": "20d5efc54a5dbb394c1159c895833302dcbaf001ea7ce5a8c6e5d616009fd4fb",
+  "segment_count": 44,
+  "duration_seconds": 612.888,
+  "sha256": "0439c74b346cdad397a2e489a14bbae9bce78f80010662ca6c0a068b3e3ff7ba",
+  "asset": "audio/assets/record-003-quote-locked-v2.mp3",
+  "note": "Listen before publication. Assembly uses validated per-segment pause_after_ms and the Record 002 normalization/concatenation recipe."
+}

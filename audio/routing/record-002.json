@@ -1,0 +1,27 @@
+{
+  "record": "002",
+  "routing_mode": "exact_quote_locked",
+  "voices": {
+    "greg": "deep",
+    "ithar": "normal"
+  },
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "dragon_quotes": [
+    "“Not this time. You chose those words. Do not protect the claim with brevity, Greg. Say what you mean. Tell me how much of this other life you remember, where it begins, and where it ends. Do not say most unless you intend to tell me what is missing. Most is a word humans use when they wish to avoid discovering that.”",
+    "“You are fifty-nine now. You remember another history beginning at nineteen and ending at the age you are presently. You call the childhood actual as though the word separates it from something else. You call the body the same while describing a younger version that had not yet acquired these injuries. You have already given me three categories that stop behaving cleanly when examined. Childhood. Same. Body. Keep going. When did you first know the second history would not reproduce the first?”",
+    "“There are no redbacks north of Vey. If there was one, tell me what was beneath the third dorsal plate.”",
+    "“Not black. Purple. The membrane was a pressure bladder. You did not know that. Good. A fabricated memory may contain detail. A repeated story may acquire texture. A person may be told an event so often that they remember the telling as experience. None of those possibilities are especially interesting by themselves.\n\n“But errors are shaped by where a mind stood when it made them. You remember the membrane from above it. You remember believing it was armor because you were trying to put a sword through an animal that wanted you dead. You remember the smell before you remember the mechanism. Your misunderstanding is consistent with having survived an event rather than studied one.\n\n“That does not prove your explanation. It makes the error useful.”",
+    "“Ah.”",
+    "“Nhal was one of several things she called herself. I knew that name. In the history I know, she has not spoken to a human in one hundred and twelve years. If she gave you my name, tell me when you met her, where, and what condition made the meeting possible. I am not asking for the entire story yet. I am asking for enough to identify the path you claim existed.”",
+    "“That is useful. You are not merely carrying information that is old. You are carrying information whose path through the world is missing.\n\n“A secret is not made supernatural by being secret. Names move. Instructions move. Maps move. A person tells another person. A page is copied. A threat is overheard. A debtor repays a favor. A dying creature says something it had intended to keep. Every piece of knowledge has a history even when the history is hidden.\n\n“You recognize this disk. There is a path by which you might have learned it, even if neither of us can yet identify that path.\n\n“You know my name. I know the paths by which that name moved in this world. You are absent from all of them.\n\n“You offer another history as the missing path. That is not proof. It is better than prophecy and worse than evidence. But it is now a claim with structure.”",
+    "“You possess a coherent collection of memories that repeatedly behaves like lived experience and contains information for which your present life provides no adequate causal path.\n\n“I do not know whether you moved backward through time. I do not know whether the world repeated. I do not know whether another Greg lived and left something inside you. I do not know whether the distinction between those possibilities is meaningful at the scale involved.\n\n“I know only that your explanation is no longer the least interesting possibility.”",
+    "“The Line is why you came today. It is not why you knew my name before the western stations began failing, or why you knew the mountain before you climbed it, or why your body reaches for movements this body has not learned.\n\n“You have given me the sentence, Greg.\n\n“I want the thing that made it true.”"
+  ]
+}

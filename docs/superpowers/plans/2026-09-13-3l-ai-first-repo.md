@@ -1,98 +1,73 @@
 # 3L AI-First Repository Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development or superpowers:executing-plans. The working branch is `setup/ai-first-reader`.
 
-**Goal:** Establish Paiea/3L as a fast AI-first story authority with explicit canonical/version semantics and a one-page Markdown reader for Records 001-010.
+**Goal:** Establish `Paiea/3L` as a fast AI-first, audio-first story repository preserving Records 001–079 while beginning layered rehearsal at Record 011.
 
-**Architecture:** `PROJECT.json` is the AI router. Canonical prose lives only at `manuscript/records/NNN/canonical.md`; drafts and superseded versions live outside the canonical path. `index.html` loads `PROJECT.json` and canonical Markdown directly, so prose publication needs no generated chapter HTML or manuscript-triggered workflow.
+**Architecture:** `AGENTS.md` and `PROJECT.json` provide the shallow handshake. `manuscript/manifest.json` owns story order. Every record has `current.md` plus meaningful historical versions. A single `index.html` reads Markdown at runtime. Audio is pull-based and source-hash-bound. Images are sparse optional assets.
 
-**Tech Stack:** Static HTML/CSS/vanilla JavaScript, Markdown source files, Python unittest for repository invariants.
+**Tech Stack:** Static HTML/CSS/vanilla JavaScript, Markdown, JSON manifests, Python standard-library validation, GitHub Actions for validation and Pages only.
 
 **Spec:** `docs/superpowers/specs/2026-09-13-3l-ai-first-repo-design.md`
 
 ## Global Constraints
 
-- Canonical manuscript prose outranks every brain/development file.
-- Records 001-010 are the initial canonical and published frontier.
-- Records 011+ are not migrated in v1.
-- No audio pipeline or generated record pages in v1.
-- Normal AI handshake begins with `PROJECT.json` and only its declared hot files.
+- Current manuscript prose wins story conflicts.
+- Preserve the existing 001–079 story frontier exactly before restoration.
+- Records 001–010 are the prose-quality reference.
+- Records 011–079 start as `needs_rehearsal`, not noncanon.
+- Manifest order controls navigation; never assume numeric ±1.
+- Audio is flagship presentation but derived from prose.
+- No automatic audio generation on manuscript commits.
+- Images remain sparse and optional.
+- No generated per-record HTML.
 
 ---
 
-### Task 1: Repository contract and failing tests
+### Task 1: Fast AI handshake
 
-**Files:**
-- Create: `tests/test_repo_contract.py`
+- [x] Add `AGENTS.md`.
+- [x] Route work through `PROJECT.json` modes and distinct frontiers.
+- [x] Keep deep archives out of default context.
 
-**Interfaces:**
-- Consumes: repository paths from the design spec.
-- Produces: executable invariants for handshake, canonical frontier, version layout, and reader architecture.
+### Task 2: Layered rehearsal and version semantics
 
-- [ ] Write tests asserting `PROJECT.json` declares canon/published frontier 10, only canonical Records 001-010 exist, hot/deep files resolve, and `index.html` loads canonical Markdown rather than generated record HTML.
-- [ ] Run `python -m unittest tests.test_repo_contract -v` and verify failures are caused by missing implementation files.
-- [ ] Commit the failing contract test.
+- [x] Make `current.md` the record authority.
+- [x] Define meaningful versions under `versions/`.
+- [x] Add `REHEARSAL.md` with shape, performance, life, listen, and five-record seam passes.
 
-### Task 2: AI handshake and brain files
+### Task 3: Audio-first and sparse visual contracts
 
-**Files:**
-- Create: `PROJECT.json`
-- Create: `README.md`
-- Create: `brain/CURRENT.md`
-- Create: `brain/TIMELINE.md`
-- Create: `brain/STORY.md`
-- Create: `brain/PROMISES.md`
+- [x] Add pull-based `audio/manifest.json`.
+- [x] Add source-hash staleness rules.
+- [x] Preserve Greg/Ithar voice routing.
+- [x] Document sparse optional images with no chapter quota.
 
-**Interfaces:**
-- Consumes: canonical baseline through Record 010 and established 3L authority.
-- Produces: one-hop AI routing and compact hot/deep story context.
+### Task 4: One-file reader
 
-- [ ] Add `PROJECT.json` with `canon_frontier: 10`, `active_record: 11`, `published_through: 10`, hot file list, deep file list, and canonical path template.
-- [ ] Add concise brain files that summarize only durable state through Record 010 and clearly state that canonical prose wins conflicts.
-- [ ] Re-run contract tests and confirm only manuscript/reader assertions remain red.
-- [ ] Commit handshake files.
+- [x] Add self-contained `index.html`.
+- [x] Read manifest order and current Markdown at runtime.
+- [x] Put published audio above prose when available.
+- [x] Support unlinked `work=1` preview for unreleased records.
 
-### Task 3: Migrate canonical Records 001-010
+### Task 5: Exact 001–079 migration
 
-**Files:**
-- Create: `manuscript/records/001/canonical.md` through `manuscript/records/010/canonical.md`
+- [ ] Copy old `record-NNN.md` byte-for-byte into each `current.md`.
+- [ ] Preserve identical `versions/original-run.md` copies.
+- [ ] Generate the 79-record manuscript manifest with titles, word counts, quality state, and publication state.
+- [ ] Verify all copies with `cmp`.
+- [ ] Copy selected old authority files into cold archive.
 
-**Interfaces:**
-- Consumes: exact manuscript files from `Paiea/peg-leg-greg-reader/3l/manuscript/record-001.md` through `record-010.md`.
-- Produces: 3L Reference v1 canonical prose.
+### Task 6: Boring automation
 
-- [ ] Copy each source record byte-for-byte into its new canonical path.
-- [ ] Verify tests detect exactly ten canonical records and no 011+ canonical file.
-- [ ] Spot-check source/new SHA-equivalent content using direct text comparison.
-- [ ] Commit manuscript migration.
+- [x] Add PR/main validation workflow.
+- [x] Add main-only static Pages deployment.
+- [ ] Delete the one-shot bootstrap workflow after successful migration.
 
-### Task 4: Single-page Markdown reader
+### Task 7: Verification and integration
 
-**Files:**
-- Create: `index.html`
-- Create: `assets/reader.css`
-
-**Interfaces:**
-- Consumes: `PROJECT.json` and `manuscript/records/NNN/canonical.md`.
-- Produces: `/?record=N` reading surface with prev/next navigation and no generated chapter pages.
-
-- [ ] Implement the smallest client-side renderer needed by the migrated 3L Markdown syntax.
-- [ ] Load the requested canonical record only when `1 <= record <= published_through`; default to Record 001.
-- [ ] Render title/prose, previous/next navigation, record picker, and readable failure state.
-- [ ] Ensure no audio UI appears in v1.
-- [ ] Run contract tests and make them green.
-- [ ] Commit reader.
-
-### Task 5: Verification and publish readiness
-
-**Files:**
-- Verify all files above.
-
-**Interfaces:**
-- Consumes: completed v1 repository.
-- Produces: evidence that the repo can be used as the new 3L authority and GitHub Pages source.
-
-- [ ] Run `python -m unittest tests.test_repo_contract -v` with all tests passing.
-- [ ] Verify `PROJECT.json` paths exist and Records 001-010 match old-repo source text.
-- [ ] Inspect `index.html` for runtime fetches only to `PROJECT.json` and canonical Markdown paths.
-- [ ] Open a PR, inspect the diff, and merge only after verification remains green.
+- [ ] Run `python scripts/check_repo.py` successfully on migrated branch.
+- [ ] Run `python -m unittest tests.test_repo_contract -v` successfully.
+- [ ] Open PR and verify CI.
+- [ ] Merge to `main` only after green checks.
+- [ ] Verify Pages deployment or report the exact account-setting blocker if Pages has not yet been enabled for Actions.

@@ -2,70 +2,120 @@
 
 ## Goal
 
-Make Paiea/3L the authoritative 3L repository with a fast AI handshake, explicit manuscript authority, preserved rewrite history, and a single-file-style Markdown reader that does not require prose build automation.
+Make `Paiea/3L` the authoritative standalone home for the full 3L story through Record 079, optimized for fast AI handshakes, layered prose rehearsal, audio-first presentation, explicit version history, and a one-file runtime reader.
+
+## Core rule
+
+Complexity may exist behind the handshake. It may not sit inside the handshake.
+
+A fresh AI starts with `AGENTS.md` and `PROJECT.json`, then loads only the files named for the requested mode.
 
 ## Authority
 
-1. `manuscript/records/NNN/canonical.md` is story authority for that record.
-2. `brain/CURRENT.md` is the hot handoff state and must yield to canonical prose on conflict.
-3. `brain/TIMELINE.md`, `brain/STORY.md`, and `brain/PROMISES.md` are deeper working context and must yield to canonical prose.
-4. `drafts/` is non-canonical.
-5. `manuscript/records/NNN/versions/` preserves superseded approved/canonical versions for easy human and AI comparison. New canonical prose always trumps archived versions.
-6. `development/` is research and optional deep context, never default handshake material.
+1. `manuscript/records/<slot>/current.md` is story authority for that record.
+2. `manuscript/manifest.json` owns record order, publication state, title, and prose-status metadata.
+3. `brain/` is derived context and yields to current prose.
+4. `drafts/` is exploratory and cannot publish by accident.
+5. `versions/` preserves meaningful superseded prose. `current.md` always wins.
+6. `development/archive/` is cold historical research.
+7. Audio and images are presentation assets, never story authority.
 
-## AI handshake
+All Records 001–079 are preserved as valid story material. Records 001–010 are the current prose-quality reference. Records 011–079 begin as `needs_rehearsal` rather than being demoted to noncanon.
 
-`PROJECT.json` is the first file an AI reads. It declares the canon frontier, active record, published frontier, required hot files, and optional deep-context files. Normal continuation should require `PROJECT.json`, `brain/CURRENT.md`, and the last one or two canonical records. Deep files are loaded only when relevant.
+## Frontiers
 
-## Manuscript and revision flow
+`PROJECT.json` separates:
 
-Draft prose lives under `drafts/record-NNN/`. A draft does not publish and does not advance canon. When the user approves a draft, its exact text becomes `manuscript/records/NNN/canonical.md`. If an existing canonical record is replaced, copy the superseded text into `manuscript/records/NNN/versions/vNNN-<label>.md` before replacing `canonical.md`.
+- story frontier: `r079`
+- reference-quality frontier: `r010`
+- restored frontier: `r010`
+- rehearsal target: `r011`
+- next unwritten record: `r080`
 
-Records 001-010 are migrated from the current 3L manuscript in `Paiea/peg-leg-greg-reader` and form the initial 3L Reference v1 frontier. Records 011+ remain in the old repository as development/archive material until explicitly promoted.
+The default mode is rehearsal. Explicit new-writing work may continue beyond 079 without pretending the restoration frontier is the story frontier.
+
+## Manuscript order
+
+The manifest array owns navigation. Numeric arithmetic does not. This preserves stable existing record identities while allowing future structural discoveries such as `r041b` without renumbering later records or breaking audio links.
+
+## Version model
+
+Each migrated record contains:
+
+- `current.md`: current authority
+- `versions/original-run.md`: exact old-repository source preserved for comparison
+
+Git history handles fine edits. Explicit versions are created only for meaningful rewrites, restoration passes, structural alternatives, or user-requested comparisons.
+
+## Layered rehearsal
+
+`REHEARSAL.md` is the primary revision method for 011–079.
+
+The four restoration lenses are:
+
+1. shape restoration
+2. performance rehearsal
+3. life restoration
+4. listen rehearsal
+
+They operate on one working candidate rather than spawning permanent artifacts for every pass. One record is the writing unit; five records are the seam-check unit. Passes restore missing information and leave strong existing material alone.
 
 ## Reader
 
-The public reader is intentionally small. `index.html` is the reader application and loads canonical Markdown directly at runtime based on `?record=N`. It reads `PROJECT.json` to enforce the published frontier and navigation. No per-record HTML generation and no manuscript-triggered build workflow are required.
+`index.html` is the entire public reader application, with CSS and JavaScript inline. It fetches `PROJECT.json`, `manuscript/manifest.json`, current Markdown, and `audio/manifest.json` at runtime.
 
-A minimal client-side Markdown renderer supports the syntax used by 3L canonical records. The reader shows prose only. Audio is absent in v1 and may later appear as optional metadata in `PROJECT.json` without changing manuscript authority.
+There are no generated per-record HTML files.
 
-## Site behavior
+Public navigation exposes records marked `published`. An unlinked `work=1` query enables working preview of preserved/rehearsed records without changing publication state.
 
-- Default visit opens Record 001 or a small landing/record selector within the same `index.html`.
-- `?record=7` loads `manuscript/records/007/canonical.md`.
-- Previous/next links stay within `published_through`.
-- Missing or malformed records produce a readable error state rather than exposing internal project machinery.
-- The page is mobile-first, light, text-focused, and fast.
+The manifest owns previous/next order.
 
-## Repository structure
+## Audio
 
-```text
-PROJECT.json
-README.md
-index.html
-assets/reader.css
-brain/CURRENT.md
-brain/TIMELINE.md
-brain/STORY.md
-brain/PROMISES.md
-manuscript/records/001/canonical.md
-...
-manuscript/records/010/canonical.md
-drafts/
-development/
-tests/
-```
+Audio is the flagship presentation layer when available. Prose remains the story authority.
 
-## Non-goals for v1
+Production audio is deliberately pull-based:
 
-- No audio production pipeline.
-- No parallel story-writing workers.
-- No generated record pages.
-- No automatic canon advancement.
-- No migration of Records 011+.
-- No migration of the old temporal/audio machinery into the hot path.
-- No Google Drive synchronization.
+- source is approved `current.md`
+- Greg voice owns narration and remembered human dialogue
+- Ithar voice owns only Ithar's actual spoken dialogue
+- production records exact source SHA-256
+- a prose change makes previously published audio stale until rebuilt
+- manuscript commits never automatically generate audio
+
+Rehearsal voice playback is disposable and separate from production audio.
+
+The public reader places playable audio above prose when a published audio manifest entry exists.
+
+## Images
+
+Images are sparse optional anchors, not a parallel chapter-production track. There is no per-record image quota and no automatic image pipeline. The reader must remain complete with zero images.
+
+## Automation
+
+Permanent automation is intentionally boring:
+
+- `validate.yml`: repository contract and tests on PRs and main
+- `pages.yml`: static GitHub Pages deployment from main
+
+No manuscript-save workflow generates HTML or audio.
+
+A temporary one-shot bootstrap workflow is allowed only to migrate the exact old manuscript, verify byte equality, and then be deleted before merge.
+
+## Migration
+
+Records 001–079 are copied byte-for-byte from `Paiea/peg-leg-greg-reader/3l/manuscript/record-NNN.md` into both `current.md` and `versions/original-run.md`. The bootstrap verifies both copies with `cmp` before commit.
+
+Selected old authority documents are copied to `development/archive/legacy-authority/` only as cold historical reference.
 
 ## Success criteria
 
-A fresh AI can determine the correct 3L authority and resume point from `PROJECT.json` plus the named hot files without repository-wide search. A user can open the GitHub Pages reader, navigate Records 001-010, and always see current canonical Markdown. Rewriting a record preserves the superseded version while making the new `canonical.md` unambiguously authoritative.
+- a fresh AI can choose rehearsal or new-writing context without repo-wide search
+- all 79 existing records are preserved exactly
+- 001–010 are clearly the quality reference while 011–079 remain valid story authority
+- meaningful rewrites remain easy to compare with older versions
+- the website reads Markdown directly and uses manifest order
+- audio can be the primary experience without becoming story authority
+- a prose edit cannot silently leave published production audio claiming to be current
+- image production remains optional and sparse
+- normal writing does not wake a build/audio factory

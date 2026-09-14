@@ -1,0 +1,19 @@
+{
+  "record": "008",
+  "routing_mode": "exact_quote_locked",
+  "voices": {"greg": "deep", "ithar": "normal"},
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "dragon_quotes": [
+    {
+      "text": "“You knew Nessa Vale first as a name on a board of dead people. By the time the remembered death arrived, she was no longer a name. She was your friend, and already more complicated than that word admits.\n\n“You attempted to prevent an outcome you remembered without understanding the mechanism that produced it. You dropped the wrong feed. You made the failure worse before you understood what was beneath the station. Then you saved her.\n\n“Separate motive from method. Wanting her alive does not make the method correct. Surviving the mistake does not make the motive foolish. What did the difference teach you?”",
+      "occurrence": 1
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "authority": "Production audio is derived from current manuscript prose and never story authority.",
+  "default_presentation": "audio_first_when_available",
+  "records": {
+    "r002": {
+      "status": "candidate",
+      "src": "audio/assets/record-002-quote-locked-v2.mp3",
+      "source_sha256": "c4a901146f3d4e7fc39e6937c8e63b571303f7af0e1f51cd9733a87ab2b46ce0",
+      "audio_sha256": "a1d8e88f623a5c84eb8e3669eca10a52ee1562dcc1c81de6e53ae997d41b8141",
+      "duration_seconds": 770.76,
+      "routing_mode": "exact_quote_locked",
+      "listened": true
+    },
+    "r001": {
+      "status": "candidate",
+      "src": "audio/assets/record-001-quote-locked-v2.mp3",
+      "source_sha256": "6e52b0a3fcd9f4e05ecff10f924c7f5857ba9abc83b088499ba77939a115230a",
+      "audio_sha256": "940fb1810d27a3490947f33ff5ae2d005856e42d4957c6d593cae4b83bd35ee7",
+      "duration_seconds": 1584.768,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
+    },
+    "r003": {
+      "status": "candidate",
+      "src": "audio/assets/record-003-quote-locked-v2.mp3",
+      "source_sha256": "20d5efc54a5dbb394c1159c895833302dcbaf001ea7ce5a8c6e5d616009fd4fb",
+      "audio_sha256": "0439c74b346cdad397a2e489a14bbae9bce78f80010662ca6c0a068b3e3ff7ba",
+      "duration_seconds": 612.888,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
+    },
+    "r004": {
+      "status": "candidate",
+      "src": "audio/assets/record-004-quote-locked-v2.mp3",
+      "source_sha256": "c52eac16896064e3d40d8a5b8e9aba51d3c84da8627ba7c6a74915688d8e8676",
+      "audio_sha256": "90b3bb43528158de82960cd5d7c9dc10d94027d6947b44dac49c1a3eff2922fd",
+      "duration_seconds": 752.784,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
+    },
+    "r005": {
+      "status": "candidate",
+      "src": "audio/assets/record-005-quote-locked-v2.mp3",
+      "source_sha256": "008cd9ec419e2f6edaacb426d1ea78d67e83f1a02cb8095e82778350fa759dbb",
+      "audio_sha256": "925671b1d9c0d3b1d9ff1b45f5d94ee5a9ef8146fbc4cb28fd50f672b4d805ea",
+      "duration_seconds": 755.76,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
+    },
+    "r006": {
+      "status": "candidate",
+      "src": "audio/assets/record-006-quote-locked-v2.mp3",
+      "source_sha256": "153ff2d3ee8659f0ece68c685f21cef5e88b89ff4a20e0efe1097137fea7be47",
+      "audio_sha256": "bc2f6aa74ab3626b079cc014bef416bc67b6e4696445cdd99e04a079d7a128e9",
+      "duration_seconds": 665.352,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
+    },
+    "r007": {
+      "status": "candidate",
+      "src": "audio/assets/record-007-quote-locked-v2.mp3",
+      "source_sha256": "7691eaf3d26eae440412dc9486d3f547c6e22f4a41f1f6809aa28c8a719edfb1",
+      "audio_sha256": "3939361191fc78d9476a30a71a00b3c403f33e774d1d706f580e2e432df7b7b9",
+      "duration_seconds": 610.68,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
+    },
+    "r008": {
+      "status": "candidate",
+      "src": "audio/assets/record-008-quote-locked-v2.mp3",
+      "source_sha256": "266e50d09b3c62f146262bef3536eaca6dea3c094d7544fcd7479d5e1825a3a4",
+      "audio_sha256": "12dbfac181f8711cb951c8bbe7a308943901a34e9555d8fc0be74848fa2a8293",
+      "duration_seconds": 660.096,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
+    },
+    "r009": {
+      "status": "candidate",
+      "src": "audio/assets/record-009-quote-locked-v2.mp3",
+      "source_sha256": "ae84e5a40e69b15dcf0062efc525858ad41fe31ba7d9058bf795c0d965bc39d9",
+      "audio_sha256": "a87242bacaed41e5592df1b7d871a92b8a419154fbdbf0f5055842866c6cb94a",
+      "duration_seconds": 658.584,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
+    },
+    "r010": {
+      "status": "candidate",
+      "src": "audio/assets/record-010-quote-locked-v2.mp3",
+      "source_sha256": "02ca3810a3f702bb6ea6747c621a6b727624a3b08f6c8f4d0c64cb76d4a28c87",
+      "audio_sha256": "c70af992255b176ec30887bc2d6c21bbdea396e8117738490723490e64e9adfd",
+      "duration_seconds": 687.936,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
+    }
+  }
+}

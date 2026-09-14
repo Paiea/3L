@@ -1,0 +1,23 @@
+{
+  "record": "010",
+  "routing_mode": "exact_quote_locked",
+  "voices": {"greg": "deep", "ithar": "normal"},
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "dragon_quotes": [
+    {
+      "text": "“You never told Bren. You had information about him and chose not to use it. That is unusual in an account where foreknowledge has repeatedly become action.\n\n“You loved him in the first history. Brother without shared parents, by your description. In the second history he did not know you. You knew what he liked, where he would go, what made him trust someone. You could have manufactured the conditions under which he might become close to you again.\n\n“You refused. Why?”",
+      "occurrence": 1
+    },
+    {
+      "text": "“You had already observed events changing. Halden survived. North Vey did not rupture. Your remembered future had been becoming less reliable for years. Yet you still treated the first life as the real version and the second as a return into it.\n\n“Bren looked at you and did not know you. His ankle was whole. His rank had arrived by another road. The page after the one you remembered no longer existed.\n\n“Was that when you stopped calling it going back? What did you call it instead?”",
+      "occurrence": 1
+    }
+  ]
+}

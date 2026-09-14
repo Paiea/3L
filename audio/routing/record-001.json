@@ -1,0 +1,176 @@
+{
+  "record": "001",
+  "routing_mode": "exact_quote_locked",
+  "voices": {
+    "greg": "deep",
+    "ithar": "normal"
+  },
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "source_labeling": {
+    "method": "current_manuscript_quote_ordinals_to_exact_locks",
+    "quoted_span_count": 108,
+    "ithar_span_count": 38,
+    "uses_audio_timestamps": false
+  },
+  "dragon_quotes": [
+    {
+      "text": "“Mm.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Food has arrived.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Is your name Dinner?”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Unfortunate.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Oh.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“I see.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Then I am undone.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Speak, master.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Command me.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Good.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“For a moment I was concerned you were stupid.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Yes. The concern remains.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“What did you think my name would buy you?”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Thirty.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“You traveled six days to negotiate thirty seconds.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Twenty-eight.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Mm.”",
+      "occurrence": 2
+    },
+    {
+      "text": "“Zero.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“You have already used the name.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“No.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“No. And before you repeat the number, understand that you are making a very young mistake.\n\n“You believe scale creates meaning by itself. One death troubles you. A thousand troubles you more. A million troubles you more still. So you assume there must be some number large enough that any thinking creature, regardless of what it values, becomes obligated to arrive at the same conclusion you have.\n\n“There is not.\n\n“The kingdom you are attempting to save is six hundred and eleven years old. Do not correct me. Your historians misplaced three years because they count the coronation and not the winter in which the previous court ceased to function.\n\n“Before that kingdom, there were three others in the valley you call its heart. One survived eighty-one years. One survived four hundred and twelve. The oldest survived somewhat longer than yours has so far. It was larger. Wealthier. Its people considered these facts evidence of permanence.\n\n“They redirected a river. They cut roads into mountains. They raised seven towers where your palace district now stands.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“This was part of the fourth.\n\n“The kingdom after them used two towers for grain. One became a prison. Four were abandoned. Their grandchildren pulled those down because cut stone was more useful in walls than dead rulers were in memory.\n\n“You speak of your kingdom as though it is a mountain. It is not.\n\n“You speak of millions as though they are one creature. They are not. They are millions of separate creatures living inside a temporary arrangement of roads, laws, boundaries, debts, habits, and stories.\n\n“You wish me to preserve the arrangement because the arrangement matters to you.\n\n“That is different from believing the size of the arrangement should matter to me.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“You know what that is.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“You crossed half a kingdom on a leg that should have convinced you to stop. You ruined your boots. You lost an animal. You entered my home without armor because some part of you correctly understood that armor would not alter the result.\n\n“You knew where I was.\n\n“You knew my name.\n\n“You knew the northern shelf would kill you before it killed a dragon. You crossed above the sulfur vents instead of through them. There is residue on your coat and none on your boots. You knew which route to take before the mountain taught you.\n\n“Now you identify a Line mark removed from human use before the oldest living keeper’s grandmother was born.\n\n“You keep telling me about the kingdom because the kingdom is what you want me to act upon.\n\n“It is not what makes you interesting.\n\n“What makes you interesting is that you arrived here carrying answers to questions you should not know exist.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Nine living things have known that name in the form you used.\n\n“One is dead now. She would object to my counting her that way, but objections require enough continuity to become conversation.\n\n“One has not left the western deep in three hundred years. He dislikes land.\n\n“One would eat you before answering a question.\n\n“Another would eat you after answering it, which is a distinction he considers important.\n\n“One does not possess a mouth.\n\n“Two know an older pronunciation and would not use yours.\n\n“One has not spoken to a human since before the first stones of your capital were laid.\n\n“And one is me.\n\n“I can account for each path.\n\n“I can account for every exchange by which that name moved from one mind to another. A favor. A threat. A witness. A debt. Once, very briefly, affection.\n\n“Secrets are not magic merely because people whisper around them. They still travel.\n\n“You did not travel along any of those paths.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“That does not frighten me, Greg.\n\n“It interests me.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Your horse?”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Ah.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“You believe I am examining what you know.\n\n“I am not.\n\n“Knowledge moves. It is stolen, taught, inherited, guessed, rediscovered, recorded badly, remembered worse. A human knowing one old name is unlikely. A human recognizing one dead system is unusual. A human choosing one forgotten route can be explained.\n\n“Individually, each fact is merely inconvenient.\n\n“Together they become a shape.\n\n“You knew the mountain before traveling it. Your body attempts movements it has not been trained to perform. You recognize systems removed from use before you were born. You possess a name for which I can find no path to you.\n\n“And you speak about the failure of the western Line with the irritation of someone remembering a mistake rather than the fear of someone predicting one.\n\n“That difference matters.\n\n“A prophet watches the future.\n\n“You keep looking backward.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“I am not trying to collect facts, Greg.\n\n“I am trying to determine what kind of cause produces you.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“No.”",
+      "occurrence": 2
+    },
+    {
+      "text": "“How do you know the Line will fail?”",
+      "occurrence": 1
+    },
+    {
+      "text": "“The western Line has not failed during your lifetime. The ninth station remains intact. The eastern sink has not filled. The lower channels remain inaccessible from the routes you described.\n\n“So you did not witness the event you are describing.\n\n“You did not read it. If you had, you would speak with the certainty of text, and text is full of edges. You do not have edges.\n\n“You are missing pieces.\n\n“You remember some details too clearly and others not at all.\n\n“You do not sound like a man reciting a prophecy.\n\n“You sound like a man trying to remember where he left something.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“When?”",
+      "occurrence": 1
+    },
+    {
+      "text": "“No.\n\n“You are fifty-nine years old. Forty years from now, you would be ninety-nine. Your body does not carry ninety-nine years. Your injuries do not. Your rank does not. Your habits do not.\n\n“And yet you did not calculate that date.\n\n“You retrieved it.\n\n“The answer existed before I asked the question.”",
+      "occurrence": 1
+    },
+    {
+      "text": "“Where?”",
+      "occurrence": 1
+    },
+    {
+      "text": "“No.”",
+      "occurrence": 3
+    },
+    {
+      "text": "“You were not.”",
+      "occurrence": 1
+    }
+  ]
+}
