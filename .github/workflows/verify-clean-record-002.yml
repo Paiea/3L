@@ -1,0 +1,36 @@
+name: Verify clean Record 002 candidate
+
+on:
+  push:
+    branches: [setup/ai-first-reader]
+    paths: [.github/workflows/verify-clean-record-002.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: setup/ai-first-reader
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify final tree
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+          python - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          v=json.loads(Path('audio/production/record-002/verification-v2.json').read_text())
+          p=Path(v['asset'])
+          assert p.is_file(), p
+          assert hashlib.sha256(p.read_bytes()).hexdigest()==v['sha256']
+          assert v['routing_mode']=='exact_quote_locked'
+          assert v['uses_timestamps_for_speaker_assignment'] is False
+          assert v['status']=='candidate_unlistened'
+          print('Record 002 candidate verification passed')
+          PY
