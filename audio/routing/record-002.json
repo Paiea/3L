@@ -8,10 +8,10 @@
   "max_chars": 480,
   "pause_ms": {
     "continuation": 220,
-    "paragraph": 420,
-    "action": 650,
-    "speaker_handoff": 900,
-    "major_beat": 1200
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
   },
   "dragon_quotes": [
     "“Not this time. You chose those words. Do not protect the claim with brevity, Greg. Say what you mean. Tell me how much of this other life you remember, where it begins, and where it ends. Do not say most unless you intend to tell me what is missing. Most is a word humans use when they wish to avoid discovering that.”",
