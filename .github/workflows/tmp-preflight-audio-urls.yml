@@ -1,0 +1,46 @@
+name: Temporary preflight audio URLs
+
+on:
+  push:
+    branches: [setup/ai-first-reader]
+    paths: [.github/workflows/tmp-preflight-audio-urls.yml]
+
+permissions:
+  contents: read
+
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: setup/ai-first-reader
+      - name: Probe capture URLs with record and segment context
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json, sys, urllib.request, urllib.error
+          from pathlib import Path
+
+          bad = []
+          for record in ['008','009','010']:
+              captures = json.loads(Path(f'audio/production/record-{record}/captures.json').read_text())
+              for item in captures['segments']:
+                  i = item['index']
+                  url = item['preview_url']
+                  req = urllib.request.Request(url, method='HEAD')
+                  try:
+                      with urllib.request.urlopen(req, timeout=20) as r:
+                          print(f'OK record={record} segment={i} status={r.status}')
+                  except urllib.error.HTTPError as e:
+                      print(f'FAIL record={record} segment={i} status={e.code} url={url}')
+                      bad.append((record, i, e.code, url))
+                  except Exception as e:
+                      print(f'ERROR record={record} segment={i} error={type(e).__name__}:{e} url={url}')
+                      bad.append((record, i, type(e).__name__, url))
+          if bad:
+              print('BAD_CAPTURE_URLS', json.dumps(bad))
+              raise SystemExit(1)
+          print('ALL_CAPTURE_URLS_OK')
+          PY
