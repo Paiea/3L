@@ -253,7 +253,7 @@
       "path": "manuscript/records/023/current.md",
       "story_status": "valid",
       "prose_status": "restored",
-      "published": false,
+      "published": true,
       "word_count": 2485
     },
     {
@@ -329,9 +329,9 @@
       "title": "THE MECHANIC",
       "path": "manuscript/records/030/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 1530
+      "word_count": 2429
     },
     {
       "id": "r031",
@@ -340,9 +340,9 @@
       "title": "THE MEDIATOR",
       "path": "manuscript/records/031/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 1266
+      "word_count": 2472
     },
     {
       "id": "r032",
@@ -351,9 +351,9 @@
       "title": "THE SUCCESSOR",
       "path": "manuscript/records/032/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 1269
+      "word_count": 2079
     },
     {
       "id": "r033",
@@ -362,9 +362,9 @@
       "title": "THE NEW BOSS",
       "path": "manuscript/records/033/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 1132
+      "word_count": 1852
     },
     {
       "id": "r034",
@@ -373,9 +373,9 @@
       "title": "THE RATEPAYER",
       "path": "manuscript/records/034/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 1320
+      "word_count": 2435
     },
     {
       "id": "r035",
