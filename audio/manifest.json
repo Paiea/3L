@@ -92,6 +92,24 @@
       "duration_seconds": 687.936,
       "routing_mode": "exact_quote_locked",
       "listened": false
+    },
+    "r011": {
+      "status": "published",
+      "src": "audio/assets/record-011-quote-locked-v2.mp3",
+      "source_sha256": "6487f167260e7df459207f651885ad0c059249e329414df17c17f0980bcace0a",
+      "audio_sha256": "9bc137b7171ddb828dfb947dc6da28ba77ada82b54158782e7902ecb39fb80bd",
+      "duration_seconds": 1019.592,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
+    },
+    "r012": {
+      "status": "published",
+      "src": "audio/assets/record-012-quote-locked-v2.mp3",
+      "source_sha256": "05d70da8086a9e2c0373fa7f65b8f45b224591550ab4db8825f633ed5b955cba",
+      "audio_sha256": "eaf34c288235db067245bee1e83fd022b637648e1c4689745fd93e7b6ad57b70",
+      "duration_seconds": 1456.128,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
     }
   }
 }
