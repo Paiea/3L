@@ -1,489 +1,995 @@
 ## RECORD 036
 
-## THE EVACUATOR
+## THE SPECTATOR
 
-The strongest Ranker in the district went west.
+Ithar stared at me.
 
-I stayed with the boilers.
+Not unusual.
 
-This bothered me for almost four minutes.
+The subject made it worse.
 
-Then a woman handed me a sleeping child and I got busy.
+"Contraception."
 
-The winter had been cold enough that every station carried more load than its operators liked discussing.
+"Yes."
 
-Not record cold.
+"You learned the foundation of your greatest discipline for contraception."
 
-Records are comforting because they suggest exceptional years deserve exceptional problems.
+"That is an unnecessarily grand way to describe Barrier."
 
-This was merely bad.
+"You later became one of seven humans your species considered exceptional."
 
-Three weeks below average.
+"Eventually."
 
-Coal deliveries late twice.
+"Using the same principle."
 
-Household demand high.
+"Eventually."
 
-Market heating high.
+His eye narrowed.
 
-District reserve thin.
+I knew that look now.
 
-Then a feeder cracked at West Five.
+He had one face.
 
-Not catastrophic.
+He lied about that.
 
-Large enough.
+"How?"
 
-Pressure dropped across two west districts and the emergency transfer shoved load east faster than the old branch controls wanted.
+I looked at the dead fire.
 
-Every alarm slate in Halden's office lit at once.
+There were several answers.
 
-I was there reviewing inspection notes.
+Practice.
 
-Bad luck.
+Work.
 
-Or employment.
+Mistakes.
 
-The central board showed West Five rupture.
+Bodies.
 
-Market Three overload.
+Reinforcement.
 
-South Two reserve collapse.
+Luck.
 
-East Four elevated but stable.
+People better than me allowing me into rooms I had not earned yet.
 
-And a little station called River Nine sitting beside an apartment district with an auxiliary coal boiler plant nobody had upgraded in forty years.
+People worse than me giving me enough work to become useful.
 
-Halden started assigning people.
+Years.
 
-B-class Authority team west.
+Mostly years.
 
-Tova to Market Three because the overload touched a reconstructed foundation.
+All true.
 
-Two city fire crews to South Two.
+None felt like where to begin.
 
-He looked at me.
+Then I remembered an old man eating something from a paper cone.
 
-“River Nine.”
+"There was a tournament."
 
-I looked at the board.
+Ithar's eye changed.
 
-“Why?”
+Barely.
 
-“Old boiler plant.”
+I noticed.
 
-“I inspect Line structures.”
+Of course I did.
 
-“You also know emergency isolation.”
+"A tournament."
 
-“So does Seli.”
+"Yes."
 
-“She is going west.”
+"For contraception."
 
-Of course.
+"No."
 
-Seli Dorn was B-class now and had more raw capability than I did.
+A pause.
 
-West Five had a live rupture.
+"I had not assumed that."
 
-Visible problem.
+"Your face did."
 
-Ranker work.
+"I have one face."
 
-River Nine had boilers.
+"Still untrue."
 
-I had once been S-class.
+The dragon settled his jaw more comfortably against the stone.
 
-A small stupid part of me noticed the assignment hierarchy.
+Gold shifted beneath him.
 
-Then Halden said, “If transfer pressure trips River Nine, twelve apartment blocks lose heat and the boiler plant has to carry them. If the plant cannot, evacuate the north blocks before dark.”
+The sound took several seconds to finish.
 
-The stupid part shut up.
+"Continue."
 
-I went.
+I was twenty-three.
 
-River Nine was smaller than East Four and uglier.
+Maybe twenty-four.
 
-A brick square beside the river wall with two coal stacks behind it.
+I could check if you gave me a calendar, three contracts, and the name of the woman I was sleeping with then.
 
-The station foreman was a man named Oss Penn.
+You do not have any of those.
 
-He met me outside wearing no coat despite snow.
+Twenty-three is close enough.
 
-“Transfer's already climbing.”
-
-“Boilers?”
-
-“Two lit. Third won't hold draft.”
-
-“Why?”
-
-“If I knew, it would.”
-
-Good answer.
-
-Inside, the Line regulator was hunting.
-
-Not coughing like East Four.
-
-Wide slow movement.
-
-Pressure up.
-
-Down.
-
-Up again as district transfer changed around us.
-
-River Nine could remain online if the swings stayed under the trip threshold.
-
-They did not.
-
-First trip at second bell.
-
-Line branch isolated itself.
-
-Apartment load shifted to auxiliary boilers.
-
-Boiler one held.
-
-Two held.
-
-Three smoked black and failed to establish full draft.
-
-Oss swore.
-
-A mechanic opened the firebox.
-
-Coal was fine.
-
-Fan turning.
-
-Flue warm.
-
-Draft still weak.
-
-“Can we relight?”
-
-“Can try.”
-
-“Do.”
-
-That bought nothing.
-
-North blocks began losing heat.
-
-Slowly.
-
-Buildings do not become cold the moment a feed stops.
-
-That makes decisions harder.
-
-Rooms were warm now.
-
-Would not be later.
-
-Repair estimate on West Five kept moving.
-
-One hour.
-
-Two.
-
-Unknown.
-
-The city emergency clerk asked whether to evacuate.
-
-I looked at outside temperature.
-
-Wind.
-
-Boiler output.
-
-Building exposure.
-
-Occupancy sheets.
-
-Record Nineteen again.
-
-North-facing rear rooms.
-
-Elderly tenants.
-
-Children.
-
-Night workers asleep.
-
-No schedule was fair.
-
-No evacuation was free.
-
-Moving people creates harm too.
-
-I wanted another hour.
-
-Bad instinct maybe.
-
-Oss said, “Start top two blocks.”
-
-I looked at him.
-
-“Why?”
-
-“River wall wind.”
-
-The northernmost apartment row sat above the embankment.
-
-Wind hit it clean.
-
-He knew the buildings.
-
-I did not.
-
-“Do it.”
-
-We started before the rooms were cold.
-
-That felt ridiculous to residents.
-
-Of course.
-
-People do not like leaving warm homes because an inspector says future temperature will become inconvenient.
-
-One man refused.
-
-“I have a stove.”
-
-“Vent?”
-
-“Yes.”
-
-“Coal?”
-
-“Enough.”
-
-“Anyone else in the room?”
-
-“My wife.”
-
-“Mobile?”
-
-He looked offended.
-
-“More than me.”
-
-We marked them self-heating and moved on.
-
-Not forced evacuation.
-
-Triage.
-
-A woman with two children packed six blankets and no food.
-
-We gave her a basket from city stores.
-
-An old man packed food and forgot medicine.
-
-His neighbor remembered.
-
-A family tried to move a chest larger than their doorway.
-
-I told them no.
-
-They argued until one child asked whether the chest was cold.
-
-That ended it.
-
-The district school opened as warming shelter.
-
-Public bath opened too despite the owner complaining about unpaid heat from the last repair cycle.
-
-Nessa coordinated transfer schedules from district office and somehow found time to send a slate asking whether River Nine needed additional shelter capacity.
-
-I wrote YES MAYBE.
-
-She returned:
-
-USE WORDS.
-
-I wrote:
-
-TWO BLOCKS MOVING. THIRD POSSIBLE. SCHOOL HALF FULL.
-
-She returned:
-
-BETTER.
-
-Marriage by slate, except we were not married.
+I was not competing.
 
 Important.
 
-Boiler three still would not draw.
+I had no reason to.
 
-The mechanic blamed the fan.
+The tournament was regional in the way institutions use regional to mean six cities, twelve wealthy families, several Guild chapters, and enough prize money to make people permanently damage themselves for applause.
 
-Oss blamed the stack damper.
+There were qualification brackets below C-class.
 
-I went outside.
+Main brackets at C and B.
 
-Black smoke pulsed from the third stack.
+An open division that mostly meant A-class fighters, ambitious B-class fighters, and one idiot every few years who believed enthusiasm should count as durability.
 
-Not enough rise.
+It did not.
 
-Wind pressed down across the river wall.
+The tournament hired Guild support staff because competitors dislike being told they are injured by people who cannot prove it professionally.
 
-I remembered something from First Life.
+I was cheap.
 
-Mountain camps.
+That was my qualification.
 
-Bad draft in crosswind.
+I knew Barrier well.
 
-Temporary stack extension.
+I knew enough basic reinforcement to stop minor injuries from becoming worse while somebody more qualified arrived.
 
-Not prediction.
+I could identify obvious channel strain.
 
-Experience.
+I could wrap a joint.
 
-“Can we raise the stack?”
+I could hold stabilization while a healer worked.
 
-Oss looked at me.
+I could carry water.
 
-“Now?”
+I did a lot of that last one.
 
-“Temporary collar.”
+There are careers built on being the least expensive person trusted not to make a bad situation worse.
 
-“In this wind?”
+Mine began there.
 
-Ranker work finally.
+The tournament grounds sat outside Vey's south wall.
 
-Maybe.
+Stone ring in the center.
 
-We had sheet metal.
+Two smaller rings east and west.
 
-Bracing cable.
+Temporary stands.
 
-A fitter.
+Food stalls.
 
-And me.
+Guild tents.
 
-Could climb.
+Clan banners high enough that people argued over which one blocked whose view.
 
-Shoulder objected but manageable.
+The city had reinforced the main ring three times.
 
-Then the B-class Authority reserve arrived.
+People told me this proudly.
 
-Not Seli.
+That seemed backwards.
 
-A younger man from central response.
+If a building required three reinforcements because people kept punching each other inside it, perhaps the punching was the problem.
 
-I looked at him.
+Nobody asked me.
 
-He looked at the stack.
+The first day was qualification rounds.
 
-“You want me up there?”
+Mostly C-class.
 
-“Yes.”
+A few B-class competitors waiting for later brackets wandered the grounds looking bored.
 
-Four minutes of ego paid back with interest.
+I spent the morning checking bruised ribs, two sprained wrists, one fractured hand, and a man who insisted his shoulder was fine while holding his arm six inches away from his body like it belonged to somebody else.
 
-He could stand in wind that would have made my current body a legal argument.
+It was not fine.
 
-We rigged the extension.
+By noon I had blood on one sleeve that belonged to three different people.
 
-The mechanic built it.
+Professional growth.
 
-The Ranker lifted and held it.
+The fights were good.
 
-I stayed below calling alignment with Oss because I knew the draft problem better than the stronger man did.
+At twenty-three, good meant fast enough that I occasionally missed why somebody fell.
 
-Different jobs.
+A reinforced spear fighter took a shield user's legs out from under him with the butt of the weapon.
 
-The extension went on.
+A woman with twin short blades never seemed to block anything directly. She moved half a step, let attacks pass, and cut whatever became available.
 
-Draft improved.
+A heavy reinforcement fighter broke the west ring boundary with one shoulder.
 
-Boiler three caught.
+Nobody died.
 
-Not full output.
+Good tournament.
 
-Enough.
+I watched when I could.
 
-North block temperatures stabilized before the third row needed evacuation.
+Everyone did.
 
-West Five repair finished after dark.
+Then something changed in the stands.
 
-Line pressure returned slowly.
+Not the fights.
 
-River Nine reconnected after inspection.
+People.
 
-Most residents went home that night.
+An official I had seen shouting at vendors ten minutes earlier stopped shouting.
 
-Some stayed at the school because moving twice in one day is stupid when breakfast exists.
+Two men in clan colors moved from the center aisle without being asked.
 
-No deaths.
+A B-class fighter who had been standing with one boot on the bench took his foot down.
 
-No major injuries.
+Three people stood.
 
-One sprained ankle on an icy stair.
+Then six.
 
-Two lost blankets.
+Then enough that I looked up because synchronized politeness is suspicious.
 
-A cat missing for six hours and found inside the evacuated chest the family had wanted to move.
+An old man was walking toward the upper gallery.
 
-The child who asked whether the chest was cold became insufferable about being right.
+That was all.
 
-Correct response.
+No announcement.
 
-The newspapers printed West Five.
+No procession.
 
-Big photograph of Seli and the response crew beside the repaired feeder.
+He had four people with him.
 
-Good photograph.
+Maybe five.
 
-They had done dangerous work.
+I remember four.
 
-River Nine received three paragraphs on page four.
+The old man wore dark clothes with no visible armor and carried no weapon.
 
-TEMPORARY HEAT LOSS PROMPTS PRECAUTIONARY RELOCATION.
+Gray hair cut short.
 
-No names.
+Broad shoulders still, but age had taken some of the shape from them.
 
-I was relieved.
+He moved without hurry.
+
+That was my first impression.
+
+Second impression was everybody else.
+
+People made room too early.
+
+Not when he reached them.
+
+Before.
+
+The path appeared ahead of him.
+
+A tournament steward intercepted him with the expression of a man trying to remember every rule at once.
+
+The old man said something.
+
+I could not hear it.
+
+The steward pointed toward a covered section in the center of the upper gallery.
+
+The old man looked there.
+
+Then pointed three sections left.
+
+The steward froze.
+
+One of the people beside the old man said something quietly.
+
+The steward began moving chairs.
+
+Not one chair.
+
+The entire arrangement.
+
+A minor lord lost his seat.
+
+His wife lost hers.
+
+Two officials traded places.
+
+An aisle widened.
+
+A shade cloth shifted.
+
+One vendor had to move a basket.
+
+The old man waited through all of it without appearing impatient.
+
+"What the fuck is happening?" I asked.
+
+The Guild woman beside me did not look up from the ankle she was wrapping.
+
+"Sun."
+
+"What?"
+
+"Arcrutus doesn't like it in his eyes."
+
+I looked back at the gallery.
+
+"They're moving half the section because of sunlight?"
+
+She finally looked at me.
+
+"Would you tell him not to?"
+
+"Who is he?"
+
+She stared.
+
+Not long.
+
+Long enough.
+
+"Arcrutus."
+
+"That did not answer the question."
+
+"Yes, it did."
+
+Apparently not for me.
+
+She finished the wrap.
+
+"Clan head. One of the Seven."
+
+Oh.
+
+That answered it.
+
+I looked again.
+
+Arcrutus had sat.
+
+Someone handed him a paper cone.
+
+He ate from it while six cities' worth of dangerous people reorganized themselves around his preference for shade.
+
+"That one?"
+
+"Yes."
+
+"He looks old."
+
+The Guild woman stared again.
+
+"Excellent observation."
+
+I had earned that.
+
+"What does he do?"
+
+"Spear."
+
+I waited.
+
+She went back to work.
+
+"And?"
+
+"Reinforcement."
+
+"Anything else?"
+
+"Survives."
+
+Not useful.
+
+At least I thought so then.
+
+The afternoon bracket started.
+
+Main ring.
+
+B-class preliminaries.
+
+Different speed.
+
+That was the first thing.
+
+Not dramatically different.
+
+You could still see people move.
 
 Mostly.
 
-Then the school kitchen sent a note to district thanking River Nine crews and “the tall inspector with the bad shoulder who kept stealing our chairs.”
+But C-class fighters looked fast because they produced speed.
 
-I had moved chairs for elderly residents.
+B-class fighters looked fast because time between decisions seemed missing.
 
-Stealing was unfair.
+They were already where their choices required them to be.
 
-Nessa kept the note.
+A hammer fighter drove another man backward five steps without touching him directly.
 
-Of course.
+Pressure through reinforced air.
 
-Later Ithar asked me about visible work and invisible work more than once.
+Barrier caught most of it.
 
-Dragons like patterns when they finally notice them.
+The ring boundary shuddered anyway.
 
-That day I did not have a pattern.
+Crowd stood.
 
-I had boilers.
+I stood too.
 
-Apartments.
+Then I looked up at Arcrutus.
 
-A school hall full of people angry about being warm somewhere else.
+He was eating.
 
-And a stronger Ranker holding a sheet-metal collar above me while I shouted left.
+No change.
 
-First life, I would have wanted the rupture.
+Next match.
 
-Not because I was cruel.
+A woman with a curved blade won in nine exchanges.
 
-Because that was where capability mattered most clearly.
+The last one cut through a reinforced shield hard enough that the broken half spun into the barrier wall and embedded there.
 
-Second life, clarity had become less important.
+People shouted.
 
-The people at River Nine did not care which job looked like Ranker work.
+Arcrutus took another piece of food from the cone.
 
-They cared whether home was warm when they went back.
+No change.
 
-Reasonable standard.
+Third match.
+
+Longer.
+
+Two reinforcement specialists.
+
+Ugly fight.
+
+Bodies colliding.
+
+Short punches.
+
+Knees.
+
+Shoulder checks.
+
+The kind of work spectators call boring because nobody flies through a wall.
+
+One fighter took a strike badly.
+
+Not enough to drop him.
+
+His rear leg moved.
+
+Three inches maybe.
+
+Toe turned outward.
+
+Hip followed.
+
+He let the force rotate through instead of fighting it.
+
+Then recovered square.
+
+Arcrutus stopped eating.
+
+One second.
+
+Maybe less.
+
+Then his hand went back into the cone.
+
+I looked at the ring.
+
+Nothing obvious had happened.
+
+The fighter who adjusted his foot lost two exchanges later.
+
+Crowd reacted to the finish.
+
+Arcrutus did not.
+
+I kept thinking about the foot.
+
+That evening in the cave, Ithar interrupted me.
+
+"Why?"
+
+I looked at him.
+
+"Why what?"
+
+"Why did you notice his hand?"
+
+"Because it stopped."
+
+"Many hands stopped that day."
+
+"His mattered."
+
+"You had known his name for less than an hour."
+
+"Exactly."
+
+Ithar waited.
+
+I hated when he made silence feel like paperwork.
+
+"Everyone else reacted to the obvious things," I said. "Big hits. Fast finishes. Broken equipment. Arcrutus didn't. Then something small happened and he changed."
+
+"Changed."
+
+"Stopped eating."
+
+"Profound."
+
+"You weren't there."
+
+"Correct."
+
+"It was different."
+
+"You have described a man pausing between bites."
+
+"An S-class man."
+
+Ithar's nostril moved.
+
+"You assign significance aggressively."
+
+"Sometimes correctly."
+
+"Sometimes."
+
+I pointed at him.
+
+"Keep that energy when we get to you throwing rocks at walls."
+
+The dragon's eye narrowed.
+
+Good.
+
+I continued.
+
+The next morning I arrived early.
+
+Not for Arcrutus.
+
+That is what I told myself.
+
+Support staff arrived early because fighters do foolish things before crowds appear.
+
+Warm-up injuries.
+
+Bad food.
+
+Unapproved stimulants.
+
+One man strained a calf demonstrating a kick to his nephew.
+
+His first scheduled match was three hours later.
+
+Family remains dangerous.
+
+I worked.
+
+The main gallery filled.
+
+I did not look up immediately.
+
+Then people shifted.
+
+Smaller change this time.
+
+They knew where he wanted to sit now.
+
+Arcrutus appeared.
+
+Same section.
+
+Same shade.
+
+Different paper cone.
+
+I asked what he was eating.
+
+The Guild woman said roasted chestnuts.
+
+"Yesterday?"
+
+"Also chestnuts."
+
+"Does he come for the tournament or the chestnuts?"
+
+She looked toward the gallery.
+
+"Ask him."
+
+"No."
+
+"Wise."
+
+The open qualifiers began.
+
+Those were better.
+
+A-class fighters were not common.
+
+People use rare badly.
+
+Gold is rare in a poor household and common in a dragon's cave.
+
+A-class fighters were rare in streets, common enough around a tournament with prize money and clan banners.
+
+Still different.
+
+The first A-class exchange I saw properly changed what I thought reinforced movement was.
+
+The man on the left planted.
+
+The stone under his foot broke before he moved.
+
+Then he crossed half the ring.
+
+Not vanished.
+
+I could see him.
+
+I simply could not have stopped him.
+
+His opponent did.
+
+That mattered.
+
+The collision sounded wrong.
+
+Not loud.
+
+Deep.
+
+The barrier around the ring flexed inward like fabric in wind.
+
+Half the lower spectators leaned back.
+
+I did too.
+
+Then I looked at Arcrutus.
+
+Nothing.
+
+Chestnut.
+
+Another exchange.
+
+Nothing.
+
+The left fighter changed timing.
+
+Feinted high.
+
+Dropped level.
+
+His opponent's barrier snapped into place at the ribs.
+
+Too late, I thought.
+
+It was not.
+
+Impact dispersed.
+
+The defending fighter gave ground but stayed aligned.
+
+The support standing outside his corner raised two fingers.
+
+Small motion.
+
+The fighter's next step came cleaner.
+
+Arcrutus looked at the support.
+
+Not the fighter.
+
+I noticed.
+
+The support lowered his hand.
+
+Arcrutus looked back to the ring.
+
+I stopped watching the fighters for three exchanges.
+
+Then five.
+
+That was how it started.
+
+I would watch the ring until something happened.
+
+Then look at Arcrutus.
+
+Sometimes nothing.
+
+Usually nothing.
+
+That became information.
+
+A spectacular throw put a B-class challenger through a boundary brace.
+
+Crowd screamed.
+
+Arcrutus scratched the side of his thumb.
+
+An A-class woman took a glancing strike to the shoulder and changed her breathing before anyone called time.
+
+Arcrutus leaned forward half an inch.
+
+A famous spear fighter won cleanly.
+
+Arcrutus spent most of the match looking at the spear fighter's support.
+
+I started doing the same.
+
+The support barely moved.
+
+That bothered me.
+
+People who do nothing are hard to study.
+
+Later I would understand that was often the point.
+
+At twenty-three I assumed usefulness should be visible.
+
+I had spent years trying to become visibly useful.
+
+The tournament put a man in front of me who seemed interested in the opposite.
+
+By midday I had developed a system.
+
+Bad one.
+
+Still a system.
+
+If the crowd reacted and Arcrutus did not, I asked what the crowd had missed.
+
+If Arcrutus reacted and the crowd did not, I asked what I had missed.
+
+If both reacted, I assumed something important had happened.
+
+If neither reacted, I occasionally remembered I had a job.
+
+The Guild woman caught me looking up during a wrist stabilization.
+
+"You going to work or marry him?"
+
+"Work."
+
+"Then look at the wrist."
+
+Fair.
+
+I looked at the wrist.
+
+It was swollen.
+
+The fighter attached to it was annoyed.
+
+"Can I go?"
+
+"No."
+
+"Why?"
+
+"Because your wrist is shaped like a vegetable."
+
+"Which one?"
+
+I looked at it.
+
+"Bad one."
+
+He did not appreciate that.
+
+I held stabilization while the senior support checked movement.
+
+Small fracture.
+
+Done for the day.
+
+He argued.
+
+Lost.
+
+When I looked up again, Arcrutus was looking at me.
+
+Directly.
+
+I froze.
+
+Not physically.
+
+Mostly.
+
+His face had not changed.
+
+No smile.
+
+No frown.
+
+Paper cone in one hand.
+
+Other hand resting on his knee.
+
+He looked away first.
+
+Back to the ring.
+
+I exhaled.
+
+The Guild woman beside me said, "What?"
+
+"Nothing."
+
+That was true for another twenty years.
+
+At least in the version I told myself.
+
+Ithar interrupted again.
+
+"He was observing you."
+
+"Eventually."
+
+"No."
+
+I looked at him.
+
+"What do you mean, no?"
+
+"You said he looked directly at you."
+
+"Yes."
+
+"That is not eventually."
+
+"That's when I noticed."
+
+The dragon's pupil narrowed.
+
+I knew where this was going.
+
+"Do not."
+
+"Are you good at observing others?"
+
+There it was.
+
+I leaned back against the stone.
+
+"Yes."
+
+Ithar waited.
+
+"Usually."
+
+Still waiting.
+
+"Better than average."
+
+The dragon remained offensively patient.
+
+"Fuck you."
+
+"That phrase remains available."
+
+"You really liked that one."
+
+"It remains accurate."
+
+I looked toward the cave mouth.
+
+Morning had become later morning while I talked.
+
+Light reached farther across the floor now.
+
+Ithar had not moved.
+
+Much.
+
+His attention had.
+
+I knew that difference now.
+
+Maybe Arcrutus had helped.
+
+Maybe I had always been like that.
+
+Hard to know.
+
+"How long had he been watching you?" Ithar asked.
+
+"I don't know."
+
+"Before you noticed."
+
+"Obviously."
+
+"How much before?"
+
+"Still don't know."
+
+"You remember when his hand stopped eating."
+
+"Yes."
+
+"You remember which competitors made him lean forward."
+
+"Yes."
+
+"You remember where he looked during a spear match."
+
+"Yes."
+
+"You do not remember when you became one of the things he was watching."
+
+I looked at him.
+
+"People are harder from inside."
+
+The dragon's eye held mine.
+
+"You were not inside Arcrutus."
+
+"I meant me."
+
+Silence.
+
+Different silence.
+
+Annoying silence.
+
+Accurate silence.
+
+I rubbed my jaw.
+
+"Anyway."
+
+Ithar's nostril moved.
+
+"You dislike that word."
+
+"Currently."
+
+"Continue."
+
+So I did.
+
+By the end of the second day I had watched more of Arcrutus than the tournament.
+
+Not because he moved more.
+
+Because he moved less.
+
+That made every change expensive.
+
+A hand paused.
+
+A shoulder shifted.
+
+His eyes left the ring.
+
+He stopped chewing.
+
+Once he looked at a fighter before the fighter's own support did.
+
+Three exchanges later the match ended on the same leg.
+
+I did not understand why yet.
+
+That was the point.
+
+I had spent most of my early life trying to learn by watching people who could do things I could not.
+
+Arcrutus was the first person who made me realize you could also learn by watching what impressed someone who could do things nobody else could.
+
+I did not know him.
+
+He had not spoken to me.
+
+I had never seen him fight.
+
+I had never seen him stand quickly.
+
+He had eaten two paper cones of chestnuts, moved one chair out of the sun, and looked at me once.
+
+By then I had stopped caring who won the tournament.
+
+I wanted to know what he was seeing.
