@@ -1,0 +1,31 @@
+{
+  "record": "019",
+  "status": "candidate_unlistened",
+  "source_sha256": "bb843e6b952566b85d174c78a3ec3cfc60095f092ae2d4554635e920056a9fd4",
+  "routing_mode": "exact_quote_locked",
+  "notes": "Preview-safe takes. Greg=deep. Pause values come from the validated route plan.",
+  "segments": [
+    {"index":1,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/82ba37a4-79e5-4148-9ec9-b551ef465231.mp3","pause_after_ms":450},
+    {"index":2,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b43692bd-b79c-46a2-8574-fd7ae0da5014.mp3","pause_after_ms":450},
+    {"index":3,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2859d2fc-dbfe-486c-9f7d-5d79e06bc034.mp3","pause_after_ms":450},
+    {"index":4,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/eec4df36-9d79-4b0b-b630-38657c427be5.mp3","pause_after_ms":450},
+    {"index":5,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/34cfcb61-a683-45a1-9c8e-937fe39a316c.mp3","pause_after_ms":450},
+    {"index":6,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/53f5bf13-e6c9-428e-a7b0-443fada5b690.mp3","pause_after_ms":450},
+    {"index":7,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5f372102-bc00-4dee-be8c-49cd73d90612.mp3","pause_after_ms":450},
+    {"index":8,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5f445969-1e3d-4daa-9659-bf55154d5339.mp3","pause_after_ms":450},
+    {"index":9,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/0682f955-b6c5-405a-a33c-2fd96a677b04.mp3","pause_after_ms":450},
+    {"index":10,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e422cc64-fb19-42f4-9890-0fa7cca625cc.mp3","pause_after_ms":450},
+    {"index":11,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/96ccd73a-354c-44c4-8a23-d1cc4ec81168.mp3","pause_after_ms":450},
+    {"index":12,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/209640ed-caec-4303-827f-81d5cd23dbcb.mp3","pause_after_ms":450},
+    {"index":13,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ce5b53d0-072b-4186-99dd-d58c52e70379.mp3","pause_after_ms":450},
+    {"index":14,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8ccf9a9e-f788-4202-ba92-bde9ae972552.mp3","pause_after_ms":450},
+    {"index":15,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/01fd9742-9846-42b1-8146-89b59a9d0fc4.mp3","pause_after_ms":450},
+    {"index":16,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/6f7af7be-0f05-4e2d-924e-c1e93dec5175.mp3","pause_after_ms":450},
+    {"index":17,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/82016100-318a-48b0-bfa7-d51254408eab.mp3","pause_after_ms":450},
+    {"index":18,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8b0bf49b-0c8c-4c77-a549-b07112a820e5.mp3","pause_after_ms":450},
+    {"index":19,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a5bab293-da09-434d-ae4f-231045654ccc.mp3","pause_after_ms":450},
+    {"index":20,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/73964a97-99da-45ac-b87b-78f641854d10.mp3","pause_after_ms":450},
+    {"index":21,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7ea0e6a6-ae25-4006-b13d-9687375d6cbb.mp3","pause_after_ms":450},
+    {"index":22,"preview_url":"https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e07d3353-6bf8-4ce8-9905-38f9701d6aaf.mp3","pause_after_ms":220}
+  ]
+}
