@@ -27,8 +27,8 @@ class RepoContractTests(unittest.TestCase):
         self.assertEqual(records[-1]["id"], "r079")
         self.assertTrue(all(r["prose_status"] == "reference" for r in records[:10]))
         self.assertTrue(all(r["prose_status"] in {"needs_rehearsal", "restored"} for r in records[10:]))
-        self.assertTrue(all(r["published"] for r in records[:40]))
-        self.assertTrue(all(not r["published"] for r in records[40:]))
+        self.assertTrue(all(r["published"] for r in records[:41]))
+        self.assertTrue(all(not r["published"] for r in records[41:]))
 
     def test_reader_is_single_runtime_surface_and_audio_aware(self):
         html = (ROOT / "index.html").read_text(encoding="utf-8")
