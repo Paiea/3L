@@ -29,6 +29,8 @@ jobs:
               "audio/production/record-${n}/route-plan.json"
           done
           python -m unittest tests.test_audio_routing -v
+      - name: Materialize capture work orders
+        run: python scripts/materialize_capture_work_orders.py
       - name: Validate captured segment manifests for 011-020
         run: |
           python - <<'PY'
@@ -56,14 +58,14 @@ jobs:
               print(f'verified {capture_path}: {len(csegs)} segments')
           print(f'verified batch capture manifests: {verified}')
           PY
-      - name: Commit generated route plans
+      - name: Commit generated production prep files
         run: |
-          if [ -z "$(git status --porcelain -- audio/production/record-*/route-plan.json)" ]; then
-            echo "route plans already current"
+          if [ -z "$(git status --porcelain -- audio/production/record-*/route-plan.json audio/production/record-*/work-orders/*.json)" ]; then
+            echo "production prep files already current"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add audio/production/record-*/route-plan.json
-          git commit -m "audio: materialize route plans 011-020"
+          git add audio/production/record-*/route-plan.json audio/production/record-*/work-orders/*.json
+          git commit -m "audio: materialize capture work orders 011-020"
           git push origin HEAD:audio/capture-011-020
