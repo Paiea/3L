@@ -253,7 +253,7 @@
       "path": "manuscript/records/023/current.md",
       "story_status": "valid",
       "prose_status": "restored",
-      "published": false,
+      "published": true,
       "word_count": 2485
     },
     {
@@ -264,7 +264,7 @@
       "path": "manuscript/records/024/current.md",
       "story_status": "valid",
       "prose_status": "restored",
-      "published": false,
+      "published": true,
       "word_count": 2449
     },
     {
@@ -275,7 +275,7 @@
       "path": "manuscript/records/025/current.md",
       "story_status": "valid",
       "prose_status": "restored",
-      "published": false,
+      "published": true,
       "word_count": 2146
     },
     {
@@ -286,7 +286,7 @@
       "path": "manuscript/records/026/current.md",
       "story_status": "valid",
       "prose_status": "restored",
-      "published": false,
+      "published": true,
       "word_count": 1915
     },
     {
@@ -297,7 +297,7 @@
       "path": "manuscript/records/027/current.md",
       "story_status": "valid",
       "prose_status": "restored",
-      "published": false,
+      "published": true,
       "word_count": 2241
     },
     {
@@ -308,7 +308,7 @@
       "path": "manuscript/records/028/current.md",
       "story_status": "valid",
       "prose_status": "restored",
-      "published": false,
+      "published": true,
       "word_count": 2153
     },
     {
@@ -319,7 +319,7 @@
       "path": "manuscript/records/029/current.md",
       "story_status": "valid",
       "prose_status": "restored",
-      "published": false,
+      "published": true,
       "word_count": 3277
     },
     {
@@ -329,9 +329,9 @@
       "title": "THE MECHANIC",
       "path": "manuscript/records/030/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1530
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 2429
     },
     {
       "id": "r031",
@@ -340,9 +340,9 @@
       "title": "THE MEDIATOR",
       "path": "manuscript/records/031/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1266
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 2472
     },
     {
       "id": "r032",
@@ -351,9 +351,9 @@
       "title": "THE SUCCESSOR",
       "path": "manuscript/records/032/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1269
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 2079
     },
     {
       "id": "r033",
@@ -362,9 +362,9 @@
       "title": "THE NEW BOSS",
       "path": "manuscript/records/033/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1132
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 1852
     },
     {
       "id": "r034",
@@ -373,9 +373,9 @@
       "title": "THE RATEPAYER",
       "path": "manuscript/records/034/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1320
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 2435
     },
     {
       "id": "r035",
@@ -384,9 +384,9 @@
       "title": "THE ADVOCATE",
       "path": "manuscript/records/035/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1469
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 3841
     },
     {
       "id": "r036",
@@ -395,9 +395,9 @@
       "title": "THE EVACUATOR",
       "path": "manuscript/records/036/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1286
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 2614
     },
     {
       "id": "r037",
