@@ -12,11 +12,11 @@ Ithar's investment must not depend on suddenly caring about anonymous human scal
 ### Nhal
 Greg's First-Life meeting with Nhal is a major causal promise rather than background lore.
 
-Greg meets Nhal around age forty-eight or forty-nine during a major expedition beneath the salt flats north of Vey. He enters that expedition as an **A-class support**, not yet S-class. Three of the seven living S-class humans are present.
+Greg meets Nhal around age forty-eight or forty-nine during a major expedition beneath the salt flats north of Vey. He reaches that expedition as an **A-class support**, not yet S-class. Three of the seven living S-class humans are present.
 
 Nhal is ancient and nonhuman and is trapped, bound, contained, anchored, or otherwise unable to leave an ancient structure or system.
 
-**Nhal's containment predates the divergence between Greg's two adult histories. She is trapped in both histories.** First Life differs because Greg's high-rank path helps produce or join the expedition that discovers her. Life Two never reproduces that discovery path, so humanity does not automatically know she is there.
+**Nhal's containment predates the divergence between Greg's two adult histories. She is trapped in both histories.** First Life differs because Greg's high-rank world reaches her. Life Two never reproduces that discovery path, so humanity does not automatically know she is there.
 
 The containment is not merely a cage. The expedition must discover that Nhal is held in relation to a larger load-bearing or foundational system. Exact mechanics remain open, but Greg's support instincts make him unusually sensitive to the relevant questions: where the load goes, what Nhal is carrying, what changes if she moves, and whether breaking the containment transfers or releases something worse.
 
@@ -37,14 +37,14 @@ Record 002 already establishes Ithar's first response to Nhal and must remain co
 
 Greg names Nhal. Ithar recognizes one of her names, says that in the history he knows she has not spoken to a human in one hundred and twelve years, asks when and where Greg met her and what made the meeting possible, and visibly reacts when Greg says she was trapped.
 
-Ithar explicitly says he is **not asking for the entire story yet**. That means later prose must not stage Nhal's name or captivity as a first-time revelation.
+Ithar explicitly says he is **not asking for the entire story yet**. Later prose must not stage Nhal's name or captivity as a first-time revelation.
 
-At this early point Ithar has an extraordinary claim from a man whose reincarnation explanation is not yet established. His restraint is therefore rational and in character.
+At this early point Ithar has an extraordinary claim from a man whose reincarnation explanation is not yet established. His restraint is rational and in character.
 
 ### Ithar's later Nhal realization
 When the examination later reaches the full First-Life Nhal expedition, the new information is technical and causal rather than simply "Nhal was trapped."
 
-Greg's account should give Ithar enough detail about the containment, load behavior, ancient structure, S-class death, and Nhal's gift to infer that the containment predates the divergence and therefore **Nhal may still be trapped in Life Two now**.
+Greg's account should give Ithar enough detail about containment, load behavior, ancient structure, the S-class death, and Nhal's gift to infer that the containment predates divergence and therefore **Nhal may still be trapped in Life Two now**.
 
 Ithar should remember earlier details and ask precise questions rather than react as though hearing the story from scratch.
 
@@ -96,20 +96,94 @@ The catastrophe must destroy something the book genuinely allowed to live first.
 ### Role-specific capability
 Greg's S-class history belongs to support, not warrior combat.
 
-First-Life Greg was approximately C-class as a warrior and eventually S-class as a support. He enters the Nhal expedition as A-class support and earns S-class recognition after what happens there.
+First-Life Greg was approximately C-class as a warrior and eventually S-class as a support. He reaches the Nhal expedition as A-class support and earns S-class recognition after what happens there.
 
 Do not casually describe First-Life Greg as an S-class warrior or imply one universal capability letter when discipline matters.
 
 ### The seven S-class humans
 During Greg's First-Life apex period, only **seven living humans** are recognized as S-class. Do not casually create an eighth. An eighth living S-class would be a world-scale event and requires explicit canon revision.
 
-Most of the seven should be older and terrifying: clan heads, old-blood inheritors, veterans, or people whose power and institutional weight accumulated over decades. Only two or three should belong to Greg's younger generation, including Greg.
+Four of the Seven at Greg's First-Life apex are old monsters, roughly sixty-plus or comparably old in accumulated technique, bloodline, institutional weight, and survival. Clan heads, old-blood inheritors, long-lived veterans, and similar figures belong in this group. The remaining three are comparatively younger, Greg among them after recognition.
 
 Seven is not an Authority quota. When one S-class dies during the Nhal expedition, there are six until Greg's earned recognition restores the count to seven.
 
 In Life Two Greg never enters the Seven. The First-Life expedition casualty can remain alive because that expedition does not reproduce. Exact current Seven roster and later turnover remain open.
 
 At least some S-class people should later appear, matter, or be encountered rather than existing only as lore decoration.
+
+### What makes Greg's support different
+Greg's First-Life support must eventually be shown rather than left as a label.
+
+At peak he could make an A-class combatant operate at effective S-class conditions and make an actual S-class combatant materially more dangerous without inventing a new official rank above S.
+
+Greg's key difference is **not merely adding more power**. His support keeps scaling even when the target is already near the human ceiling. He identifies and manages the reasons an elite person cannot safely use all the capacity they already possess: recoil, load concentration, channel strain, reinforcement failure, transition instability, structural stress, pressure transfer, and timing.
+
+Most support adds capacity. Greg increasingly **releases capacity** by moving or stabilizing the failure points that make powerful people hold back.
+
+At high development he can treat several people as one connected load network. He can redistribute force, prepare one body or structure to catch another person's recoil, stabilize failure before it propagates, and keep several exceptional people operating above the conditions they normally tolerate.
+
+Exact magical perception remains open. Do not force a game-like visual interface unless prose earns one.
+
+### S-class culture around Greg
+S-class humans who have actually been supported by Greg tend to value him far above his official letter.
+
+Some may initially resist or dismiss attaching an A-class support to them because they have worked with excellent supports before and believe they already know their own ceiling. Greg changes their minds experientially.
+
+Old S-class monsters especially can become attached to working with him because he gives them something rare: the sensation that they can go harder than the ceiling they have known for years or decades.
+
+This can make them genuinely like Greg, become possessive of access to his support, and protect him aggressively in operations. The protection is emotional but also doctrinal: if Greg goes down, everyone attached to his network immediately loses margin.
+
+The surviving S-class participants in Vey later become some of Greg's strongest advocates for S-class recognition because they have personally felt what he does at their own ceiling.
+
+### The Nhal expedition entry
+Greg is **not formally invited** onto the Nhal expedition.
+
+Greg hears about the expedition, wants to go, and seeks a place. He is denied. Exact bureaucratic reasoning remains open, but plausible pressure includes secrecy, limited complement, concern that an A-class support lacks the durability for a mission already carrying three S-class humans, or confidence that existing support staff are enough.
+
+One older S-class human already knows Greg's practical value and refuses to accept leaving him behind. Without giving Greg a meaningful choice, that S-class renders Greg unconscious by a safe and reliable method and smuggles him into the expedition inside a literal reinforced expedition gear bag or comparable mundane carry sack.
+
+Greg had wanted the mission. He is still furious because the S-class could have simply asked him.
+
+The smuggler is one of the old monsters and already a Greg believer. The conceptual logic is not "secret weapon" so much as **insurance**: entering an unknown S-class-grade problem without Greg would mean voluntarily accepting less capability because administrators misread the A on his badge.
+
+### The expedition staging and bag reveal
+Before Greg is revealed, the expedition staging should spend **substantial scene time, roughly half a chapter/record or more if the prose wants it**, showcasing what serious S-class preparation looks like.
+
+The party and support personnel bring out their toys. This can include absurd weapons, massive axes or other signature arms, commissioned equipment made specifically for the job, old artifacts, titled or historically known gear, specialized protective tools, restricted devices, custom reinforcement pieces, logistical solutions, and other expensive or prestigious contingencies.
+
+The point is not a catalog for its own sake. The sequence teaches scale. These are people for whom institutions commission unique objects and retrieve old artifacts because three of the Seven are going somewhere bad enough to justify them.
+
+Let people compare, unveil, test, mock, admire, distrust, or explain pieces. Let the audience briefly believe the expedition's cleverest answers are the visible objects.
+
+Then the old S-class arrives with unexpected cargo.
+
+Other personnel can plausibly assume the bag contains food, a restricted artifact, some commissioned contingency, or a literal secret weapon.
+
+The reveal is Greg: cramped, disoriented, angry, and still officially A-class.
+
+The contrast is the joke and the scale statement. After half a chapter of legendary equipment, one S-class's most important additional piece of expedition preparation is **Greg**.
+
+Experienced S-class people who already know Greg should understand the logic immediately. Administrators may be furious. The people expecting to survive should be relieved.
+
+Exact dialogue remains open. Do not over-script the gag in authority.
+
+### Expedition composition and memory
+Three of the Seven go to Vey: **two old monsters and one comparatively newer S-class**. Greg is still A-class support.
+
+The expedition is larger than those four. It includes whatever surveyors, researchers, guides, Guild or Authority workers, logistics staff, specialists, security, and other personnel the mission earns.
+
+Greg's later narration does not need to preserve a clean cast list. He can forget names while remembering odd minor details: a cough, red gloves, terrible tea, a lost spoon, a piece of equipment, an injury, a joke, a scream, or some other fragment memory kept for no obvious reason.
+
+### The Vey death and Greg's recognition
+The Nhal expedition is the natural First-Life sequence for showing what Greg does to S-class people under genuine pressure.
+
+One of the three S-class humans dies. Exact casualty remains open; the comparatively newer S-class is a viable pressure but is not yet locked.
+
+The death proves the site exceeded known human safety margins. Greg's continued support after that death keeps the expedition functioning at a scale the classification system can no longer honestly describe as merely A-class support.
+
+After Vey, the surviving S-class humans actively matter in the fight for Greg's recognition. They have experienced his support at their own ceiling and watched him continue after one of the Seven died.
+
+The political argument should not be that Greg deserves an honorary seat. It is that a classification system focused on solo durability, reinforcement, or destructive output is measuring the wrong thing when it calls him A-class.
 
 ### Ranker versus Named Ranker
 Ranker and Named Ranker are not interchangeable.
@@ -126,13 +200,6 @@ First-Life Greg may have carried a different Named Ranker title. **Swaggory** is
 Barrier begins as a cheap boundary-control spell with mundane uses, including a culturally ordinary contraceptive application. Greg first learned it for an unheroic practical reason.
 
 That cheap spell must plausibly grow into stabilization, reinforcement control, load transfer, linking, and eventually team-scale capability management.
-
-### What S-class support meant
-Greg's First-Life support must eventually be shown rather than left as a label.
-
-At peak he could make an A-class combatant operate at effective S-class conditions and make an actual S-class combatant materially more dangerous without inventing a new official rank above S.
-
-The Nhal expedition is the natural First-Life sequence in which the reader can finally feel A-class Greg attached to S-class fighters and see the support performance that forces the world to recognize him as S-class.
 
 ### The song and somebody else's revenge
 The later town catastrophe is the culmination of a revenge story Greg already knew culturally in First Life, likely through a song, ballad, or famous account.
