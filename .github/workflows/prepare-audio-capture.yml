@@ -29,6 +29,27 @@ jobs:
               "audio/production/record-${n}/route-plan.json"
           done
           python -m unittest tests.test_audio_routing -v
+      - name: Validate captured segment manifests
+        run: |
+          python - <<'PY'
+          import glob, json
+          from pathlib import Path
+          for capture_path in sorted(glob.glob('audio/production/record-*/captures.json')):
+              capture_path = Path(capture_path)
+              route_path = capture_path.with_name('route-plan.json')
+              capture = json.loads(capture_path.read_text(encoding='utf-8'))
+              route = json.loads(route_path.read_text(encoding='utf-8'))
+              assert capture['source_sha256'] == route['source_sha256'], capture_path
+              assert capture['routing_mode'] == route['routing_mode'], capture_path
+              csegs = capture['segments']
+              rsegs = route['segments']
+              assert len(csegs) == len(rsegs), (capture_path, len(csegs), len(rsegs))
+              assert [s['index'] for s in csegs] == [s['index'] for s in rsegs], capture_path
+              for captured, routed in zip(csegs, rsegs):
+                  assert captured['pause_after_ms'] == routed['pause_after_ms'], (capture_path, captured['index'])
+                  assert captured['preview_url'].startswith('https://'), (capture_path, captured['index'])
+              print(f'verified {capture_path}: {len(csegs)} segments')
+          PY
       - name: Commit generated route plans
         run: |
           if [ -z "$(git status --porcelain -- audio/production/record-*/route-plan.json)" ]; then
