@@ -59,10 +59,12 @@ audio_path.write_text(json.dumps(audio,indent=2)+'\n',encoding='utf-8')
 
 manuscript_path=root/'manuscript/manifest.json'
 manuscript=json.loads(manuscript_path.read_text(encoding='utf-8'))
-# Verify the repository's word-count convention against already restored prose.
+def manuscript_word_count(path):
+    return sum(1 for token in path.read_text(encoding='utf-8').split() if token != '##')
+# Verify the repository's existing word-count convention against already restored prose.
 for rec in manuscript['records'][13:20]:
     current=root/rec['path']
-    assert len(current.read_text(encoding='utf-8').split())==rec['word_count'], (rec['id'],len(current.read_text(encoding='utf-8').split()),rec['word_count'])
+    assert manuscript_word_count(current)==rec['word_count'], (rec['id'],manuscript_word_count(current),rec['word_count'])
 # Reconcile rehearsal commits already present on main: changed current.md means restored.
 reconciled=[]
 for rec in manuscript['records'][10:]:
@@ -70,7 +72,7 @@ for rec in manuscript['records'][10:]:
     original=root/'manuscript'/'records'/rec['slot']/'versions'/'original-run.md'
     if current.read_bytes()!=original.read_bytes() and rec['prose_status']=='needs_rehearsal':
         rec['prose_status']='restored'
-        rec['word_count']=len(current.read_text(encoding='utf-8').split())
+        rec['word_count']=manuscript_word_count(current)
         reconciled.append(rec['id'])
     if rec['id']=='r021':
         rec['published']=True
