@@ -12,15 +12,15 @@ Control is very soothing when applied to lentils.
 
 The promotion was not called a promotion.
 
-Institutions like avoiding words that might imply more money.
+Institutions prefer titles that imply additional responsibility without accidentally promising additional money.
 
 DISTRICT TRANSFER COORDINATOR, ACTING.
 
-Six-month appointment.
+Six months.
 
 Three districts.
 
-Load scheduling during planned outages, maintenance transfers, storm response, and any ordinary week when too many stations wanted the same capacity.
+Load scheduling during planned outages, maintenance transfers, storm response, emergency reserve requests, and ordinary weeks when too many stations wanted the same capacity at the same time.
 
 Nessa brought the notice home folded into quarters.
 
@@ -34,17 +34,17 @@ Then the hours.
 
 Then the title again.
 
-“You took it.”
+"You took it."
 
-“Yes.”
+"Yes."
 
-“When?”
+"When?"
 
-“This morning.”
+"This morning."
 
-“You didn't ask me.”
+"You didn't ask me."
 
-The words came out before my brain approved them.
+The words arrived before my judgment did.
 
 Nessa stopped chewing.
 
@@ -56,43 +56,39 @@ Still not level.
 
 Apparently furniture could survive conversations better than people.
 
-“That sounded bad,” I said.
+"That sounded bad," I said.
 
-“Yes.”
+"Yes."
 
-“I meant schedule.”
+"I meant the schedule."
 
-“Did you?”
+"Did you?"
 
-“Mostly.”
+"Mostly."
 
 She waited.
 
-I hated when she did that.
+I had spent years learning that silence was not permission to improve your answer by inventing a different one.
 
-I had spent years learning that silence was not permission to improve your answer by inventing a new one.
+"The hours are five days."
 
-“The hours are five days,” I said.
+"Yes."
 
-“Yes.”
+"Two early."
 
-“Two early.”
+"Yes."
 
-“Yes.”
+"One late."
 
-“One late.”
+"Yes."
 
-“Yes.”
+"You keep East Four?"
 
-“You still have East Four shifts?”
+"Two shifts a month while I'm acting. Enough to keep field qualification."
 
-“Two a month to keep field qualification.”
+"And South Six?"
 
-“And South Six?”
-
-“No regular coverage.”
-
-I kept reading.
+"No regular coverage."
 
 District office was across Market Bridge.
 
@@ -104,9 +100,9 @@ Far enough that my parents' appointments changed.
 
 Far enough that the household ledger would notice transport.
 
-Far enough that I immediately began moving pieces in my head.
+Far enough that my brain immediately began moving pieces.
 
-Private work Tuesdays.
+Private work Tuesday.
 
 District inspection Wednesday and Thursday.
 
@@ -114,111 +110,111 @@ Parents Friday morning.
 
 Nessa late Friday.
 
-Laundry.
+Market.
 
-Food.
+Laundry.
 
 Coal.
 
+Food.
+
 I could see the week breaking.
 
-So I tried to fix it.
+So naturally I tried to fix it before asking whether she wanted the life creating the problem.
 
-That was the first mistake.
-
-“We can move shopping to sixth day,” I said.
+"We can move shopping to sixth day," I said.
 
 Nessa looked at me.
 
-“What?”
+"What?"
 
-“Market. You usually go third day after shift. If you're at district, I'll do sixth.”
+"Market. You usually go third day after shift. I'll do sixth."
 
-“Okay.”
+"Okay."
 
-“And laundry Sunday.”
+"And laundry Sunday."
 
-“Greg.”
+"Greg."
 
-“Your late night is Friday, so my mother can move healer appointments to Thursday.”
+"Your late night is Friday, so my mother's healer can move to Thursday."
 
-“My late night.”
+"My late night."
 
-“Yes.”
+"Yes."
 
-“My appointment.”
+"My job."
 
-“Yes.”
+"Yes."
 
-“You have had the paper for forty seconds.”
+"You have had the paper for maybe forty seconds."
 
-“Approximately.”
+"Approximately."
 
-“And you have already moved your mother's healer.”
+"And you have already moved your mother's healer appointment."
 
-“I haven't moved anything.”
+"I haven't moved anything."
 
-“You moved her in your face.”
+"You moved her in your face."
 
 Apparently the face remained a security failure.
 
 I put down the notice.
 
-“Congratulations.”
+"Congratulations."
 
-Nessa stared.
+Nessa stared at me.
 
-“That sounded painful.”
+"That sounded painful."
 
-“It was delayed.”
+"It was delayed."
 
-“By the pantry plan.”
+"By the pantry plan."
 
-“I have not mentioned the pantry.”
+"I have not mentioned the pantry."
 
-“You will.”
+"You will."
 
 She was right.
 
 I hated that too.
 
-“Do you want it?” I asked.
+"Do you want it?" I asked.
 
 The question should have come first.
 
 We both knew that.
 
-Nessa's expression softened.
+Her expression softened.
 
-“Yes.”
+"Yes."
 
-“Why?”
+"Why?"
 
-“Because I am good at it.”
+"Because I'm good at it."
 
 Simple.
 
 I understood that answer better than most.
 
-She continued.
+She leaned back.
 
-“I like station work. I do. But I am tired of being the person who receives a transfer plan after somebody who has never held a live schedule decides three outages can overlap because they are in different departments.”
+"I like station work. I do. But I am tired of getting a transfer plan after somebody who has never held a live schedule decides three outages can overlap because they are in different departments."
 
-“That is specific.”
+"That is specific."
 
-“It happened Tuesday.”
+"It happened Tuesday."
 
-“East Three, Market Five, tram branch?”
+"East Three, Market Five, tram branch?"
 
-“Yes.”
+"Yes."
 
-“That was stupid.”
+"That was stupid."
 
-“Yes.”
+"Yes."
 
-“Who fixed it?”
+"Who fixed it?"
 
-“I did.”
+"I did."
 
 There it was.
 
@@ -226,75 +222,61 @@ Not my story.
 
 Her work.
 
-I had known Nessa could schedule live pressure better than I could.
+I had known for years that Nessa could hold six moving pieces in her head while making everyone involved believe she was only irritated with one of them.
 
-Record Nineteen had proved it embarrassingly in public.
+Record Nineteen had made that public.
 
-Tova had asked if district could hire her.
+District had apparently noticed.
 
-Nessa had said no because she already had a job.
+"Acting?" I asked.
 
-Apparently district had responded by offering another one.
+"Six months."
 
-Reasonable.
+"You think they make it permanent?"
 
-Annoying.
+"I don't know."
 
-“Acting?” I asked.
+"Do you want permanent?"
 
-“Six months.”
-
-“You think they make it permanent?”
-
-“I don't know.”
-
-“Do you want permanent?”
-
-Nessa thought.
+She thought before answering.
 
 That mattered.
 
-“Maybe.”
+"Maybe."
 
 I nodded.
 
-“Okay.”
+"Okay."
 
-She looked at me.
+"That's it?"
 
-“That's it?”
+"No. I have seventeen schedule concerns."
 
-“No. I have seventeen schedule concerns.”
+"There he is."
 
-“There he is.”
+"But congratulations first."
 
-“But congratulations first.”
-
-“Better.”
+"Better."
 
 I got up.
 
 Opened the pantry.
 
-Nessa laughed so hard she had to put her cup down.
+Nessa laughed hard enough to put her cup down.
 
-“Fuck you.”
+"Fuck you."
 
-“Lentils?”
+"The lentils are disorganized."
 
-“They are disorganized.”
+"They are beans."
 
-“They are beans.”
+"Not all of them."
 
-“Not all of them.”
-
-“That is apparently your crisis.”
+"That is apparently your crisis."
 
 It was not.
 
-The first month was.
-
-Not a crisis either.
+The first month was not a crisis either.
 
 That word gets overused by people who do not have enough names for inconvenience.
 
@@ -314,25 +296,25 @@ I burned dinner once.
 
 Not badly.
 
-Enough that Mina downstairs came up to check whether her bakery was on fire.
+Enough that Mina downstairs came up to see whether her bakery was on fire.
 
-“That is insulting,” I said.
+"That is insulting."
 
-“You filled the stairwell with smoke.”
+"You filled the stairwell with smoke."
 
-“Temporary smoke.”
+"Temporary smoke."
 
 Nessa came home and ate the unburned half.
 
-“You could have bought food.”
+"You could have bought food."
 
-“I cooked.”
+"I cooked."
 
-“You fought dinner and both lost.”
+"You fought dinner and both lost."
 
 Cruel woman.
 
-My private jobs moved.
+My private work moved.
 
 One client complained.
 
@@ -350,13 +332,13 @@ Not because I wanted the money.
 
 Because his work no longer needed my presence enough to flatter me.
 
-Record Twenty-Two should have cured that.
+The shoulder should have cured that.
 
 Bodies learn faster than egos.
 
 My parents adjusted too.
 
-My mother stopped assuming Nessa could take her to healer appointments because Nessa was “the one with the better schedule.”
+My mother stopped assuming Nessa could take her to healer appointments because Nessa was "the one with the better schedule."
 
 Her schedule was worse now.
 
@@ -392,11 +374,9 @@ She looked good in them.
 
 I did not tell district.
 
-The harder change was not money.
+The harder change was information.
 
-It was information.
-
-For years Nessa knew my work because we worked together.
+For years Nessa knew my work because we worked in the same world close enough to touch.
 
 East Four.
 
@@ -406,7 +386,7 @@ Halden.
 
 Dera.
 
-Even when I moved into district inspection, she knew the stations and half the people.
+Even after I moved into district inspection, she knew the stations and half the people.
 
 Now she came home with problems I did not understand.
 
@@ -414,37 +394,37 @@ Not technically.
 
 Socially.
 
-“West Three wants a longer storm reserve.”
+"West Three wants longer storm reserve."
 
-“Give it.”
+"Give it."
 
-“From where?”
+"From where?"
 
 I stopped.
 
-“Market Two?”
+"Market Two?"
 
-“They have the clinic expansion.”
+"Clinic expansion."
 
-“South feed?”
+"South feed?"
 
-“Foundation repair.”
+"Foundation repair."
 
-“East Four?”
+"East Four?"
 
 Nessa stared.
 
-“Absolutely not.”
+"Absolutely not."
 
-“Why?”
+"Why?"
 
-“Dera will kill me.”
+"Dera will kill me."
 
-“Professional reason.”
+"Professional reason."
 
-“Also they are running pump replacement.”
+"They are also doing pump replacement."
 
-“Secondary reason.”
+"Secondary reason."
 
 She threw a cloth at me.
 
@@ -458,43 +438,43 @@ Foremen.
 
 Old grudges.
 
-People who lied about reserve need because they had been burned once five winters earlier.
+People who inflated reserve requests because one winter five years ago had scared them.
 
-People who understated need because requesting more capacity made their station look weak.
+People who understated need because requesting help made their station look weak.
+
+Supervisors who could be trusted with an extra margin.
+
+Supervisors who would spend it because it existed.
 
 Nessa knew which was which.
 
 I did not.
 
-That felt strange.
+At first I treated that as missing data.
 
-Good strange eventually.
+"What does South Two actually draw at sixth bell?"
 
-At first I treated it as missing data.
+"I don't know."
 
-“What does South Two actually draw at sixth bell?”
+"Who's their night operator?"
 
-“I don't know.”
+"Greg."
 
-“Who is their night operator?”
+"What?"
 
-“Greg.”
+"I am telling you about my day, not submitting a report."
 
-“What?”
+"Oh."
 
-“I am telling you about my day, not submitting a report.”
+"Can I continue?"
 
-“Oh.”
-
-“Can I continue?”
-
-“Yes.”
+"Yes."
 
 She continued.
 
 I practiced listening without solving.
 
-This was an advanced skill.
+Advanced skill.
 
 First-life S-class had not required it often enough.
 
@@ -504,41 +484,285 @@ Nessa was also bad at it.
 
 That helped.
 
-I came home angry about a contractor who had ignored a stop condition.
+I came home angry about a contractor who ignored a stop condition.
 
 She immediately told me what form I should change.
 
 I stared.
 
-“What?”
+"What?"
 
-“I was telling you about my day.”
+"I was telling you about my day."
 
 She stopped.
 
 Then laughed.
 
-“Fuck.”
+"Fuck."
 
-“Yes.”
+"Yes."
 
-“Fine. Continue.”
+"Fine. Continue."
 
 We became slightly less unbearable together.
 
-The acting appointment became permanent in month five.
+Then the rain came.
 
-Not because Nessa saved anything dramatic.
+Not legendary rain.
 
-No district-wide catastrophe.
+No songs.
+
+No district name afterward.
+
+Three days of warm water from the south, followed by one cold night that turned every drainage problem in the city into somebody's emergency.
+
+The Line itself held.
+
+Everything attached to it became stupid.
+
+A retaining wall failed near Market tram.
+
+Two feeder passages flooded.
+
+South Four lost a pump.
+
+West Three requested emergency reserve before anyone could prove they needed it.
+
+East Four requested less than it needed because Dera considered asking early a moral weakness.
+
+By dusk the district bells were going often enough that people stopped looking up.
+
+Nessa did not come home.
+
+At first that meant nothing.
+
+Acting coordinator.
+
+Storm.
+
+Obviously.
+
+Then dinner cooled.
+
+Then I reheated it.
+
+Then it cooled again.
+
+At ninth bell a runner came to the building because Nessa knew I would eventually do something annoying if nobody gave me information.
+
+He handed me a folded note.
+
+ALIVE.
+
+BUSY.
+
+DO NOT COME HERE.
+
+Underneath, smaller:
+
+EAT.
+
+I ate.
+
+Mostly because showing up after a written prohibition would have damaged my argument later.
+
+She came home after midnight.
+
+Hair wet.
+
+District shirt dark at the shoulders.
+
+Ink along the side of one hand.
+
+She put her keys on the table and stood there looking at the chair as if sitting required authorization.
+
+I moved the chair out.
+
+She sat.
+
+"Bad?"
+
+"Everyone is stupid."
+
+"Specific."
+
+"West Three asked for double reserve."
+
+"They always ask high."
+
+"Yes. Which would be manageable if South Four had not lost a pump and Market hadn't flooded a service passage."
+
+"East Four?"
+
+"Fine."
+
+"Dera?"
+
+"Insufferable."
+
+"Good."
+
+Nessa closed her eyes.
+
+I put food in front of her.
+
+She ate three bites before speaking again.
+
+"They wanted to isolate Market Two completely."
+
+"Clinic."
+
+"Exactly."
+
+"So you didn't."
+
+"No."
+
+"What did you do?"
+
+She opened her eyes.
+
+For the next twenty minutes she explained it.
+
+Not like a report.
+
+That mattered.
+
+She told me who panicked.
+
+Who lied.
+
+Which station chief volunteered capacity before being asked.
+
+Which dispatcher caught an impossible schedule.
+
+Which clerk found an old tram-load agreement everyone else had forgotten.
+
+She moved reserve through South Three, cut a commercial block for forty minutes, delayed a maintenance restart, and bullied West Three into admitting their first request included a comfort margin they did not need.
 
 No heroic transfer.
 
-She reduced schedule conflicts.
+No single brilliant move.
 
-That was it.
+Forty small decisions made before the next bad thing arrived.
 
-The boring metric.
+I almost told her what I would have changed.
+
+Market reserve earlier.
+
+Different isolation order.
+
+Maybe call the tram office before the second feeder flooded.
+
+The answers assembled themselves because answers always do when you were not the one making decisions while the clock moved.
+
+I kept them.
+
+Not heroically.
+
+I was simply tired enough to recognize hindsight before speaking.
+
+Nessa ate another bite.
+
+"What?"
+
+"Nothing."
+
+"You made the face."
+
+"What face?"
+
+"The correction face."
+
+Apparently there were several security failures.
+
+"I was going to tell you how I would have done your job."
+
+"And?"
+
+"I decided I enjoy marriage."
+
+"Good choice."
+
+She pushed the plate toward me.
+
+"You can wash that."
+
+There are rewards for personal growth.
+
+They are not always ceremonial.
+
+"How many outages?" I asked.
+
+"Full?"
+
+"Yes."
+
+"One service lane. Twenty-three minutes."
+
+I whistled.
+
+"That is good."
+
+"I know."
+
+She said it without modesty.
+
+I loved that.
+
+Then she put her forehead on the table.
+
+"Tired?"
+
+"No."
+
+"Current evidence?"
+
+She raised one finger without lifting her head.
+
+Marriage allows efficient communication.
+
+The storm made the district circulars.
+
+A retaining wall repair.
+
+Flooded feeder inspection.
+
+Temporary reserve rules.
+
+Nothing anyone would sing about.
+
+Years later, if you asked me what happened that winter, I could have told you about the rain.
+
+I could have told you which districts lost heat.
+
+I could have told you the Market tram ran single track for nine days.
+
+All true.
+
+The thing I remember best is Nessa asleep at our table with ink on her hand while I held a cooling cloth against the back of her neck.
+
+That was also true.
+
+The acting appointment became permanent in month five.
+
+Not because of the storm.
+
+Nessa hated when people said it was because of the storm.
+
+"The system worked because forty people did their jobs."
+
+"You coordinated them."
+
+"I coordinated some of them."
+
+"You were there seventeen hours."
+
+"That does not make me weather."
+
+Fair.
+
+The boring numbers were what kept the job.
 
 Planned outages overlapping live maintenance dropped.
 
@@ -546,7 +770,9 @@ Emergency reserve requests stopped arriving on three different forms.
 
 Night crews got earlier notice.
 
-One station complained she gave market districts too much capacity.
+Transfer windows got longer where longer actually reduced risk and shorter where people had been padding them out of habit.
+
+One station complained she favored market loads.
 
 Another complained she favored residential loads.
 
@@ -554,7 +780,7 @@ The complaints contradicted each other enough that Halden called it promising.
 
 Nessa hated that.
 
-“I want them to know I am fair.”
+"I want them to know I am fair."
 
 I looked at her.
 
@@ -562,15 +788,15 @@ Record Nineteen lived between us.
 
 She saw it.
 
-“Don't.”
+"Don't."
 
-“I said nothing.”
+"I said nothing."
 
-“You thought defensible.”
+"You thought defensible."
 
-“I did.”
+"I did."
 
-“Asshole.”
+"Asshole."
 
 She accepted the permanent post.
 
@@ -584,7 +810,7 @@ The hours became slightly more predictable.
 
 Slightly is one of civilization's most important words.
 
-We celebrated with food from a restaurant we could not quite afford without pretending it was a special occasion.
+We celebrated at a restaurant we could not quite afford without calling it a special occasion.
 
 Which it was.
 
@@ -598,11 +824,11 @@ My mother complained about the portions.
 
 Eli ate dessert before dinner because nobody noticed until too late.
 
-Nessa sat beside me wearing one of the district shirts.
+Nessa sat beside me in one of the district shirts.
 
 My mother raised her cup.
 
-“To Nessa.”
+"To Nessa."
 
 Everyone did.
 
@@ -612,23 +838,23 @@ Good.
 
 I enjoyed that.
 
-On the walk home, she said, “You know what the worst part is?”
+On the walk home she said, "You know what the worst part is?"
 
-“What?”
+"What?"
 
-“I liked East Four.”
+"I liked East Four."
 
-“You still like it.”
+"You still like it."
 
-“I know.”
+"I know."
 
-“You can like a place and leave the job.”
+"You can like a place and leave the job."
 
 She looked at me.
 
 Then smiled.
 
-“That sounds familiar.”
+"That sounds familiar."
 
 It did.
 
@@ -636,7 +862,7 @@ Eleven years at East Four had ended for me without a clean last day.
 
 Nessa's ended differently.
 
-She still took two qualification shifts each month for a while.
+She kept two qualification shifts each month for a while.
 
 Then one.
 
@@ -646,7 +872,7 @@ Her locker stayed too.
 
 Dera refused to clear it.
 
-“Until I need it,” she said.
+"Until I need it," she said.
 
 Same line.
 
@@ -658,7 +884,7 @@ Not the original.
 
 Those cords had multiplied across our life like weeds.
 
-I saw it once when I stopped by the station.
+I saw it one afternoon when I stopped at East Four for a survey copy.
 
 For a second I remembered the young woman scraping oxide beside me and stealing my potato.
 
@@ -668,7 +894,7 @@ Dera told her to make it possible.
 
 Nessa told Dera to find another district.
 
-Both women looked happy.
+Both women looked pleased.
 
 Not young.
 
@@ -680,16 +906,38 @@ I loved her then.
 
 I had loved her before.
 
-That was not the same sentence.
+Those were not the same sentence.
 
 Love changes when you keep having to update the person inside it.
 
-First-life Greg had mostly learned that through loss.
+First-life Greg had mostly learned that through absence.
 
-Second-life Greg was learning it through calendars.
+Who someone had been the last time I saw them.
 
-Better method.
+What they wrote in letters.
 
-Harder to dramatize.
+What I learned too late.
+
+Second-life Greg learned it while the other person kept coming home changed in small ways.
+
+New responsibilities.
+
+New grudges.
+
+New shirts.
+
+New people whose names I did not know.
+
+New reasons to be tired.
+
+New things she could do better than me.
+
+There are easier forms of love.
+
+Probably.
+
+I had tried several.
+
+This one kept requiring revisions.
 
 I recommend it.
