@@ -2,9 +2,15 @@
 
 ## THE MECHANIC
 
-East Four started coughing after I stopped working there.
+East Four started coughing when Mira and Tomas were fourteen months old.
 
-Dera called it a cough.
+Mira had learned to walk.
+
+Tomas had learned to say no.
+
+Both developments made leaving the apartment harder.
+
+Dera called the station problem a cough.
 
 Halden called it cyclic return instability.
 
@@ -64,7 +70,95 @@ No courtesy.
 
 Good to know some institutions remained stable.
 
-I went after district work.
+The note arrived while Tomas was sitting inside our empty washing basket.
+
+Not beside it.
+
+Inside.
+
+He had climbed in and could not climb out without admitting the decision was poor.
+
+He objected to assistance.
+
+Mira was walking from chair to table with both hands full of wooden spoons.
+
+She had discovered carrying objects made falling more dramatic.
+
+Nessa read the note over my shoulder.
+
+"You should go."
+
+"I know."
+
+"That sounded disappointed."
+
+"It is a machine making a strange noise."
+
+"Exactly."
+
+I looked at her.
+
+She smiled.
+
+Cruel woman.
+
+Nessa had district work that afternoon.
+
+My mother could come after midday.
+
+That gave me four hours at East Four before I needed to be home again.
+
+Four hours used to be the amount of time I spent deciding whether a job was worth starting.
+
+Life had changed.
+
+My mother arrived twenty minutes late because my father had misplaced his glasses while wearing them.
+
+Family support has limits.
+
+I put on my work coat.
+
+Mira immediately wanted to be held.
+
+Of course.
+
+She had ignored me for most of the morning.
+
+Now departure made me valuable.
+
+I picked her up.
+
+She put one damp hand against my cheek.
+
+Tomas saw this and also wanted up.
+
+I had two arms.
+
+Technically sufficient.
+
+Practically stupid.
+
+I held both for perhaps thirty seconds before Tomas leaned backward to inspect the ceiling and Mira tried to steal his ear.
+
+My mother took Tomas.
+
+He objected.
+
+Then noticed her necklace.
+
+I ceased to exist.
+
+Children are loyal under very specific conditions.
+
+I left.
+
+Halfway down the stairs I realized there was a wooden spoon in my coat pocket.
+
+I considered going back.
+
+Then remembered we owned more than one.
+
+Growth.
 
 East Four looked the same from the street.
 
@@ -88,13 +182,17 @@ Nessa's red cord still tied to a peg inside hers even though she barely worked s
 
 Dera stood near the upper manifold.
 
-“Late.”
+"Late."
 
-“You did not give a time.”
+"I have children."
 
-“I expected competence.”
+"Poor planning."
 
-“Then why call me?”
+"You did not give a time."
+
+"I expected competence."
+
+"Then why call me?"
 
 She smiled once.
 
@@ -112,13 +210,29 @@ She had joined East Four after I moved to district hours and apparently resented
 
 I liked her immediately for that.
 
-“Inspector,” she said.
+"Inspector," she said.
 
-“Ranker.”
+"Ranker."
 
-Dera said, “If both of you start measuring titles, I will drown you in the lower intake.”
+Dera said, "If both of you start measuring titles, I will drown you in the lower intake."
 
 We stopped.
+
+The station was hot.
+
+Loud.
+
+Smelled like oil, damp brick, and old metal.
+
+Nobody touched my face.
+
+Nobody screamed because I had cut a pear incorrectly.
+
+Nobody climbed onto my leg while I tried to read.
+
+For perhaps six minutes I experienced East Four as a place of profound peace.
+
+This was not an opinion I shared with Nessa.
 
 The cough happened fourteen minutes later.
 
@@ -140,13 +254,13 @@ Alarm bell clicked once but did not fully ring.
 
 I frowned.
 
-Seli said, “There.”
+Seli said, "There."
 
-“Yes.”
+"Yes."
 
-“Useful.”
+"Useful."
 
-“Fuck you.”
+"Fuck you."
 
 She smiled.
 
@@ -188,19 +302,19 @@ Nothing.
 
 Seli followed.
 
-“Thought district said chamber stable.”
+"Thought district said chamber stable."
 
-“It is.”
+"It is."
 
-“Then why are we here?”
+"Then why are we here?"
 
-“Because stable things can change.”
+"Because stable things can change."
 
-“Useful philosophy.”
+"Useful philosophy."
 
-“Do you want help?”
+"Do you want help?"
 
-“Not particularly.”
+"Not particularly."
 
 Good.
 
@@ -236,19 +350,19 @@ I had also seen them get mocked by young Rankers with expensive sensing gear.
 
 The mechanics usually kept working after the sensing gear broke.
 
-“What do you hear?” I asked.
+"What do you hear?" I asked.
 
 Jori did not move.
 
-“Nothing yet.”
+"Nothing yet."
 
-“That is encouraging.”
+"That is encouraging."
 
-“No.”
+"No."
 
-“Why?”
+"Why?"
 
-“Because it means I have to stay here.”
+"Because it means I have to stay here."
 
 Fair.
 
@@ -270,6 +384,44 @@ I inspected the regulator again because doing nothing offended me.
 
 Jori remained under the housing.
 
+The station stayed hot.
+
+The tram passed overhead twice.
+
+Nobody needed anything from me.
+
+I sat on an overturned parts crate and nearly fell asleep.
+
+Dera looked at me.
+
+"You sick?"
+
+"No."
+
+"Then why do you look dead?"
+
+"Children."
+
+"Still?"
+
+"Apparently they remain."
+
+Jori, without moving from under the housing, said, "How old?"
+
+"Fourteen months."
+
+"Twins?"
+
+I looked down.
+
+"How do you know?"
+
+"You look worse than one."
+
+Seli laughed.
+
+I disliked the station again.
+
 Then the cough came.
 
 Knock.
@@ -280,17 +432,17 @@ Dip.
 
 Jori sat up so fast he hit his head.
 
-“Fuck.”
+"Fuck."
 
-“What?”
+"What?"
 
-“Bearing.”
+"Bearing."
 
 I looked at the return assembly.
 
-“Bearing reads clean.”
+"Bearing reads clean."
 
-“Not that one.”
+"Not that one."
 
 He pointed upward.
 
@@ -298,21 +450,21 @@ At the tram viaduct.
 
 I stared.
 
-“The tram.”
+"The tram."
 
-“Maybe.”
+"Maybe."
 
 Dera came over.
 
-“Explain.”
+"Explain."
 
 Jori held out the listening rod.
 
-“Second knock comes through the housing after the first. Not pressure hammer. Mechanical.”
+"Second knock comes through the housing after the first. Not pressure hammer. Mechanical."
 
-“From above?”
+"From above?"
 
-“Feels like.”
+"Feels like."
 
 I listened.
 
@@ -322,9 +474,9 @@ Of course.
 
 Seli looked toward the ceiling.
 
-“A tram passes every few minutes.”
+"A tram passes every few minutes."
 
-“Not every tram,” Jori said.
+"Not every tram," Jori said.
 
 Dera pulled the street schedule.
 
@@ -386,9 +538,9 @@ Dera swore.
 
 Jori smiled.
 
-“Bearing.”
+"Bearing."
 
-“Which bearing?” I asked.
+"Which bearing?" I asked.
 
 He pointed to the viaduct support directly above the station return anchor.
 
@@ -422,19 +574,19 @@ I stood under the viaduct feeling stupid.
 
 Seli looked delighted.
 
-“Old Line?”
+"Old Line?"
 
-“No.”
+"No."
 
-“Buried chamber?”
+"Buried chamber?"
 
-“No.”
+"No."
 
-“Ancient mystery?”
+"Ancient mystery?"
 
-“Fuck you.”
+"Fuck you."
 
-Jori said, “Could still be ancient.”
+Jori said, "Could still be ancient."
 
 I looked at him.
 
@@ -445,6 +597,42 @@ Everyone had become unbearable.
 Finding the cause did not fix it.
 
 That took three days.
+
+Not three continuous days for me.
+
+That distinction mattered now.
+
+I spent the first afternoon at East Four.
+
+The next morning I stayed home while Nessa went to district.
+
+Tomas had decided oatmeal was an insult.
+
+Mira had discovered the lower shelf where I kept blank inspection paper and redistributed twenty-three sheets across the apartment.
+
+I recovered eighteen.
+
+The other five entered history.
+
+After midday my mother arrived and I went back to East Four.
+
+The third day Nessa worked from home until lunch, then we switched.
+
+There had been a time when a difficult station problem consumed whatever hours it demanded.
+
+Now the problem had appointments.
+
+I expected this to bother me more than it did.
+
+The station remained broken while I was home.
+
+Other people continued working on it.
+
+When I returned, they told me what had happened.
+
+Civilization survived.
+
+Mostly.
 
 Tram authority said the bearing was within tolerance.
 
@@ -478,13 +666,13 @@ Simple slotted mount that let the regulator linkage float slightly relative to t
 
 I disliked it.
 
-“Too much play.”
+"Too much play."
 
-“How much?”
+"How much?"
 
-“Enough.”
+"Enough."
 
-“That is not a measurement.”
+"That is not a measurement."
 
 Tova had infected everyone.
 
@@ -508,25 +696,43 @@ Seli accepted it without ceremony.
 
 Good Ranker.
 
+I did not contribute much to the bracket.
+
+That sentence still irritated me when I first told the story.
+
+I had found nothing underground.
+
+Jori heard the mechanical transfer.
+
+Seli challenged the anchor design.
+
+The bench test settled the argument.
+
+My primary contribution was knowing enough to stop insisting the answer should belong to the kind of problem I understood best.
+
+Useful.
+
+Less satisfying.
+
 We installed the slotted mount during a one-hour off-peak reduction.
 
 Dera made me hold the lamp.
 
-“I can fit the bracket.”
+"I can fit the bracket."
 
-“Jori designed it.”
+"Jori designed it."
 
-“I understand brackets.”
+"I understand brackets."
 
-“Hold the lamp.”
+"Hold the lamp."
 
-“I used to work here.”
+"I used to work here."
 
-“Yes.”
+"Yes."
 
-“That is my point.”
+"That is my point."
 
-“No. That is mine.”
+"No. That is mine."
 
 I held the lamp.
 
@@ -622,30 +828,142 @@ Still.
 
 That mattered.
 
-So did the fact that the people keeping it healthy no longer needed me to be one of them every day.
+Then I looked at the wall clock.
 
-I had been called because East Four had a strange cough.
+The twins usually woke from their midday sleep around then.
 
-I arrived with old infrastructure in my head.
+Not exactly.
 
-The answer was a tram bearing, a shared wall, and a mechanic with a metal rod.
+Nothing useful is exact when you first meet it.
 
-No rank required.
+Apparently children qualified.
 
-No ancient knowledge.
+I pictured Mira standing in the crib because lying down had become beneath her.
 
-No impossible memory.
+Tomas would wake slower.
 
-Just somebody willing to lie under a housing for forty minutes and listen.
+One eye first.
 
-I had once believed strength made difficult work smaller.
+Then the other.
 
-Sometimes it does.
+Then a complaint if nobody appeared quickly enough.
 
-Sometimes the work is not difficult because it is strong.
+I had spent the morning relieved nobody needed me every thirty seconds.
 
-It is difficult because it is specific.
+Now I wanted to go home.
 
-Specific problems do not care who you used to be.
+Annoying.
 
-That is one of their better qualities.
+Dera saw me looking at the clock.
+
+"Go."
+
+"I am eating."
+
+"You have been holding the same bread for five minutes."
+
+I looked at my hand.
+
+True.
+
+"I can stay."
+
+"Problem is fixed."
+
+"Probably."
+
+"Then go be useful somewhere else."
+
+There were several ways to hear that.
+
+I chose the least insulting.
+
+I wrapped the bread in cloth.
+
+Seli looked at it.
+
+"For later?"
+
+"Mira likes the crust."
+
+Dera looked at me.
+
+I looked back.
+
+"What?"
+
+"Nothing."
+
+I disliked her expression.
+
+I went home.
+
+Mira was awake.
+
+Tomas was not.
+
+Of course.
+
+My mother sat at the table while Mira marched around the room carrying a cup with both hands like an unstable offering.
+
+She saw me.
+
+Stopped.
+
+Then walked directly past me toward the bread in my hand.
+
+"Da," she said.
+
+I looked down at her.
+
+Then at the bread.
+
+"You meant the bread."
+
+She reached up.
+
+Evidence supported my theory.
+
+I gave her the crust.
+
+She sat on the floor and became busy with it.
+
+My mother said, "She asked for you twice."
+
+"Did she?"
+
+"Then you arrive and she chooses bread."
+
+"Reasonable priorities."
+
+Tomas woke in the other room.
+
+I heard the first small sound.
+
+Not crying yet.
+
+The warning stage.
+
+I knew it immediately.
+
+I had been called to East Four because I knew how a healthy station sounded.
+
+Jori had solved the problem because he knew how a bad bearing sounded.
+
+At home I knew the difference between Tomas waking and Tomas deciding the entire building had failed him.
+
+Different expertise.
+
+Same method, maybe.
+
+Listen long enough that the ordinary becomes specific.
+
+That sentence also tried to become profound.
+
+Mira dropped bread on the floor.
+
+My mother told me to pick it up.
+
+Problem solved.
+
+Mostly.
