@@ -9,6 +9,22 @@
 - The examination opens the record of his two lives.
 - Present-frame Greg is roughly B-class in support execution, physically damaged, missing a leg, and far below his First-Life S-class support body while retaining much of the old knowledge.
 - Peg-Leg Greg is his locked Life-Two Authority-bestowed Named Ranker title.
+- Greg arrives with at least two overlapping motives: a real civilizational Line crisis and a private, incompletely disclosed interest in whether another reset/rebeginning is possible.
+- The mentee remains behind as an independently valuable support inside the human response to the failing Line.
+
+## Early Ithar / Nhal continuity
+
+**Record 002 · THE CLAIMANT** already establishes the first Nhal exchange:
+- Greg names Nhal.
+- Ithar recognizes one of her names and says that in the history he knows she has not spoken to a human in 112 years.
+- Ithar asks when and where Greg met her and what condition made the meeting possible.
+- Greg says he met her around age 48 or 49 under the salt flats north of Vey and that she was trapped there.
+- Ithar visibly reacts.
+- Ithar explicitly says he is not asking for the entire story yet.
+
+This is not a continuity problem to rewrite away. At this stage Ithar has an extraordinary alternate-history claim from a petitioner whose reincarnation explanation is not yet established. He notes and tests the causal path rather than abandoning the examination to act on it.
+
+The later full Nhal account must add technical and causal information, not simply repeat her name or captivity.
 
 ## First Life
 
@@ -29,8 +45,12 @@
 
 - Greg joins a major expedition beneath the salt flats north of Vey as **A-class support**.
 - Three of the seven living S-class humans are part of the expedition.
-- The expedition discovers Nhal, an ancient nonhuman being trapped, bound, contained, or otherwise held within an ancient structure or system. Exact containment mechanics and original expedition objective remain open.
-- The site gradually proves to be more than a barrier keeping humans out; it is also holding Nhal in or binding Nhal to something larger.
+- Nhal's containment is ancient and **predates the divergence between Greg's two adult histories**. She is trapped in both First Life and Life Two.
+- The expedition discovers Nhal because First-Life Greg's high-rank career places him on the path that reaches the site.
+- Nhal is trapped, bound, contained, anchored, or otherwise held within an ancient structure or system.
+- The site proves to be more than a barrier keeping humans out or Nhal in. Nhal is held in relation to a larger load-bearing or foundational structure.
+- Greg's support instincts make him unusually able to ask where the load goes, what Nhal is carrying, what changes if she moves, and whether breaking the containment transfers or releases something worse.
+- Brute force is not a safe solution even with three S-class humans present.
 - One of the three S-class humans dies during the expedition.
 - The death is a world-level event. For a period only six living humans are recognized as S-class.
 - Greg's support performance after the death keeps the remaining expedition functioning under S-class conditions and proves capability the existing classification system can no longer honestly call merely A-class support.
@@ -49,7 +69,7 @@
 - At peak, Greg can make an A-class combatant operate at effective S-class conditions and can push an actual S-class combatant beyond ordinary rated conditions.
 - First-Life Greg's S-class ceiling depends on team architecture, repeated partners, trust, broad outward linking, and a body shaped by decades of support work.
 - First-Life Greg may receive a distinct Authority-bestowed Named Ranker title. Swaggory is a legacy candidate, not yet fixed canon.
-- Greg carries Nhal's gift for years without needing to use the Ithar route. It becomes relevant only when Life Two reaches a foundational crisis beyond human understanding.
+- Greg carries Nhal's gift for years without needing to use the Ithar route.
 
 ## Named Ranker institution
 
@@ -57,7 +77,7 @@
 - A Ranker can possess recognized high-level field status without an official epithet.
 - A Named Ranker is formally designated and titled by the Authority. Public nicknames do not create the status.
 - Named Ranker titles can carry institutional, political, assignment, and reputational weight without implying a specific capability class.
-- Post-020 material should showcase at least one other Named Ranker before Greg earns Peg-Leg Greg, so the reader understands the institution in ordinary story context rather than through exposition alone.
+- Post-020 material should showcase at least one other Named Ranker before Greg earns Peg-Leg Greg.
 
 ## Life Two
 
@@ -108,9 +128,9 @@
 
 ### Early thirties into later thirties
 
-Records 020 onward should continue burning real life before catastrophe.
+Records 020 onward continue burning real life before catastrophe.
 
-Existing useful pressure includes:
+Useful pressure includes:
 - Greg's father aging out of ordinary mill work.
 - Lena building a life and career Greg does not control.
 - Greg's shoulder worsening and forcing adaptation.
@@ -118,13 +138,22 @@ Existing useful pressure includes:
 - Greg learning to separate remembered evidence from current people.
 - ordinary nights, leases, rooms, family meals, money pressure, and space for the household to become something larger.
 
-Greg and Nessa have a child during this broad period. Parenthood must occupy actual years and ordinary scenes rather than one setup chapter.
+Greg and Nessa have a child during this broad period. Parenthood occupies actual years and ordinary scenes rather than one setup chapter.
 
-Life Two domesticity is new territory for Greg rather than a replay of First-Life marriage or fatherhood. He has no First-Life wife or child to compare against this household.
+Life Two domesticity is new territory for Greg rather than a replay of First-Life marriage or fatherhood.
 
 The household becomes larger and more expensive in ordinary ways. Money can be tight enough to matter without making them destitute.
 
-Greg continues using fragments of S-class support knowledge in work and life, but he does not yet rebuild the full First-Life support body. His lived priorities have been elsewhere for nearly two decades.
+Greg continues using fragments of S-class support knowledge in work and life, but he does not yet rebuild the full First-Life support body.
+
+### Life-Two Nhal divergence
+
+- Nhal remains trapped under the salt flats because her containment predates the divergence.
+- Life-Two Greg does not follow the First-Life high-rank career that placed him on the Nhal expedition.
+- The expedition therefore does not reproduce in the same form and humanity does not automatically rediscover Nhal.
+- The S-class person who died in the First-Life expedition may remain alive in Life Two.
+- Greg never enters the Seven in Life Two.
+- Exact present-day Seven roster and any unrelated turnover remain open, but there is no default S-class support replacing Greg.
 
 ### Roughly age 36 to 39: the catastrophe window
 
@@ -146,19 +175,43 @@ Greg's durable regret becomes: **I took the job.**
 
 The song or cultural account from First Life changes meaning permanently because Greg now knows the people whom history compressed into background.
 
-### Present-frame interruption during the telling
+### Present-frame interruption and First-Life rewind
 
-When fifty-nine-year-old Greg reaches this part of the record with Ithar, the remembered timeline should pause for a meaningful stretch.
+When fifty-nine-year-old Greg reaches this part of the record with Ithar, the remembered timeline pauses for a meaningful stretch.
 
 For multiple scenes or records if needed:
 - the cave remains primary;
 - Greg is hurt and cannot simply narrate onward;
 - Ithar does not become a therapist;
-- the audience can finally learn what First-Life S-class support actually meant;
-- the distinction becomes explicit: Greg was C-class as a warrior and S-class as a support;
-- the Nhal expedition can become one of the natural First-Life sequences used to show how A-class Greg crossed into S-class support.
+- the audience learns what First-Life S-class support actually meant;
+- the distinction becomes explicit: Greg was C-class as a warrior and S-class as a support.
 
-This pause occurs in the present frame even though it is triggered by the late-thirties Life-Two memory.
+This interruption can open into a concentrated First-Life rewind centered on:
+- A-class Greg before the Nhal expedition;
+- three S-class humans operating with Greg attached;
+- Nhal's ancient containment;
+- the S-class death;
+- Greg's support performance afterward;
+- Nhal's gift;
+- Greg's eventual S-class recognition.
+
+The rewind must not emotionally abandon Nessa. Its narrative purpose is to explain what "power" means to Greg before Life-Two revenge begins.
+
+### Ithar's later Nhal realization
+
+During the full Nhal account, Ithar is **not** hearing Nhal's name or captivity for the first time.
+
+Instead:
+- he recalls the Record 002 claim;
+- he presses Greg for technical details about load, containment, timing, and the S-class death;
+- the accumulated examination has made Greg's alternate-history memories far more credible than they were in Record 002;
+- Greg's description gives Ithar reason to conclude that because the containment predates divergence, Nhal may still be trapped in the present history.
+
+This is where Nhal becomes an active personal stake for Ithar.
+
+Ithar need not announce a heroic rescue. His response is attention, exact questions, altered priorities, and eventually intention to investigate or reach Nhal if doing so will not destabilize the larger system.
+
+The failing western Line and Nhal's containment should begin to look like related foundational problems, though they need not be literally one machine.
 
 ### Late thirties into forties: revenge and rebuild
 
@@ -171,23 +224,23 @@ Early rebuild characteristics:
 - real physical and magical limits remain;
 - solo support rather than conventional team support;
 - self-stabilization, object reinforcement, terrain anchoring, hostile stabilization, load routing, and failure timing;
-- an early low-rank victory over a threat far above his paper class, potentially an F-class Greg killing a B-class monster through precise support rather than direct overpowering.
+- an early low-rank victory over a threat far above his paper class through precise support rather than direct overpowering.
 
-Progress should be fast at first relative to a normal late starter, then increasingly difficult. Exact intermediate class dates remain open.
+Progress is fast at first relative to a normal late starter, then increasingly difficult.
 
 The revenge itself takes roughly ten years. Greg investigates, travels, trains, takes contracts, finds perpetrators, misses opportunities, and changes while the people he hunts also continue living.
 
 ### During the revenge rebuild: permanent specialization
 
-Before the ruined leg, Greg should already make deliberate choices that optimize solo support at the expense of the old S-class team architecture.
+Before the ruined leg, Greg already makes deliberate choices that optimize solo support at the expense of the old S-class team architecture.
 
-He increasingly folds broad outward linking into self-contained loops, narrow routing, hostile applications, and solo control.
+He folds broad outward linking into self-contained loops, narrow routing, hostile applications, and solo control.
 
 There is a point where Greg understands continuing this specialization means he will not rebuild First-Life S-class through the same architecture.
 
 He continues anyway.
 
-The choice succeeds at its intended purpose. Solo Greg becomes frightening.
+The choice succeeds at its intended purpose and materially changes his mana-channel architecture. Solo Greg becomes frightening, but the route back to his old relational ceiling is damaged or closed.
 
 ### Roughly forties into early fifties
 
@@ -195,32 +248,96 @@ The choice succeeds at its intended purpose. Solo Greg becomes frightening.
 - He becomes genuinely dangerous before his letter rank looks impressive because S-class knowledge lets him use small amounts of support with abnormal precision.
 - The ruined leg occurs through lived causality and forces another major adaptation in movement and support routing.
 - The peg may later become a practical anchor inside his support geometry if earned, without turning the injury into a benefit he would choose.
-- Greg earns the Life-Two Authority-bestowed Named Ranker title **Peg-Leg Greg**. This exact Life-Two title is locked.
-- Greg completes the revenge. Completion does not restore the life that was destroyed.
+- Greg earns the Life-Two Authority-bestowed Named Ranker title **Peg-Leg Greg**.
+- Greg completes the revenge.
 
-Exact year of revenge completion remains open, but it should leave meaningful years afterward before Ithar.
+Exact year of revenge completion remains open, but it leaves roughly a decade afterward before Ithar.
+
+### Roughly final decade before age 59: the mentee
+
+After revenge, Greg deliberately searches for a young **non-support combatant**, approximately age twenty to twenty-five, whose observable starting conditions resemble young First-Life Greg as closely as reasonably possible.
+
+The mentee is **good, not great**:
+- competent and professionally viable;
+- already physically and magically developed enough to have a real combat path;
+- not an obvious prodigy or hidden S-class;
+- similar enough to young Greg in physicality, reinforcement habits, mana-channel development, combat baseline, load sense, magical tendencies, strengths, and limitations to function as a meaningful comparison.
+
+Greg trains this person into genuine **relational support**, not another Solo Greg.
+
+He deliberately:
+- preserves outward pathways he later damaged in himself;
+- introduces support concepts earlier than he discovered them in First Life;
+- avoids revenge-build shortcuts that created his Life-Two ceiling;
+- uses two lives of hindsight to construct a cleaner development route.
+
+The mentee benefits, chooses to continue, builds an independent life, and increasingly becomes unlike Greg.
+
+### The hidden third-run research
+
+Greg does not explain the second purpose of this mentorship.
+
+Underneath genuine teaching, he is testing: **if I began again, how should I build support differently?**
+
+The mentee's development becomes live evidence about a cleaner route that could avoid:
+- First Life's accidental and late discovery of support;
+- Life Two's deliberately self-limiting solo specialization.
+
+During the same broad decade Greg investigates the cause of his original return and gathers enough evidence to take another reset or rebeginning seriously.
+
+Exact dungeon, artifact, Chronoclast, Line interaction, trigger, mechanism, and reproducibility remain open.
+
+Greg does not tell the audience or Ithar that he has been building a third-run progression model.
+
+### Ithar calls Greg out
+
+During the examination Ithar notices that:
+- Greg deliberately selected a twenty-something combatant unusually similar to his remembered younger self;
+- Greg preserved channels he damaged;
+- Greg introduced disciplines he discovered late;
+- Greg systematically removed developmental choices he regrets.
+
+The conceptual accusation is: **Why are you training yourself?** Exact dialogue remains open.
+
+Greg resists because the mentee is genuinely another person. Ithar's point is that the mentorship has a second purpose: Greg is testing whether he could become someone different on another run.
+
+This exposes the hidden motive beneath Greg's petition. Greg does not volunteer it.
+
+### The mentee and the Line crisis
+
+By the Ithar frame, the mentee has become an independently valuable support and remains behind inside the human response to the failing Line.
+
+Greg's departure is partly possible because this person can carry work he once would have considered his alone.
+
+The mentee does not accompany Greg because:
+- the human response needs them;
+- Nhal's route and gift are Greg's burden rather than an ordinary party expedition;
+- Greg will not take them as collateral on an ancient petition whose full personal motive he has not disclosed.
+
+Exact mentee name, sex, original combat discipline, eventual support class, relationships, and final fate remain open.
 
 ### Life after revenge into age 59
 
 The story continues for years after revenge.
 
-Greg keeps living, working, aging, and developing a support architecture different from First-Life S.
+Greg keeps living, working, aging, teaching, studying his own damaged support architecture, and investigating the possibility of another beginning.
 
 By about fifty-nine:
 - present execution is roughly B-class support;
-- his retained S-class knowledge and abnormal solo specialization can produce A-class practical value under favorable conditions;
-- he knows he will not simply recreate First-Life S through the path he chose;
-- the ruined leg, age, shorter development window, grief, and deliberate specialization are all part of the difference;
-- the western Line crisis, Ithar, Nhal knowledge, and artifact/reset convergence become the active present problem.
+- retained S-class knowledge and abnormal solo specialization can produce A-class practical value under favorable conditions;
+- Greg knows he will not simply recreate First-Life S through the path he chose;
+- the mentee has demonstrated that a cleaner route may be possible in another body started earlier;
+- the western Line crisis has grown beyond ordinary human repair;
+- Nhal's old gift identifies Ithar as a being who may understand the foundational layer beneath human maintenance;
+- the full Nhal story gives Ithar reason to believe Nhal herself may still be trapped in that same deeper architecture;
+- Greg's reset research, Nhal, Ithar, the Line, and the unknown artifact/foundational mechanism begin converging into the same final problem.
 
-As human options fail, Greg remembers Nhal's gift: not a promise that Ithar will save anyone, but a hidden name, route, and old judgment that Ithar may understand the foundational layer beneath systems humans only maintain.
-
-Ithar may expose a third magical architecture or possibility Greg never considered, but not as an instant restoration or free power-up.
+Ithar may expose a third magical or foundational architecture Greg never considered, but not as an instant restoration or free power-up.
 
 ## Time-use rule
 
 3L spans decades. Burn real calendar time.
 
-Every canonical record should make elapsed time legible enough that Greg's body, magic, work, money, family, relationships, institutions, and world can age instead of remaining in chapter-time suspension.
+Every canonical record should make elapsed time legible enough that Greg's body, magic, work, money, family, relationships, institutions, world, mentee, and support architecture can age instead of remaining in chapter-time suspension.
 
 Optimization can remove wasted motion. It cannot remove Tuesday.
