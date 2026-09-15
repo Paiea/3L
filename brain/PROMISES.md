@@ -146,6 +146,15 @@ Greg had wanted the mission. He is still furious because the S-class could have 
 
 The smuggler is one of the old monsters and already a Greg believer. The conceptual logic is not "secret weapon" so much as **insurance**: entering an unknown S-class-grade problem without Greg would mean voluntarily accepting less capability because administrators misread the A on his badge.
 
+### The one-bag expedition rule
+The deep Vey penetration is deliberately lean. Beyond the final staging point there is no practical baggage train, mule string, or slow logistics tail. Extra carriers would be too slow, too vulnerable, too noisy, and too dangerous to protect or evacuate once the route becomes S-class-grade.
+
+Each person who goes deep therefore gets **one premium expedition bag** for personal carried logistics, plus whatever separately carried primary weapon or worn equipment the route reasonably allows. The bags are extremely expensive, purpose-built pieces of expedition gear: reinforced, weather- and contamination-resistant, carefully fitted, intelligently organized, and capable of modest load-distribution assistance without becoming infinite magical storage. Weight, volume, food, water, tools, and human endurance still matter.
+
+The durable cultural rule is simple: **bring whatever you think you need, but it has to earn its place in your bag.** Space itself is a strategic resource. Specialists leave useful things behind. S-class humans bring absurdly expensive solutions because every object has beaten another object for a place.
+
+This rule makes the smuggler's choice much more meaningful. He does not merely bring Greg as additional cargo. He spends the dominant share of his one-bag allowance on **Greg**, plus whatever essentials, food, water, tools, and Greg-specific gear can be fitted around him or distributed elsewhere. Before Vey proves anything, one old S-class has already decided that Greg is worth more expedition capacity than another bag full of legendary equipment.
+
 ### The expedition staging and bag reveal
 Before Greg is revealed, the expedition staging should spend **substantial scene time, roughly half a chapter/record or more if the prose wants it**, showcasing what serious S-class preparation looks like.
 
@@ -155,11 +164,21 @@ The point is not a catalog for its own sake. The sequence teaches scale. These a
 
 Let people compare, unveil, test, mock, admire, distrust, or explain pieces. Let the audience briefly believe the expedition's cleverest answers are the visible objects.
 
-Then the old S-class arrives with unexpected cargo.
+Greg should wake **before** the public reveal. He becomes conscious during transport or while still hidden, realizes he is cramped inside a moving expedition bag, and starts arguing with the old S-class from inside it. The smuggler repeatedly tells him some version of **hold on / wait** rather than immediately releasing him.
+
+Greg attempts practical escape arguments. In particular, he eventually claims that he has to defecate. The smuggler immediately calls the bluff because he planned around Greg's bodily needs before transport. Greg was given or fed a specialized high-calorie, low-residue expedition sustain that temporarily minimizes waste and reduces the need for bathroom stops during dangerous movement. It is not miraculous permanent nutrition, is expensive or impractical for ordinary life, and tastes awful.
+
+Greg's indignation increases when he realizes there is also ordinary food packed in or around the bag. His obvious question is why real food was brought if the sustain already keeps him fed. The smuggler's answer, in concept, is simply that **the sustain tastes terrible**. Exact wording remains open.
+
+This detail should read as both logistical competence and bizarre care. The old S-class kidnapped Greg, but also made sure he could breathe, eat, remain hydrated, avoid needing an unsafe bathroom stop, and survive transport. He cares about Greg's physical welfare while showing almost no respect for Greg's preferred transportation arrangements.
+
+Greg remains bagged through much of the equipment showcase, hearing people unveil and discuss legendary gear while he gets increasingly angry in the dark. This lets the joke build pressure before anyone else knows what the old S-class brought.
+
+Then the old S-class arrives or takes his turn with the unexpected cargo still closed.
 
 Other personnel can plausibly assume the bag contains food, a restricted artifact, some commissioned contingency, or a literal secret weapon.
 
-The reveal is Greg: cramped, disoriented, angry, and still officially A-class.
+The reveal is Greg: cramped, disoriented, angry, perhaps with ration crumbs or some stupid tool having dug into him, and still officially A-class.
 
 The contrast is the joke and the scale statement. After half a chapter of legendary equipment, one S-class's most important additional piece of expedition preparation is **Greg**.
 
