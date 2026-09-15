@@ -1,0 +1,21 @@
+{
+  "record": "021",
+  "source_sha256": "95d98c85970eb0ec1d841d64bf8a84f96f1dece8354bfd020f9b6406f81edbc8",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I learned to take my mother to the healer without treating the schedule change as evidence Lena had chosen wrong.\n\nMostly.\n\nOnce, when the bridge tram failed and Lena missed dinner, I said nothing.\n\nNessa noticed.\n\n\"You want credit?\"\n\n\"Yes.\"\n\n\"No.\"\n\nCruel woman.\n\nYears later I remembered North River's first-life closure more clearly.\n\nIt had not failed because the company was badly run.\n\nThe city consolidated printing after a budget crisis.\n\nThe strike came afterward.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I had reversed the order.\n\nMemory had preserved the shape and lost the mechanism.\n\nAgain.\n\nBy then the second-life city had different contracts, different officials, different workers, and a print floor run partly by my sister.\n\nThe old future had no jurisdiction there.\n\nNeither did I.\n\nI was her brother.\n\nThat turned out to be enough work.",
+      "pause_after_ms": 220
+    }
+  ]
+}
