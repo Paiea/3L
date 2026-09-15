@@ -8,7 +8,23 @@
 The present-frame western Line crisis must eventually connect meaningfully to Greg's impossible knowledge and the record Ithar is extracting.
 
 ### Nhal
-Greg's First-Life meeting with Nhal, the hidden name, and the route to Ithar require eventual causal payoff. Exact details remain open.
+Greg's First-Life meeting with Nhal is now a major causal promise rather than background lore.
+
+Greg meets Nhal around age forty-eight or forty-nine during a major expedition beneath the salt flats north of Vey. He enters that expedition as an **A-class support**, not yet S-class. Three of the seven living S-class humans are present.
+
+Nhal is ancient and nonhuman and is trapped, bound, contained, or otherwise unable to leave an ancient structure or system. Exact containment mechanics remain open, but the expedition must discover that the site is doing more than keeping people out; it is also holding Nhal in or binding Nhal to something larger.
+
+One of the three S-class humans dies during the expedition. The death must matter historically and personally. For a period the world has only six living S-class humans.
+
+Greg's support performance after that death is part of what proves he belongs at S-class scale. He is not promoted simply because a vacancy exists. His subsequent recognition as S-class support restores the living count to seven.
+
+Nhal finds Greg personally interesting before human institutions fully understand him. Nhal's interest should center on the deeper architecture of Greg's support: boundaries, load, stability, connection, and systems, not on secret warrior strength.
+
+Nhal gives Greg an actual gift, and **knowledge is the gift**. The gift includes Ithar's hidden name, route or access knowledge, and enough understanding for Greg to know why Ithar may someday matter if human knowledge reaches a foundational limit.
+
+Nhal must not promise that Ithar will grant wishes or automatically help. The durable function is that Greg later knows Ithar may understand foundations humans merely service and may listen if Greg brings a question worth hearing.
+
+Exact expedition objective, S-class identities, death choreography, Nhal species, containment mechanism, and exact wording of the gift remain open until prose earns them.
 
 ### Divergence has consequences
 Halden's survival changed Bren's path. Future remembered knowledge must continue behaving as evidence under changed conditions, not as a deterministic script.
@@ -43,9 +59,20 @@ The catastrophe must destroy something the book genuinely allowed to live first.
 ### Role-specific capability
 Greg's S-class history belongs to support, not warrior combat.
 
-First-Life Greg was approximately C-class as a warrior and S-class as a support, one of only seven S-class humans of his era and essentially the only support among them.
+First-Life Greg was approximately C-class as a warrior and eventually S-class as a support. He did not enter the Nhal expedition as S-class; he entered as A-class support and earned S-class recognition after what happened there.
 
 Do not casually describe First-Life Greg as an S-class warrior or imply one universal capability letter when discipline matters.
+
+### The seven S-class humans
+During Greg's First-Life apex period, only **seven living humans** are recognized as S-class. Do not casually create an eighth. An eighth living S-class would be a world-scale event and requires explicit canon revision.
+
+Most of the seven should be older and terrifying: clan heads, old-blood inheritors, veterans, or people whose power and institutional weight have accumulated over decades. Only two or three should belong to Greg's younger generation, including Greg.
+
+Seven is not an Authority quota. When one S-class dies during the Nhal expedition, there are six until Greg's earned recognition restores the count to seven.
+
+The other S-class people become active promises once named. At least some should later appear, matter, or be encountered rather than existing only as lore decoration.
+
+Exact roster and disciplines remain open.
 
 ### Ranker versus Named Ranker
 Ranker and Named Ranker are not interchangeable.
@@ -58,11 +85,6 @@ The story should showcase at least one other Named Ranker relatively soon in pos
 
 First-Life Greg may have carried a different Named Ranker title. **Swaggory** is a legacy candidate, but the exact First-Life title remains open until prose fixes it.
 
-### The other S-class humans
-The other S-class people from Greg's First Life are active promises once named. At least some should later appear, matter, or be encountered rather than existing only as lore decoration.
-
-Exact roster and disciplines remain open.
-
 ### Barrier origin
 Barrier begins as a cheap boundary-control spell with mundane uses, including a culturally ordinary contraceptive application when maintained with sufficient precision. Greg first learned it for an unheroic practical reason.
 
@@ -74,6 +96,8 @@ Greg's First-Life support must eventually be shown rather than left as a label.
 At peak he could make an A-class combatant operate at effective S-class conditions and make an actual S-class combatant materially more dangerous without inventing a new official rank above S.
 
 His value came from making operations and people possible, not from secretly being the strongest duelist in the room.
+
+The Nhal expedition is a natural First-Life sequence in which the reader can finally see the difference between A-class Greg attached to S-class fighters and the support performance that forces the world to recognize him as S-class.
 
 ### The song and somebody else's revenge
 The later town catastrophe is the culmination of a revenge story Greg already knew culturally in First Life, likely through a song, ballad, or famous account.
@@ -150,6 +174,8 @@ His changed body, later start, solo specialization, ruined leg, grief, and delib
 
 ### Dragon possibility
 Ithar may eventually reveal a support architecture or magical possibility Greg did not know as a human. This must not function as a free restoration, instant S-class jump, or erasure of Greg's permanent choices.
+
+Nhal's gift is the durable causal bridge that makes Ithar a credible destination rather than a late fantasy solution. When the western Line crisis outruns human understanding, Greg should remember that Nhal explicitly gave him the one name and route associated with a being who may understand the foundation beneath the systems humans maintain.
 
 ### Artifact / reset convergence
 The ending trends toward a reset or rebeginning mechanism tied to Ithar, the Line, and an artifact. Mechanics, beneficiary, and final action remain deliberately open.
