@@ -1,465 +1,1145 @@
 ## RECORD 040
 
-## THE ADDRESS
+## THE LEFT SIDE
 
-Guild Hall asked where I worked.
+"Watch the left side" is bad instruction.
 
-I did not know.
+I want that established.
 
-This was embarrassing because I had been working continuously for fourteen years.
+Left side of what?
 
-The renewal form had one line.
+The field?
 
-PRIMARY PLACE OF TRADE.
+The formation?
 
-Simple.
+My left?
 
-East Four used to go there.
+Their left?
 
-Even after district inspection began.
+The fighter's left?
 
-Even after private work.
+Arcrutus had answered none of these questions because apparently specificity was a resource he preferred to conserve.
 
-Even after my permanent roster disappeared.
+I went back after work anyway.
 
-East Four remained the answer because forms change slower than people.
+Ithar's eye shifted.
 
-Then Sera changed the locks.
+"You were told to watch the left side."
 
-Dera moved to district.
+"Yes."
 
-My work sheets started from the apartment.
+"You did not know what that meant."
 
-Lorn took jobs without me.
+"Correct."
 
-Kett trained under district hours.
+"And you returned."
 
-Tova and I spent more days on trams than at any one station.
+"I had developed a pattern."
 
-The form caught up.
+"Obedience."
 
-The clerk waited.
+"Curiosity."
 
-“Primary place.”
+"Mm."
 
-“I heard you.”
+"Do not make that sound mean something."
 
-“You stopped writing.”
+"You have taught me not to interpret too quickly."
 
-“I also know that.”
+I looked at him.
 
-“East Four?”
+The dragon's mouth moved.
 
-I almost said yes.
+Barely.
 
-Habit.
+I continued.
 
-Sera's station.
+The clan yard had changed overnight.
 
-Not mine.
+Half the tournament tents were already gone.
 
-“District office?” the clerk asked.
+Two wagons had been loaded.
 
-“I don't work there full time.”
+The warped spear shafts had disappeared, which I hoped meant the merchant had replaced them rather than hidden them somewhere farther from Arcrutus.
 
-“Private shop?”
+The children with reed sticks were still trying to kill each other.
 
-“We don't have one.”
+Good institutional continuity.
 
-“Residence?”
+Arcrutus sat on an overturned crate near the training square repairing a spear grip.
 
-“That sounds unprofessional.”
+Not his spear.
 
-She looked over my shoulder at the line behind me.
+Too short.
 
-“You may discover professionalism somewhere else.”
+Training weapon.
 
-Front-window clerks remain civilization's immune system.
+Leather wrap loose near the lower third.
 
-I stepped aside.
+He had a narrow knife in one hand and a strip of dark leather in the other.
 
-Took the form home.
+This was the first time I saw one of the seven strongest humans alive use a knife.
 
-Nessa found it on the table.
+He used it to trim string.
 
-“Why is this blank?”
+Disappointing.
 
-“I am considering geography.”
+"You're late," he said.
 
-“You don't know where you work.”
+I looked at the sun.
 
-“Correct.”
+"You didn't give me a time."
 
-She laughed.
+"Still late."
 
-Cruel.
+"That is not how time works."
 
-Then looked around the front room.
+"Watch the left side."
 
-Two desks.
+Apparently discussion concluded.
 
-Shelves.
+The match was already forming.
 
-District slates on hers.
+Four against four.
 
-Inspection books on mine.
+Training weapons.
 
-Private work ledger between them.
+No tournament barriers around the square.
 
-The narrow room behind us held tools, records, winter blankets, three lengths of pipe, and one stool too dangerous for guests.
+One support assigned to each side, standing outside the chalk.
 
-“You work here,” she said.
+The fighters wore mixed padding and light reinforcement marks along shoulders, ribs, thighs.
 
-“I sleep here.”
+Not ceremonial.
 
-“You also price jobs here.”
+Working gear.
 
-“Yes.”
+The silver-shouldered woman stood near the far wagon with a slate.
 
-“Write reports.”
+She saw me.
 
-“Yes.”
+"Back again."
 
-“Train Lorn badly.”
+"Apparently."
 
-“He trains himself badly.”
+"He likes you."
 
-“Meet clients.”
+Arcrutus did not look up from the leather.
 
-“Sometimes.”
+"No," he said.
 
-“Store tools.”
+The woman smiled.
 
-“Yes.”
+"See?"
 
-“Then?”
+I did not know what I was supposed to see.
 
-“This is an apartment.”
+Good start.
 
-“So?”
+The teams took position.
 
-I did not have a good answer.
+Two forward.
 
-First-life Greg had possessed professional addresses.
+Two behind.
 
-Guild halls.
+Loose diamond more than line.
 
-Contract offices.
+Spears on both sides.
 
-Temporary field quarters.
+One short sword.
 
-Later a permanent Ranker office in Vey I barely used because people kept sending messages there while I was elsewhere.
+One shield.
 
-Important work had buildings that looked important.
+One woman on the near team's left carried a long staff reinforced at both ends.
 
-Second life had Mina's bakery downstairs.
+She looked experienced.
 
-A table that leaned.
+Balanced stance.
 
-Two desks touching because the room was not wide enough to separate them elegantly.
+Quiet feet.
 
-Clients climbed stairs smelling bread.
+Eyes moving before the signal.
 
-It did not look like a professional address.
+I decided she was the point.
 
-That was apparently my remaining objection.
+Probably because Arcrutus had said left side and she was visibly on the left side.
 
-Nessa saw it.
+Reasonable.
 
-“You want a sign?”
+Wrong, eventually.
 
-“No.”
+The drill started.
 
-“You absolutely want a sign.”
+Fast.
 
-“I do not.”
+Not tournament fast.
 
-“GREGORY: IMPORTANT WORK UPSTAIRS.”
+Messier.
 
-“Fuck you.”
+Eight people moving without enough room to make every action clean.
 
-She laughed.
+The near team advanced first.
 
-Lorn came by that evening.
+Center spear pressured straight.
 
-I showed him the form.
+Staff woman shifted outward to keep angle.
 
-“Put here.”
+Rear-left fighter followed her by half a step.
 
-“That was fast.”
+Their support stayed behind the chalk, hands low.
 
-“Because this is where people find you.”
+Opposing shield fighter drove toward center.
 
-“What about you?”
+Near center spear gave ground.
 
-“What about me?”
+Correctly.
 
-“Primary trade address.”
+He avoided the shield line.
 
-“East Four.”
+Staff woman rotated farther left to preserve spacing.
 
-“You still work permanent shifts.”
+Correctly.
 
-“Yes.”
+Rear-left fighter tightened inward to cover the opening between them.
 
-Simple.
+Also correctly.
 
-I envied him briefly.
+Nothing happened.
 
-Then he added, “Private work here.”
+That seemed important now.
 
-“So you have two.”
+I watched.
 
-“Apparently.”
+Arcrutus scraped old adhesive from the spear shaft with his thumbnail.
 
-The form only wanted one.
+"What am I looking for?" I asked.
 
-Forms are less comfortable with plural lives than people are.
+"Left side."
 
-I went to my parents' house the next day.
+"Very helpful."
 
-Not for advice.
+"You are watching it."
 
-My father gave it anyway.
+"I am watching four people."
 
-“Put your home.”
+"No."
 
-“Why?”
+I looked at him.
 
-“Mail comes there.”
+He kept working.
 
-“Mail also comes to district.”
+Annoying old bastard.
 
-“Do clients know district desk?”
+The next exchange came harder.
 
-“No.”
+Opposing center feinted toward staff woman.
 
-“Then home.”
+Near center spear stepped in to punish it.
 
-My mother said, “Use our address.”
+Staff woman held outside angle.
 
-“No.”
+Rear-left fighter closed center again.
 
-“Why?”
+Their support flashed reinforcement across the rear-left fighter's ribs when an opposing spear slipped through.
 
-“You do not want contractors knocking here.”
+Good catch.
 
-“How much do they pay?”
+No injury.
 
-“Still no.”
+The near team countered.
 
-My father looked pleased.
+Staff woman landed a clean tap on the opposing shield shoulder.
 
-Retirement had turned both of them entrepreneurial in inconvenient ways.
+Point, if they were counting.
 
-Lena said the same thing by slate from North River.
+They were not.
 
-HOME.
+The silver-shouldered woman wrote something anyway.
 
-Then beneath it:
+Third exchange.
 
-THIS WAS NOT HARD.
+Near center gave six inches under pressure.
 
-Family support has limits.
+Staff woman rotated outward.
 
-I wrote the apartment address.
+Rear-left tightened inward.
 
-Not East Four.
+Support reinforced rear-left thigh during the turn.
 
-Not district.
+Fourth.
 
-Mina Cor's building above the bakery.
+Near center stepped off line.
 
-Street.
+Staff woman opened wider.
 
-Second floor.
+Rear-left filled.
 
-PRIMARY PLACE OF TRADE.
+Support caught rear-left shoulder.
 
-The clerk stamped it.
+Fifth.
 
-That was all.
+Same shape.
 
-Except forms propagate.
+Different attacks.
 
-Private-work registration updated.
+Same result.
 
-Supplier account updated.
+Nobody failed.
 
-Guild notices began arriving there directly instead of East Four forwarding them in bundles with insults from Sera.
+Nobody looked bad.
 
-Clients came to the apartment more often.
+The rear-left fighter was working harder.
 
-That became a problem immediately.
+Not dramatically.
 
-One man arrived before breakfast.
+Breathing faster.
 
-Nessa answered the door in a sleeping shirt and informed him business began after second bell unless something was on fire.
+More small corrections.
 
-He asked whether pressure loss counted.
+Feet resetting between other people's decisions.
 
-She asked whether anything was on fire.
+I looked at Arcrutus.
 
-He said no.
+He was threading new leather through the wrap.
 
-She closed the door.
+"Rear-left," I said.
 
-We established office hours.
+"Observation?"
 
-Civilization.
+"He has taken three support corrections in five exchanges."
 
-A small brass plate appeared downstairs.
+"Good."
 
-Not my idea.
+"He's the weak one."
 
-Lorn ordered it.
+"Meaning."
 
-GREGORY & ASSOCIATES
+"Fine. He is breathing faster than the others. His feet have reset after every center movement. He has been reinforced at ribs, thigh, shoulder."
 
-I stared at it.
+"Good."
 
-“No.”
+"Therefore he is the weak one."
 
-Lorn looked proud.
+Arcrutus pulled the leather tight.
 
-“We are not associates.”
+"You become impatient with your own discipline very quickly."
 
-“We work together.”
+"He is visibly under more load."
 
-“Rell too.”
+"Yes."
 
-“Associate.”
+"So?"
 
-“Sera covers calls sometimes.”
+"So he is visibly under more load."
 
-“Associate.”
+I hated him.
 
-“She absolutely is not.”
+The match continued.
 
-Nessa came down.
+Near center spear was good.
 
-Read the plate.
+Very good.
 
-Started laughing.
+He read pressure early and gave ground before getting trapped.
 
-“Take it off.”
+Staff woman was better.
 
-“Why?” Lorn asked.
+She never surrendered outside angle unless someone forced her.
 
-“Because it makes me sound like a lawyer.”
+Rear-right held position and protected the support lane.
 
-“What is a lawyer?”
+Each decision made sense.
 
-“Never mind.”
+Rear-left kept fixing what those decisions created.
 
-First-life word.
+Center gave ground.
 
-Wrong world context.
+Rear-left filled center.
 
-Good catch, eventually.
+Staff rotated outward.
 
-We replaced the plate.
+Rear-left stretched to maintain connection.
 
-GREGORY - LINE INSPECTION / REPAIR
+Rear-right held.
 
-LORN ESSET - FIELD WORK
+Rear-left compressed between him and center.
 
-By the next year Rell's name joined when she began taking enough calls with us to deserve public blame.
+Support reinforced whichever part of rear-left became immediately exposed.
 
-Not a company yet.
+Ribs.
 
-Not really.
+Hip.
 
-A place where work could find people.
+Shoulder.
 
-That mattered more.
+Calf.
 
-My week stopped having a center.
+Not because the support was bad.
 
-Monday South Three survey.
+The support was quick.
 
-Tuesday private repair.
+Precise.
 
-Wednesday training at East Four or Market Five.
+Every correction worked.
 
-Thursday district records.
+That became suspicious.
 
-Friday wherever a client had lied about urgency convincingly enough.
+I watched only the left side.
 
-Parents somewhere inside.
+For once, Arcrutus's instruction became useful because I stopped trying to understand the whole match.
 
-Nessa's schedule crossing mine like two badly coordinated tram lines.
+The right side could have caught fire and I might have missed it.
 
-Dinner when possible.
+Probably not.
 
-Thursday sometimes.
+Fire is distinctive.
 
-Thursday still mattered.
+The near team's center fighter gave ground again.
 
-East Four remained important.
+Six inches.
 
-I went often.
+Maybe eight.
 
-Sera made me sign in.
+Rear-left stepped in.
 
-Dera remained important.
+Opposing shield turned pressure toward him.
 
-She appeared in procedure meetings and ruined bad drafts.
+Staff woman rotated wide and struck the exposed shoulder.
 
-Halden remained annoying.
+Good attack.
 
-Tova still carried three hammers.
+Rear-left took shield contact on reinforced ribs.
 
-Lorn knew his son's school schedule better than I knew most contract dates.
+Support caught it.
 
-Kett's wrist healed and he kept asking why.
+He stayed standing.
 
-Lena ran North River's floor.
+Near team gained the exchange.
 
-My father sharpened mill blades for half-day pay while calling himself retired.
+Everyone watching would have called that successful.
 
-My mother used the second rail and denied needing it.
+I did too.
 
-Nessa coordinated three districts and still left tea until it went cold.
+Then I saw rear-left's left hand open and close twice.
 
-The life had widened without relocating its center to a bigger office.
+Breath through mouth.
 
-I had expected expansion to feel like leaving.
+One foot dragged half an inch during reset.
 
-First life taught me that.
+Not failure.
 
-Better work meant farther.
+Cost.
 
-Harder contracts.
+"He's paying for them," I said.
 
-New cities.
+Arcrutus stopped wrapping leather.
 
-A larger map.
+Not long.
 
-Second life gave me a different geometry.
+Enough.
 
-More places connected back to one address.
+"Who?"
 
-That address was rented.
+"Rear-left."
 
-Above a bakery.
+"Paying for what?"
 
-The floor sloped.
+I almost said mistakes.
 
-The table was worse.
+Stopped.
 
-Nothing about it looked permanent enough for a story.
+Good student.
 
-We stayed anyway.
+"Center keeps giving ground to avoid direct pressure."
 
-Years later, when people knew my name in places I had not yet visited at thirty-four, Guild records still carried that apartment for a long time.
+"Observation."
 
-Too long, probably.
+"Staff keeps rotating outward to preserve her angle."
 
-Mail accumulated after we finally changed it.
+"Observation."
 
-Mina complained.
+"Rear-right holds the inner lane."
 
-But for the first stretch of my wider work, if someone needed Greg, they sent the message above the bakery.
+"Observation."
 
-Most days, eventually, it found me.
+"Every time they do those things, rear-left has to change position to keep the formation connected."
+
+Arcrutus looked at me.
+
+"And?"
+
+"Their support keeps reinforcing him because he keeps becoming the exposed piece."
+
+"Yes."
+
+"They are making him carry the consequence of everyone else's movement."
+
+Arcrutus returned to the leather.
+
+"Maybe."
+
+"Oh, fuck off."
+
+The silver-shouldered woman laughed from across the yard.
+
+"He likes you," she called again.
+
+"No," Arcrutus said.
+
+Same volume.
+
+I was beginning to suspect this was a clan joke I had entered without consent.
+
+The match accelerated.
+
+Near team pressed.
+
+Staff woman landed twice.
+
+Center spear forced a retreat.
+
+Rear-right advanced cleanly.
+
+Rear-left followed late.
+
+Not much.
+
+Half a beat.
+
+Enough for the opposing shield to turn.
+
+Rear-left saw it.
+
+Changed direction.
+
+Support reinforced his outside hip.
+
+He absorbed the collision.
+
+Stayed upright.
+
+Then the opposing rear spear tapped him between shoulder blades.
+
+Clean.
+
+The silver-shouldered woman raised one hand.
+
+"Out."
+
+Rear-left stepped from the square.
+
+He looked furious.
+
+I understood why.
+
+From his perspective he had done everything.
+
+Covered center.
+
+Protected outside.
+
+Absorbed shield.
+
+Followed movement.
+
+Took support when given.
+
+Then got hit from behind.
+
+The drill continued three against four.
+
+Near team lost quickly after that.
+
+Not instantly.
+
+Good fighters make losing take time.
+
+But the shape was gone.
+
+Staff woman could not stay wide.
+
+Center could not give ground freely.
+
+Rear-right had to leave his lane.
+
+Within six exchanges the silver-shouldered woman called it.
+
+Arcrutus tied off the new grip.
+
+"Who made the mistake?"
+
+"Rear-left."
+
+"What mistake?"
+
+"He followed late."
+
+"Why?"
+
+I replayed it.
+
+Center had advanced.
+
+Staff had rotated.
+
+Rear-right had stepped forward.
+
+Rear-left had been resetting after the shield collision.
+
+Support had just shifted reinforcement from ribs to hip.
+
+He followed late because he was doing three things at once.
+
+"He was overloaded."
+
+"Meaning."
+
+"His reset took longer."
+
+"Observation."
+
+"Fine. His rear foot was still behind his centerline when the others advanced."
+
+"Good."
+
+"So his mistake was being late."
+
+"Why was he late?"
+
+"Because center moved before he reset."
+
+"Then center made the mistake."
+
+I considered it.
+
+Center had a clean opening.
+
+If he waited, opposing center recovered.
+
+"No. Center took the opening he had."
+
+"Then the staff fighter."
+
+She had rotated to maintain flank pressure.
+
+If she stayed, shield closed her angle.
+
+"No. Her movement was correct."
+
+"Rear-right."
+
+"He advanced with center and held the inside lane. Correct."
+
+"Support."
+
+The support had caught the hip before the shield collision could fold rear-left.
+
+Without it, rear-left probably exited earlier.
+
+"No. Support kept him in."
+
+Arcrutus waited.
+
+I disliked the answer before I had it.
+
+"Nobody."
+
+His eyes lifted from the spear.
+
+"Better."
+
+"That is bullshit."
+
+"Why?"
+
+"Because they lost the side. Somebody has to have done something wrong."
+
+"Why?"
+
+"Because outcomes have causes."
+
+"Yes."
+
+"People cause outcomes."
+
+"Sometimes."
+
+"There were only people in the square."
+
+Arcrutus set the training spear across his knees.
+
+"And a formation."
+
+I stopped.
+
+Simple sentence.
+
+Annoying sentence.
+
+Useful sentence.
+
+I looked back at the chalk square.
+
+The fighters were resetting.
+
+Rear-left had returned.
+
+He was arguing quietly with the center fighter.
+
+Center gestured at the opening he had taken.
+
+Staff woman demonstrated her rotation.
+
+Rear-right pointed at the inside lane.
+
+Support stood between them looking tired.
+
+Everyone could defend their choice.
+
+That was the problem.
+
+"They're all right," I said.
+
+Arcrutus said nothing.
+
+"Each decision works by itself."
+
+Nothing.
+
+"Center avoids pressure. Staff preserves angle. Rear-right holds inside. Support protects the exposed body. Rear-left keeps the shape connected."
+
+I watched them reset the formation.
+
+"Every correct decision pushes work toward the same place."
+
+Arcrutus's thumb moved once along the repaired leather.
+
+"Yes."
+
+There it was.
+
+Not a weak fighter.
+
+Not a bad support.
+
+Not one missed cue.
+
+A structure that kept choosing the same person to pay.
+
+"The formation is wrong," I said.
+
+"Maybe."
+
+"You are going to die saying that word."
+
+"Eventually."
+
+I laughed before I meant to.
+
+Arcrutus did not.
+
+Maybe his mouth changed.
+
+Interpretation.
+
+The silver-shouldered woman sent the teams again.
+
+This time she moved rear-left six feet farther out before the signal.
+
+Staff woman shifted slightly inward.
+
+Center had less room to retreat.
+
+Rear-right widened his base.
+
+Same people.
+
+Same skills.
+
+Different arrangement.
+
+The opening exchange looked worse.
+
+Center took more direct pressure.
+
+Staff lost some outside angle.
+
+Rear-left moved less.
+
+Support did less.
+
+Nobody looked as elegant.
+
+The side held.
+
+Second exchange.
+
+Held.
+
+Third.
+
+Rear-left took one direct strike and recovered without needing support.
+
+Fourth.
+
+Center had to block instead of retreat.
+
+Ugly.
+
+Effective.
+
+By the eighth exchange the near team had not gained as much ground as before.
+
+They also had not lost a person.
+
+"So they're worse now," I said.
+
+Arcrutus looked at me.
+
+"Are they?"
+
+"Individually, yes. Center is taking pressure he avoided before. Staff has a worse angle."
+
+"And the side?"
+
+I watched.
+
+Rear-left was breathing normally.
+
+Support had barely moved.
+
+The formation flexed instead of collapsing toward one point.
+
+"Better."
+
+"Why?"
+
+I gave him a look.
+
+He waited.
+
+Of course.
+
+"They stopped optimizing each person separately."
+
+Arcrutus's eyebrow moved.
+
+"Those are large words."
+
+"They stopped making every individual decision as clean as possible."
+
+"Better."
+
+"Somebody takes a worse position so someone else doesn't have to take all of them."
+
+"Better."
+
+I wanted to keep going because he kept saying better.
+
+Dangerous incentive.
+
+"The unit has a margin too."
+
+That stopped him.
+
+Very slightly.
+
+His hand on the spear did not move.
+
+One breath.
+
+Then:
+
+"Maybe."
+
+I pointed at him.
+
+"That one meant yes."
+
+"Interpretation."
+
+"Fuck you."
+
+The second match ended without anyone being removed.
+
+The silver-shouldered woman called time.
+
+Both teams looked irritated.
+
+Good training, apparently.
+
+Arcrutus handed her the repaired spear.
+
+She tested the grip.
+
+"Too tight."
+
+"No."
+
+"My hand is smaller."
+
+"Then grow."
+
+She stared at him.
+
+He stared back.
+
+She took the spear anyway.
+
+Clan leadership.
+
+Ithar interrupted.
+
+"That was when you began thinking in groups."
+
+"Not exactly."
+
+"You just described it as such."
+
+"I began noticing groups. Thinking in them took longer."
+
+"Difference?"
+
+"Large."
+
+I shifted against the cave wall.
+
+My knee had stiffened while I talked.
+
+I straightened the leg.
+
+Better.
+
+Not good.
+
+Ithar watched the movement.
+
+I noticed him watching.
+
+"Do not start."
+
+"I said nothing."
+
+"You are learning that trick too well."
+
+"From you."
+
+Fair.
+
+He lowered his head another inch.
+
+Stone ground beneath one scale.
+
+"You said a structure can choose where cost goes."
+
+"Yes."
+
+"A structure does not choose."
+
+"People inside it do."
+
+"Individually."
+
+I knew where he was going.
+
+"Sometimes."
+
+His pupil narrowed.
+
+"Can a system produce a cruel result without containing a cruel person?"
+
+There are questions that sound academic until you have been married.
+
+Or employed.
+
+Or responsible for children.
+
+Or alive long enough to know how often everybody can mean well and still build something unbearable.
+
+I looked toward the cave mouth.
+
+"Yes."
+
+"Did you know that then?"
+
+"Professionally."
+
+Silence.
+
+I rubbed my face.
+
+"You are becoming repetitive."
+
+"The answer remains incomplete."
+
+"So does the story."
+
+That earned me another small change around his eye.
+
+Maybe amusement.
+
+Maybe digestion.
+
+Observation first.
+
+Back in the yard, I expected another lesson.
+
+That was my mistake.
+
+Arcrutus stood.
+
+"Go home."
+
+I stared at him.
+
+"What?"
+
+"Go home."
+
+"That's it?"
+
+"Yes."
+
+"Nothing tomorrow?"
+
+"Work."
+
+"I know I work tomorrow."
+
+"Then do that."
+
+I looked toward the training square.
+
+"What am I supposed to watch next?"
+
+"Your work."
+
+"That is not specific."
+
+"Good."
+
+"You spent three days telling me to be specific."
+
+"When observing."
+
+"And now?"
+
+"Now you have too much information."
+
+I frowned.
+
+"How is more information bad?"
+
+Arcrutus took the repaired spear back from the silver-shouldered woman, who apparently had failed to grow her hand in the last thirty seconds.
+
+He rested it against his shoulder.
+
+"You confuse more information with more understanding."
+
+I did not answer immediately.
+
+That happened rarely enough for him to notice.
+
+He started walking toward the cooking fire.
+
+"That's all?" I called.
+
+"For today."
+
+"When do I come back?"
+
+He kept walking.
+
+"You don't."
+
+That stopped me harder than I expected.
+
+"What?"
+
+Arcrutus looked over his shoulder.
+
+"Not tomorrow."
+
+"You could have said that."
+
+"I just did."
+
+"Before I asked six questions."
+
+"You enjoy questions."
+
+"You complain about them constantly."
+
+"I did not say I disliked them."
+
+Then he walked away.
+
+That was the end of my first education under Arcrutus.
+
+If you can call four days of being irritated an education.
+
+I can.
+
+Apparently.
+
+We did not establish correspondence.
+
+He did not give me a clan token.
+
+Nobody offered me a room.
+
+I did not become his disciple.
+
+I went back to cheap support work.
+
+He went back to being one of seven people governments planned around.
+
+Months passed before I saw him again.
+
+Then years passed differently.
+
+Our paths kept crossing because his people did dangerous things and I kept becoming useful around dangerous things.
+
+That was enough.
+
+At the time, though, I walked home from the clan yard annoyed that an old man had dismissed me.
+
+Also carrying three ideas I did not know would reorganize my life.
+
+What did I actually see?
+
+Where did the failure go?
+
+And who made the mistake when nobody did?
+
+Ithar was quiet.
+
+Not his questioning silence.
+
+A different one.
+
+I waited.
+
+Eventually he said:
+
+"Arcrutus was good at observing you."
+
+"Yes."
+
+"Better than you were at observing yourself."
+
+I looked at him.
+
+"Probably."
+
+"Precision does not create certainty."
+
+I stared.
+
+The dragon's mouth moved.
+
+Definitely amusement that time.
+
+"Fuck you."
+
+"Available."
