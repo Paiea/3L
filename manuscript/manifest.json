@@ -406,9 +406,9 @@
       "title": "THE TEACHER",
       "path": "manuscript/records/037/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1178
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 3033
     },
     {
       "id": "r038",
@@ -417,9 +417,9 @@
       "title": "THE STUDENT",
       "path": "manuscript/records/038/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 956
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 2129
     },
     {
       "id": "r039",
@@ -428,9 +428,9 @@
       "title": "THE ACCOUNTABLE",
       "path": "manuscript/records/039/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1416
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 2069
     },
     {
       "id": "r040",
