@@ -1,0 +1,13 @@
+{
+  "record": "025",
+  "status": "published_unlistened",
+  "routing_mode": "exact_quote_locked",
+  "uses_timestamps_for_speaker_assignment": false,
+  "source_sha256": "3a5b233cb1b4c8544e5539b28c5a35a8648b00710a8cbb2354a30461923d3681",
+  "segment_count": 29,
+  "ithar_segment_indices": [],
+  "duration_seconds": 784.68,
+  "sha256": "33a15360e6cf87dc9c5141240a727391aa3d4adbab858c8e3de0ed2a8ed81da5",
+  "asset": "audio/assets/record-025-quote-locked-v2.mp3",
+  "note": "Published from a clean release based on latest main; deterministic route/pause verification passed; auditory listen-back remains pending."
+}
