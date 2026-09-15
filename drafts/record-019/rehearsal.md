@@ -10,7 +10,11 @@ It was probably dead by minute four.
 
 East Two finally had to come apart.
 
-Not the whole station. Just the east market branch and the old bronze structures beneath it that had spent the winter proving restricted operation was not a permanent philosophy.
+Not the whole station.
+
+The east market branch.
+
+The old bronze structures beneath it had moved enough that even I stopped pretending restricted operation was a long-term plan.
 
 Tova did not say I told you so.
 
@@ -20,7 +24,7 @@ District engineering built a temporary bypass that could carry about sixty perce
 
 Sixty percent is an excellent number until one hundred percent of people want heat.
 
-Halden called me into a planning room with Tova, Pell, two market representatives, and a city service clerk. The clerk rolled out a district map across the table.
+Halden called me into a planning room with Tova, Pell, two market representatives, and a city service clerk.
 
 Forty-three buildings.
 
@@ -40,11 +44,25 @@ Tova looked at me.
 
 “Better.”
 
-The clinic needed continuous baseline service. The school kitchen needed mornings. Bakeries wanted heat before dawn. Markets wanted midday wash and cooling. Apartments wanted mornings and evenings. The public bath wanted everything because public baths are greedy by design.
+The clinic needed continuous baseline service.
+
+School kitchen needed mornings.
+
+Bakeries wanted before dawn.
+
+Markets wanted midday wash and cooling.
+
+Apartments wanted mornings and evenings.
+
+The public bath wanted everything because public baths are greedy by design.
 
 We started with equal hours.
 
-Six groups. Four hours each. Staggered peaks. Same daily service for every ordinary building.
+Six groups.
+
+Four hours each.
+
+Same daily service for every ordinary building.
 
 I looked at the finished page.
 
@@ -104,19 +122,29 @@ The schedule died.
 
 Minute eleven at the latest.
 
-We tried again. Use-based windows this time.
+We tried again.
 
-Bakeries early. Markets midday. Apartments morning and evening. Laundry daytime. Bath reduced. Clinic continuous. School morning.
+Use-based windows.
+
+Bakeries early.
+
+Markets midday.
+
+Apartments morning and evening.
+
+Laundry daytime.
+
+Bath reduced.
+
+Clinic continuous.
+
+School morning.
 
 It looked better.
 
 Then I brought it home.
 
-Nessa read the first page over dinner.
-
-Then the second.
-
-Then went back to the first.
+Nessa read it over dinner.
 
 “Who did you ask?”
 
@@ -148,7 +176,17 @@ I stopped.
 
 Of course.
 
-East Four had night crews. So did bakeries. Markets. Tram. Healers. People who cleaned all of those places after everyone else left.
+East Four had night crews.
+
+So did bakeries.
+
+Markets.
+
+Tram.
+
+Healers.
+
+People who cleaned all of those places after everyone else left.
 
 “Our fair schedule gets cold for people who sleep during the day.”
 
@@ -156,7 +194,7 @@ East Four had night crews. So did bakeries. Markets. Tram. Healers. People who c
 
 “Yes, yes. Accuracy.”
 
-Nessa kept reading.
+She kept reading.
 
 “What about hot water?”
 
@@ -180,7 +218,13 @@ Some updates.
 
 Not all.
 
-One apartment block had added twelve attic rooms. A printer occupied what used to be storage. Mina's bakery had expanded the back ovens. The bathhouse had added laundry.
+One apartment block had added attic rooms.
+
+A printer occupied what used to be storage.
+
+Mina's bakery had expanded the back ovens.
+
+The bathhouse had added laundry.
 
 Reality again.
 
@@ -208,7 +252,7 @@ The next day we stopped scheduling and started asking.
 
 That was slower.
 
-Halden hated it for the practical reason that the repair started in twelve days.
+Halden hated it for the practical reason that repair started in twelve days.
 
 “We cannot interview forty-three buildings.”
 
@@ -236,49 +280,29 @@ He looked at me.
 
 Asshole.
 
-We did not interview forty-three buildings. We grouped them and asked enough people to find where our assumptions were stale.
+We did not interview forty-three buildings.
 
-That was how I met people who had technically been on my map for years.
+We grouped them and asked enough people to discover where the records lied by age.
 
-Mina needed strong service from third to sixth bell, not first. Dough proofed before the ovens peaked. I had lived upstairs and still guessed wrong.
+Mina needed strong bakery service from third to sixth bell, not first.
 
-Senn arrived with exact occupancy counts because the hearing had apparently turned him into a document enthusiast.
+I had lived upstairs and still guessed wrong.
 
-“Forty-eight households,” he said.
+Senn arrived with updated occupancy counts because the hearing had apparently turned him into a document enthusiast.
 
-“You told district forty-one last year.”
-
-“Three attic rooms became six. Two units were divided.”
-
-“Legal?”
-
-Senn looked at me.
-
-“Relevant?”
-
-Tova said, “To load, yes.”
-
-He sighed.
-
-“Mostly.”
-
-That became somebody else's problem.
-
-The clinic needed less than we thought. Continuous baseline, yes, but their coal boiler could carry wash water during two daily reductions.
-
-“We are not made of glass,” the healer in charge said.
+The clinic volunteered two daily reductions because their coal boiler could carry wash water.
 
 The public bath could close two days completely because its head washer wanted to descale the north pools anyway.
 
-The owner turned toward him.
+The owner learned that during our meeting.
 
-“We what?”
+We left before they finished arguing.
 
-The meeting became internal.
+The butcher needed midday cooling.
 
-We left.
+The fish market needed wash water after closing.
 
-The butcher needed midday cooling. The fish market wanted wash water after closing. Laundries wanted full-power alternating days because half-heated vats were worse than closed vats.
+Laundries wanted alternating full-power days because half-heated vats were worse than closed vats.
 
 A tailor told me she could work cold.
 
@@ -302,15 +326,25 @@ Too many people came.
 
 Of course.
 
-People ignore infrastructure until you announce less of it. Then everyone becomes an engineer.
+People ignore infrastructure until you announce less of it.
 
-A night tram conductor needed daytime heat because he slept from third to eighth bell. A mother wanted afternoon hot water because baths before evening made bedtime survivable. An elderly man needed mornings because his joints were worst then. A fish porter wanted water after ninth bell because that was when he came home smelling like fish.
+Then everyone becomes an engineer.
+
+A night tram conductor needed daytime heat because he slept from third to eighth bell.
+
+A mother wanted afternoon hot water because baths before evening made bedtime survivable.
+
+An elderly man wanted mornings because his joints were worst then.
+
+A fish porter wanted water after ninth bell because that was when he came home smelling like fish.
 
 Nobody's reason was stupid.
 
 That was the problem.
 
-A young woman from Senn's rear building stood near the wall holding a baby. She had not spoken.
+A young woman from Senn's rear building stood near the wall holding a baby.
+
+She had not spoken.
 
 “What window do you need?” I asked.
 
@@ -334,7 +368,13 @@ She adjusted the child.
 
 That was all.
 
-I knew the building. Narrow rear rooms. Little sun. Damp after rain.
+I knew the building.
+
+Narrow rear rooms.
+
+Little sun.
+
+Damp after rain.
 
 Our schedule knew the address.
 
@@ -360,13 +400,27 @@ The final schedule was not fair.
 
 I stopped using the word.
 
-It was defensible.
+Defensible was better.
 
-Clinic baseline continuous with two voluntary reductions. School mornings. Bakeries before dawn. Markets split between cooling and wash. Laundries on alternating full-power days. Bath closed two days. Workshops grouped by what they actually did. Apartments received two windows daily, rotated by building exposure and resident work patterns.
+Clinic baseline continuous with two voluntary reductions.
 
-North-facing blocks got longer afternoons on the coldest days.
+School mornings.
 
-Night-worker-heavy buildings got a daytime window every other day.
+Bakeries before dawn.
+
+Markets split between cooling and wash.
+
+Laundries on alternating full-power days.
+
+Bath closed two days.
+
+Workshops grouped by what they actually did.
+
+Apartments got two windows daily, rotated by building exposure and resident work patterns.
+
+North-facing blocks got longer afternoons on the coldest forecast days.
+
+Night-worker-heavy buildings got daytime heat every other day.
 
 Every improvement moved discomfort somewhere else.
 
@@ -398,19 +452,23 @@ Mostly.
 
 Day two, a bakery ran long and delayed pressure recovery to two apartment blocks.
 
-Day three, the bath owner opened one pool without authorization. Pell shut it again. There was shouting.
+Day three, the bath owner opened one pool without authorization.
+
+Pell shut it again.
+
+There was shouting.
 
 Day four, the clinic declined a scheduled reduction because emergency surgery ran long.
 
 Nobody argued.
 
-Day five, a tram transformer fault elsewhere forced district load changes and ruined half our beautiful schedule.
+Day five, a tram transformer fault elsewhere wrecked half the schedule.
 
 We rewrote the afternoon by hand.
 
-Nessa came down after shift and helped because transfer scheduling was literally her job and we had been idiots not to ask her earlier.
+Nessa came down after shift because transfer scheduling was literally her job and we had been idiots not to ask her earlier.
 
-She did in forty minutes what took us two hours on the first day.
+She did in forty minutes what took us two hours the first day.
 
 Tova watched her work.
 
@@ -424,13 +482,13 @@ Nessa did not look up.
 
 “I already have a job.”
 
-Then she finished the schedule, handed it to Pell, and went home because she had another station waiting for her in the morning.
+Then she handed the revised sheet to Pell and went home because another station needed her in the morning.
 
-Good.
+Day six, Senn distributed heavy curtains to the rear rooms and they stayed warmer than predicted.
 
-Day six, Senn distributed heavy curtains to his rear rooms and they stayed warmer than predicted.
+Day seven, Orr lost cooling for forty minutes and threw out meat rather than sell it.
 
-Day seven, Orr lost cooling for forty minutes and threw out meat rather than sell it. He complained while doing the correct thing.
+He complained while doing the correct thing.
 
 Day eight, one north apartment pipe froze anyway.
 
@@ -452,13 +510,25 @@ Halden added a new appendix to the repair report afterward.
 
 OCCUPANCY EFFECTS.
 
-Night workers. Building exposure. Alternate fuel. Business timing. Food spoilage. Temporary closures. One frozen pipe. Complaints.
+Night workers.
+
+Building exposure.
+
+Alternate fuel.
+
+Business timing.
+
+Food spoilage.
+
+Temporary closures.
+
+One frozen pipe.
+
+Complaints.
 
 Especially complaints.
 
-A clean load map could show forty-three buildings and still miss the north-facing room with the baby.
-
-That was the part I kept.
+A load map could show forty-three buildings and still miss the north-facing room with the baby.
 
 The Line did not fail during East Two's repair.
 
