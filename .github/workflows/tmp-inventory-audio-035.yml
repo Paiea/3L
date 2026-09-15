@@ -1,0 +1,29 @@
+name: Temporary inventory audio 035
+
+on:
+  push:
+    branches: [audio/capture-035]
+
+jobs:
+  inventory:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/capture-035
+      - name: Print Record 035 quote inventory
+        run: |
+          python - <<'PY'
+          import hashlib,re
+          from collections import defaultdict
+          from pathlib import Path
+          p=Path('manuscript/records/035/current.md')
+          text=p.read_text(encoding='utf-8')
+          print('source_sha256', hashlib.sha256(p.read_bytes()).hexdigest())
+          seen=defaultdict(int)
+          for i,m in enumerate(re.finditer(r'"[^"\n]*"', text),1):
+              q=m.group(0)
+              seen[q]+=1
+              print(f'{i:03d}\tocc={seen[q]}\t{q}')
+          PY
