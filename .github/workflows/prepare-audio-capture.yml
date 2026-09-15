@@ -1,0 +1,41 @@
+name: Prepare audio capture routes
+
+on:
+  push:
+    branches: [audio/capture-011-020]
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/capture-011-020
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate validated route plans for 011-020
+        run: |
+          set -euo pipefail
+          for n in $(seq -w 11 20); do
+            mkdir -p "audio/production/record-${n}"
+            python scripts/audio_route.py \
+              "manuscript/records/${n}/current.md" \
+              "audio/routing/record-${n}.json" \
+              "audio/production/record-${n}/route-plan.json"
+          done
+          python -m unittest tests.test_audio_routing -v
+      - name: Commit generated route plans
+        run: |
+          if git diff --quiet -- audio/production/record-*/route-plan.json; then
+            echo "route plans already current"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/production/record-*/route-plan.json
+          git commit -m "audio: materialize route plans 011-020"
+          git push origin HEAD:audio/capture-011-020
