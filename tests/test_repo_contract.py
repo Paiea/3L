@@ -27,8 +27,8 @@ class RepoContractTests(unittest.TestCase):
         self.assertEqual(records[-1]["id"], "r079")
         self.assertTrue(all(r["prose_status"] == "reference" for r in records[:10]))
         self.assertTrue(all(r["prose_status"] in {"needs_rehearsal", "restored"} for r in records[10:]))
-        self.assertTrue(all(r["published"] for r in records[:20]))
-        self.assertTrue(all(not r["published"] for r in records[20:]))
+        self.assertTrue(all(r["published"] for r in records[:22]))
+        self.assertTrue(all(not r["published"] for r in records[22:]))
 
     def test_reader_is_single_runtime_surface_and_audio_aware(self):
         html = (ROOT / "index.html").read_text(encoding="utf-8")
@@ -41,7 +41,7 @@ class RepoContractTests(unittest.TestCase):
     def test_reference_audio_is_public_and_library_first(self):
         html = (ROOT / "index.html").read_text(encoding="utf-8")
         audio = json.loads((ROOT / "audio" / "manifest.json").read_text(encoding="utf-8"))
-        self.assertTrue(all(audio["records"][f"r{i:03d}"]["status"] == "published" for i in range(1, 21)))
+        self.assertTrue(all(audio["records"][f"r{i:03d}"]["status"] == "published" for i in range(1, 23)))
         self.assertIn('id="audioLibrary"', html)
         self.assertIn("Audio Library", html)
         self.assertIn("duration_seconds", html)

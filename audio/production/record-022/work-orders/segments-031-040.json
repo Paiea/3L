@@ -1,0 +1,77 @@
+{
+  "record": "022",
+  "source_sha256": "94c9b836c7bb97a0646ac606c563a0c9fcd7ce5b5a65b98dcd533cfbd8ae1076",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Because she was holding a spoon.\n\nDay eleven, I went back to the healer.\n\nHe tested the shoulder again.\n\nBetter.\n\nNot healed.\n\nHe cleared light field work with no overhead load for another week.\n\nI accepted the restriction without arguing.\n\nHe looked suspicious.\n\n\"What?\"\n\n\"Nothing.\"\n\n\"You expected an argument.\"\n\n\"Yes.\"\n\n\"I learned.\"\n\n\"From what?\"\n\nI thought about it.\n\nPaper.\n\nBread.\n\nLorn's jobs.\n\nTova's measurements.\n\nMy father's stupid face at our table.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Nessa moving a pot.\n\nThe fact that the district had continued operating while I sat in a chair and complained.\n\n\"Being useless badly.\"\n\nThe healer smiled.\n\n\"You were not useless.\"\n\n\"I know.\"\n\nThat answer surprised me.\n\nMaybe him too.\n\nThe shoulder never became good again.\n\nNot completely.\n\nIt had already promised that after East Four.\n\nWhat changed was how I treated the promise.\n\nI stopped carrying certain loads left-handed.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 33,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Started warming the joint before field reinforcement.\n\nMoved the strap on my tool bag.\n\nLet younger workers take overhead work when the weather made the shoulder angry.\n\nNot every time.\n\nPride is chronic too.\n\nBut more often.\n\nYears later, when I told Ithar about the shoulder, I tried to skip most of that.\n\nI told him the district had started collecting cross-station operator notes around then.\n\nTrue.\n\nI told him western maintenance policy changed the following winter.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Also true.\n\nI told him an A-class Ranker broke a flood gate north of Market and three neighborhoods lost heat for half a day.\n\nIthar waited.\n\nDragons are excellent at waiting when they know you are wasting time.\n\nFinally he said, ",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 35,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"And your shoulder?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 36,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"It improved.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 37,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have spent longer describing a flood gate.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 38,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"The flood gate affected three neighborhoods.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 39,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"And the shoulder affected you.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 40,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Less important.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

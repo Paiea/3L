@@ -1,0 +1,77 @@
+{
+  "record": "022",
+  "source_sha256": "94c9b836c7bb97a0646ac606c563a0c9fcd7ce5b5a65b98dcd533cfbd8ae1076",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "My shoulder failed while I was carrying a chair.\n\nNot fighting.\n\nNot climbing.\n\nNot holding a pressure door against a failing station.\n\nChair.\n\nLena's chair, technically.\n\nShe had moved across the river six months earlier and discovered that moving did not end simply because all your belongings reached the new address.\n\nApparently furniture continued migrating afterward.\n\nOne chair stayed at my parents' house.\n\nMy mother wanted it gone.\n\nLena wanted it back.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I became transportation.\n\nThe chair was not heavy.\n\nThat mattered to my pride and nothing else.\n\nI had a bag of groceries in my right hand, so I took the chair with my left.\n\nThe shoulder clicked.\n\nIt had clicked before rain since East Four's transfer failure. Usually one hard little movement under the joint.\n\nAnnoying.\n\nFamiliar.\n\nThis time the click became heat.\n\nNot pain at first.\n\nHeat.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then a bright line ran from the top of my shoulder to my wrist and my hand opened by itself.\n\nThe chair hit the pavement.\n\nThe groceries followed.\n\nThree apples escaped downhill.\n\nOne rolled under a tram bench.\n\nA boy caught it.\n\nHe looked at me.\n\nI looked at him.\n\nHe looked at the apple.\n\nThen ran.\n\nI respected the decision.\n\nMy shoulder did not.\n\nI stood very still.\n\nPeople think pain makes you move.\n\nSome pain does.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The useful kind can make you stop so completely that breathing starts feeling like a negotiation.\n\nI knew the difference.\n\nFirst-life Greg had broken shoulders before.\n\nOther people's.\n\nOnce mine.\n\nDifferent shoulder.\n\nDifferent mechanism.\n\nDifferent body.\n\nMemory still offered instructions immediately.\n\nRotate inward.\n\nSet the scapula.\n\nReinforce around the joint.\n\nPull through the back instead of the arm.\n\nOld-body advice.\n\nBad advice.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I tried the smallest part of it anyway.\n\nWhite light went through my teeth.\n\n\"Fuck.\"\n\nA woman passing with a basket stopped.\n\n\"You all right?\"\n\n\"Yes.\"\n\nMy left arm hung six inches away from my side.\n\nThe chair lay in the road.\n\nTwo apples were gone.\n\nShe looked at all of that.\n\n\"No.\"\n\n\"Fair.\"\n\nShe helped me get the chair against a wall.\n\nI used my right hand.\n\nThat was when I discovered I could walk perfectly well while furious.\n\nUseful information.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 6,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I went home instead of Lena's.\n\nThat was my first correct decision.\n\nI nearly ruined it by deciding home meant I could fix the shoulder myself.\n\nNessa was not there.\n\nThree days each week she covered district transfer coordination now. Not a promotion, according to the station, because institutions prefer words that do not imply money.\n\nIt meant six crews could all want the same pressure window and Nessa got paid to tell five of them no.\n\nShe was good at it.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I put the groceries on the table.\n\nOne apple remained.\n\nBad survival rate.\n\nThen I found the broom.\n\nDo not ask.\n\nI had tried a broom handle after the original transfer injury years before.\n\nIt had not worked then either.\n\nThis was available evidence.\n\nI ignored it.\n\nI wedged the handle under my left arm and tried to lift the shoulder from below.\n\nThe joint moved half an inch.\n\nPain reached the back of my skull.\n\nI sat down very quickly.\n\nThe broom fell.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 8,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then the door opened.\n\nOf course.\n\nNessa came in carrying two work slates and stopped.\n\nShe looked at me.\n\nThe broom.\n\nMy arm.\n\nThe groceries.\n\nOne apple.\n\nHer face went through several emotions and chose murder.\n\n\"No.\"\n\n\"I haven't said anything.\"\n\n\"You are doing the broom.\"\n\n\"It almost worked.\"\n\n\"You said that last time.\"\n\n\"It moved.\"\n\n\"You screamed.\"\n\n\"Quietly.\"\n\nShe put the slates down.\n\n\"Can you move your fingers?\"\n\n\"Yes.\"\n\n\"Hand numb?\"\n\n\"No.\"\n\n\"Neck?\"\n\n\"Fine.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Chest?\"\n\n\"Fine.\"\n\n\"Shoulder?\"\n\n\"Bad.\"\n\n\"That one I had.\"\n\nShe crouched in front of me.\n\n\"Did it come out?\"\n\n\"No.\"\n\n\"You sure?\"\n\n\"Yes.\"\n\n\"Based on?\"\n\n\"I know what a dislocation feels like.\"\n\nNessa narrowed her eyes.\n\n\"Which body?\"\n\nAsshole.\n\n\"This one has done it too.\"\n\n\"Good. Current evidence.\"\n\nI hated that our rules had become conversational weapons.\n\nShe touched the top of the shoulder.\n\nI flinched before she pressed.\n\n\"That's not good.\"\n\n\"I know.\"\n\n\"Healer.\"\n\n\"No.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 10,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Greg.\"\n\n\"It will settle.\"\n\n\"Current evidence?\"\n\nI looked at her.\n\nShe waited.\n\nNothing.\n\n\"It usually settles.\"\n\n\"Historical evidence.\"\n\n\"Still evidence.\"\n\n\"From the shoulder that currently cannot carry an apple?\"\n\n\"That child stole one.\"\n\n\"What?\"\n\n\"Nothing.\"\n\nShe stood.\n\n\"We're going.\"\n\n\"No.\"\n\nThen I tried to stand.\n\nMy shoulder shifted.\n\nI sat again.\n\nNessa nodded.\n\n\"Compelling.\"\n\nThe healer said tendon inflammation, scar adhesion, and probable joint irritation.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
