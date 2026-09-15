@@ -80,10 +80,25 @@ Nessa survived an event that killed her in First Life. She must remain a person 
 
 Before catastrophe, Nessa and Greg must have enough additional lived life together that partnership, parenthood, work, money, home, family, sex, arguments, pleasure, exhaustion, and ordinary time feel like a life rather than revenge setup.
 
-### Greg's child
-Greg and Nessa have a child in Life Two. The child must exist as a person and part of daily family life before catastrophe. Do not introduce the child merely to create a death.
+### The twins and fatherhood
+Greg and Nessa have **twins, one boy and one girl**, in Life Two. Both children must exist as distinct people and as part of daily family life for years before catastrophe. Do not write them as one combined "twins" personality and do not introduce them merely to create deaths.
 
-Exact sex, name, birth record, age at catastrophe, and survivor status remain open until prose fixes them.
+Exact names, birth record, ages at catastrophe, and personality details remain open until prose fixes them, but the book must accumulate ordinary asymmetry: different preferences, different relationships to Greg and Nessa, different habits, different annoyances, different memories.
+
+Fatherhood should sound harder than Greg expected and, without him needing to state it directly, better than he expected. He can complain about exhaustion, money, noise, mess, sleep, work disruption, lost privacy, and the practical impossibility of two babies while revealing through detail and attachment that he loved being their father.
+
+Two newborns mean Nessa cannot simply carry the household alone while Greg resumes his old work pattern. Greg stays home or sharply reduces work for a meaningful early stretch because Nessa's recovery and two infants make his presence necessary. Family can help, but Greg is not optional. Eventually he returns to work, and the return can feel relieving and guilty at once: outside work may briefly feel easier than home, but he misses the twins quickly.
+
+Greg and Nessa later want or seriously discuss another child. Exact timing and outcome remain open. The durable promise is that Greg did not merely survive parenthood. He wanted more of that life.
+
+### Greg narrates around the life
+The world keeps moving during the domestic years. Wars, Ranker events, Guild and Authority changes, prices, Line trouble, public disasters, appointments, and other history should remain active enough that Greg has real things to talk about.
+
+Greg may repeatedly try to narrate those public events instead of the household because he is more practiced at telling history, work, operations, and institutional change than explaining why breakfast, sleep, a fever, a rent increase, or two children mattered to him.
+
+Ithar should catch this. The dragon does not dismiss the world events as irrelevant; many genuinely affected Greg's household. His pressure is that Greg keeps choosing the safer scale of truth. Ithar can force the record back from "what happened that year" toward "what happened to you."
+
+Ithar should also notice that Greg's descriptions of fatherhood contradict Greg's own framing. Greg may call it exhausting, impossible, expensive, or disruptive while remembering the twins with absurd specificity and continuing to tell stories about them. The dragon can recognize that Greg loved fatherhood, and even wanted more, before Greg gives the feeling a clean name.
 
 ### Bren
 Greg's First-Life chosen brother now has a different life and does not owe Greg the old bond. Any future relationship must be built in Life Two.
@@ -237,9 +252,9 @@ His deepest regret becomes: **I took the job.**
 The story must not retroactively prove that a reasonable work decision made Greg morally responsible for the massacre.
 
 ### Catastrophic loss
-Nessa and much of Greg's immediate family/home are killed in the town catastrophe. Exact survivor set remains open.
+**Nessa and both twins die in the town catastrophe.** Much of Greg's immediate family and home may also be lost; the exact additional survivor set remains open.
 
-The loss must not reduce Nessa or the family into motivation objects. Their accumulated lives remain real after death and continue shaping Greg.
+The loss must not reduce Nessa or the children into motivation objects. Their accumulated lives remain real after death and continue shaping Greg. The twins must already have enough individual texture that losing them reads as losing two people, not increasing a body count from one child to two.
 
 ### Cave interruption and First-Life rewind
 When Greg reaches catastrophe in the telling, memory narration should slow sharply or stop for a meaningful stretch. The cave becomes the story location for a while.
