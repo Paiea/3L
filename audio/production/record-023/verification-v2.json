@@ -1,0 +1,13 @@
+{
+  "record": "023",
+  "status": "assembled_unlistened",
+  "routing_mode": "exact_quote_locked",
+  "uses_timestamps_for_speaker_assignment": false,
+  "source_sha256": "04f54f4f69992bfbd177b6c4b5247c2eabe0b56079716869d7ff5aaa377f29be",
+  "segment_count": 35,
+  "ithar_segment_indices": [],
+  "duration_seconds": 938.16,
+  "sha256": "a1bfe9b788d86b10ffef05bba3265350e1b1a76cf6c155ae3fc7ff4ef427a634",
+  "asset": "audio/assets/record-023-quote-locked-v2.mp3",
+  "note": "Deterministically assembled from structurally verified candidate takes; auditory listen-back and public release remain pending."
+}
