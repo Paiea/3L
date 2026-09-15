@@ -1,0 +1,49 @@
+{
+  "record": "026",
+  "source_sha256": "9744fb68a8bf2720ef1970f419fc90969fb8faabd448c5bc3cab2f699af1b26e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"You could do one thing at a time.\"\n\n\"I am.\"\n\n\"You're holding a lamp and sewing.\"\n\n\"That is one category.\"\n\n\"What category?\"\n\n\"Helping.\"\n\nAnnoying woman.\n\nThe door closed.\n\nThen opened.\n\nThen closed again.\n\nNo squeak.\n\nI opened it one more time because evidence should repeat.\n\nLorn said, \"If you test it under pressure, I am leaving.\"\n\n\"You are leaving anyway.\"\n\n\"Correct.\"\n\nHe wrapped Perrin in the spare blanket first.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 22,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then decided the blanket would get soaked and borrowed my old work coat instead.\n\nThe coat was too large for Perrin and too small to cover all of him, which made the arrangement useless but affectionate.\n\nLorn lifted him.\n\nPerrin woke enough to complain that he could walk.\n\nLorn said, \"Then walk.\"\n\nPerrin did not move.\n\n\"Thought so.\"\n\nThey left when the rain dropped to something merely unreasonable.\n\nNessa locked the door behind them.\n\nFor a while the apartment felt bigger.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 23,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Not empty.\n\nJust quieter.\n\nFour bowls in the basin.\n\nCrumbs across the table.\n\nOne chalk mark on the floor where Perrin had dropped the slate.\n\nWet footprints drying near the door.\n\nMy wrench beside Lorn's wrapped one because neither of us had resolved ownership.\n\nNessa washed.\n\nI dried.\n\nWe argued about wooden spoons.\n\nShe said they needed to be dried immediately.\n\nI said they had survived water historically.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 24,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "She said that sentence explained too much about my maintenance philosophy.\n\nI put the spoon down.\n\n\"Pantry door works.\"\n\n\"Tonight.\"\n\n\"Hostile.\"\n\n\"Current evidence.\"\n\nI almost threw the towel at her.\n\nAlmost.\n\nWe went to bed.\n\nThat was the night.\n\nYears later I could remember almost all of it.\n\nNot because something happened afterward.\n\nNo one died the next morning.\n\nThe pantry did not become important.\n\nPerrin did not grow into a king.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 25,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "As far as I know Mina's bread never saved the district.\n\nThe rain was not the beginning of a flood.\n\nNothing was planted.\n\nNothing paid off.\n\nIt was one wet evening in an apartment above a bakery with too many people around a bad table.\n\nI remember the cabbage.\n\nThe cards.\n\nPerrin's new tooth.\n\nLorn carrying him half asleep.\n\nNessa holding the lamp while insulting my repair.\n\nThe pantry door finally closing.\n\nThe sound of rain against the window after everyone left.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 26,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "In my first life I thought memory selected important things.\n\nMaybe because most of what I bothered remembering had already become useful by the time I noticed it.\n\nRoutes.\n\nFailures.\n\nNames attached to contracts.\n\nPeople attached to consequences.\n\nSecond life kept stranger records.\n\nSometimes it kept Thursday.",
+      "pause_after_ms": 220
+    }
+  ]
+}
