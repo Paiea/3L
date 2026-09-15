@@ -1,0 +1,28 @@
+{
+  "record": "013",
+  "source_sha256": "9bd2b3b1c413af79982fd50a5d0ac4f2710fe0ab676cce5d8138266832557f7f",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Two days later Nessa came home with her arm strapped tight and orders not to lift anything heavier than a kettle.\n\nShe immediately tried to move the table.\n\nI caught the good side.\n\n“What are you doing?”\n\n“It is leaning more.”\n\n“You told me not to fix it.”\n\n“I am revising the agreement.”\n\n“You cannot revise the table agreement while concussed.”\n\n“You are my Guild voice now.”\n\n“That gives me authority when you cannot speak.”\n\n“I can barely speak.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“You have been speaking continuously.”\n\n“Then listen. Lift.”\n\nI lifted.\n\nShe pushed new leather under the short leg with one foot.\n\nThe table settled.\n\nNot level.\n\nCloser.\n\nShe looked at it.\n\n“Good.”\n\nI rocked it once.\n\nStill moved.\n\n“Bad.”\n\n“Character.”\n\n“You nearly died.”\n\n“I cracked two ribs.”\n\n“You were unconscious.”\n\n“I got better.”\n\nI wanted to argue.\n\nInstead I looked at the table.\n\nThen at her.\n\nThere are commitments you announce.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 33,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "There are commitments a clerk discovers because somebody gets hurt on a Thursday.\n\nWe had not named ours yet.\n\nThe Guild had.\n\nWorker voice.\n\nUgly phrase.\n\nUseful one.\n\nYears later, when the choices became worse than sedation and cracked ribs, that little line on the back of a renewal slate would seem almost childish.\n\nAt twenty-eight, it was enough.\n\nSomeone had asked who could speak when I could not.\n\nFor the first time in either life, I had an answer.",
+      "pause_after_ms": 220
+    }
+  ]
+}

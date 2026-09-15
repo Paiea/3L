@@ -1,0 +1,35 @@
+{
+  "record": "017",
+  "source_sha256": "d476c5e92af16bb951d1bc35dc3bc89809a31285b1ba42e2968697a85199ec84",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 41,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“That is a terrible speech.”\n\n“I was never good at speeches.”\n\nFrom the wash basin, Nessa said, “True.”\n\nI threw a pencil at her.\n\nMissed.\n\nWe were losing fewer pencils by then.\n\nPractice.\n\nThe hearing was set for Monday.\n\nI spent the weekend wanting to prepare Lorn.\n\nQuestions. Answers. Order of events. Words to avoid.\n\nHe refused.\n\n“I know what happened.”\n\n“I know.”\n\n“Then stop trying to put your mouth on it.”\n\nDisgusting sentence.\n\nEffective.\n\nI stopped.\n\nMostly.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 42,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The night before the hearing, my father asked how business was going.\n\nHe had returned to the mill after the concussion.\n\nFewer hours.\n\nMy mother had won that argument by hiding one of his boots.\n\n“Lost money,” I said.\n\n“How?”\n\n“Paid someone for a job the client refused to pay.”\n\nMy father nodded.\n\n“Good.”\n\nI looked at him.\n\n“What?”\n\n“Means you had someone worth paying.”\n\n“That is not how profit works.”\n\n“Never said profit.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 43,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "He went back to sharpening a kitchen knife badly.\n\nI took it from him.\n\nHe let me.\n\nThat worried me more than the hearing.\n\nHe watched my hands.\n\n“You always do too much yourself,” he said.\n\n“I am literally doing your knife.”\n\n“Yes.”\n\nI stopped.\n\nHe smiled.\n\nOld bastard.\n\nThe next morning, Lorn and I went to Guild Hall together.\n\nNeither of us talked much.\n\nHe bounced one knee while we waited outside the hearing room.\n\nI told him to stop.\n\nHe switched knees.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 44,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then the door opened.\n\nBad chairs waited inside.",
+      "pause_after_ms": 220
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "020",
+  "source_sha256": "c6b10e568d9ebeeef68539c59c899ae340af7f581ab54a6d625e79857b1c826f",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI opened my mouth.\n\nClosed it.\n\nPatient bastard.\n\n“No.”\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 32,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“Then why require it to become one before you permit yourself to remember it?”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 33,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThat went somewhere I did not want.\n\nI thought of my father beside the tool wall telling a younger man half turn.\n\nMy mother using the second rail while complaining about it.\n\nNessa moving rent money without calling it rescue.\n\nLorn working in somebody else's building without me.\n\nEli stealing pie with mathematics.\n\nNothing.\n\nA whole year of it.\n\n“Fine,” I said.\n\nIthar lowered his head slightly.\n\nNot victory.\n\nProbably.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 34,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“Continue.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 35,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI closed my eyes.\n\nMy father was still alive.\n\nMy mother was still alive.\n\nNessa was still there.\n\nEast Four still hummed under the tram viaduct whether I was on the schedule or not.\n\nThe Line still worked well enough that most people noticed it only when somebody reduced their heat.\n\nI was thirty-one.\n\nAt thirty-one, it was Tuesday.\n\nSo I went to work.",
+      "pause_after_ms": 220
+    }
+  ]
+}

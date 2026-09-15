@@ -1,0 +1,35 @@
+{
+  "record": "012",
+  "source_sha256": "05d70da8086a9e2c0373fa7f65b8f45b224591550ab4db8825f633ed5b955cba",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 51,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "There was a spring when my father could not work full days and money moved toward my parents without either of us pretending it came from nowhere.\n\nThere was a year when Nessa paid for a qualification that took her away from East Four two days each month and the house did not collapse because I learned to buy food that was not smoked meat and onions.\n\nMostly.\n\nThere was a month when I missed two station reviews because my mother needed help getting my father to a healer.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 52,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Nessa covered the extra rent without calling it a loan.\n\nThe next month I covered coal without calling it repayment.\n\nWe still knew the numbers.\n\nThat was the difference.\n\nNothing disappeared just because we stopped keeping score against each other.\n\nThe ledger stayed honest even when we became generous.\n\nYears later, when I had more money again, I kept one.\n\nNot the same book.\n\nNot even the same system.\n\nBut I wrote things down.\n\nPeople owed.\n\nPeople paid.\n\nFood.\n\nRepairs.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 53,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Travel.\n\nMedicine.\n\nSchool fees.\n\nEquipment.\n\nMoney sent home.\n\nMoney given away.\n\nMoney I would never see again and did not need to.\n\nA life becomes expensive in very ordinary ways.\n\nThat is not a complaint.\n\nIt is evidence.\n\nI remember one page better than the rest.\n\nNot because the amount was large.\n\nBecause of the handwriting.\n\nNessa had written FAMILY across the bottom of three columns.\n\nThe word crossed every line.\n\nI had complained the lines were wrong.\n\nThey were.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 54,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "We kept them that way.",
+      "pause_after_ms": 220
+    }
+  ]
+}

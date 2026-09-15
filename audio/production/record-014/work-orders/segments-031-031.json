@@ -1,0 +1,14 @@
+{
+  "record": "014",
+  "source_sha256": "c8e87b62d844748d42f1570c8f2ee88051c89873be7edf91dcc455658092ee3a",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "In the morning, Tova wanted East Two shut down.\n\nI wanted half of it left open.\n",
+      "pause_after_ms": 220
+    }
+  ]
+}

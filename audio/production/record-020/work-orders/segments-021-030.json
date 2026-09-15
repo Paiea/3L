@@ -1,0 +1,77 @@
+{
+  "record": "020",
+  "source_sha256": "c6b10e568d9ebeeef68539c59c899ae340af7f581ab54a6d625e79857b1c826f",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n“I have several.”\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 22,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“You call years empty when they contain no event you would once have considered worthy of a contract report.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 23,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI rubbed my leg.\n\n“I meant nothing big happened.”\n\nHis eye narrowed.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 24,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“Big.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 25,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n“Don't.”\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 26,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“Your father ceased ordinary labor and learned another form of usefulness. Your mother changed how she moved through her own house. Your sister divided care with you while maintaining a household of her own. Nessa carried more expense when your attention moved elsewhere. Lorn worked without you. Tova absorbed work you could not perform. Children aged. Buildings changed.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 27,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n“That was longer than it needed to be.”\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 28,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“Yes.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 29,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nAt least he knew.\n\n“The year wasn't a turning point.”\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 30,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“Must a year turn?”",
+      "pause_after_ms": 1100
+    }
+  ]
+}

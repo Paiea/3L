@@ -1,0 +1,77 @@
+{
+  "record": "017",
+  "source_sha256": "d476c5e92af16bb951d1bc35dc3bc89809a31285b1ba42e2968697a85199ec84",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“In body.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 22,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n“Yes. That is generally how absence works.”\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 23,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“No.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 24,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI sighed.\n\nHe continued.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 25,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“Your fee had been agreed. Your instructions arrived before you. Your worker understood himself to be acting under your name. The landlord expected your judgment even when you were not present to provide it. When the danger appeared, Lorn was already inside a structure you had built around the work.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 26,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n“It was one sheet.”\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 27,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“A structure can be badly built and still exist.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 28,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at him.\n\nHe looked back.\n\nDragons are very difficult to intimidate with silence.\n\n“I was with my father,” I said.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 29,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“Yes.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 30,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n“That mattered more.”\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

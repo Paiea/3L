@@ -1,0 +1,77 @@
+{
+  "record": "020",
+  "source_sha256": "c6b10e568d9ebeeef68539c59c899ae340af7f581ab54a6d625e79857b1c826f",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The year I left East Four, my father retired three times.\n\nThe first retirement lasted two days.\n\nThe second lasted almost a week.\n\nThe third depended on what you meant by retired.\n\nHe stopped taking mill shifts.\n\nThen started appearing there in the mornings to help.\n\nThen stopped helping and started criticizing.\n\nThe mill considered this retirement.\n\nMy mother did not.\n\n“He leaves before breakfast.”\n\n“He comes home by midday.”\n\n“That is not retired.”\n\n“It is half retired.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“He is not being paid.”\n\n“Then technically he is worse at employment than before.”\n\nMy mother looked at me.\n\nFamily kitchens are dangerous places to become pleased with your own joke.\n\n“Talk to him.”\n\n“No.”\n\n“Greg.”\n\n“He is your husband.”\n\n“He is your father.”\n\n“That feels like a design flaw.”\n\nShe did not laugh.\n\nI talked to him.\n\nHe was at the mill.\n\nOf course.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "He sat on an overturned crate near the tool wall while a younger man reset a drive coupling. Both hands rested on his knees.\n\nThat was new.\n\nMy father used to stand while other people worked because standing meant he could become useful without admitting he had been watching.\n\nNow he sat.\n\nThe younger man looked over.\n\n“Too tight?”\n\n“Half turn,” my father said.\n\nThe man backed the nut off.\n\nMy father nodded.\n\nThen saw me.\n\n“Your mother sent you.”\n\n“Yes.”\n\n“Coward.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“She is.”\n\nWe both knew who he meant.\n\n“Walk?” I asked.\n\n“No.”\n\n“Good talk.”\n\nI sat on another crate.\n\nThe mill smelled the same as it had when I was nineteen.\n\nOil. Grain dust. Hot belt leather. Wet wood near the river wall.\n\nPeople age inside places that do not bother aging with them.\n\nI hated the mill for that briefly.\n\nNot its fault.\n\nMy father watched the younger man finish the coupling.\n\n“He'll overtighten the next one.”\n\n“You told him.”\n\n“He thinks I mean this one.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“That is usually how instructions work.”\n\n“He'll learn.”\n\nThere it was.\n\nHe was watching somebody else become good at a thing his body was beginning to refuse.\n\nI knew something about that.\n\nDifferent scale.\n\nSame insult.\n\n“How's your head?”\n\n“Fine.”\n\n“You had a concussion.”\n\n“Months ago.”\n\n“How are the dizzy spells?”\n\nMy father looked at me.\n\nApparently my mother had not told him she told me.\n\nFamily intelligence networks remain poorly governed.\n\n“What spells?”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 6,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“The ones you are pretending not to have.”\n\n“Your mother exaggerates.”\n\n“She said you sat down in the yard because the ground moved.”\n\n“The ground did move.”\n\n“Only for you.”\n\n“Still moved.”\n\n“You need the healer again.”\n\n“No.”\n\n“Yes.”\n\n“No.”\n\nThis continued long enough for the mill bell to ring while we were still using the same two words.\n\nThen my father said, “I am old.”\n\nThat stopped me.\n\nNot because it was true.\n\nBecause he had never said it before.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "He was sixty-two. Old depends on the body and the work, and mill work negotiates aggressively.\n\n“You're not that old.”\n\n“Fuck you.”\n\n“Fair.”\n\nHe flexed his right hand. The fingers closed slowly.\n\nNot injured.\n\nWorn.\n\n“I know what the healer says.”\n\n“What?”\n\n“Stop lifting. Stop climbing. Sit when dizzy. Drink less.”\n\n“That last one sounds wise.”\n\n“You drink more than me.”\n\n“I am younger.”\n\n“Terrible argument.”\n\n“Yes.”\n\nHe looked back at the mill floor.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 8,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“If I go, your mother will make rules.”\n\n“She already has rules.”\n\n“More.”\n\nThere it was.\n\nNot fear of diagnosis exactly.\n\nFear of becoming a managed person.\n\nI understood that more than I wanted.\n\n“If I go with you, I will argue with half the rules.”\n\n“Half?”\n\n“The stupid half.”\n\n“How will you know?”\n\n“I am professionally annoying.”\n\nThat finally got a laugh.\n\nHe came.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The healer told him no heavy lifting alone, no ladders for a month, sit immediately if dizzy, and come back if the spells worsened. She thought the concussion had probably made an older balance problem more obvious rather than creating it.\n\nMy father heard old.\n\nI heard probably.\n\nFirst-life memory stirred and offered almost nothing useful.\n\nMy father becoming less strong in letters.\n\nMy mother saying he had given up mill nights.\n\nA line about his hand.\n\nMoney I sent home.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 10,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "A visit delayed because I had a contract somewhere that felt important enough at the time.\n\nI had loved them in the first life.\n\nDistance did not make that false.\n\nBut distance had compressed their aging into information.\n\nLife Two made me carry the grain sacks.\n\nMy mother's knees had reached the point where stairs were no longer background. She started keeping things downstairs because going up for them cost something now.\n\nI installed a second rail.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

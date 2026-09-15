@@ -1,0 +1,77 @@
+{
+  "record": "020",
+  "source_sha256": "c6b10e568d9ebeeef68539c59c899ae340af7f581ab54a6d625e79857b1c826f",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "She complained it made the stair look like a healer's house.\n\nThen used it every day.\n\nLena helped too.\n\nNot evenly, because evenly according to what?\n\nShe lived farther away. Had a child in school. Worked at the printer and supervised three people who apparently created problems specifically so she could complain about them at dinner.\n\nShe handled medicine lists better than I did.\n\nI handled repairs.\n\nMoney moved from our ledger to my parents more often.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 12,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then less after a clerk discovered my father had a small mill pension under a misspelled registry name.\n\n“Grigor,” I told Nessa.\n\nShe laughed.\n\nMy father did not.\n\nThe pension was not enough.\n\nEnough still matters.\n\nThat year I turned down six private jobs.\n\nA bathhouse valve. Two apartment inspections. A workshop vibration complaint. One warehouse call that paid well because the owner hated waiting.\n\nI gave four to Lorn.\n\nHe took three.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The fourth conflicted with his son's school ceremony.\n\nPerrin.\n\nI remembered the name this time.\n\nProgress.\n\nTova covered a district survey when I took my mother to a healer. Halden moved a two-day inspection without complaining and then complained later because he believed delayed complaining preserved authority.\n\nNessa paid more rent for two months when my private income dipped.\n\nI noticed.\n\nAlso progress.\n\nNone of those arrangements made family obligation cheap.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 14,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "They made it possible for one person not to carry every piece.\n\nMy father returned to the mill after the no-ladder month.\n\nNot to work.\n\nHe said.\n\nHe sat beside the tool wall. Corrected people. Sharpened blades. Sorted worn fasteners into jars because the new tool keeper threw salvageable metal away.\n\nThen the mill started paying him a half-day advisory rate because apparently criticism becomes expertise if you put a number beside it.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "He came home proud and pretended not to be.\n\nMy mother pretended not to notice.\n\nNessa wrote MILL under his income in the family ledger and drew a crown beside it.\n\n“Why?” I asked.\n\n“King of sitting down.”\n\nMy father saw it the next week.\n\nHe laughed until he coughed.\n\nThen told her the crown was too small.\n\nThe year kept moving.\n\nEli turned seven and then eight. He learned division and used it to prove my share of a pie was too large.\n\nI stopped helping with mathematics.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 16,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "My mother started using a cane outside and hiding it when visitors came.\n\nMy father fell from another ladder.\n\nNot badly.\n\nHe called it stepping off early.\n\nThe ladder disagreed.\n\nNessa's transfer crew gained two workers. One quit. One stayed.\n\nLorn took more private calls without me.\n\nTova and I mapped six more legacy structures. None explained the whole Line.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 17,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Halden started talking about permanent district archives for operator notes instead of leaving them buried in station books.\n\nKel Arno approved by saying, “About fucking time.”\n\nMina replaced the bakery's rear oven. The new one heated our floor differently. I hated it for a month.\n\nSenn paid us eight silver to inspect the rain knock in his back building.\n\nLorn had been right.\n\nRoof flashing.\n\nWe did not touch the Line.\n\nSenn looked disappointed.\n\nI charged him anyway.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 18,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Business growth.\n\nNessa and I still had the table.\n\nIt rocked less after her concussion adjustment.\n\nI never fixed it completely.\n\nThat is technically true.\n\nI adjusted it twice.\n\nShe caught me once.\n\nThe second remains unproven.\n\nNothing happened that year.\n\nThe cave returned so suddenly I opened my eyes before I understood why.\n\nBlack glass. Gold. Heat.\n\nMy present left leg had gone numb from sitting. I shifted it and immediately regretted the choice.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 19,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Ithar had raised his head.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 20,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“You have developed a habit.”",
+      "pause_after_ms": 1100
+    }
+  ]
+}

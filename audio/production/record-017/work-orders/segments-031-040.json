@@ -1,0 +1,77 @@
+{
+  "record": "017",
+  "source_sha256": "d476c5e92af16bb951d1bc35dc3bc89809a31285b1ba42e2968697a85199ec84",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“I did not say otherwise.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n“Then what are you arguing?”\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 33,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“That your body had finally become too small for the amount of responsibility you were acquiring.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThat shut me up.\n\nIthar's eye narrowed slightly.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 35,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“You could stand in the healer's room or Rope Street. Not both. Your authority could. You are describing the first time you noticed it arriving somewhere ahead of you.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 36,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI hated that sentence.\n\nMostly because it was useful.\n\n“So I wrote the sheet better.”\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 37,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“Continue.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 38,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThe memory took me back to the table.\n\nThe next week I changed the private work sheet.\n\nSTOP AUTHORITY.\n\nAny worker on the job could isolate service for an observed immediate hazard.\n\nOPEN AUTHORITY.\n\nLimited opening allowed if delay increased risk, with client notice where practical.\n\nCALL AUTHORITY.\n\nIf I was not present, Lorn could request district assistance under the contract number.\n\nLorn read it.\n\n“You made me paperwork.”\n\n“Yes.”\n\n“Can I quit?”\n\n“No.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 39,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“That is probably illegal.”\n\n“Then file a complaint.”\n\n“I know where you live.”\n\n“So does Senn.”\n\nThat complaint reached Guild Hall two weeks later.\n\nOf course it did.\n\nThe Guild notice required testimony.\n\nPRIVATE WORK REVIEW.\n\nCLIENT DISPUTE.\n\nWORKER CONDUCT.\n\nLorn read it over my shoulder.\n\n“You getting fined?”\n\n“We.”\n\nHis face changed.\n\n“No.”\n\n“Yes.”\n\n“You signed the contract.”\n\n“You opened the wall.”\n\n“You told me I was right.”\n\n“You were.”\n\n“Then why am I going?”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 40,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Because being right apparently does not eliminate procedure.”\n\nHe looked at the notice.\n\nThen at me.\n\n“You going to tell them I did what you said?”\n\n“No.”\n\n“Good.”\n\nThe answer came too fast.\n\nLorn heard it.\n\nSo did I.\n\nMy contract.\n\nMy worker.\n\nMy responsibility.\n\nAll true.\n\nIncomplete.\n\nLorn had made the call.\n\n“I'll tell them what I wrote,” I said.\n\n“And I tell them what I did.”\n\n“Yes.”\n\n“What if they decide I fucked it?”\n\n“Then we learn something expensive.”\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

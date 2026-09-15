@@ -1,0 +1,77 @@
+{
+  "record": "018",
+  "source_sha256": "5761aa51c7ad4e813027c96d4ae33deb24b557cc28fd70c64d62cd72419becee",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The Guild hearing had bad chairs.\n\nI remember that before I remember the panel.\n\nThree witness chairs.\n\nStraight backs.\n\nShallow seats.\n\nBuilt by somebody who believed discomfort improved truth.\n\nMaybe it did.\n\nLorn sat beside me and bounced one knee.\n\nI told him to stop.\n\nHe bounced the other.\n\nSenn sat across the room with a folder on his lap.\n\nHe looked less angry than he had on Rope Street.\n\nThat made me nervous.\n\nAngry people are easy to read.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Prepared people have pages.\n\nThe panel had three members.\n\nA Guild contract officer.\n\nA building-trades representative.\n\nA technical reviewer.\n\nThe technical reviewer was Tova Renn.\n\nI looked at her.\n\nShe looked at me.\n\n“No,” she said.\n\nThe contract officer frowned.\n\n“No what?”\n\n“He is about to make a face.”\n\n“I am not.”\n\nTova looked at the officer.\n\n“There.”\n\nThe officer rubbed her temple.\n\n“We have not started.”\n\n“Good,” I said.\n\nLorn covered his mouth.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Senn did not smile.\n\nProbably wise.\n\nThe officer's name was Aven.\n\nNot a clerk in the front-window sense.\n\nGuild clerks ran half the civilization nobody noticed.\n\nAven had gray hair tied in a knot and the expression of a woman who had spent thirty years watching people discover that agreements meant words.\n\nShe opened the file.\n\n“Complaint by Orren Senn regarding private Line inspection at fourteen through eighteen Rope Street.”\n\nThere were only three buildings.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Street numbering is not required to be logical.\n\n“Allegations: unauthorized removal of interior wall finish, unauthorized service isolation, failure to complete contracted scope, and resulting loss of heat to occupied rental units.”\n\nShe looked at Senn.\n\n“Accurate summary?”\n\n“Yes.”\n\nThen at me.\n\n“Gregory?”\n\n“Greg.”\n\n“That was not the question.”\n\nTova looked pleased.\n\nI disliked the hearing already.\n\n“Yes. Accurate summary.”\n\nAven looked at Lorn.\n\n“Lorn Esset?”\n\nHe nodded.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Speak.”\n\n“Yes.”\n\n“Good. You may all continue doing that.”\n\nThe trades representative coughed into one hand.\n\nPossibly laughter.\n\nAven started with the contract.\n\nOne-page private call sheet.\n\nSITE.\n\nCLIENT.\n\nSCOPE.\n\nRANK OR TRADE AUTHORITY.\n\nFEE.\n\nMy handwriting sat in the middle.\n\nINSPECT RECURRING WALL KNOCK / HOUSE-SIDE LINE PRESSURE LOSS.\n\nThat was it.\n\nAven tapped the line.\n\n“Does this authorize wall opening?”\n\n“No.”\n\n“Service isolation?”\n\nI hesitated.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 6,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Not explicitly.”\n\n“Does it prohibit either?”\n\n“No.”\n\nSenn said, “It says inspect.”\n\nAven looked at him.\n\n“You will get your turn.”\n\nSenn stopped.\n\nShe looked back at me.\n\n“What instructions did you give Esset?”\n\n“Visual only. Do not open wall.”\n\nLorn's knee stopped bouncing.\n\nAven turned toward him.\n\n“Did you receive that instruction?”\n\n“Yes.”\n\n“Did you open the wall?”\n\n“Yes.”\n\n“Why?”\n\nI had spent the weekend wanting to answer that question for him.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The urge came back immediately.\n\nI kept my mouth shut.\n\nLorn looked at Senn.\n\nThen the panel.\n\n“The wall knocked when heat came up. Metal contact sound. Couldn't see the service sleeve. Plaster was already cracked along the knock point.”\n\n“Was the plaster loose?”\n\n“Yes.”\n\n“How much did you remove?”\n\nLorn held his hands apart.\n\nAven looked at the trades representative.\n\nHe checked a note.\n\n“Approximately two feet square.”\n\nLorn nodded.\n\n“That.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 8,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Why did you not wait for Gregory?”\n\n“Thought the contact could wear the sleeve through.”\n\n“Did you know it had?”\n\n“No.”\n\n“So you opened property against instruction based on a suspected hazard.”\n\n“Yes.”\n\n“Did you notify Senn first?”\n\n“No.”\n\nSenn sat slightly straighter.\n\nAven made a note.\n\n“Why not?”\n\nLorn thought.\n\n“Because I was already in the wall.”\n\nI closed my eyes.\n\nTova's mouth moved.\n\nNot a smile.\n\nAlmost.\n\nAven did not react.\n\n“That is sequence, not reason.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Lorn nodded.\n\n“I didn't think I needed permission to verify a pressure hazard.”\n\n“Were you operating under Rank authority?”\n\n“No.”\n\n“Trade emergency authority?”\n\n“Station hand.”\n\n“Private station hand.”\n\n“Yes.”\n\n“Different authority.”\n\n“Yes.”\n\n“Did you know that at the time?”\n\nLorn's knee started again.\n\n“No.”\n\nAven wrote something.\n\nThat hurt more than I expected.\n\nNot because Lorn looked incompetent.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 10,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Because I had hired him without making sure either of us knew what authority traveled with the contract.\n\nAt East Four, station rules lived in our bodies after years of repetition.\n\nPrivate work looked similar enough that we assumed the same instincts transferred.\n\nThey did not all transfer.\n\nAven moved to the shutdown.\n\n“You observed a pressure sleeve with visible wear and active condensate.”\n\n“Yes.”\n\n“You isolated the shared building feed.”\n\n“Yes.”\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "record": "015",
+  "source_sha256": "ba521eaf683f5d854fc70831ffe40b6956a2325fd8f76067248b15aee25b9df9",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Tova wanted East Two shut down.\n\nI wanted half of it left open.\n\nNeither of us was being stupid.\n\nThat made the argument worse.\n\nThe old bronze sleeve beneath the station had moved four millimeters since summer.\n\nTova knew because she had cut three reference marks into the masonry and measured them every month with a brass gauge she trusted more than most people.\n\nI trusted the gauge too.\n\nInconvenient.\n\nWinter load made the movement worse.\n\nNot constantly.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Only when the east market branch climbed above two-thirds pressure.\n\nThe sleeve warmed.\n\nThe support beside it shifted.\n\nThen everything settled again when demand fell.\n\nModern doctrine had a simple answer for an unknown structure moving under load.\n\nRemove the load.\n\nTova wrote exactly that.\n\nIMMEDIATE ISOLATION OF EAST MARKET BRANCH PENDING LEGACY STRUCTURE IDENTIFICATION.\n\nReasonable sentence.\n\nThe problem was forty-three buildings.\n\nTwelve apartment blocks.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Three bakeries.\n\nA public bath.\n\nA clinic.\n\nSixteen shops.\n\nA school kitchen.\n\nThe market heating grid.\n\nSeveral buildings that belonged on other branches in theory and East Two in reality because repairs had accumulated faster than documentation.\n\nIf we shut the branch in summer, people complained.\n\nIn winter, they got cold.\n\nRooms.\n\nPipes.\n\nFood.\n\nWash water.\n\nTenants paying rent for worse rooms.\n\nThe alternate feed ran through South Three.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Kel Arno had twenty-six years of unexplained pressure drift there.\n\nI did not like solving one unknown by leaning harder on another.\n\nTova knew all of this.\n\nShe still wanted East Two shut down.\n\nWe argued in Halden's office with the new district map covering half the wall.\n\nTova put one finger on East Two.\n\n“Unknown active legacy structure.”\n\n“I know.”\n\n“It moves under load.”\n\n“I know.”\n\n“We don't know what it is.”\n\n“I know.”\n\n“We don't know where it goes.”\n\n“I know.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“We don't know what failure looks like.”\n\n“I know.”\n\n“Stop saying I know like knowing the list makes the list better.”\n\nI stopped.\n\nHalden sat behind his desk and made no attempt to help.\n\nCoward.\n\nTova tapped the report.\n\n“Isolation is reversible.”\n\n“So is restricted service.”\n\n“Not if the thing fails while restricted service is on it.”\n\n“Not if South Three fails because we move load there.”\n\n“We can limit the transfer.”\n\n“Then East Market still loses heat.”\n\n“Yes.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 6,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "She said it cleanly.\n\nThat mattered.\n\nShe was not pretending closure had no cost.\n\nHalden looked at me.\n\n“What are you proposing?”\n\n“Restricted operation.”\n\n“Define restricted.”\n\nThat changed the room.\n\nAdvice is comfortable until somebody asks for a number.\n\nI looked at Tova's measurements.\n\n“Forty-five percent branch pressure.”\n\n“Why forty-five?” she asked.\n\n“Movement becomes measurable above sixty.”\n\n“On how many winter observations?”\n\n“Three.”\n\n“Then why forty-five?”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I did not have a beautiful answer.\n\n“Because fifty feels too close.”\n\nTova stared at me.\n\nHalden made a small sound.\n\n“I know how that sounds.”\n\n“Do you?”\n\n“Yes.”\n\n“Good.”\n\nI looked at the readings again.\n\nNot memory.\n\nNot instinct.\n\nData.\n\nThirty-eight percent, no movement.\n\nForty-two, none.\n\nForty-eight, trace once.\n\nFifty-three, measurable twice.\n\nSixty-one, consistent.\n\nSixty-eight, four millimeters.\n\n“Forty,” I said.\n\nTova looked down.\n\nDifferent answer.\n\n“Why?”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 8,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Repeated no-movement through forty-two.”\n\n“On the wall.”\n\n“Yes.”\n\n“The sleeve could be moving without the wall.”\n\n“Yes.”\n\n“We would still be operating an unknown structure.”\n\n“Yes.”\n\n“Then I still recommend closure.”\n\n“I know.”\n\nHalden leaned back.\n\n“What else?”\n\nA number was not a plan.\n\nWe built one.\n\nHourly checks below thirty-five percent.\n\nFifteen-minute checks above it.\n\nChalk reference at shift start.\n\nTemperature.\n\nWall gap.\n\nVibration weight.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Immediate isolation if movement persisted past the threshold Tova set.\n\nPell objected to the staffing.\n\nHalden paid for the watches.\n\nThe clinic and school got alternate-heat plans.\n\nThe apartment blocks got a notice about unvented braziers because a fire officer had seen what people did when heat disappeared in winter.\n\nBy the end, the plan belonged to too many people to be elegant.\n\nGood.\n\nTova still recommended full isolation.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 10,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Pell agreed he could operate the restriction but refused to certify the buried structure.\n\nHalden would authorize operation after the inspection finding.\n\nThen he slid the packet toward me.\n\n“Sign.”\n\nI looked at him.\n\n“Why me?”\n\n“Because this is your recommendation.”\n\n“It is everyone's now.”\n\n“No.”\n\nHe tapped Tova's report.\n\n“Her recommendation remains isolation.”\n\nTova nodded.\n\nPell said, “I can run the restriction. I am not telling anyone that wall is safe.”\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

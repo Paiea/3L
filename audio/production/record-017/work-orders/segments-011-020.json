@@ -1,0 +1,77 @@
+{
+  "record": "017",
+  "source_sha256": "d476c5e92af16bb951d1bc35dc3bc89809a31285b1ba42e2968697a85199ec84",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Scope.\n\nHe had been standing beside a leaking sleeve.\n\n“I am not turning it back on,” I said.\n\nSenn's face closed.\n\n“Then I am not paying you.”\n\n“Okay.”\n\nLorn looked at me.\n\nSenn pointed at the open wall.\n\n“You damaged my property.”\n\n“We'll patch the plaster after repair.”\n\n“Not if you are off the job.”\n\n“That is your choice.”\n\n“It is.”\n\nHe walked out.\n\nThe front door slammed hard enough to shake dust from the hall trim.\n\nLorn waited.\n\nThen said, “Six silver.”\n\n“Yes.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 12,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Gone.”\n\n“Yes.”\n\n“You are terrible at business.”\n\n“I have heard.”\n\nHe looked at the sleeve.\n\n“I should have waited.”\n\n“No.”\n\n“You told me visual only.”\n\n“I told you do not open the wall.”\n\n“I opened the wall.”\n\n“Yes.”\n\n“Client is gone.”\n\n“Yes.”\n\n“So I fucked it.”\n\n“No.”\n\nLorn looked at me.\n\nThe answer was harder than it should have been.\n\n“You found a condition that made the existing scope unsafe.”\n\n“By breaking scope.”\n\n“Yes.”\n\n“That sounds convenient.”\n\n“It is.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "He almost smiled.\n\nI shook my head.\n\n“You should have sent for me before opening.”\n\n“You were with your father.”\n\n“You could have waited.”\n\n“The knock was active.”\n\n“Yes.”\n\n“I could hear metal contact.”\n\n“Yes.”\n\n“I thought waiting was stupid.”\n\nI looked at the groove.\n\nIt probably was.\n\n“Next time,” I said, “send a runner before opening.”\n\n“Next time, write that.”\n\nI looked at him.\n\n“What?”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 14,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Your work sheet said visual only. It did not say what I can do if visual finds hazard.”\n\nI opened my mouth.\n\nClosed it.\n\nHe was right.\n\nAgain.\n\nI disliked this arrangement.\n\n“What would you write?”\n\nLorn shrugged.\n\n“Stop unsafe condition. Notify client. Notify you. Open only enough to verify if delay increases risk.”\n\n“That is a lot for a work sheet.”\n\n“So write smaller.”\n\nI stared at him.\n\n“Have you been hiding literacy too?”\n\n“Fuck you.”\n\nBetter.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Senn hired another fitter that afternoon.\n\nThe fitter kept the feed off and replaced the sleeve the next morning.\n\nThree buildings spent one cold night with blankets and borrowed coal heaters from district stores.\n\nNobody died.\n\nNobody was happy.\n\nSenn sent me a written complaint anyway.\n\nUNAUTHORIZED DAMAGE.\n\nUNAUTHORIZED SERVICE INTERRUPTION.\n\nFAILURE TO COMPLETE CONTRACTED INSPECTION.\n\nHe was not entirely wrong.\n\nThat mattered.\n\nLorn read the complaint at our table.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 16,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Nessa read it after him.\n\nThen she looked at me.\n\n“Well?”\n\n“What?”\n\n“Are you paying Lorn?”\n\nLorn said, “I told him not to.”\n\nNessa ignored him.\n\n“Yes,” I said.\n\nLorn frowned.\n\n“For what?”\n\n“The job.”\n\n“We did not get paid.”\n\n“You worked.”\n\n“I cost the contract.”\n\n“You found the leak.”\n\n“I opened the wall.”\n\n“You found the leak.”\n\nLorn looked at Nessa.\n\nShe shrugged.\n\n“He has become strange about accounting.”\n\n“I have always been strange about accounting.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 17,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“No. You used to be bad. Now you are bad with principles.”\n\nThat sounded worse.\n\nI paid Lorn two silver from PRIVATE WORK.\n\nThe ledger went negative for the month.\n\nI hated the red mark.\n\nNessa drew a box around it.\n\n“Why?”\n\n“So you remember.”\n\n“I remember losses.”\n\n“Do you?”\n\nShe pointed at Lorn.\n\n“What did you buy for two silver?”\n\nNot labor.\n\nJudgment.\n\nThe ability for a job carrying my name to become safer while I was somewhere else.\n\nExpensive.\n\nAlso cheap.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 18,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The cave returned around me before I could move on.\n\nIthar had lowered his head closer to the gold.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 19,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "“You continue to call yourself absent.”",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 20,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n“I was.”\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

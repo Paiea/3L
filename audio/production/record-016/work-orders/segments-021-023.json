@@ -1,0 +1,28 @@
+{
+  "record": "016",
+  "source_sha256": "dfdb0c65a559a3ca178689a9bc75c295de471418bd5f8eeb1a34634d2d4ff8f7",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Your key works until you lose it.”\n\n“I have never lost it.”\n\n“You left it in a fish crate for six days.”\n\n“That was one time.”\n\n“Get out.”\n\nI did.\n\nNessa was at the pressure desk.\n\n“Fired?”\n\n“No.”\n\n“Tragic.”\n\n“I am district inspection now.”\n\n“You were district inspection yesterday.”\n\n“Officially.”\n\n“You were officially yesterday too.”\n\nI looked at her.\n\nShe smiled.\n\nThere it was.\n\nI had intended to stay four weeks.\n\nI stayed eleven years.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 22,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then I left slowly enough that nobody could tell me which day counted.\n\nThe first private contract stayed in the ledger.\n\nMINA COR.\n\nThree silver.\n\nOne silver to Lorn.\n\nOne copper Guild notice.\n\nSix rolls later, unvalued because Nessa said bread did not belong in business accounts.\n\nI argued.\n\nLost.\n\nYears later people paid much more for my name on a job.\n\nI do not remember the first contract because of the money.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 23,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I remember Lorn standing in a bakery with a roll in his mouth asking why I was staring at a floor when the workers washed pans at fifth bell.\n\nEleven years at East Four had made me useful.\n\nIt had not made me the only useful person in the room.\n\nFour days later, the landlord on Rope Street hired us.\n\nI was supposed to meet Lorn there.\n\nI didn't.",
+      "pause_after_ms": 220
+    }
+  ]
+}

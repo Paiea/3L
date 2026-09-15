@@ -1,0 +1,77 @@
+{
+  "record": "018",
+  "source_sha256": "5761aa51c7ad4e813027c96d4ae33deb24b557cc28fd70c64d62cd72419becee",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Could you isolate only the affected building?”\n\n“No.”\n\n“Did you attempt to?”\n\n“Yes.”\n\n“How?”\n\nLorn described the manifold.\n\nShared upstream shutoff.\n\nIndividual branches after the damaged section.\n\nNo safe way to keep the other two live without pressurizing the worn sleeve.\n\nTova spoke for the first time since my face.\n\n“Depth of groove?”\n\n“Didn't measure before shutdown.”\n\n“Why?”\n\n“Leak bead.”\n\nShe nodded.\n\n“Good.”\n\nSenn shifted in his chair.\n\nAven looked at him.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 12,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Your turn.”\n\nSenn opened his folder.\n\nPrepared people have pages.\n\nHe had photographs.\n\nActual chemical plates from a neighborhood survey photographer.\n\nOne of the open wall.\n\nOne of the cracked plaster before repair.\n\nOne of coal braziers in a wash yard.\n\nOne of a tenant holding a rent receipt.\n\nI understood what he was doing before he spoke.\n\nThe complaint was not really about the sleeve anymore.\n\nIt was about consequence.\n\n“I am not disputing the leak,” Senn said.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "That changed the room.\n\nLorn looked at me.\n\nI kept watching Senn.\n\n“The fitter I hired next morning replaced it. He said shutdown was appropriate.”\n\nAven asked, “Then what remedy are you seeking?”\n\n“Wall repair and one day's service loss.”\n\n“Service loss to whom?”\n\n“My tenants.”\n\n“Did you refund rent?”\n\nSenn hesitated.\n\nInteresting.\n\n“No.”\n\nThe trades representative leaned forward.\n\n“Then whose loss are you claiming?”\n\n“The buildings lost heat.”\n\n“That is not a person.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 14,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Senn looked irritated.\n\n“The tenants complained to me. I supplied coal heaters. I paid for them.”\n\nThere.\n\nActual cost.\n\n“How much?” Aven asked.\n\nTwo silver and six copper.\n\nCoal from district emergency stores.\n\nCart fee.\n\nOne broken brazier handle.\n\nHe had receipts.\n\nPrepared.\n\nReasonable.\n\n“I also paid for plaster repair.”\n\n“How much?”\n\nOne silver and four.\n\nAven wrote both numbers down.\n\n“Anything else?”\n\n“I lost half a day arranging it.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Not compensable under private works rules.”\n\nSenn nodded.\n\nHe knew.\n\nThat bothered me more than anger would have.\n\nHe had not come to punish us.\n\nHe came to recover costs he believed our process created.\n\nSome of them it had.\n\nAven looked at me.\n\n“Response?”\n\nI had several.\n\nThe leak was real.\n\nShutdown was necessary.\n\nSenn would have paid more if the sleeve failed.\n\nWe probably prevented worse damage.\n\nAll true.\n\nAlso defensive.\n\n“The isolation was correct.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 16,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Tova nodded slightly.\n\n“The wall opening was not properly authorized.”\n\nLorn looked at me.\n\nI kept going.\n\n“My work order was incomplete. I told Lorn visual only and gave him no emergency expansion procedure.”\n\nAven asked, “Does that make his decision yours?”\n\nThere it was.\n\nThe question I had been avoiding since the notice arrived.\n\n“No.”\n\nLorn's knee stopped.\n\n“He chose to open the wall.”\n\n“Against your instruction.”\n\n“Yes.”\n\n“Do you believe he was wrong?”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 17,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I looked at Lorn.\n\nThen the photograph.\n\nCracked plaster.\n\nBright groove.\n\nWet bead.\n\n“No.”\n\nAven's face did not change.\n\n“Explain.”\n\n“He violated my instruction and still made the safer field decision.”\n\nThe trades representative leaned back.\n\nTova watched me carefully.\n\nAven said, “Those can coexist.”\n\n“Yes.”\n\n“You understand that is not comfortable for a contract system.”\n\n“I am learning.”\n\nThat almost got a smile.\n\nAlmost.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 18,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Tova asked, “If you had been present, would you have opened the wall?”\n\n“Yes.”\n\n“Before client approval?”\n\nI thought.\n\n“Probably not.”\n\n“Would waiting have increased immediate risk?”\n\n“Maybe.”\n\n“Evidence?”\n\n“No evidence the sleeve was minutes from failure.”\n\n“Then?”\n\n“I would have told Senn first.”\n\nLorn looked at the floor.\n\nNot shame.\n\nThinking.\n\nGood.\n\nAven closed one page and opened another.\n\n“We are going to separate the actions.”\n\nOf course.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 19,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Good institutions love separating things people keep trying to bundle into moral stories.\n\n“Service isolation. Technical reviewer?”\n\nTova said, “Supported. Active pressure leak on a worn shared sleeve. Continued operation would be outside ordinary safe practice.”\n\n“Any fault?”\n\n“No.”\n\nAven wrote.\n\n“Wall opening.”\n\nThe trades representative answered.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 20,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Technically useful. Contractually outside stated scope. Emergency property entry can be justified if delay presents likely immediate harm. The record does not establish immediate harm before opening because the leak was discovered after opening.”\n\nCircular.\n\nAnnoying.\n\nCorrect.\n\n“So not justified?” Lorn asked.\n\n“Not clearly justified under the contract you had.”\n\nDifferent sentence.\n\nLorn nodded.\n\nAven turned to me.\n\n“Supervision.”\n\nI sat straighter.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

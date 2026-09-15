@@ -1,0 +1,77 @@
+{
+  "record": "019",
+  "source_sha256": "bb843e6b952566b85d174c78a3ec3cfc60095f092ae2d4554635e920056a9fd4",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The fairest schedule I ever wrote lasted eleven minutes.\n\nThat was generous.\n\nIt was probably dead by minute four.\n\nEast Two finally had to come apart.\n\nNot the whole station.\n\nThe east market branch.\n\nThe old bronze structures beneath it had moved enough that even I stopped pretending restricted operation was a long-term plan.\n\nTova did not say I told you so.\n\nThat was almost worse.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "District engineering built a temporary bypass that could carry about sixty percent of normal winter demand while crews opened the foundation and rebuilt the branch supports.\n\nSixty percent is an excellent number until one hundred percent of people want heat.\n\nHalden called me into a planning room with Tova, Pell, two market representatives, and a city service clerk.\n\nForty-three buildings.\n\nSame branch.\n\nSame shortage.\n\n“We rotate,” Pell said.\n\n“Obviously,” I said.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Tova looked at me.\n\n“Nothing is obvious before the schedule exists.”\n\n“Fine. We probably rotate.”\n\n“Better.”\n\nThe clinic needed continuous baseline service.\n\nSchool kitchen needed mornings.\n\nBakeries wanted before dawn.\n\nMarkets wanted midday wash and cooling.\n\nApartments wanted mornings and evenings.\n\nThe public bath wanted everything because public baths are greedy by design.\n\nWe started with equal hours.\n\nSix groups.\n\nFour hours each.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Same daily service for every ordinary building.\n\nI looked at the finished page.\n\n“Fair.”\n\nTova said nothing.\n\nHalden said nothing.\n\nThe butcher, Orr, said, “No.”\n\nI looked at him.\n\n“What?”\n\n“My cold room gets heat from the exchanger.”\n\n“Cold room gets heat.”\n\n“Yes.”\n\n“That sentence is upsetting.”\n\n“Absorption unit.”\n\n“I know how it works.”\n\n“Then stop looking upset.”\n\n“If you take midday, I lose the cool cycle when deliveries arrive.”\n\n“You have evening.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“I do not receive meat in the evening.”\n\nThe laundry representative pointed at Group Four.\n\n“You put washhouses off between second and sixth bell.”\n\n“Yes.”\n\n“That is when we work.”\n\n“You have six to ten.”\n\n“That is when people collect.”\n\n“You can change hours for nine days.”\n\nShe stared at me.\n\nThere are sentences that reveal you have never run a washhouse.\n\nApparently I had found one.\n\nThe schedule died.\n\nMinute eleven at the latest.\n\nWe tried again.\n\nUse-based windows.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 6,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Bakeries early.\n\nMarkets midday.\n\nApartments morning and evening.\n\nLaundry daytime.\n\nBath reduced.\n\nClinic continuous.\n\nSchool morning.\n\nIt looked better.\n\nThen I brought it home.\n\nNessa read it over dinner.\n\n“Who did you ask?”\n\n“Market representatives.”\n\n“Who?”\n\nI told her.\n\n“Apartment tenants?”\n\n“Building owners have the notice.”\n\n“That wasn't what I asked.”\n\n“The apartment windows are morning and evening.”\n\n“Which morning?”\n\n“First to fourth bell.”\n\n“And evening?”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Seventh to tenth.”\n\n“Night crews sleep when?”\n\nI stopped.\n\nOf course.\n\nEast Four had night crews.\n\nSo did bakeries.\n\nMarkets.\n\nTram.\n\nHealers.\n\nPeople who cleaned all of those places after everyone else left.\n\n“Our fair schedule gets cold for people who sleep during the day.”\n\n“Not gets cold.”\n\n“Yes, yes. Accuracy.”\n\nShe kept reading.\n\n“What about hot water?”\n\n“Same feed.”\n\n“So everyone cooks, washes, and heats rooms inside the same evening window.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 8,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“The bypass model accounts for simultaneous use.”\n\n“From what?”\n\n“Building demand records.”\n\n“How old?”\n\nI checked.\n\nNine years.\n\nSome updates.\n\nNot all.\n\nOne apartment block had added attic rooms.\n\nA printer occupied what used to be storage.\n\nMina's bakery had expanded the back ovens.\n\nThe bathhouse had added laundry.\n\nReality again.\n\nRefusing four kinds of ink.\n\n“We need current draw,” I said.\n\nNessa took another bite.\n\n“Yes.”\n\n“You could have said that first.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“You were proud of your schedule.”\n\n“That was cruel.”\n\n“It lasted eleven minutes?”\n\n“Approximately.”\n\nShe smiled.\n\nThe next day we stopped scheduling and started asking.\n\nThat was slower.\n\nHalden hated it for the practical reason that repair started in twelve days.\n\n“We cannot interview forty-three buildings.”\n\n“Why not?”\n\n“Twelve days.”\n\n“Tova and I can split.”\n\n“You have inspections.”\n\n“Move them.”\n\n“Private contracts.”\n\n“Move them.”\n\nHe looked at me.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 10,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“You understand you are proving time is also an allocated resource.”\n\n“Yes.”\n\n“Good. I wanted you to hear it.”\n\nAsshole.\n\nWe did not interview forty-three buildings.\n\nWe grouped them and asked enough people to discover where the records lied by age.\n\nMina needed strong bakery service from third to sixth bell, not first.\n\nI had lived upstairs and still guessed wrong.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

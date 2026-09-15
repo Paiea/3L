@@ -1,0 +1,77 @@
+{
+  "record": "017",
+  "source_sha256": "d476c5e92af16bb951d1bc35dc3bc89809a31285b1ba42e2968697a85199ec84",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The first job Lorn did without me cost us a client.\n\nI still paid him.\n\nThat surprised both of us.\n\nThe client was a landlord named Senn.\n\nThree buildings on Rope Street.\n\nNarrow rooms. Shared wash yards. Too many people using too few stairs.\n\nThe middle building had a wall that knocked every evening when the heat came up.\n\nSenn had already paid a plumber.\n\nThe plumber blamed the Line.\n\nDistrict service blamed the building.\n\nThat left the traditional final authority.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Somebody willing to take six silver.\n\nMe.\n\nI scheduled the inspection for sixth bell on a Tuesday.\n\nThen my father fell in the mill yard.\n\nNot far.\n\nThat detail mattered to him.\n\nHe repeated it while I helped him sit up.\n\n“Wasn't far.”\n\n“You hit your head.”\n\n“Barely.”\n\n“You are bleeding.”\n\n“Head bleeds.”\n\n“Yes. When you hit it.”\n\nMy mother stood over both of us.\n\n“Take him to the healer.”\n\nMy father looked betrayed.\n\n“I am sitting here.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“That is not medical evidence,” she said.\n\nNessa had arrived carrying bread.\n\nShe looked at me.\n\nThen at my father.\n\nThen back at me.\n\nI hated when evidence took her side before she spoke.\n\n“I have a contract.”\n\nMy father said, “You promised today.”\n\nNot about the healer.\n\nAbout Senn's building.\n\nHe had heard me mention it over dinner.\n\n“I can move it.”\n\nMy mother said, “Or somebody else can work.”\n\nRude in several directions.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Lorn was already supposed to meet me at Rope Street.\n\nSecond pair of hands.\n\nI sent a runner.\n\nWAIT FOR CLIENT.\n\nSTART VISUAL ONLY.\n\nDO NOT OPEN WALL.\n\nI added the last line because Lorn enjoyed opening things.\n\nThen we took my father to the healer.\n\nConcussion.\n\nNot severe.\n\nSevere enough that the healer told him not to work for a week.\n\nMy father laughed.\n\nThe healer did not.\n\nI liked her.\n\nBy the time we finished, seventh bell had passed.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I expected Lorn to be waiting on Rope Street with Senn angry beside him.\n\nSenn was there.\n\nAngry.\n\nLorn was inside.\n\nI could hear hammering from the pavement.\n\nI stopped walking.\n\nSenn saw me.\n\n“There he is.”\n\nThat tone rarely introduces praise.\n\n“What happened?”\n\n“Your man shut my heat off.”\n\nThe branch indicator was down.\n\nAll three buildings shared the same house feed.\n\n“Why?”\n\n“You tell me.”\n\n“I just got here.”\n\n“Exactly.”\n\nFair.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 6,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Lorn came out carrying a strip of plaster.\n\nI looked at it.\n\nThen at him.\n\n“I said do not open the wall.”\n\n“You said visual only.”\n\n“Yes.”\n\n“I visually found a crack.”\n\n“Behind plaster.”\n\n“It became visible after I removed the plaster.”\n\nSenn pointed at him.\n\n“This is what I have been dealing with.”\n\nI rubbed my forehead.\n\n“Why is the feed off?”\n\nLorn stopped smiling.\n\n“Come inside.”\n\nThat changed things.\n\nSecond floor.\n\nRear hall.\n\nThe knocking wall.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Lorn had removed a square of plaster about the size of a serving tray.\n\nBehind it was an old copper return sleeve.\n\nHouse-side.\n\nLegal for us to inspect.\n\nThe sleeve had rubbed against a brick edge long enough to polish a bright line into the metal.\n\nEvery time the heat came up, expansion pushed it sideways.\n\nKnock.\n\nThen back.\n\nKnock.\n\nSimple.\n\nExcept the bright line had become a groove.\n\nDeep one.\n\nI reached toward it.\n\nLorn said, “Don't.”\n\nI looked at him.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 8,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "He pointed below the groove.\n\nA bead of moisture sat there.\n\nNot water.\n\nCondensate around a pressure leak.\n\nTiny.\n\nThe kind of tiny that becomes larger if everybody agrees to wait.\n\nI took my hand away.\n\n“You shut the building feed.”\n\n“Yes.”\n\n“Immediately?”\n\n“Yes.”\n\n“Before Senn agreed?”\n\n“Yes.”\n\nSenn said, “There. Tell him.”\n\nI looked at Senn.\n\n“He was right.”\n\nSenn stared at me.\n\n“You work for me.”\n\n“You hired us to inspect a pressure fault.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“And he shut off three buildings.”\n\n“Because you have a leaking pressure sleeve inside a wall.”\n\n“It has probably been leaking for years.”\n\n“No.”\n\n“How do you know?”\n\n“The wall would be worse.”\n\n“Probably.”\n\n“Yes.”\n\nSenn folded his arms.\n\n“How long?”\n\n“Repair?”\n\n“Heat.”\n\nLorn answered.\n\n“Tomorrow if the sleeve is standard.”\n\nSenn looked back at me.\n\n“Tonight?”\n\n“No.”\n\n“People are paying rent.”\n\n“I know.”\n\n“Children live here.”\n\n“I know.”\n\n“It is cold.”\n\n“I know.”\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 10,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "“Then turn it back on until morning.”\n\nThere are requests that sound more reasonable the less you understand the mechanism.\n\nSenn's was one.\n\nI crouched beside the sleeve.\n\nThe groove was worse than I wanted.\n\nI would have shut it too.\n\nMaybe after another measurement.\n\nMaybe after checking whether only the middle building could be isolated.\n\nThat was the uncomfortable part.\n\nI was not sure I would have done it as quickly as Lorn.\n\nI had been thinking client.\n\nSchedule.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
