@@ -8,35 +8,35 @@ Nobody has enough history to hide behind.
 
 We had thirty-four minutes before our first match.
 
-Rellan wanted introductions.
+Calder wanted introductions.
 
-Mari wanted formation.
+Orla wanted formation.
 
-Hessa wanted to know whether I had ice for my forehead.
+Veda wanted to know whether I had ice for my forehead.
 
-I wanted Hessa removed from the team.
+I wanted Veda removed from the team.
 
 This was denied.
 
-"Again," Rellan said. "Rellan Vos. Sword. Front right."
+"Again," Calder said. "Calder Vos. Sword. Front right."
 
-"Mari Elt. Shield. Front left."
+"Orla Elt. Shield. Front left."
 
-Hessa raised two fingers.
+Veda raised two fingers.
 
-"Hessa Vale. Spear. Rear right. Long reach, excellent judgment, beloved by peers."
+"Veda Vale. Spear. Rear right. Long reach, excellent judgment, beloved by peers."
 
 "One of those is false," I said.
 
 "Only one?"
 
-Rellan looked at me.
+Calder looked at me.
 
 "Greg."
 
 "Support."
 
-Mari waited.
+Orla waited.
 
 "And?"
 
@@ -46,7 +46,7 @@ Mari waited.
 
 "C."
 
-Hessa pointed at my forehead.
+Veda pointed at my forehead.
 
 "Horn classification unclear."
 
@@ -84,17 +84,17 @@ I hope he recovered.
 
 Mostly because I later learned he had paid part of the entry fee.
 
-Rellan drew a square in the dirt.
+Calder drew a square in the dirt.
 
 "We usually run this."
 
-Mari front left.
+Orla front left.
 
-Rellan front right.
+Calder front right.
 
-Hessa behind Rellan with spear reach over the line.
+Veda behind Calder with spear reach over the line.
 
-Support behind Mari.
+Support behind Orla.
 
 Compact.
 
@@ -102,9 +102,9 @@ Reasonable.
 
 I looked at it.
 
-"Why support behind Mari?"
+"Why support behind Orla?"
 
-Mari answered.
+Orla answered.
 
 "Because I'm first contact."
 
@@ -112,15 +112,15 @@ Mari answered.
 
 "Support rotates."
 
-"And when Hessa extends?"
+"And when Veda extends?"
 
 "Support rotates."
 
-"And when Rellan chases?"
+"And when Calder chases?"
 
-Rellan said, "I don't chase."
+Calder said, "I don't chase."
 
-Mari looked at him.
+Orla looked at him.
 
 He sighed.
 
@@ -130,7 +130,7 @@ I stared at the little square.
 
 "So your support spends the match fixing whichever one of you becomes a problem."
 
-Hessa said, "That is an unkind way to describe support."
+Veda said, "That is an unkind way to describe support."
 
 "Is it inaccurate?"
 
@@ -166,7 +166,7 @@ Accurate.
 
 The judge called us in.
 
-Hessa glanced at my forehead.
+Veda glanced at my forehead.
 
 "If the horn gets hit, is that two points?"
 
@@ -178,15 +178,15 @@ Start.
 
 For approximately twenty seconds, I was excellent.
 
-Mari took first contact.
+Orla took first contact.
 
 I reinforced her shield shoulder.
 
-Rellan moved right.
+Calder moved right.
 
 I stabilized his rear ankle when the staff fighter tried to hook his step.
 
-Hessa extended over him.
+Veda extended over him.
 
 I caught recoil through her wrist and kept the spear line clean.
 
@@ -198,29 +198,29 @@ I felt useful.
 
 Then the other team moved as one thing.
 
-Their shield pressed Mari inward.
+Their shield pressed Orla inward.
 
 Blades threatened the opening.
 
-Rellan turned to punish it.
+Calder turned to punish it.
 
-Hessa widened to preserve spear angle.
+Veda widened to preserve spear angle.
 
 All correct.
 
-I reinforced Mari because she was under the greatest visible pressure.
+I reinforced Orla because she was under the greatest visible pressure.
 
-Rellan took a staff strike to the upper arm.
+Calder took a staff strike to the upper arm.
 
 I shifted to him.
 
-Hessa overextended.
+Veda overextended.
 
 I caught her shoulder.
 
-Mari lost ground.
+Orla lost ground.
 
-I returned to Mari.
+I returned to Orla.
 
 The other support barely seemed to move.
 
@@ -238,21 +238,21 @@ I was fast enough to save most individual mistakes.
 
 That became the problem.
 
-Rellan lunged after the paired blades.
+Calder lunged after the paired blades.
 
 I stabilized his front knee.
 
 Because I did, he completed the lunge instead of aborting it.
 
-Because he completed it, Hessa had to rotate farther right to cover him.
+Because he completed it, Veda had to rotate farther right to cover him.
 
-Because she rotated, Mari's inside became exposed.
+Because she rotated, Orla's inside became exposed.
 
-Because Mari's inside became exposed, I reinforced her ribs against the shield impact.
+Because Orla's inside became exposed, I reinforced her ribs against the shield impact.
 
-Because I reinforced her ribs, I had nothing left when the staff fighter swept Hessa's planted foot.
+Because I reinforced her ribs, I had nothing left when the staff fighter swept Veda's planted foot.
 
-Hessa hit the ground.
+Veda hit the ground.
 
 Point.
 
@@ -262,9 +262,9 @@ Reset.
 
 "For what?"
 
-"I kept Rellan in."
+"I kept Calder in."
 
-Rellan frowned.
+Calder frowned.
 
 "That was good."
 
@@ -282,11 +282,11 @@ Different order.
 
 Same shape.
 
-Mari held too long because I made holding possible.
+Orla held too long because I made holding possible.
 
-Rellan committed because I made commitment safer.
+Calder committed because I made commitment safer.
 
-Hessa extended because I kept her shoulder stable.
+Veda extended because I kept her shoulder stable.
 
 I was helping everyone do exactly what each of them already wanted to do.
 
@@ -310,13 +310,13 @@ Professional sympathy.
 
 I hated him immediately.
 
-Back outside the square, Rellan drank water and said, "Better than with Pell."
+Back outside the square, Calder drank water and said, "Better than with Pell."
 
-Mari said, "We lost faster with Pell."
+Orla said, "We lost faster with Pell."
 
 "That is not the compliment you think it is," I said.
 
-Hessa was rubbing her hip.
+Veda was rubbing her hip.
 
 "I liked the part where you supported me directly into the ground."
 
@@ -328,7 +328,7 @@ I opened my mouth.
 
 Closed it.
 
-Mari looked at me.
+Orla looked at me.
 
 "What?"
 
@@ -338,11 +338,11 @@ Not positions.
 
 Movement.
 
-Mari inward under pressure.
+Orla inward under pressure.
 
-Rellan right on opening.
+Calder right on opening.
 
-Hessa widening behind him.
+Veda widening behind him.
 
 Me chasing whichever body looked closest to failure.
 
@@ -360,7 +360,7 @@ Except now I was the idiot making the corrections.
 
 "Fuck."
 
-Hessa leaned over me.
+Veda leaned over me.
 
 "Breakthrough?"
 
@@ -372,13 +372,13 @@ I drew another line.
 
 "I am keeping each of you in your preferred position."
 
-Rellan said, "That's support."
+Calder said, "That's support."
 
 "Maybe bad support."
 
 He frowned.
 
-Mari understood first.
+Orla understood first.
 
 Of course she did.
 
@@ -388,7 +388,7 @@ I looked at her.
 
 "Yes."
 
-Hessa said, "What are we supposed to do, merge?"
+Veda said, "What are we supposed to do, merge?"
 
 "No."
 
@@ -400,21 +400,21 @@ Then at them.
 
 Silence.
 
-Rellan said, "Explain that carefully."
+Calder said, "Explain that carefully."
 
-"Mari, when they press you inward, give ground earlier."
+"Orla, when they press you inward, give ground earlier."
 
 She frowned.
 
 "That opens center."
 
-"For half a step. Rellan, don't take every opening she creates."
+"For half a step. Calder, don't take every opening she creates."
 
 "Then why create it?"
 
-"Because Hessa needs somewhere to stand that isn't three feet outside the team."
+"Because Veda needs somewhere to stand that isn't three feet outside the team."
 
-Hessa pointed at herself.
+Veda pointed at herself.
 
 "I liked three feet outside."
 
@@ -430,9 +430,9 @@ She considered that.
 
 I continued.
 
-"Mari gives ground before she needs me. Rellan gives up some attacks before he needs me. Hessa shortens extension before she needs me."
+"Orla gives ground before she needs me. Calder gives up some attacks before he needs me. Veda shortens extension before she needs me."
 
-Rellan looked at me.
+Calder looked at me.
 
 "And what do you do?"
 
@@ -454,7 +454,7 @@ Ugly equipment.
 
 One hammer user who looked personally offended by the concept of padding.
 
-Before the start I told Mari, "If he hits your shield, move."
+Before the start I told Orla, "If he hits your shield, move."
 
 "I know how shields work."
 
@@ -470,7 +470,7 @@ She stared at me.
 
 Start.
 
-Hammer came at Mari.
+Hammer came at Orla.
 
 She gave ground immediately.
 
@@ -478,7 +478,7 @@ Too much.
 
 The center opened.
 
-Rellan saw it.
+Calder saw it.
 
 Every part of him wanted to fill it.
 
@@ -486,7 +486,7 @@ He did not.
 
 That was harder than fighting.
 
-Hessa stepped inward instead of preserving reach.
+Veda stepped inward instead of preserving reach.
 
 Her spear shortened.
 
@@ -494,25 +494,25 @@ Worse angle.
 
 Better connection.
 
-The hammer user followed Mari.
+The hammer user followed Orla.
 
 I let him.
 
-Mari looked at me like I had betrayed civilization.
+Orla looked at me like I had betrayed civilization.
 
-Then the opponent's second fighter tried to split between her and Rellan.
+Then the opponent's second fighter tried to split between her and Calder.
 
 That was the moment.
 
-I stabilized Rellan's rear foot.
+I stabilized Calder's rear foot.
 
 Not enough to drive him forward.
 
-Enough to let him turn without stealing the space Hessa needed.
+Enough to let him turn without stealing the space Veda needed.
 
-Hessa's shortened spear caught the entry.
+Veda's shortened spear caught the entry.
 
-Mari recovered inside instead of back to her original line.
+Orla recovered inside instead of back to her original line.
 
 For perhaps three seconds, nobody stood where they preferred.
 
@@ -536,7 +536,7 @@ Good.
 
 Important.
 
-I tried to hold Mari and Rellan through the same exchange.
+I tried to hold Orla and Calder through the same exchange.
 
 Too much pressure in two different directions.
 
@@ -544,7 +544,7 @@ Barrier control slipped.
 
 My left hand went numb.
 
-Rellan took a shoulder tag.
+Calder took a shoulder tag.
 
 I shook sensation back into my fingers.
 
@@ -562,11 +562,11 @@ I could track the shape better than I could sustain every correction it suggeste
 
 So I stopped correcting everything.
 
-Mari took hits she could absorb.
+Orla took hits she could absorb.
 
-Rellan abandoned openings he could have won.
+Calder abandoned openings he could have won.
 
-Hessa accepted bad angles.
+Veda accepted bad angles.
 
 I spent support only where failure would separate us.
 
@@ -574,7 +574,7 @@ We won by two points.
 
 Nobody celebrated properly because we were too busy arguing about why it worked.
 
-"I hated that," Mari said.
+"I hated that," Orla said.
 
 "Good."
 
@@ -588,9 +588,9 @@ Nobody celebrated properly because we were too busy arguing about why it worked.
 
 She looked ready to hit me with the shield.
 
-Hessa said, "I understand him."
+Veda said, "I understand him."
 
-Mari looked at her.
+Orla looked at her.
 
 "Explain."
 
@@ -600,7 +600,7 @@ I pointed at her.
 
 "That is closer than I would like."
 
-Rellan was staring at the square.
+Calder was staring at the square.
 
 "We stopped becoming four people."
 
@@ -610,7 +610,7 @@ Not because it was profound.
 
 Because it was the sentence they had used before recruiting me.
 
-Mari looked at me.
+Orla looked at me.
 
 "Can you do it again?"
 
@@ -622,7 +622,7 @@ Mari looked at me.
 
 The words came out before I decided to say them.
 
-Hessa frowned.
+Veda frowned.
 
 "What does that mean?"
 
@@ -684,11 +684,11 @@ We did not beat him.
 
 We beat the places around him.
 
-When he pressed, Mari yielded.
+When he pressed, Orla yielded.
 
-When Mari yielded, Rellan stopped trying to punish every opening.
+When Orla yielded, Calder stopped trying to punish every opening.
 
-Hessa worked shorter and uglier.
+Veda worked shorter and uglier.
 
 I watched the lines between them instead of the people alone.
 
@@ -740,11 +740,11 @@ Two pressure changes at once.
 
 Then three.
 
-Mari gave ground.
+Orla gave ground.
 
-Rellan held.
+Calder held.
 
-Hessa shortened.
+Veda shortened.
 
 All according to plan.
 
@@ -754,15 +754,15 @@ Then another arrived first.
 
 I reinforced too late.
 
-Hessa got tagged.
+Veda got tagged.
 
 I compensated.
 
-Rellan lost center.
+Calder lost center.
 
 I compensated.
 
-Mari took a hammer strike on the shield and needed the support I had already spent.
+Orla took a hammer strike on the shield and needed the support I had already spent.
 
 I reached anyway.
 
@@ -796,7 +796,7 @@ I do not care enough to lie precisely.
 
 We walked out bruised, annoyed, and much happier than people who had just lost should have been.
 
-Rellan handed me water.
+Calder handed me water.
 
 "You hit limit."
 
@@ -806,11 +806,11 @@ Rellan handed me water.
 
 "Probably."
 
-Mari said, "How?"
+Orla said, "How?"
 
 "Work."
 
-Hessa nodded solemnly.
+Veda nodded solemnly.
 
 "Excellent. He has rediscovered employment."
 
@@ -830,11 +830,11 @@ We were temporary.
 
 We had met that morning.
 
-By sunset I trusted Mari to give ground before I asked.
+By sunset I trusted Orla to give ground before I asked.
 
-Rellan trusted me enough to leave an opening unused.
+Calder trusted me enough to leave an opening unused.
 
-Hessa trusted all of us enough to shorten a spear line she could have made prettier alone.
+Veda trusted all of us enough to shorten a spear line she could have made prettier alone.
 
 Then the tournament ended and technically we owed each other nothing.
 
@@ -858,7 +858,7 @@ Not us.
 
 We had not won enough.
 
-Rellan knew people.
+Calder knew people.
 
 Field people.
 
@@ -874,7 +874,7 @@ That should have worried me.
 
 It did not.
 
-Mari found me near the registration tent while I was collecting my deposit.
+Orla found me near the registration tent while I was collecting my deposit.
 
 She held a folded work notice.
 
@@ -882,7 +882,7 @@ She held a folded work notice.
 
 "Who is we?"
 
-"Not today’s team. Mostly. Rellan is in. Hessa has another contract."
+"Not today’s team. Mostly. Calder is in. Veda has another contract."
 
 "Tragic."
 
