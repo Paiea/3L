@@ -12,13 +12,7 @@ The client was a landlord named Senn.
 
 Three buildings on Rope Street.
 
-Nothing elegant.
-
-Narrow rooms.
-
-Shared wash yards.
-
-Too many people using too few stairs.
+Narrow rooms. Shared wash yards. Too many people using too few stairs.
 
 The middle building had a wall that knocked every evening when the heat came up.
 
@@ -42,7 +36,7 @@ Not far.
 
 That detail mattered to him.
 
-He repeated it three times while I helped him sit up.
+He repeated it while I helped him sit up.
 
 “Wasn't far.”
 
@@ -74,7 +68,7 @@ Then at my father.
 
 Then back at me.
 
-I hated when evidence took her side before she even spoke.
+I hated when evidence took her side before she spoke.
 
 “I have a contract.”
 
@@ -106,17 +100,7 @@ DO NOT OPEN WALL.
 
 I added the last line because Lorn enjoyed opening things.
 
-The runner left.
-
-My father tried to stand.
-
-He swayed.
-
-My mother looked at me.
-
-“He is fine,” my father said.
-
-We took him to the healer.
+Then we took my father to the healer.
 
 Concussion.
 
@@ -154,9 +138,7 @@ That tone rarely introduces praise.
 
 “Your man shut my heat off.”
 
-I looked at the building.
-
-Branch indicator down.
+The branch indicator was down.
 
 All three buildings shared the same house feed.
 
@@ -274,10 +256,6 @@ Senn stared at me.
 
 “You work for me.”
 
-“Not exactly.”
-
-“I hired you.”
-
 “You hired us to inspect a pressure fault.”
 
 “And he shut off three buildings.”
@@ -304,9 +282,7 @@ Senn folded his arms.
 
 “Heat.”
 
-I looked at Lorn.
-
-He answered.
+Lorn answered.
 
 “Tomorrow if the sleeve is standard.”
 
@@ -506,12 +482,6 @@ Nobody was happy.
 
 Senn sent me a written complaint anyway.
 
-Not to the Guild.
-
-To me.
-
-Almost worse.
-
 UNAUTHORIZED DAMAGE.
 
 UNAUTHORIZED SERVICE INTERRUPTION.
@@ -538,9 +508,7 @@ Lorn said, “I told him not to.”
 
 Nessa ignored him.
 
-I had already decided.
-
-“Yes.”
+“Yes,” I said.
 
 Lorn frowned.
 
@@ -592,8 +560,6 @@ She pointed at Lorn.
 
 “What did you buy for two silver?”
 
-I knew what she meant.
-
 Not labor.
 
 Judgment.
@@ -603,6 +569,64 @@ The ability for a job carrying my name to become safer while I was somewhere els
 Expensive.
 
 Also cheap.
+
+The cave returned around me before I could move on.
+
+Ithar had lowered his head closer to the gold.
+
+“You continue to call yourself absent.”
+
+“I was.”
+
+“In body.”
+
+“Yes. That is generally how absence works.”
+
+“No.”
+
+I sighed.
+
+He continued.
+
+“Your fee had been agreed. Your instructions arrived before you. Your worker understood himself to be acting under your name. The landlord expected your judgment even when you were not present to provide it. When the danger appeared, Lorn was already inside a structure you had built around the work.”
+
+“It was one sheet.”
+
+“A structure can be badly built and still exist.”
+
+I looked at him.
+
+He looked back.
+
+Dragons are very difficult to intimidate with silence.
+
+“I was with my father,” I said.
+
+“Yes.”
+
+“That mattered more.”
+
+“I did not say otherwise.”
+
+“Then what are you arguing?”
+
+“That your body had finally become too small for the amount of responsibility you were acquiring.”
+
+That shut me up.
+
+Ithar's eye narrowed slightly.
+
+“You could stand in the healer's room or Rope Street. Not both. Your authority could. You are describing the first time you noticed it arriving somewhere ahead of you.”
+
+I hated that sentence.
+
+Mostly because it was useful.
+
+“So I wrote the sheet better.”
+
+“Continue.”
+
+The memory took me back to the table.
 
 The next week I changed the private work sheet.
 
@@ -639,10 +663,6 @@ Lorn read it.
 That complaint reached Guild Hall two weeks later.
 
 Of course it did.
-
-Senn had reconsidered.
-
-Or somebody told him formal complaints could recover repair costs.
 
 The Guild notice required testimony.
 
@@ -692,8 +712,6 @@ Lorn heard it.
 
 So did I.
 
-There had been a time I would have protected someone by taking their decision away from them.
-
 My contract.
 
 My worker.
@@ -704,9 +722,7 @@ All true.
 
 Incomplete.
 
-Lorn made the call.
-
-If I spoke over him, trust became ownership again.
+Lorn had made the call.
 
 “I'll tell them what I wrote,” I said.
 
@@ -736,13 +752,7 @@ The hearing was set for Monday.
 
 I spent the weekend wanting to prepare Lorn.
 
-Questions.
-
-Answers.
-
-Order of events.
-
-Words to avoid.
+Questions. Answers. Order of events. Words to avoid.
 
 He refused.
 
@@ -761,8 +771,6 @@ I stopped.
 Mostly.
 
 The night before the hearing, my father asked how business was going.
-
-We were at his house.
 
 He had returned to the mill after the concussion.
 
@@ -797,8 +805,6 @@ I took it from him.
 He let me.
 
 That worried me more than the hearing.
-
-I sharpened it properly.
 
 He watched my hands.
 
