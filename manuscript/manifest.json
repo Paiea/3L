@@ -450,9 +450,9 @@
       "title": "THE TRAVELER",
       "path": "manuscript/records/041/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1026
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 2852
     },
     {
       "id": "r042",
