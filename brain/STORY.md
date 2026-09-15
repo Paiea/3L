@@ -8,7 +8,7 @@ Greg, about fifty-nine in Life Two, reaches Ithar during a western Line crisis. 
 
 ## Two lives
 
-First-Life Greg lived roughly from nineteen to fifty-nine. He eventually became S-class in **support**, not as a warrior. As a direct warrior he was roughly C-class. He was one of only seven S-class humans of his era and essentially the only support known to reach S-class.
+First-Life Greg lived roughly from nineteen to fifty-nine. He eventually became S-class in **support**, not as a warrior. As a direct warrior he was roughly C-class. At his First-Life apex, only seven living humans were recognized as S-class. Greg became one of those seven and was essentially the only support known to reach S-class.
 
 Life Two Greg wakes at nineteen with those memories but without the old body, position, leverage, relationships, or decades of support conditioning.
 
@@ -61,6 +61,16 @@ A person may be high in one system and low, unrated, or differently placed in an
 
 Going forward, use **rank/class** for capability context, **credential/tier** for professional Guild context, **Ranker** for the broader recognized status, and **Named Ranker** for the Authority-bestowed titled distinction.
 
+## The seven S-class humans
+
+During Greg's First-Life apex period, only **seven living humans** are recognized as S-class. Treat seven as a world fact, not a casual roster size. Do not introduce an eighth living S-class without an explicit canon revision; an eighth would be a world-scale event.
+
+Most of the seven are older and terrifying: clan heads, old-blood inheritors, long-lived veterans, or people whose power and institutional weight have accumulated over decades. Only two or three belong to a meaningfully younger generation, Greg among them.
+
+S-class is not simply the next ordinary career step after A. A-class is already rare. S-class individuals are people around whom governments, clans, expeditions, and military planning change shape.
+
+The seven are not a formal quota imposed by the Authority. When one dies there can be six. Greg does not receive an honorary promotion merely because a place is empty. His eventual recognition restores the living count to seven because his demonstrated capability proves he belongs at S-class scale.
+
 ## First-Life S-class support
 
 Greg's First-Life S-class reputation came from support, not personal combat supremacy.
@@ -71,7 +81,7 @@ At his peak Greg could make an A-class combatant operate at effective S-class co
 
 Greg's S-class strength was relational and architectural. He could link people, redistribute force, stabilize failing bodies and reinforcement, manage recoil and pressure, and make teams survive or attempt operations that would otherwise be impossible. He did not need to land the famous strike to be the reason the strike was possible.
 
-The other S-class humans of his era are story promises. Greg can name them before they are fully introduced. At least some should later appear, matter, or be encountered in Life Two. Exact roster and disciplines remain open until prose earns them.
+The other S-class humans are story promises. Greg can name them before they are fully introduced. At least some should later appear, matter, or be encountered in Life Two. Exact roster and disciplines remain open until prose earns them.
 
 ## Barrier origin and support magic
 
@@ -86,6 +96,32 @@ His progression grows conceptually from:
 Barrier → stabilization → reinforcement control → load transfer → linking → multi-person capability architecture.
 
 The deeper support principle is not "help people." It is deciding what crosses a boundary, what remains stable, where force goes, and who or what carries the load.
+
+## The Nhal expedition and Greg's S-class recognition
+
+Around age forty-eight or forty-nine in First Life, Greg joins a major expedition beneath the salt flats north of Vey. **Expedition** is the default term for this event unless prose later establishes a more specific institutional label.
+
+Greg enters the expedition as an **A-class support**, not yet S-class. Three of the seven living S-class humans are present. Exact expedition membership beyond Greg and those three, their disciplines, and the original stated objective remain open.
+
+The expedition discovers Nhal, an ancient nonhuman being trapped, bound, contained, or otherwise unable to leave an ancient structure or system. Nhal's exact nature and the exact mechanics of the containment remain open. The important truth is that the expedition gradually understands that the site is not merely something keeping humans out; it is also keeping Nhal in or holding Nhal in relation to a larger system.
+
+One of the three S-class humans dies during the expedition. The death is real, consequential, and world-shaking. S-class does not mean immortal. For a period afterward only six living humans are recognized as S-class.
+
+Greg's behavior after that death is part of what proves his own S-class capability. He does not become S-class because a vacancy must be filled. Under conditions severe enough to kill an S-class human, A-class support Greg keeps the remaining expedition functioning at a scale that the existing human classification system can no longer honestly describe as A-class support. Exact combat, rescue, containment, linking, and escape choreography remain open until prose earns them.
+
+Greg is subsequently recognized as S-class support, restoring the living count to seven. He always understands that his place among the seven was entered through a period created by another S-class person's death, even though the recognition itself was earned by what Greg demonstrated afterward.
+
+Nhal finds Greg personally interesting before human institutions fully understand what he has become. Nhal is not primarily impressed by Greg as a warrior. Nhal notices the deeper structure of his support magic: boundaries, load, stability, connection, and the architecture between systems. That interest may rhyme directly with how Nhal is trapped, but the exact explanatory mechanism remains open.
+
+### Nhal's gift
+
+Nhal gives Greg an actual gift. **Knowledge is the gift.** It is not merely exposition accidentally overheard.
+
+The gift includes Ithar's hidden name and the route, access conditions, or boundary knowledge required to reach him. It also includes enough understanding for Greg to know why Ithar might matter: Ithar is ancient enough, strange enough, or close enough to the foundations of the world that he may understand structures humans merely service from the surface.
+
+Nhal does not promise that Ithar will save Greg, grant wishes, or automatically help humanity. The gift is closer to a key and a judgment: if Greg ever reaches a question that human knowledge cannot answer, Ithar is one of the few beings who may understand the question and may listen if Greg can make it interesting enough.
+
+Nhal's gift should eventually explain why fifty-nine-year-old Greg goes specifically to Ithar when the western Line crisis exceeds human understanding. Greg does not use the knowledge immediately in First Life; he carries it for years as one of the strange, valuable facts accumulated through a long career.
 
 ## Life-Two solo support
 
@@ -169,7 +205,9 @@ Greg completes the revenge. Completion does not restore Nessa, family, home, or 
 
 ## Nhal
 
-Nhal is ancient and nonhuman. Greg met Nhal in First Life around age forty-eight or forty-nine beneath salt flats north of Vey. Nhal gave Greg Ithar's hidden name and route. Exact Nhal details remain open.
+Nhal is ancient and nonhuman. Greg meets Nhal during the First-Life salt-flat expedition described above. Nhal's containment, interest in Greg, gift of knowledge, Ithar's hidden name, and the route to Ithar are all durable causal parts of Greg's later journey to the dragon.
+
+Exact Nhal species, motives, appearance, containment mechanics, and final relationship to Greg remain open until prose earns them.
 
 ## Story method
 
