@@ -1,0 +1,21 @@
+{
+  "record": "024",
+  "source_sha256": "c706c3669d031781103ba7000fdedb8a90e0fa64ce4a8ac69a27087f1eff71fd",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 41,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That is not an answer.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 42,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"It is the only honest one I have.\"\n\nI had spent years wanting memory to tell me what people were.\n\nIt was much better at telling me what they had once become.\n\nThose are not the same thing.\n\nVerren taught me that.\n\nAgainst his will.\n\nMine too.\n",
+      "pause_after_ms": 220
+    }
+  ]
+}
