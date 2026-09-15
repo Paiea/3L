@@ -2,19 +2,155 @@
 
 ## THE MEDIATOR
 
-Rankers can open a pressure door that takes four station hands to move.
+Mira and Tomas were two when I discovered twelve adults were easier to negotiate with than either of them.
 
-This does not mean they know which door to open.
+Not together.
 
-West Three learned that during an overtime dispute.
+Individually.
 
-So did the Rankers.
+Together they formed a labor action.
 
-So did district payroll.
+That morning the dispute was trousers.
 
-I learned it twice because apparently I require repetition.
+Tomas did not want his.
 
-The dispute began with night coverage.
+Mira wanted his because they had a blue tie.
+
+Her trousers also had a blue tie.
+
+This did not matter.
+
+"Mine," Tomas said.
+
+He was holding neither pair.
+
+"Yours," I agreed.
+
+"No."
+
+There it was.
+
+Tomas had expanded his vocabulary since fourteen months.
+
+He still preferred the classics.
+
+Mira had taken the opposite approach.
+
+She had too many words and used all of them.
+
+"Why his blue?"
+
+"Because those are his trousers."
+
+"Why?"
+
+"Because they fit him."
+
+"Mine fit."
+
+"Correct."
+
+"Why?"
+
+I looked at Nessa.
+
+She was fastening her district coat.
+
+Coward.
+
+"You made them," I said.
+
+"I contributed."
+
+"You are leaving."
+
+"I have a transfer meeting."
+
+"I have trousers."
+
+She kissed Mira's head.
+
+Mira said, "Why?"
+
+Nessa kissed Tomas too.
+
+He wiped his forehead.
+
+Cruel child.
+
+Then she kissed me.
+
+I did not wipe anything.
+
+Evidence of maturity.
+
+"Your sleeve," she said.
+
+I looked.
+
+Porridge.
+
+Dry already.
+
+I rubbed at it.
+
+Worse.
+
+"Leave it," Nessa said.
+
+"I have district later."
+
+"Then they will know you ate."
+
+"Professional."
+
+"Very."
+
+She left.
+
+I got both children dressed eventually.
+
+Not in the original trousers.
+
+Important distinction.
+
+My mother arrived before midday.
+
+Also important.
+
+I had just started pretending the morning was under control when a district runner knocked.
+
+WEST THREE.
+
+STAFFING DISPUTE.
+
+HALDEN REQUESTS YOU.
+
+I read it twice.
+
+Mira stood on my foot.
+
+"What says?"
+
+"Work."
+
+"Why?"
+
+"Because apparently people there are arguing."
+
+"Why?"
+
+"That is what I am going to find out."
+
+She considered this.
+
+"Why?"
+
+I looked at my mother.
+
+She smiled with the satisfaction of someone whose difficult children had become someone else's difficult children.
+
+I left with porridge still on my sleeve.
 
 West Three had lost two experienced operators in the same month.
 
@@ -80,21 +216,21 @@ That is rarely their fault at first.
 
 The station foreman, Iven, showed them the lower controls.
 
-The B-class man asked, “Where is the automatic transfer?”
+The B-class man asked, "Where is the automatic transfer?"
 
-Iven said, “There isn't one.”
+Iven said, "There isn't one."
 
-“Manual?”
+"Manual?"
 
-“Yes.”
+"Yes."
 
-“How often?”
+"How often?"
 
-“Depends.”
+"Depends."
 
-“On?”
+"On?"
 
-“Everything.”
+"Everything."
 
 The Ranker did not enjoy that answer.
 
@@ -104,9 +240,7 @@ Nobody hurt.
 
 Thirty complaints.
 
-District asked Halden for someone who understood station work and Ranker authority.
-
-Halden sent me.
+That was when Halden sent for me.
 
 Coward.
 
@@ -122,127 +256,229 @@ District payroll clerk in the middle looking like she regretted education.
 
 Iven near the wall.
 
-I took a chair and moved it sideways.
+Tess Mor, crew representative, had three schedules in front of her and the expression of someone prepared to use all of them as weapons.
+
+I moved one chair sideways and sat.
 
 The B-class Ranker looked at me.
 
-“You mediation?”
+"You mediation?"
 
-“No.”
+"No."
 
-“Then why are you here?”
+"Then why are you here?"
 
-“Halden hates me.”
+"Halden hates me."
 
 That was not useful.
 
-The payroll clerk said, “Gregory has station and district authority.”
+The payroll clerk said, "Gregory has station and district authority."
 
-“Greg.”
+"Greg."
 
 She ignored me.
 
-“His role is technical facilitation.”
+"His role is technical facilitation."
 
 I looked at her.
 
-“That means mediation.”
+"That means mediation."
 
-“Only if it works.”
+"Only if it works."
 
 Good clerk.
 
-The crew's position was simple.
+Tess started first.
 
-Too simple, which meant it was hiding details.
+"We are done with voluntary nights."
+
+The payroll clerk said, "Voluntary extended nights."
+
+Tess looked at her.
+
+"Those are the nights we mean."
+
+"Contract language matters."
+
+"Sleep matters."
+
+The clerk nodded once.
+
+Fair.
+
+I had expected anger.
+
+There was some.
+
+Mostly everyone looked tired.
+
+Not the kind I knew from Mira waking because Tomas coughed and Tomas waking because Mira existed.
+
+Different tired.
+
+Mine happened in a room with blankets, food, and the possibility of lying down even when nobody respected it.
+
+West Three's happened beside live pressure, rotating equipment, stairs, valves, heat, and decisions that stayed dangerous after the person making them stopped feeling alert enough to notice.
+
+The similarity was useful.
+
+The difference mattered more.
+
+I asked for the schedules.
+
+Tess pushed them over.
+
+Seven weeks.
+
+Ugly.
+
+One operator had worked eleven extended nights in fourteen days.
+
+Another had done nine.
+
+A third had switched from two day shifts into four nights with one rest day between.
+
+I looked at him.
+
+"How much are you sleeping?"
+
+He frowned.
+
+"Enough."
+
+I disliked the word immediately.
+
+Recent experience.
+
+"Hours."
+
+"Four. Five. Depends."
+
+"Continuous?"
+
+"Sometimes."
+
+Tess said, "His neighbor starts a saw at first bell."
+
+The operator looked offended.
+
+"Not relevant."
+
+"You complained about it for six weeks."
+
+"Still not relevant."
+
+"It is if you sleep during daylight," I said.
+
+He crossed his arms.
+
+Good.
+
+Now we were discussing conditions instead of character.
+
+I asked the others.
+
+Different answers.
+
+One slept well between nights and was simply exhausted by the hours.
+
+One had an elderly mother in the same building and woke to help her twice most days.
+
+One could sleep anywhere and hated everyone who could not.
+
+There was no single tired.
+
+Useful.
+
+The crew's position was straightforward once we stopped compressing it.
 
 No voluntary overtime until district capped consecutive extended shifts and hired enough temporary coverage to restore two-person nights.
 
-District's position was also simple.
+District's position was also straightforward.
 
 Budget did not support full temporary staffing immediately.
 
 Authority coverage met hazard requirements.
 
-The Rankers' position was the simplest.
+The Rankers' position was simplest.
 
 They were not operators and did not want to be blamed for operating.
 
 That helped.
 
-The high C-class man said, “I can hold anything in this station shut if it breaks.”
+The high C-class man said, "I can hold anything in this station shut if it breaks."
 
-Iven replied, “Can you hear the return bearing go bad?”
+Iven replied, "Can you hear the return bearing go bad?"
 
-“No.”
+"No."
 
-“Can you balance market draw at third bell?”
+"Can you balance market draw at third bell?"
 
-“No.”
+"No."
 
-“Can you clear the grit trap without feeding your hand into it?”
+"Can you clear the grit trap without feeding your hand into it?"
 
 The Ranker looked at the trap.
 
-“No.”
+"No."
 
-“Then you are not night coverage.”
+"Then you are not night coverage."
 
 The B-class man bristled.
 
-“I am Authority-certified hazard support.”
+"I am Authority-certified hazard support."
 
-“Yes.”
+"Yes."
 
-“Then what do you call me?”
+"Then what do you call me?"
 
 Iven thought.
 
-“Expensive emergency furniture.”
+"Expensive emergency furniture."
 
 The meeting deteriorated.
 
 I stopped it before furniture became personal.
 
-“Both of you are right.”
+"Both of you are right."
 
 Everyone hated that immediately.
 
 Good.
 
-“The Authority requirement is hazard coverage. Rankers satisfy it.”
+"The Authority requirement is hazard coverage. Rankers satisfy it."
 
 The B-class man nodded.
 
-“The station requirement is operation. They do not.”
+"The station requirement is operation. They do not."
 
 The nod stopped.
 
 I looked at the crew.
 
-“Your overtime refusal is legal under Guild rules after six consecutive extended shifts.”
+"Your overtime refusal is legal under Guild rules after six consecutive extended shifts."
 
-The payroll clerk said, “Voluntary overtime refusal.”
+The payroll clerk said, "Voluntary overtime refusal."
 
-“Fine.”
+"Fine."
 
-“Important distinction.”
+"Important distinction."
 
-“Yes.”
+"Yes."
 
 I continued.
 
-“You still have minimum emergency duty under your station contracts.”
+"You still have minimum emergency duty under your station contracts."
 
-The crew representative, a woman named Tess Mor, nodded.
+Tess nodded.
 
-“We know.”
+"We know."
 
-“Then nobody is abandoning the station.”
+"Then nobody is abandoning the station."
 
-“No.”
+"No."
 
-“Good.”
+"Good."
 
 That removed the moral story.
 
@@ -256,33 +492,23 @@ We had a coverage problem.
 
 Those are easier once people stop defending their character.
 
-I asked for the schedules.
-
-Seven weeks.
-
-Ugly.
-
-One operator had worked eleven extended nights in fourteen days.
-
-Another had done nine.
-
 I looked at the payroll clerk.
 
-“You paid all of this?”
+"You paid all this overtime?"
 
-“Yes.”
+"Yes."
 
-“Cheaper than temps?”
+"Cheaper than temps?"
 
 She hesitated.
 
 There.
 
-“Short term.”
+"Short term."
 
-“Seven weeks is short?”
+"Seven weeks is short?"
 
-“On the hiring cycle.”
+"On the hiring cycle."
 
 That sentence explained more than she intended.
 
@@ -302,6 +528,34 @@ No villain.
 
 Paper is powerful enough without intent.
 
+I had seen a smaller version at home.
+
+Not the same problem.
+
+Important distinction.
+
+If Nessa had district work and I had an inspection and my mother could cover two hours but not four, the easy answer was usually to stretch whoever was already present.
+
+Me.
+
+Nessa.
+
+My mother.
+
+One more hour.
+
+Then another.
+
+Until someone became angry at a spoon.
+
+Households could survive that.
+
+Stations had larger spoons.
+
+I did not tell the meeting this.
+
+Professionalism.
+
 We built a three-week bridge.
 
 Not solution.
@@ -312,7 +566,7 @@ Two experienced operators from nearby stations volunteered for paid temporary ro
 
 District covered their home-station replacements.
 
-The Authority Rankers stayed nights as hazard support, but stopped being counted as operators.
+The Authority Rankers stayed nights as hazard support but stopped being counted as operators.
 
 West Three crew agreed to limited overtime with a hard cap on consecutive extended shifts.
 
@@ -332,17 +586,55 @@ Iven hated everyone.
 
 Good settlement.
 
-The B-class Ranker asked me afterward, “Why keep us?”
+Before we finished, Tess added one condition.
 
-“Because Iven is right.”
+"No one gets scheduled from emergency duty straight into a voluntary extension."
+
+The payroll clerk frowned.
+
+"That removes flexibility."
+
+"Yes."
+
+"What if the worker wants the pay?"
+
+Tess looked at the operators.
+
+One of them shrugged.
+
+"Sometimes I do."
+
+There it was.
+
+People are inconveniently capable of wanting the thing that is bad for the system.
+
+I asked, "Minimum rest between emergency duty and extension?"
+
+Tess said, "Four bells."
+
+Payroll said, "Two."
+
+They argued.
+
+We landed on three with an exception requiring a second signature from someone not receiving the overtime.
+
+Ugly.
+
+Probably useful.
+
+Mediation is mostly finding the least dishonest version of ugly.
+
+The B-class Ranker asked me afterward, "Why keep us?"
+
+"Because Iven is right."
 
 He looked annoyed.
 
-“You are expensive emergency furniture.”
+"You are expensive emergency furniture."
 
-“Fuck you.”
+"Fuck you."
 
-“If something fails hard, those operators need you.”
+"If something fails hard, those operators need you."
 
 That changed him.
 
@@ -356,17 +648,245 @@ Bad fit.
 
 As emergency force, he mattered.
 
-“Then why didn't district say that?”
+"Then why didn't district say that?"
 
-“Because staffing tables like categories more than reality.”
+"Because staffing tables like categories more than reality."
 
 He laughed.
 
-“That's your technical opinion?”
+"That's your technical opinion?"
 
-“Yes.”
+"Yes."
 
-The settlement lasted long enough.
+I left West Three late.
+
+Not night.
+
+Late enough that Nessa had already collected the twins from my mother.
+
+When I opened the apartment door, Mira shouted, "Dada!"
+
+Good.
+
+Then immediately:
+
+"Why late?"
+
+Less good.
+
+"Work."
+
+"Why?"
+
+"People were arguing."
+
+"Why?"
+
+"They were tired."
+
+She considered that.
+
+"Why tired?"
+
+Tomas appeared behind her holding the green cup.
+
+Not drinking from it.
+
+Possessing it.
+
+Nessa sat at the table with district notes open in front of her.
+
+"How was technical facilitation?" she asked.
+
+"Only works if it works."
+
+She smiled.
+
+I took off my coat.
+
+Mira pointed at the sleeve.
+
+"Food."
+
+The porridge was still there.
+
+"Historical food."
+
+"Why?"
+
+"Because I forgot."
+
+"Why?"
+
+"Mira."
+
+She smiled.
+
+Tomas held up the green cup.
+
+"Mine."
+
+"Yes."
+
+Mira turned.
+
+"Mine green."
+
+There were two cups on the table.
+
+Green.
+
+Red.
+
+Same size.
+
+Same shape.
+
+Same maker.
+
+Different color.
+
+Civilization ended there.
+
+"You have red," I said.
+
+Mira's face changed.
+
+"No."
+
+Tomas hugged the green cup to his chest.
+
+"Mine."
+
+"You are not using it."
+
+"Mine."
+
+"Mira, the red cup works exactly the same."
+
+"Green."
+
+"Tomas had it first."
+
+"Why?"
+
+"Because he picked it up."
+
+"I pick now."
+
+She reached.
+
+Tomas screamed before contact.
+
+I moved between them.
+
+Recent professional success had made me reckless.
+
+"All right. We can solve this."
+
+Nessa looked up.
+
+I ignored her.
+
+"Tomas gets green for five minutes. Then Mira gets green for five minutes. Tomas gets red during Mira's turn."
+
+Both children stared at me.
+
+I had introduced time-sharing to people who could not reliably count to five.
+
+Bad opening.
+
+Mira said, "No."
+
+Tomas, pleased by the familiar word, said, "No."
+
+"Fine. Different plan. Tomas keeps green. Mira chooses another cup."
+
+"Green."
+
+"That is not another cup."
+
+"Green."
+
+Nessa covered her mouth.
+
+"Do not laugh."
+
+"I'm not."
+
+She was.
+
+I tried trade.
+
+I tried distraction.
+
+I offered Mira my own cup.
+
+She wanted green.
+
+I offered Tomas a wooden spoon because apparently objects had value independent of category at that age.
+
+He took the spoon.
+
+Good.
+
+Then kept the green cup.
+
+Strong negotiator.
+
+Mira began to cry.
+
+Not devastated.
+
+Furious.
+
+Tomas started crying because she was crying.
+
+Solidarity after victory.
+
+I looked at Nessa.
+
+"Help."
+
+"I thought you mediated twelve adults."
+
+"Adults understand replacement coverage."
+
+Mira shouted, "Green!"
+
+Tomas shouted, "Mine!"
+
+Nessa stood.
+
+She took the red cup.
+
+Poured water into it.
+
+Drank.
+
+Both twins stopped crying.
+
+They stared at her.
+
+Then Mira wanted the red cup.
+
+Of course.
+
+Nessa handed it over.
+
+Tomas kept green.
+
+Dispute resolved.
+
+I looked at her.
+
+"That was not principled."
+
+"Only if it works."
+
+Cruel woman.
+
+The West Three settlement lasted long enough.
 
 One temporary hire stayed.
 
@@ -442,20 +962,52 @@ A payroll clerk cannot grease a bearing.
 
 A mechanic should not set staffing policy just because he understands fatigue.
 
-Dependence moves both directions.
+A tired father does not automatically understand a tired night operator.
 
-That was the piece I carried out of West Three.
+That last one mattered too.
 
-Not harmony.
+Experience can help you recognize a shape without giving you ownership of everyone inside it.
 
-The crew still thought district was cheap.
+Ithar interrupted there.
 
-District still thought the crew used leverage aggressively.
+"And the cups?"
 
-The Rankers still hated being called furniture.
+I looked at him.
 
-Everyone was probably right enough.
+"What about them?"
 
-Mediation did not require making them agree about each other.
+"Which cup did the boy prefer?"
 
-Only about what had to happen next.
+"Green."
+
+"The girl?"
+
+"Whatever Tomas had until Nessa drank from the red one."
+
+His mouth moved.
+
+Not quite a smile.
+
+"You included this in a labor dispute."
+
+"It was the same day."
+
+"You remember the cups."
+
+"They screamed for twenty minutes."
+
+"You remember the colors."
+
+I said nothing.
+
+He waited.
+
+Dragons again.
+
+Cheating at silence.
+
+"Important distinction," I said.
+
+That made him smile properly.
+
+Bastard.
