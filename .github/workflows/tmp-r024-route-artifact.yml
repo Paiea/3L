@@ -1,0 +1,55 @@
+name: Temporary Record 024 Route Artifact
+
+on:
+  push:
+    branches: [audio/record-024-production]
+    paths:
+      - .github/workflows/tmp-r024-route-artifact.yml
+
+permissions:
+  contents: read
+
+jobs:
+  build-route-artifact:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-024-production
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate exact route plan and work orders
+        run: |
+          python scripts/audio_route.py manuscript/records/024/current.md audio/routing/record-024.json audio/production/record-024/route-plan.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          plan = json.loads(Path('audio/production/record-024/route-plan.json').read_text(encoding='utf-8'))
+          segments = plan['segments']
+          assert ''.join(s['transcript'] for s in segments) == plan['audio_body']
+          assert [s['index'] for s in segments] == list(range(1, len(segments) + 1))
+          out = Path('audio/production/record-024/work-orders')
+          out.mkdir(parents=True, exist_ok=True)
+          for offset in range(0, len(segments), 10):
+              chunk = segments[offset:offset + 10]
+              first, last = chunk[0]['index'], chunk[-1]['index']
+              payload = {
+                  'record': plan['record'],
+                  'source_sha256': plan['source_sha256'],
+                  'routing_mode': plan['routing_mode'],
+                  'segments': chunk,
+              }
+              (out / f'segments-{first:03d}-{last:03d}.json').write_text(
+                  json.dumps(payload, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+          print(f"record 024: {len(segments)} segments; source {plan['source_sha256']}")
+          PY
+      - name: Verify repository contract
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - uses: actions/upload-artifact@v4
+        with:
+          name: record-024-route
+          path: audio/production/record-024
+          if-no-files-found: error
