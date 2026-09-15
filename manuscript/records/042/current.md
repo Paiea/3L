@@ -1,463 +1,1145 @@
 ## RECORD 042
 
-## THE CONSULTANT
+## THE TARGET
 
-The first time someone paid me for an opinion, I tried to repair the thing anyway.
+Tournament registration creates optimism in advance.
 
-Old habits.
+That is how they get you.
 
-The client was North Mason Station.
+I arrived before second bell with my entry token, a wrapped breakfast, and the unreasonable belief that eight years of getting better at useful things might somehow make me better at being hit with sticks.
 
-Not far enough to require an inn.
+It had not.
 
-Far enough that the tram ride made me resent the fee before arriving.
+The grounds were larger than I remembered.
 
-Their foreman, Jessa Rul, had sent one sentence.
+Same south field outside Vey.
 
-COME LOOK AT RETURN SURGE. DO NOT BRING CREW.
+Different fencing.
 
-I brought Lorn.
+More temporary stands.
 
-Technically one worker is not a crew if you are dishonest about nouns.
+More sponsors on cloth banners.
 
-Jessa met us at the door.
+The old western practice ring had become a vendor lane selling fried dough, bad coffee, equipment polish, and three separate varieties of meat on skewers.
 
-“I said do not bring crew.”
+Progress.
 
-“He is decorative.”
+The C-class solo bracket had sixty-four entrants.
 
-Lorn said, “Fuck you.”
+That sounded impressive until I saw the people.
 
-Jessa looked at him.
+Couriers.
 
-“Decorative enough.”
+Guild guards.
 
-North Mason had a return surge only when two branch valves changed within the same minute.
+Junior clan fighters.
 
-They knew that already.
+Two miners.
 
-They did not need hands.
+A woman who listed "school instructor" as occupation and looked like she had broken several parents.
 
-They had hands.
+Working fighters.
 
-Good ones.
+People good enough that ordinary civilians should not challenge them in alleys.
 
-They wanted another brain because every local theory had become emotionally invested.
+Not good enough that governments changed plans around their movements.
 
-That was new.
+My people, apparently.
 
-At East Four, if someone called me, I worked.
+Ithar shifted his head.
 
-Private clients called because something needed repair.
+"Your people."
 
-North Mason had already removed, cleaned, checked, and reinstalled half the relevant hardware.
+"At the time."
 
-They had logs.
+"You eventually exceeded them."
 
-Measurements.
+"Eventually."
 
-Three competing explanations.
+"But you remember belonging among them."
 
-Jessa handed me a folder.
+"Yes."
 
-“We are paying you eight silver to tell us which one is least stupid.”
+"Comfortably?"
 
-“Eight?”
+I thought about that.
 
-“Yes.”
+"More comfortably than I belonged among the people I later worked with."
 
-“For looking?”
+The dragon said nothing.
 
-“For leaving afterward.”
+I disliked that silence.
 
-Lorn laughed.
+"Do not improve that sentence."
 
-Traitor.
+"I have not spoken."
 
-The three theories were reasonable.
+"Good."
 
-Regulator lag.
+My first opponent was a dock guard from Bellwater named Serik.
 
-Shared return restriction.
+I remembered him because we had both complained about the entry fee before realizing we were paired.
 
-Legacy cavity interaction.
+Then we had to stop being friendly for several minutes.
 
-Of course legacy made the list now.
+C-class bouts were controlled contact.
 
-We had taught everyone enough to become suspicious of old walls.
+Padded weapons.
 
-This was partly our fault.
+Reinforcement permitted.
 
-I read the logs.
+Barrier permitted within personal range.
 
-Walked the station.
+No external support.
 
-Listened.
+No killing.
 
-Asked operators what they changed before each event.
+No deliberate joint destruction.
 
-One said, “Nothing.”
+Judges had considerable discretion, which is another way of saying everyone complained afterward.
 
-Jessa said, “He means nothing he remembers.”
+Serik used a short spear.
 
-Good foreman.
+I had a staff.
 
-I watched the surge happen twice.
+Not because I was particularly good with a staff.
 
-Pressure spike.
+Because it gave me more time to regret decisions before they reached my face.
 
-Return hammer.
+We touched weapons.
 
-Short.
+Judge called start.
 
-Ugly.
+Serik immediately proved he was better at the actual tournament part of tournaments.
 
-Then gone.
+He took center.
 
-I reached for a wrench.
+Pressed my right side.
 
-Jessa slapped my hand.
+Forced two resets.
 
-Actually slapped it.
+Tagged my shoulder.
+
+Then tried to drive through my guard with enough force that I should have lost balance.
+
+That part I understood.
+
+Force arrived through the staff.
+
+Hands.
+
+Wrists.
+
+Elbows.
+
+Shoulders.
+
+Torso.
+
+Hips.
+
+Feet.
+
+Eight years earlier I would have reinforced everything and hoped.
+
+At thirty-one I let my rear foot move.
+
+Three inches.
+
+Maybe four.
+
+Barrier caught the heel after the slide instead of before it.
+
+My hip turned.
+
+Shoulder yielded.
+
+Most of Serik's pressure went somewhere that did not include my teeth.
+
+He blinked.
+
+I hit him in the ribs.
 
 Not hard.
 
-Still surprising.
+Enough for the judge.
 
-“What?”
+Point.
 
-“You are not touching.”
+Serik frowned at me.
 
-“I want to check the bypass seat.”
+"That felt wrong."
 
-“My mechanic checked it.”
+"Thank you."
 
-“I want to check.”
+"It was not praise."
 
-“You are here because we already checked.”
+"Still taking it."
 
-“Maybe badly.”
+He beat me on the next exchange.
 
-Her face changed.
+Clean shoulder tag.
 
-There it was.
+Then I won the one after because he expected my left knee to hold where I let it turn.
 
-I had insulted people I had not met because my hands wanted justification.
+The bout became irritating.
 
-I withdrew the hand.
+For him.
 
-“Fair.”
+For me too.
 
-Jessa nodded.
+I was not faster.
 
-Lorn looked delighted.
+Not stronger.
 
-“Do not enjoy this.”
+My staff work remained deeply average.
 
-“I am decorative.”
+But my body kept refusing to fail in the place his decisions expected.
 
-We kept looking.
+He drove me backward.
 
-The answer came from timing.
+I yielded sideways.
 
-Not hardware.
+He trapped the staff.
 
-Branch A valve closed in about twelve seconds.
+I let one hand go instead of fighting the bind.
 
-Branch B opened in nine.
+He attacked the opening.
 
-When the changes overlapped one way, fine.
+Barrier took just enough line off the strike for my ribs to remain technically unpunched.
 
-The opposite order created three seconds where return volume had nowhere comfortable to go.
+Technically matters.
 
-The control schedule had been rewritten after a staffing change.
+The judge gave me the bout by one point.
 
-Old operators used to stagger by twenty seconds from habit.
+Serik shook my hand afterward.
 
-New written sequence said SIMULTANEOUS TRANSFER.
+"You fight like furniture."
 
-No one had defined simultaneous.
+I stared at him.
 
-Beautiful word.
+"What does that mean?"
 
-Terrible instruction.
+"You keep moving when I think you're a wall."
 
-“None of your theories,” I said.
+I considered it.
 
-Jessa frowned.
+"That is not terrible."
 
-“That is expensive.”
+"It is not good either."
 
-“Timing.”
+Fair.
 
-We tested.
+My second opponent was better.
 
-Twenty-second stagger.
+Younger.
 
-No surge.
+Clan-trained.
 
-Ten.
+Sword and small shield.
+
+Name lost.
+
+Sorry.
+
+He hit me six times in approximately the amount of time Serik had needed to become irritated.
+
+I got two points.
+
+One because he overcommitted.
+
+One because I stepped on his foot.
+
+Not deliberately.
+
+The judge still counted the opening afterward.
+
+By the end of the first minute, I had learned three things.
+
+One, my support habits made me unusually difficult to move cleanly.
+
+Two, unusual was not equivalent to good.
+
+Three, getting hit in the thigh with a padded training sword still hurt.
+
+I lost.
+
+Decisively.
+
+No revelation.
+
+No hidden reserve.
+
+No moment where everyone discovered I had secretly been a combat genius for eight years.
+
+I was a C-class support specialist who had entered a C-class fighting bracket and lost to a better C-class fighter.
+
+Classification functioning as intended.
+
+Ithar's eye narrowed.
+
+"You sound pleased."
+
+"I am pleased."
+
+"You lost."
+
+"Correct."
+
+"Why pleased?"
+
+"Because the system was right about something."
+
+That got a pause.
+
+"Rare?"
+
+"Not rare enough to be funny."
+
+I collected my staff.
+
+Signed the loss slate.
+
+Bought coffee because losing apparently creates thirst.
+
+Then something struck me in the forehead.
+
+Hard.
+
+Not tournament hard.
+
+Personal hard.
+
+"Ow."
+
+I stopped walking.
+
+Something bounced off my chest and landed near my boot.
+
+Brown.
 
 Small.
 
-Zero.
+Round.
 
-Ugly.
+I stared at it.
 
-There.
+Chestnut.
 
-Jessa looked at the folder.
+For several seconds I considered coincidence.
 
-“Then why did regulator replacement help last month?”
+Then statistics.
 
-“It moved timing.”
+Then memory.
 
-“How?”
+I looked toward the upper seats.
 
-“New seat closes faster.”
+Arcrutus was sitting beneath a dark awning.
 
-That explained why a hardware intervention changed symptoms without being the root cause.
-
-Good.
-
-We wrote the recommendation.
-
-Standard transfer stagger.
-
-Minimum fifteen seconds pending longer test.
-
-Train crews.
-
-Log exceptions.
-
-No repair.
-
-Then I reached for the valve again.
-
-Jessa said, “Greg.”
-
-I stopped.
-
-Right.
-
-Consultant.
-
-We left.
-
-That felt incomplete.
-
-Lorn said so on the tram.
-
-“We did nothing.”
-
-“We solved it.”
-
-“Did not touch anything.”
-
-“That is apparently the service.”
-
-“Eight silver.”
-
-“Yes.”
-
-“For not touching.”
-
-“Yes.”
-
-He looked offended on behalf of labor.
-
-I understood.
-
-Nessa did not.
-
-“Good.”
-
-We were at the table.
-
-Ledger open.
+Eating.
 
 Of course.
 
-“Good?” I asked.
+Eight years had changed his hair very slightly and everything else not enough to be useful.
 
-“You are finally charging for forty years of experience instead of pretending only wrench time counts.”
+Same broad old shoulders.
 
-“That sounds dishonest.”
+Same dark clothes.
 
-“Why?”
+Same ordinary eyes.
 
-“Because I was there three hours.”
+Different people around him.
 
-“And how long did it take to know what to ask?”
+The silver-shouldered woman from the first tournament was not there.
 
-I hated that question.
+A younger man stood behind his right shoulder with a ledger.
 
-Years.
+Two clan guards sat three rows down.
 
-Different life too.
+There was a large reinforced gear bag beside the bench.
 
-Still.
+I noticed the bag later.
 
-Nessa wrote CONSULTING under income.
+At that moment I noticed Arcrutus holding another chestnut.
 
-I crossed it out.
+I pointed at him.
 
-She wrote it again.
+He looked directly at me.
 
-“Do not create a category from one job.”
+Then his mouth moved.
 
-“Why?”
+Barely.
 
-“Because then it becomes a thing.”
+I could not hear him over the crowd.
 
-“It is a thing.”
+I knew what he had said anyway.
 
-“No.”
+Or thought I did.
 
-Two more requests arrived that month.
+I walked closer.
 
-Fuck.
+Not all the way.
 
-One was useful.
+Close enough that shouting would have become socially embarrassing.
 
-One was not.
+"Did you just throw a chestnut at me?"
 
-The useful one came from Bellwater.
+Arcrutus ate the one in his hand.
 
-Grain-lift pressure instability.
+"No."
 
-I remembered their system.
+I stared.
 
-Two hours of review found the station's own mechanic had already identified the likely cause correctly.
+He reached into the paper cone.
 
-They wanted confirmation before shutting a lift during harvest intake.
+"You absolutely did."
 
-I agreed.
+"No one will believe you."
 
-They shut it.
+Quiet.
 
-Mechanic was right.
+Almost conversational.
 
-I charged six silver.
+Then he looked back toward the ring.
 
-Felt worse than North Mason because I had contributed less.
+I stood there holding the evidence.
 
-The foreman said, “You contributed someone else being willing to sign the shutdown.”
+A chestnut.
 
-That was a service too.
+Not compelling evidence.
 
-Not always a healthy one.
+"Eight years."
 
-Authority can become rented courage if you are not careful.
+No response.
 
-I wrote in the private ledger:
+"You waited eight years to do that."
 
-DO NOT SELL CONFIDENCE WITHOUT REVIEW.
+He watched the match.
 
-Nessa approved.
+"That is insane."
 
-The useless request came from a wealthy warehouse owner who wanted me to inspect a perfectly ordinary building feed because his insurer offered lower rates if a district-recognized inspector signed it.
+His mouth changed.
 
-Nothing wrong.
+Maybe.
 
-No symptoms.
+I hated that I still noticed.
 
-He wanted a name.
+Then someone behind me said, "What happened to your forehead?"
 
-I almost refused on principle.
+I touched it.
 
-Then he offered twelve silver.
+Bad decision.
 
-Principles became conversational.
+Pain sharpened immediately.
 
-I did the inspection properly.
+There was already a lump.
 
-Found two minor issues.
+Centered.
 
-Required repairs before signing.
+Not slightly left.
 
-He complained.
+Not slightly right.
 
-“Other inspector would sign.”
+Dead center.
 
-“Hire them.”
+I looked at Arcrutus.
 
-“You already took the fee.”
+He was eating.
 
-“For inspection.”
+"You motherfucker."
 
-“Not signature?”
+The younger man with the ledger glanced down at me.
 
-“No.”
+Arcrutus did not.
 
-“That is absurd.”
+Ithar interrupted.
 
-“Read the scope.”
+"He remembered."
 
-He had not.
+"Yes."
 
-Clerk Aven would have been proud.
+"After eight years."
 
-He repaired the issues.
+"Yes."
 
-I signed.
+"And expressed this by striking you with food."
 
-The twelve silver bought new tools and one week of my mother's medicine.
+"Correct."
 
-Principles remained conversational.
+"Humans are difficult."
 
-Consulting income was inconsistent.
+"This was not a human problem."
 
-Some months none.
+"You have described him as human."
 
-Then three jobs at once.
+"Classification error."
 
-Travel cost.
+Ithar's mouth moved.
 
-Reading time nobody wanted to pay for.
+"There was swelling?"
 
-Reports.
+"For a week."
 
-Clients who believed one hour on site meant one hour of work.
+"A week."
 
-Other crews began calling not because I was strongest, but because I had seen similar failures somewhere else.
+"Do not enjoy this."
 
-That was flattering in a dangerous way.
+"I am collecting facts."
 
-Similarity is not identity.
+"The facts became socially expensive."
 
-The Memory / Now / Meaning habit helped.
+That began approximately twelve minutes later.
 
-So did Tova.
+A woman from my Guild chapter saw me near the C bracket board.
 
-She asked the same question whenever I said, “I've seen this before.”
+Her name was Hessa.
 
-“Where?”
+We had worked two warehouse jobs together.
 
-Then:
+She looked at my forehead.
 
-“Same mechanism?”
+Stopped.
 
-Usually I did not know yet.
+Looked again.
 
-Good.
+"What happened?"
 
-Consulting did not replace repair work.
+"Nothing."
 
-I still liked fixing things.
+"You have a horn."
 
-Lorn definitely did.
+"I do not."
 
-But a new kind of job entered the ledger.
+She leaned closer.
 
-COME LOOK.
+I stepped back.
 
-Sometimes that was all people needed.
+"Do not touch it."
 
-Sometimes it was all I should do.
+"I wasn't going to."
 
-Leaving with clean hands stopped feeling like unfinished work eventually.
+"You were thinking about it."
 
-Not always.
+"It is extremely centered."
 
-Enough.
+"I know."
+
+"Did somebody hit you?"
+
+"No."
+
+I looked toward the upper stands.
+
+Arcrutus was no longer looking at me.
+
+Of course.
+
+Hessa followed my eyes.
+
+Then looked back at the welt.
+
+"No."
+
+"Yes."
+
+"No."
+
+"Yes."
+
+"Arcrutus threw a chestnut at you."
+
+"Yes."
+
+She stared for three seconds.
+
+Then laughed hard enough to bend.
+
+"Fuck you."
+
+That did not help.
+
+By lunch, two people had called me Horn.
+
+By midafternoon, someone improved it.
+
+Language is a weapon.
+
+I do not remember who said Horny first.
+
+I remember wanting them dead.
+
+Not actually dead.
+
+Temporarily absent.
+
+"How's Horny?"
+
+"Fuck you."
+
+"Need ice, Horny?"
+
+"Fuck you."
+
+"Does it get bigger when you're excited?"
+
+"Fuck you."
+
+This continued.
+
+For days.
+
+The swelling lasted a week.
+
+The name lasted longer in some circles because people are cruel and memory requires very little nutritional support.
+
+Ithar lowered his head toward me.
+
+"Horny."
+
+"Do not."
+
+"You were named for the swelling."
+
+"Informally."
+
+"Horny Greg."
+
+"I will leave."
+
+"You climbed six days to reach me."
+
+"I will climb six days away."
+
+"With your knee?"
+
+I stared at him.
+
+The dragon settled his chin onto stone.
+
+Victory behavior.
+
+Back at the tournament, I found Arcrutus again near the clan seating after the team registrations opened.
+
+Not because I wanted another lesson.
+
+Important.
+
+I wanted accountability.
+
+Also perhaps to return the chestnut.
+
+I had kept it.
+
+Evidence.
+
+Petty evidence.
+
+He was standing beside the large reinforced bag I had noticed earlier.
+
+Up close it was uglier.
+
+Dark canvas.
+
+Leather corners.
+
+Double stitching.
+
+Metal loops.
+
+Wide enough to hold field tools, armor, survey rods, emergency food, or a moderately flexible corpse.
+
+Probably expensive.
+
+Definitely overbuilt.
+
+Arcrutus was checking a strap.
+
+I held up the chestnut.
+
+"You gave me a horn."
+
+"Yes."
+
+"You admitted it."
+
+"No."
+
+"You just said yes."
+
+"To the horn."
+
+I closed my eyes.
+
+Eight years had not improved him.
+
+"People are calling me Horny."
+
+"Unfortunate."
+
+"You did this."
+
+"Allegedly."
+
+I pointed at the bag.
+
+"Is that where you keep your sense of responsibility?"
+
+"No."
+
+"What the hell do you keep in that?"
+
+"Whatever needs moving."
+
+I looked at the opening.
+
+Then at the reinforced sides.
+
+"You could fit a person in that."
+
+Arcrutus looked at the bag.
+
+Then at me.
+
+Not quickly.
+
+That should have bothered me more than it did.
+
+"Probably."
+
+"That was not a suggestion."
+
+He touched one of the straps with his thumb.
+
+"Measurement."
+
+"Of what?"
+
+He lifted the bag once.
+
+Maybe testing weight.
+
+Maybe ignoring me.
+
+"Arcrutus."
+
+"Mm."
+
+"Why are you looking at me like that?"
+
+"I am not."
+
+"You were."
+
+"No one will believe you."
+
+I hate recurring jokes when I am inside them.
+
+Ithar's eye opened wider.
+
+"The bag."
+
+"Yes."
+
+"You mention it because it becomes important."
+
+"Yes."
+
+"Then you are interpreting."
+
+"Fine."
+
+I shifted against the cave wall.
+
+"There was an ugly bag. I disliked it later."
+
+"Later."
+
+"Later."
+
+"You will not explain."
+
+"Not yet."
+
+"Because?"
+
+"Because this is still the tournament."
+
+Ithar was silent for several breaths.
+
+"You object when I choose order."
+
+"You are a dragon."
+
+"And?"
+
+"Different rules."
+
+"Convenient."
+
+"Extremely."
+
+At thirty-one, the bag was only a bag.
+
+Arcrutus was only an old bastard who had weaponized snack food.
+
+And I had other problems.
+
+Team registration closed at fourth bell.
+
+I had not planned to enter.
+
+I had already lost.
+
+Very educational.
+
+My forehead hurt.
+
+Good day to go home.
+
+Then Hessa found me.
+
+She had two people with her.
+
+One I knew by sight.
+
+Rellan Vos.
+
+C-class sword.
+
+Field escort work.
+
+Good reputation.
+
+Not famous.
+
+The other was a woman named Mari Elt who carried a round shield and had the posture of someone who considered chairs morally suspicious.
+
+Hessa pointed at me.
+
+"This is him."
+
+I looked behind myself.
+
+"No."
+
+Rellan looked at my forehead first.
+
+Everyone did.
+
+"Horn?"
+
+"No."
+
+Hessa said, "Horny."
+
+"Fuck you."
+
+Mari laughed once.
+
+Then stopped when I looked at her.
+
+Professional.
+
+Rellan held up a team slate.
+
+"We need a fourth."
+
+"No."
+
+"You haven't heard the offer."
+
+"I have a head injury."
+
+"From a chestnut."
+
+"Allegedly."
+
+Hessa made a choking sound.
+
+I ignored her.
+
+Rellan said, "You fought Kelm."
+
+Apparently my second opponent had possessed a name after all.
+
+"Kelm fought me."
+
+"You made him adjust."
+
+"He beat me."
+
+"Yes."
+
+"Comfortably."
+
+"Yes."
+
+"This recruitment strategy needs work."
+
+Mari spoke for the first time.
+
+"You're not very good alone."
+
+I stared at her.
+
+"Thank you."
+
+"That wasn't an insult."
+
+"It achieved one."
+
+She folded her arms.
+
+"Kelm usually breaks stance on people. Drives through their guard. Makes them reset where he wants."
+
+"He did."
+
+"Not cleanly."
+
+"He hit me six times."
+
+"Seven."
+
+I looked at Hessa.
+
+She looked away.
+
+Traitor.
+
+Mari continued.
+
+"Every time he loaded the same line, your failure changed."
+
+That got my attention.
+
+Not because the statement was flattering.
+
+Because of the noun.
+
+Failure.
+
+"What do you mean?"
+
+"First time your rear foot moved. Second your shoulder turned. Third your Barrier gave at the hand."
+
+"That was deliberate."
+
+"We know."
+
+Rellan tapped the slate.
+
+"We have three fighters."
+
+"Congratulations."
+
+"We had support."
+
+"Had?"
+
+"Food poisoning."
+
+I looked toward the vendor lane.
+
+"Meat skewer?"
+
+"Probably."
+
+"Which one?"
+
+"Does it matter?"
+
+"For personal safety."
+
+"Red banner."
+
+I made a note never to eat there.
+
+Hessa said, "They need a fourth body for the team event."
+
+"I am support."
+
+Mari nodded.
+
+"Good."
+
+"I am also apparently the fourth body."
+
+"Less good."
+
+"Excellent pitch."
+
+Rellan looked tired.
+
+"We don't need another good solo fighter."
+
+That was more interesting.
+
+"Why?"
+
+"Our three are good enough."
+
+"Confidence."
+
+"Observation."
+
+I almost laughed.
+
+Arcrutus had infected language.
+
+Rellan pointed at the practice square beyond registration.
+
+"We lose shape under pressure."
+
+"Then fix your shape."
+
+"We've been trying."
+
+"With your support?"
+
+"Yes."
+
+"Before the food poisoning."
+
+"Yes."
+
+"And?"
+
+"He kept each of us standing."
+
+I waited.
+
+Rellan did too.
+
+That was annoying.
+
+"Then what's the problem?"
+
+Mari answered.
+
+"We keep becoming four separate people."
+
+There.
+
+Small sentence.
+
+Useful sentence.
+
+I looked at the slate again.
+
+Team event.
+
+Four-person roster.
+
+Three fighters.
+
+One missing support.
+
+Temporary.
+
+No contract beyond the tournament.
+
+No expectation after sunset.
+
+Exactly the sort of arrangement I understood.
+
+"How much?"
+
+Rellan blinked.
+
+"What?"
+
+"If there is prize money, split."
+
+"Equal."
+
+"Entry fee?"
+
+"Already paid."
+
+"Equipment damage?"
+
+"Personal."
+
+"Food?"
+
+Mari looked at my forehead.
+
+"Not chestnuts."
+
+I disliked her less.
+
+Hessa smiled.
+
+"Do it, Horny."
+
+"Your continued survival is becoming difficult to justify."
+
+She smiled wider.
+
+I looked toward the upper stands.
+
+Arcrutus had returned to his seat.
+
+I could not tell whether he was watching us.
+
+That bothered me less than it would have eight years earlier.
+
+Not zero.
+
+Less.
+
+I signed the team slate.
+
+Primary discipline:
+
+Support.
+
+Direct classification:
+
+C.
+
+Temporary roster.
+
+No special considerations.
+
+This time I left the line blank on purpose.
+
+Ithar's voice came quietly from the dark.
+
+"You entered because they needed you."
+
+"Yes."
+
+"You had already lost."
+
+"Yes."
+
+"And this did not discourage you."
+
+"Different problem."
+
+His eye held mine.
+
+There it was.
+
+The thing I had not understood at thirty-one because I had not yet lived enough years to hear it cleanly.
+
+Alone, the tournament had measured me correctly.
+
+C-class.
+
+Useful.
+
+Awkward.
+
+Hard to move.
+
+Easy enough to beat if you were better.
+
+Then three strangers asked me to stand beside them.
+
+The measurement changed.
+
+I did not know that yet.
+
+I only knew the team event started in forty minutes and my forehead hurt.
