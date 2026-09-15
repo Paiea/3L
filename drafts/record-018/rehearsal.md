@@ -811,27 +811,3 @@ I crossed it out.
 She wrote it again.
 
 The word stayed.
-
-That hearing stayed too.
-
-Not because the Guild decided we were right.
-
-It did not.
-
-The leak was real.
-
-Lorn's shutdown was right.
-
-Opening the wall without notice was outside the agreement.
-
-My instructions were inadequate.
-
-Senn's tenants would have lost heat during repair anyway.
-
-Senn still paid for plaster we removed without asking.
-
-All of those things fit inside one afternoon.
-
-Harder than blame.
-
-Closer to the truth.
