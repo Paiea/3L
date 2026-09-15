@@ -31,7 +31,7 @@ jobs:
           python -m unittest tests.test_audio_routing -v
       - name: Commit generated route plans
         run: |
-          if git diff --quiet -- audio/production/record-*/route-plan.json; then
+          if [ -z "$(git status --porcelain -- audio/production/record-*/route-plan.json)" ]; then
             echo "route plans already current"
             exit 0
           fi
