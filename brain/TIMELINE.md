@@ -8,19 +8,34 @@
 - He reaches the ancient dragon Ithar while the western Line is failing.
 - The examination opens the record of his two lives.
 - Present-frame Greg is roughly B-class in support execution, physically damaged, missing a leg, and far below his First-Life S-class support body while retaining much of the old knowledge.
+- Peg-Leg Greg is his locked Life-Two Authority-bestowed Named Ranker title.
 
 ## First Life
 
 ### Roughly age 19 into late 50s
 
 - Greg is only about C-class as a direct warrior.
+- He never marries and has no children.
+- He has women, sex, companionship, recurring relationships, and some relationships that matter, but does not build a permanent household.
+- Work, mobility, usefulness, and proving competence repeatedly outrank settling down.
+- His work is genuinely valuable enough that institutions and people repeatedly reward or encourage his absence.
+- He often accepts what people can provide while allowing work to decide when he leaves; reciprocal domestic dependence never becomes the organizing principle of his life.
 - He learns the cheap Barrier spell for an ordinary practical reason, including its fashionable contraceptive use among young field workers and Rankers.
 - His unusual precision with Barrier develops into stabilization, reinforcement control, load transfer, linking, and team-scale support architecture.
 - Over roughly three decades or more he becomes essentially the only support of his era to reach S-class.
 - He is one of seven S-class humans in his era.
 - At peak, he can make an A-class combatant operate at effective S-class conditions and can push an actual S-class combatant beyond ordinary rated conditions.
 - First-Life Greg's S-class ceiling depends on team architecture, repeated partners, trust, broad outward linking, and a body shaped by decades of support work.
+- First-Life Greg may receive a distinct Authority-bestowed Named Ranker title. Swaggory is a legacy candidate, not yet fixed canon.
 - Around age 48 or 49 he meets Nhal beneath salt flats north of Vey and eventually receives Ithar's hidden name and route.
+
+## Named Ranker institution
+
+- Ranker and Named Ranker are distinct.
+- A Ranker can possess recognized high-level field status without an official epithet.
+- A Named Ranker is formally designated and titled by the Authority. Public nicknames do not create the status.
+- Named Ranker titles can carry institutional, political, assignment, and reputational weight without implying a specific capability class.
+- Post-020 material should showcase at least one other Named Ranker before Greg earns Peg-Leg Greg, so the reader understands the institution in ordinary story context rather than through exposition alone.
 
 ## Life Two
 
@@ -82,6 +97,8 @@ Existing useful pressure includes:
 - ordinary nights, leases, rooms, family meals, money pressure, and space for the household to become something larger.
 
 Greg and Nessa have a child during this broad period. Parenthood must occupy actual years and ordinary scenes rather than one setup chapter.
+
+Life Two domesticity is new territory for Greg rather than a replay of First-Life marriage or fatherhood. He has no First-Life wife or child to compare against this household.
 
 The household becomes larger and more expensive in ordinary ways. Money can be tight enough to matter without making them destitute.
 
@@ -155,7 +172,7 @@ The choice succeeds at its intended purpose. Solo Greg becomes frightening.
 - He becomes genuinely dangerous before his letter rank looks impressive because S-class knowledge lets him use small amounts of support with abnormal precision.
 - The ruined leg occurs through lived causality and forces another major adaptation in movement and support routing.
 - The peg may later become a practical anchor inside his support geometry if earned, without turning the injury into a benefit he would choose.
-- Peg-Leg Greg eventually becomes an Authority-assigned named Ranker identity.
+- Greg earns the Life-Two Authority-bestowed Named Ranker title **Peg-Leg Greg**. This exact Life-Two title is locked.
 - Greg completes the revenge. Completion does not restore the life that was destroyed.
 
 Exact year of revenge completion remains open, but it should leave meaningful years afterward before Ithar.
