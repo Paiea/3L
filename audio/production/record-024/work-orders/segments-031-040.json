@@ -1,0 +1,77 @@
+{
+  "record": "024",
+  "source_sha256": "c706c3669d031781103ba7000fdedb8a90e0fa64ce4a8ac69a27087f1eff71fd",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "We worked near each other a few times after that and remained professionally civil.\n\nOnce he disagreed with me about a foundation closure and turned out to be wrong.\n\nI enjoyed that more than I should have.\n\nAnother time I was wrong.\n\nHe enjoyed that exactly as much as he should have.\n\nYears later I saw his name on a reconstruction standard.\n\nA good one.\n\nMaybe he wrote most of it.\n\nMaybe a committee diluted him into a signature.\n\nI do not know.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I never found the first-life falsification in second-life records.\n\nMaybe that job never existed.\n\nMaybe a different supervisor made a different compromise.\n\nMaybe Verren was always capable of becoming the man I remembered and simply did not.\n\nThat possibility took me longest.\n\nCapacity is not destiny.\n\nPeople are not innocent because they lack the ability to do harm.\n\nIf that were the standard, nobody qualifies.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 33,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "First-life Verren Holt became a man who signed false numbers.\n\nSecond-life Verren Holt became a man who shut a stair against instruction and put his own name beside the delay.\n\nBoth were memories I possessed.\n\nOnly one belonged to the world I was standing in.\n\nYears later, telling Ithar, I tried to make the story about regional inspection reform.\n\nThat was true too.\n\nMarket Five changed closure procedure afterward.\n\nDistrict survey tightened its interview rules.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Halden stopped inviting me to interviews for a while.\n\nReasonable.\n\nIthar let me explain all of that.\n\nThen he asked, ",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 35,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Did the man become the one you remembered?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 36,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"No.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 37,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Could he have?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 38,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 39,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Then what changed?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 40,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at the cave floor.\n\n\"Everything.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}
