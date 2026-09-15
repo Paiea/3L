@@ -1,0 +1,128 @@
+name: Temporary assemble audio 023
+
+on:
+  push:
+    branches: [audio/capture-023]
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/capture-023
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify frozen capture manifest
+        run: |
+          python - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          source = Path('manuscript/records/023/current.md')
+          plan = json.loads(Path('audio/production/record-023/route-plan.json').read_text())
+          caps = json.loads(Path('audio/production/record-023/captures.json').read_text())
+          source_sha = hashlib.sha256(source.read_bytes()).hexdigest()
+          assert source_sha == '04f54f4f69992bfbd177b6c4b5247c2eabe0b56079716869d7ff5aaa377f29be'
+          assert plan['source_sha256'] == source_sha == caps['source_sha256']
+          assert plan['record'] == caps['record'] == '023'
+          assert plan['routing_mode'] == caps['routing_mode'] == 'exact_quote_locked'
+          assert caps['status'] == 'candidate_unlistened'
+          assert len(plan['segments']) == len(caps['segments']) == 35
+          assert all(s['speaker'] == 'greg' and s['voice_id'] == 'deep' for s in plan['segments'])
+          for route, cap in zip(plan['segments'], caps['segments']):
+              assert route['index'] == cap['index']
+              assert route['pause_after_ms'] == cap['pause_after_ms']
+              assert cap['preview_url'].startswith('https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/')
+          assert caps['segments'][-1]['pause_after_ms'] == 220
+          print('verified source sha', source_sha)
+          print('verified segments', len(caps['segments']))
+          PY
+      - name: Deterministically assemble preview takes
+        run: |
+          set -euo pipefail
+          mkdir -p audio/assets .tmp-audio-023
+          python - <<'PY'
+          import hashlib, json, subprocess, urllib.request, wave
+          from pathlib import Path
+
+          root = Path('.')
+          tmp = root/'.tmp-audio-023'
+          caps = json.loads((root/'audio/production/record-023/captures.json').read_text())
+          combined = tmp/'combined.wav'
+
+          with wave.open(str(combined), 'wb') as out:
+              out.setnchannels(1)
+              out.setsampwidth(2)
+              out.setframerate(24000)
+              for cap in caps['segments']:
+                  i = cap['index']
+                  mp3 = tmp/f'{i:03d}.mp3'
+                  wav = tmp/f'{i:03d}.wav'
+                  urllib.request.urlretrieve(cap['preview_url'], mp3)
+                  subprocess.run([
+                      'ffmpeg','-y','-loglevel','error','-i',str(mp3),
+                      '-ar','24000','-ac','1','-c:a','pcm_s16le',str(wav)
+                  ], check=True)
+                  with wave.open(str(wav), 'rb') as take:
+                      assert take.getnchannels() == 1
+                      assert take.getsampwidth() == 2
+                      assert take.getframerate() == 24000
+                      out.writeframes(take.readframes(take.getnframes()))
+                  samples = round(24000 * cap['pause_after_ms'] / 1000)
+                  out.writeframes(b'\x00\x00' * samples)
+
+          asset = root/'audio/assets/record-023-quote-locked-v2.mp3'
+          subprocess.run([
+              'ffmpeg','-y','-loglevel','error','-i',str(combined),
+              '-c:a','libmp3lame','-b:a','128k',str(asset)
+          ], check=True)
+          duration = float(subprocess.check_output([
+              'ffprobe','-v','error','-show_entries','format=duration',
+              '-of','default=noprint_wrappers=1:nokey=1',str(asset)
+          ], text=True).strip())
+          audio_sha = hashlib.sha256(asset.read_bytes()).hexdigest()
+          source_sha = hashlib.sha256((root/'manuscript/records/023/current.md').read_bytes()).hexdigest()
+          verification = {
+              'record': '023',
+              'status': 'assembled_unlistened',
+              'routing_mode': 'exact_quote_locked',
+              'uses_timestamps_for_speaker_assignment': False,
+              'source_sha256': source_sha,
+              'segment_count': 35,
+              'ithar_segment_indices': [],
+              'duration_seconds': round(duration, 3),
+              'sha256': audio_sha,
+              'asset': 'audio/assets/record-023-quote-locked-v2.mp3',
+              'note': 'Deterministic route/pause assembly passed; auditory listen-back remains pending.'
+          }
+          path = root/'audio/production/record-023/verification-v2.json'
+          path.write_text(json.dumps(verification, indent=2) + '\n')
+          print(json.dumps(verification, indent=2))
+          PY
+      - name: Verify assembled asset metadata
+        run: |
+          python - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          v = json.loads(Path('audio/production/record-023/verification-v2.json').read_text())
+          asset = Path(v['asset'])
+          assert asset.exists() and asset.stat().st_size > 0
+          assert hashlib.sha256(asset.read_bytes()).hexdigest() == v['sha256']
+          assert v['segment_count'] == 35
+          assert v['duration_seconds'] > 0
+          print('asset sha', v['sha256'])
+          print('duration', v['duration_seconds'])
+          PY
+      - name: Commit assembled candidate
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/assets/record-023-quote-locked-v2.mp3 audio/production/record-023/verification-v2.json
+          git commit -m "audio: assemble Record 023 candidate"
+          git push origin HEAD:audio/capture-023
