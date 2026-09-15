@@ -1,0 +1,36 @@
+name: Temporary finalize audio 021
+
+on:
+  push:
+    branches: [release/audio-021-v3]
+    paths:
+      - .github/workflows/tmp-finalize-audio-021.yml
+      - scripts/tmp_finalize_audio_021.py
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/audio-021-v3
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Finalize metadata
+        run: python scripts/tmp_finalize_audio_021.py
+      - name: Validate release
+        run: |
+          python -m unittest -v
+          python scripts/check_repo.py
+      - name: Commit release metadata
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/manifest.json manuscript/manifest.json tests/test_repo_contract.py
+          git commit -m "Finalize Record 021 audio release metadata"
+          git push origin HEAD:release/audio-021-v3
