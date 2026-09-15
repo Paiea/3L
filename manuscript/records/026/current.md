@@ -2,7 +2,7 @@
 
 ## THE OFF NIGHT
 
-Nothing happened on fourth day.
+Nothing happened on the fourth day.
 
 I am allowed to say it this time.
 
@@ -28,29 +28,57 @@ That was the largest event.
 
 Hard rain too.
 
-The kind that turned the street below our apartment into brown water and made Mina put flour sacks against the bakery's back door even though the flood had not reached it in nine years.
+The kind that turned the street below our apartment into brown water and made Mina stack flour sacks against the bakery's back door even though the flood had not reached it in nine years.
 
-“Preparedness,” she called it.
+"Preparedness," she called it.
 
-“Superstition,” I called it.
+"Superstition," I called it.
 
 She gave us no bread that evening.
 
 Consequences.
 
-Nessa came home early because district transfer had canceled one planned outage before the storm.
+Nessa came home early because district transfer canceled a planned outage before the storm.
 
 That was technically work affecting the night.
 
 I refuse to count it.
 
-She arrived wet from knees down and angry at umbrellas as a concept.
+She came upstairs wet from the knees down with one shoe making a small sucking sound against the floorboards.
 
-I was repairing the pantry hinge.
+I was standing in the kitchen holding the pantry door.
 
-Not because it had failed.
+Not the handle.
 
-Because it squeaked.
+The whole door.
+
+She stopped.
+
+Water ran off the edge of her coat.
+
+"What happened?"
+
+"Squeak."
+
+She looked at the empty pantry frame.
+
+Then at the door in my hands.
+
+"You removed it."
+
+"Yes."
+
+"Because it squeaked."
+
+"Yes."
+
+She pulled off one wet shoe.
+
+"Should I leave?"
+
+"Why?"
+
+"I don't know what other violence you have planned."
 
 The squeak had existed at least six months.
 
@@ -62,47 +90,51 @@ She said I had been ignoring it.
 
 Both theories lacked records.
 
-I took the door off.
-
-That was excessive.
-
-Nessa came in while I was holding it.
-
-“What happened?”
-
-“Squeak.”
-
-“You removed the door.”
-
-“Yes.”
-
-“Because it squeaked.”
-
-“Yes.”
-
-She took off her wet coat.
-
-“Should I leave?”
-
-“Why?”
-
-“I don't know what other violence you have planned.”
-
 The hinge pin was bent.
 
 Barely.
 
-I straightened it on the table.
+Enough.
 
-The table rocked.
+I set the door against the wall and put the pin on the table.
 
-The hammer missed the pin once and left another small mark.
+The table rocked when I hit it.
 
-Nessa saw.
+That table had rocked since before Nessa moved in.
 
-“Character.”
+We had fixed it twice.
 
-“Shut up.”
+Different legs each time.
+
+At some point instability becomes personality.
+
+I held the pin with pliers and tapped it straight.
+
+Missed once.
+
+The hammer left another dent in the tabletop.
+
+Nessa had changed into dry trousers by then.
+
+She came back carrying her wet coat over one arm.
+
+Saw the mark.
+
+Touched it with one finger.
+
+"Character."
+
+"Shut up."
+
+She hung the coat near the stove.
+
+It immediately dripped onto the floor.
+
+"Your coat is damaging the building."
+
+"Mina can add it to the rent."
+
+Fair.
 
 We ate late.
 
@@ -110,21 +142,39 @@ Rice.
 
 Onions.
 
-A piece of smoked pork too salty even for me.
+Smoked pork too salty even for me.
 
 Nessa boiled cabbage until the apartment smelled like a threat.
 
 I opened the window.
 
-Rain came in.
+Rain came in sideways.
 
 She closed it.
 
 We chose smell.
 
+The bakery below us had already shut its front door, but the ovens were still warm enough that the floor near the stove held heat through our socks.
+
+Mina shouted at one of her bakers.
+
+We could not hear the words.
+
+The tone implied bread had betrayed her personally.
+
 Halfway through dinner someone knocked.
 
+Three knocks.
+
+Pause.
+
+One more.
+
 Lorn.
+
+Nobody else knocked like they were reconsidering the visit in real time.
+
+I opened the door.
 
 He had Perrin with him.
 
@@ -132,27 +182,31 @@ I knew Perrin now.
 
 This remains worth noting.
 
-Perrin was eleven.
+Eleven years old.
 
 Long arms.
 
 Hair that never agreed on direction.
 
-The same missing front tooth had been replaced by a larger tooth that looked briefly borrowed.
+The missing front tooth I remembered had been replaced by a larger one that looked briefly borrowed.
 
-Lorn held a wrapped bundle.
+His coat was too short at the wrists.
 
-“Your wrench.”
+Children grow specifically to make adults feel negligent.
 
-“What wrench?”
+Lorn held a wrapped bundle under one arm.
 
-“The narrow eight.”
+"Your wrench."
 
-“I have mine.”
+"What wrench?"
 
-“You have mine.”
+"The narrow eight."
 
-“No.”
+"I have mine."
+
+"You have mine."
+
+"No."
 
 He unwrapped it.
 
@@ -162,27 +216,27 @@ I looked at Lorn.
 
 He looked at me.
 
-“Interesting,” I said.
+"Interesting," I said.
 
-“Asshole.”
+"Asshole."
 
 Perrin laughed.
 
-Nessa said, “Eat?”
+Nessa leaned around me.
 
-Lorn looked at the cabbage.
+"Eat?"
 
-“No.”
+Lorn looked past her at the cabbage.
 
-Perrin said, “Yes.”
+"No."
+
+Perrin said, "Yes."
 
 Lorn looked betrayed.
 
 We made room.
 
-The table did not have enough chairs.
-
-We owned three proper ones and one stool that leaned worse than the table.
+The table had three proper chairs and one stool that leaned worse than the table itself.
 
 Perrin took the stool because children interpret structural instability as entertainment.
 
@@ -190,65 +244,29 @@ Lorn took my chair.
 
 I stood for almost a minute before realizing nobody intended to solve this.
 
-Nessa pointed at the pantry door lying against the wall.
+Nessa pointed at the pantry door leaning against the wall.
 
-“You could sit on your project.”
+"You could sit on your project."
 
 I got a crate.
 
-Rain kept hitting the window.
+Rain beat the window hard enough to make conversation pause twice.
 
-Below us, the bakery's ovens clicked as they cooled.
+Then it softened.
 
-Mina shouted something at one of her bakers.
+Then came back harder.
 
-We could not hear the words.
+Perrin ate cabbage willingly.
 
-The tone implied bread had betrayed her.
+I distrusted him immediately.
 
-Perrin asked if Rankers could punch through walls.
+He had school arithmetic in his bag.
 
-“Some.”
+Of course he did.
 
-“Can you?”
+Children bring work into a room the way rain finds a bad roof.
 
-“Yes.”
-
-Nessa said, “Not our wall.”
-
-“I was not going to.”
-
-Perrin asked, “How thick?”
-
-“Depends on the wall.”
-
-“Brick?”
-
-“Probably.”
-
-“Stone?”
-
-“Some.”
-
-“Station wall?”
-
-“No.”
-
-“Why?”
-
-“Because I am not an idiot.”
-
-Lorn coughed.
-
-Nessa looked at him.
-
-He looked down at his bowl.
-
-Traitors everywhere.
-
-Perrin had school arithmetic.
-
-He pulled a slate from his bag because apparently dinner with adults created opportunities for unpaid instruction.
+He pulled out a slate after dinner.
 
 Fractions.
 
@@ -260,111 +278,139 @@ Perrin had a problem about dividing twelve lengths of pipe across five crews.
 
 I objected to the premise.
 
-“You would not divide pipe evenly.”
+"You would not divide pipe evenly."
 
-“Greg,” Nessa said.
+Nessa looked up from stacking bowls.
 
-“Crew need differs.”
+"Greg."
 
-“It is arithmetic.”
+"Crew need differs."
 
-“The arithmetic teaches bad allocation.”
+"It is arithmetic."
+
+"The arithmetic teaches bad allocation."
 
 Perrin looked interested.
 
-Nessa took the slate from me.
+Wrong audience.
 
-“Twelve divided by five.”
+Nessa took the chalk from me.
 
-“Two each, two left.”
+"Twelve divided by five."
 
-“Good.”
+"Two each. Two left."
 
-I said, “Then ask which crew needs the extra two.”
+"Good."
+
+I said, "Then ask which crew needs the extra two."
 
 Nessa pointed at me with the chalk.
 
-“No infrastructure policy at the table.”
+"No infrastructure policy at the table."
 
-“Fractions are infrastructure.”
+"Fractions are infrastructure."
 
-Lorn said, “Everything is infrastructure to you now.”
+Lorn said, "Everything is infrastructure to you now."
 
-“That is not true.”
+"That is not true."
 
-“Cabbage?”
+"Cabbage?"
 
-“Food distribution.”
+"Food distribution."
 
-Perrin laughed hard enough to nearly tip the stool.
+Perrin laughed hard enough to rock the stool backward.
 
-We caught him.
+We all reached for him.
 
-All four of us.
+Four hands.
 
-Too many hands.
+Too many.
 
-He complained.
+He slapped them away.
 
-Good.
+"I had it."
 
-After dinner Lorn and I played cards.
+He had not.
+
+We let him keep the lie.
+
+Perrin finished the worksheet badly.
+
+Nessa made him redo two problems.
+
+I objected to one word problem.
+
+Nobody listened.
+
+Then Lorn found the card deck in the drawer.
+
+We played.
 
 Nessa refused because she said both of us cheated differently and the combination was tiring.
-
-Perrin watched.
 
 I did not cheat.
 
 I would like that preserved in the record.
 
-Lorn used memory of discarded cards in a way I considered ethically flexible.
+Lorn remembered discarded cards with suspicious accuracy and claimed this was merely paying attention.
 
-He won three hands.
+I considered it spiritually adjacent to fraud.
 
-I won four.
+He won the first two hands.
 
-Perrin learned the game and beat both of us once because we underestimated him.
+I won the next three.
+
+Perrin watched long enough to learn the game, then joined and beat both of us once because we underestimated him.
 
 He became unbearable immediately.
 
 Correct response to victory.
 
-Nessa sat by the window with a district schedule on her lap.
+Nessa sat near the window with tomorrow's district schedule open across her knees.
 
 Not working.
 
 She kept claiming that.
 
-“Then why is the slate open?”
+"Then why is the slate open?"
 
-“I am looking.”
+"I am looking."
 
-“At work.”
+"At work."
 
-“No. At tomorrow.”
+"At tomorrow."
 
-“That is work wearing a hat.”
+"That is work wearing a hat."
 
 She closed it.
 
-“Happy?”
+"Happy?"
 
-“Yes.”
+"Yes."
 
-“You are holding cards from a private-work client.”
+"You are holding cards from a private-work client."
 
 I looked down.
 
 The deck had been payment from a shopkeeper who could not cover my full fee one week.
 
-“That is different.”
+"That is different."
 
-“Of course.”
+"Of course."
 
-The rain softened.
+The rain softened enough that we could hear the bakery cooling below us.
 
-Perrin fell asleep with his head against Lorn's arm.
+Metal ticking.
+
+Wood settling.
+
+Someone dragging a tray across stone.
+
+Perrin stopped talking in the middle of accusing Lorn of cheating.
+
+His head tipped against Lorn's arm.
+
+Then stayed there.
 
 Children do that suddenly.
 
@@ -372,97 +418,221 @@ One second loud.
 
 Then gone.
 
-Lorn shifted without waking him.
+Lorn shifted his elbow without waking him.
 
-His bad fingers rested around the boy's shoulder.
+His bad fingers settled across the boy's shoulder.
 
-I had known those fingers eleven years before I knew the child properly.
+I had known those fingers for eleven years before I knew the child properly.
+
+That thought came and went.
 
 No lesson followed.
 
-I had already learned it.
+Good.
 
-Mostly.
+Around ninth bell Mina knocked once and opened the door without waiting.
 
-Mina knocked after ninth bell with a loaf.
+Landlords possess theology about doors.
 
-Apparently superstition had protected the back door again and forgiveness was possible.
+She held a loaf under a cloth.
+
+Apparently superstition had protected the bakery again and forgiveness was possible.
 
 She saw Lorn.
 
-“You owe me.”
+"You owe me."
 
-“For what?”
+He looked up.
 
-“Eight years.”
+"For what?"
 
-“That is not an amount.”
+"Eight years."
 
-“It is now.”
+"That is not an amount."
 
-She left.
+"It is now."
 
-We ate half the loaf anyway.
+She put the bread on the table and left.
 
-Nessa repaired a tear in my work coat.
+Lorn watched the closed door.
 
-I told her I could do it.
+"Does she keep ledgers?"
+
+Nessa and I answered together.
+
+"Yes."
+
+We ate half the loaf while it was still warm.
+
+The crust cracked loudly enough to wake Perrin for three seconds.
+
+He took a piece without opening his eyes properly.
+
+Then slept again.
+
+Nessa found a tear at the elbow of my work coat while the cards were being put away.
+
+She got her sewing tin.
+
+I said, "I can do that."
 
 She handed me the needle.
 
-I gave it back.
+I looked at it.
+
+Then at the tear.
+
+Then handed it back.
 
 Growth.
 
-I put the pantry door on again.
+I returned to the pantry door.
 
-It no longer squeaked.
+The hinge pin was straight.
 
-It also did not close.
+Mostly.
+
+I put the door back on.
+
+Opened it.
+
+No squeak.
+
+Excellent.
+
+Closed it.
+
+It stopped two inches from the frame.
+
+Less excellent.
 
 Nessa stood beside me.
 
 We looked at it.
 
-“You fixed the sound,” she said.
+"You fixed the sound," she said.
 
-“Yes.”
+"Yes."
 
-“Door doesn't work.”
+"Door doesn't work."
 
-“Temporary condition.”
+"Temporary condition."
 
-Lorn, from the table, said, “Inspector.”
+From the table Lorn said, "Inspector."
 
-“Fuck you.”
+"Fuck you."
 
-I adjusted the hinge until it closed.
+Perrin slept through that too.
+
+I loosened the lower hinge.
+
+The door sagged.
+
+Tightened it.
+
+The top scraped.
+
+Nessa held the lamp while I adjusted the pin again.
+
+She was still sewing my coat one-handed.
+
+"You could do one thing at a time."
+
+"I am."
+
+"You're holding a lamp and sewing."
+
+"That is one category."
+
+"What category?"
+
+"Helping."
+
+Annoying woman.
+
+The door closed.
 
 Then opened.
 
 Then closed again.
 
-Perrin slept through all of it.
+No squeak.
 
-Lorn carried him home under a borrowed coat because the rain had started again.
+I opened it one more time because evidence should repeat.
 
-Nessa washed bowls.
+Lorn said, "If you test it under pressure, I am leaving."
+
+"You are leaving anyway."
+
+"Correct."
+
+He wrapped Perrin in the spare blanket first.
+
+Then decided the blanket would get soaked and borrowed my old work coat instead.
+
+The coat was too large for Perrin and too small to cover all of him, which made the arrangement useless but affectionate.
+
+Lorn lifted him.
+
+Perrin woke enough to complain that he could walk.
+
+Lorn said, "Then walk."
+
+Perrin did not move.
+
+"Thought so."
+
+They left when the rain dropped to something merely unreasonable.
+
+Nessa locked the door behind them.
+
+For a while the apartment felt bigger.
+
+Not empty.
+
+Just quieter.
+
+Four bowls in the basin.
+
+Crumbs across the table.
+
+One chalk mark on the floor where Perrin had dropped the slate.
+
+Wet footprints drying near the door.
+
+My wrench beside Lorn's wrapped one because neither of us had resolved ownership.
+
+Nessa washed.
 
 I dried.
 
-We argued about whether wooden spoons needed to be dried immediately.
+We argued about wooden spoons.
 
-She said yes.
+She said they needed to be dried immediately.
 
 I said they had survived water historically.
 
 She said that sentence explained too much about my maintenance philosophy.
 
+I put the spoon down.
+
+"Pantry door works."
+
+"Tonight."
+
+"Hostile."
+
+"Current evidence."
+
+I almost threw the towel at her.
+
+Almost.
+
 We went to bed.
 
 That was the night.
 
-Years later I could remember it almost whole.
+Years later I could remember almost all of it.
 
 Not because something happened afterward.
 
@@ -488,14 +658,26 @@ The cards.
 
 Perrin's new tooth.
 
-Lorn's hand around his shoulder.
+Lorn carrying him half asleep.
 
-Nessa laughing when the pantry door refused to close.
+Nessa holding the lamp while insulting my repair.
+
+The pantry door finally closing.
 
 The sound of rain against the window after everyone left.
 
-I had spent my first life believing memory selected important things.
+In my first life I thought memory selected important things.
 
-It does not.
+Maybe because most of what I bothered remembering had already become useful by the time I noticed it.
 
-Sometimes it keeps Thursday.
+Routes.
+
+Failures.
+
+Names attached to contracts.
+
+People attached to consequences.
+
+Second life kept stranger records.
+
+Sometimes it kept Thursday.
