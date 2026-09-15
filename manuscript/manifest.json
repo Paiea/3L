@@ -230,9 +230,9 @@
       "title": "THE BROTHER",
       "path": "manuscript/records/021/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 2115
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 2429
     },
     {
       "id": "r022",
@@ -241,9 +241,9 @@
       "title": "THE PATIENT",
       "path": "manuscript/records/022/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 1968
+      "word_count": 2597
     },
     {
       "id": "r023",
@@ -252,9 +252,9 @@
       "title": "THE COORDINATOR",
       "path": "manuscript/records/023/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 1707
+      "word_count": 2485
     },
     {
       "id": "r024",
@@ -263,9 +263,9 @@
       "title": "THE WRONG MAN",
       "path": "manuscript/records/024/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 1971
+      "word_count": 2449
     },
     {
       "id": "r025",
