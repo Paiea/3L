@@ -2,346 +2,1046 @@
 
 ## THE TRAVELER
 
-Regional work taught me that every town believes its problem is unique.
+"Eight years."
 
-Sometimes it is.
+Ithar said it before I did.
 
-Usually the bakery is still cold.
+"Approximately."
 
-My first contract outside the district after East Four was two days north in Bellwater.
+"You gave me four days in considerable detail."
 
-Not two days travel.
+"Arcrutus was easy to remember."
 
-Two days work.
+"And the eight years?"
 
-Travel was four hours by tram and another forty minutes in a cart that smelled like onions.
+"I lived them."
 
-Bellwater sat where the river widened enough for warehouses and narrow enough for people to argue about bridges.
+His head shifted against the stone.
 
-Its Line branch did not heat most homes.
+Not much.
 
-That surprised me.
+Enough to tell me that answer had not satisfied him.
 
-Wood was cheaper there.
+"Were they unimportant?"
 
-The branch powered grain lifts, wash pumps, and the river icebreakers that kept the loading channels open in winter.
+"No."
 
-Same Line.
+"Were they empty?"
 
-Different dependency.
+"No."
 
-I arrived expecting heating complaints.
+"Then why are you attempting to cross them in one sentence?"
 
-The station foreman said, “If pressure drops, flour stops moving.”
+I rubbed my knee.
 
-That was better.
+It had begun aching again.
 
-Not morally.
+Weather, stone, age, sitting too long, existing.
 
-Informationally.
+Plenty of possible causes.
 
-The fault was ordinary.
+"Because the next tournament made me think of the first one."
 
-Return imbalance after a replacement valve.
+"Convenient."
 
-The interesting part was what happened when we reduced service to test it.
+"That is how remembering works."
 
-Three grain lifts stopped.
+"Sometimes."
 
-Warehouse crews immediately rerouted sacks by hand.
+I looked at him.
 
-Nobody panicked.
+"You are enjoying this too much."
 
-They had done this before.
+"Continue."
 
-The icebreaker crews complained because manual grain was slow but possible.
+Fine.
 
-A frozen river channel was not.
+Eight years.
 
-Local priority.
+I was twenty-three when Arcrutus told me to go back to work.
 
-Not on the district map.
+So I did.
 
-I wrote it down.
+That part matters.
 
-Bellwater taught me to ask what stopped first.
+He was not my mentor.
 
-Second job was South Fen.
+Ithar's eye moved.
 
-Flat town built around dye houses and cloth finishing.
+"You have spent several records describing what he taught you."
 
-The Line there carried more hot water than heat.
+"Four days. Then he left me alone with it."
 
-Steam loops everywhere.
+"That distinction is important to you."
 
-Colored runoff in gutters despite regulations everyone swore they followed.
+"Yes."
 
-The main station smelled like wet wool and metal.
+"Why?"
 
-Nessa would have hated it.
+"Because he didn't make me."
 
-I missed her enough to think that sentence three times.
+Ithar was quiet.
 
-South Fen's complaint was pressure fluctuation at sixth bell.
+I hated when he became quiet after I said something defensive.
 
-I assumed shift start.
+It made the sentence sound more defensive.
 
-Wrong.
+"He gave me questions," I said. "I spent years being annoyed by them. That is different."
 
-Sixth bell was rinse discharge.
+"Mm."
 
-Every dye house emptied hot process water into recovery tanks at nearly the same time because the trade schedule had standardized lunch badly fifty years earlier.
+"There. That. Stop doing that."
 
-The recovery pumps pulled together.
+He did not stop doing that.
 
-The Line sagged.
+Arcrutus went back to his clan.
 
-Engineers had been adjusting station pressure for years.
+I went back to cheap Guild support work.
 
-The town needed staggered rinse times.
+For months I heard nothing about him.
 
-No new equipment.
+Then I heard his name because a northern border dispute ended two days after his clan announced he was traveling there.
 
-No ancient infrastructure.
+Nobody said he had done anything.
 
-A scheduling problem disguised as machinery.
+Apparently he had merely arrived.
 
-I sent Nessa a slate from the inn.
+Later there was a winter expedition east of Vey.
 
-YOU WOULD HATE THIS PLACE.
+His name appeared on the personnel list.
 
-She replied:
+Then disappeared from the public copy.
 
-WHY.
+Then reappeared after the expedition returned missing one wagon and three horses but all the people it had left with.
 
-EVERYONE SCHEDULES BADLY.
+I did not know what happened.
 
-She replied:
+I still don't.
 
-I WOULD BE EMPLOYED.
+That was Arcrutus for most of my twenties.
 
-Fair.
+A name attached to consequences somewhere else.
 
-Third job was Hillcross.
+Not a teacher.
 
-No river.
+Not a friend.
 
-Cold wind.
+Occasionally not even in the country.
 
-Steep streets designed by someone who hated knees.
+I had my own work.
 
-The Line drove public pumps because water had to climb from lower wells.
+At twenty-four I spent six weeks with a quarry crew because their regular support broke his ankle and the Guild clerk knew I was cheap.
 
-Heating existed, but secondary.
+Good career strategy.
 
-When their pressure dropped, people still had stoves.
+Be available during orthopedic emergencies.
 
-They did not have water upstairs.
+The quarry cut pale stone out of a hillside west of Vey.
 
-A station operator told me, “You can tell visitors because they complain about cold first.”
+Dust everywhere.
 
-I was a visitor.
+Barrier everywhere too.
 
-I had complained about cold first.
+Across eyes.
 
-He enjoyed this.
+Across mouths.
 
-Hillcross's fault took a week.
+Across tool housings.
 
-Long enough that the innkeeper learned how I took tea and still made it wrong.
+Around water barrels.
 
-The problem was a buried branch map showing one pump feed while the physical line split into two under a street rebuilt after a fire.
+Around open cuts so grit stayed out until someone competent could clean them.
 
-Not old Line.
+Nothing impressive.
 
-Only forty-year-old bad records.
+Barrier was a cheap spell.
 
-Important distinction.
+Everybody knew that.
 
-We found the second branch because a retired plumber remembered his father cursing it.
+I knew it particularly well because I had originally learned it to avoid becoming a father.
 
-Generational engineering.
+There are careers with more dignified origins.
 
-That became another note.
+Probably.
 
-Ask retired trades before digging.
+The quarry foreman did not care why I knew it.
 
-Fourth town was Cask.
+He cared that his cutters stopped coughing stone powder for half the afternoon.
 
-Actual name.
+The first thing I changed there was not strength.
 
-I thought someone was joking.
+It was angle.
 
-Brewery town.
+One of the cutters used a reinforced maul on fault lines in the stone.
 
-They were not.
+The impact traveled through the head, handle, wrists, elbows, shoulders.
 
-The Line there powered refrigeration and cooperage steam.
+Normal.
 
-Every public meeting smelled like beer.
+His regular support had reinforced the wrists.
 
-This improved attendance and worsened minutes.
+Also normal.
 
-I did not solve anything in Cask.
+The man's wrists looked excellent.
 
-Tova did.
+His right shoulder did not.
 
-That mattered.
+He rolled it between strikes.
 
-We were hired together for a foundation survey.
+Then after strikes.
 
-I spent half a day convinced the recurring vibration came from an old buried support.
+Then before them.
 
-Tova walked outside and found a brewery compressor bolted to the shared alley wall.
+What did I actually see?
 
-“Ancient?” she asked.
+His shoulder moved differently.
 
-“Fuck you.”
+Where did the failure go?
 
-The town bought us dinner anyway.
+I was beginning to hate that question because it kept having answers.
 
-That may have been the first place outside home where someone refused my money because of work.
+I loosened the wrist reinforcement.
 
-Not one of the three cities from later stories.
+The cutter stared at me.
 
-Do not count it.
+"You're making it weaker."
 
-One dinner is not a civic identity.
+"Yes."
 
-The fifth job was in a village small enough that calling it regional consulting felt rude.
+"Why?"
 
-Seven hundred people.
+"Hit the rock."
 
-One station room attached to the mill.
+"That is not reassuring."
 
-No dedicated foreman.
+He hit the rock.
 
-The mill mechanic kept the Line equipment because nobody else wanted the paperwork.
+His wrist gave a little.
 
-His name was Corren.
+Not collapsed.
 
-He had one good eye and no patience for badges.
+Moved.
 
-“What are you ranked?” he asked.
+His elbow moved more too.
 
-“C.”
+His shoulder moved less.
 
-“Useful?”
+He hit again.
 
-“Sometimes.”
+Then again.
 
-“Good.”
+The foreman watched three strikes.
 
-Their issue was a relief valve that opened during storms.
+"Do that to the other one."
 
-Only storms.
+The other cutter said, "Fuck you."
 
-I wanted to blame atmospheric pressure.
+Reasonable workplace culture.
 
-Corren said roof runoff hit the vent hood.
+That was not load transfer.
 
-I laughed.
+Not yet.
 
-Then it rained.
+I could not take force from one place and put it somewhere else because I wanted to.
 
-Water filled the vent hood.
+What I could do was stop pretending reinforcement meant preventing movement.
 
-Valve backpressure rose.
+Sometimes movement was the safe direction for force to go.
 
-Relief opened.
+That kept me busy for a while.
 
-Corren did not laugh.
+At twenty-five I worked mostly short contracts.
 
-That was worse.
+Factories.
 
-We extended the vent.
+Caravan yards.
 
-Problem gone.
+One warehouse where the owner had reinforced every lifting brace so aggressively that workers' backs were failing instead.
 
-He charged me for lunch because I had been condescending.
+A slaughterhouse I will not describe because Ithar had already made too many comments about eating humans.
 
-Fair.
+"I have made very few."
 
-Regional work did not make me cosmopolitan.
+"You opened with one."
 
-I still preferred my own bed.
+"Effective placement."
 
-I missed Mina's ovens warming the floor.
+"See? This is why you don't get the slaughterhouse."
 
-I missed Nessa's cold tea sitting in places cups should not be.
+I traveled more.
 
-I missed my parents' dinner even when carrots were involved.
+Not far at first.
 
-Travel became routine in the least romantic way.
+A day out.
 
-Pack two shirts.
+Two.
+
+Then a week.
+
+Vey stayed home because my bed was there and because I knew which bakery sold yesterday's rolls for half price after sixth bell.
+
+The rest of the world became inns.
+
+Different ceiling stains.
+
+Different blankets.
+
+Same bad soap.
+
+I became good at packing.
+
+Two shirts.
+
+One decent shirt if the contract involved clients.
 
 Tool roll.
 
-Inspection hammer.
+Wraps.
 
-Shoulder wrap if rain likely.
+Ledger.
 
-Ledger pages.
+Barrier chalk even though I almost never needed the chalk anymore.
 
-Coin purse separated for expenses because Nessa had strong opinions about reimbursable soup.
+Contraceptive tin because confidence is not a method.
 
-Leave early.
+Ithar's eye moved again.
 
-Return late.
+"Barrier chalk and contraception."
 
-Sometimes stay one night.
+"Different objects."
 
-Sometimes four.
+"I assumed."
 
-I learned which tram stations had edible food.
+"Good."
 
-Which inns washed blankets.
+There were women.
 
-Which towns overcharged visitors.
+Of course there were women.
 
-Which Guild halls had clerks willing to stamp private work after fourth bell.
+I was twenty-five, traveled for work, got paid reasonably, and had developed the dangerous belief that competence made me interesting.
 
-First life, travel had meant movement toward danger or advancement.
+Sometimes it did.
 
-New contract.
+Sometimes height did most of the work.
 
-New province.
+One woman in Renna named Meril worked freight accounts and had less interest in permanence than I did.
 
-Next climb.
+We were very good for each other for four months because neither of us lied about the fifth.
 
-Second life, travel acquired return tickets.
+When her company transferred her south, we had dinner, went upstairs, and said goodbye in the morning.
 
-That changed the shape of it.
+No tragedy.
 
-I went somewhere because work was there.
+No lesson.
 
-Then came home because home was somewhere else.
+People are allowed to enjoy each other without turning it into architecture.
 
-Simple.
+Another woman, Sera, kept a toothbrush for me.
 
-More important than I understood.
+Different year.
 
-The regional map on our wall grew marks.
+Different city.
 
-Not conquest.
+That mattered more than I admitted.
 
-Clients.
+Not because toothbrushes are binding contracts.
 
-Contacts.
+Because I noticed it.
 
-Station notes.
+The second time I stayed at her room, it was there.
 
-A mechanic in Hillcross.
+Cheap wood handle.
 
-A foreman in Bellwater.
+Blue thread around the base so I would not confuse it with hers.
 
-A dye scheduler who owed Nessa a letter.
+I used it.
 
-Corren's village with a note saying CHECK ROOF FIRST.
+The third time too.
 
-The world widened.
+Then I took a six-week contract west.
 
-The address above the bakery stayed the address.
+When I came back, the toothbrush was still there.
 
-That was the difference between wandering and having a route back.
+I liked that.
+
+Then a Guild notice came for a job north.
+
+I left two days later.
+
+Sera did not ask me to stay.
+
+I did not ask whether she wanted me to.
+
+That distinction also matters.
+
+We lasted almost a year in pieces.
+
+Not badly.
+
+Not dishonestly.
+
+Just around my departures.
+
+Eventually there were too many departures.
+
+She began seeing someone whose work ended at fifth bell.
+
+I was offended for approximately nine minutes.
+
+Then embarrassed about being offended.
+
+Then genuinely happy for her, mostly.
+
+Humans are capable of several emotions without selecting one as official.
+
+Ithar watched me.
+
+"You said Arcrutus was not active during these years."
+
+"He wasn't."
+
+"Yet the questions remained."
+
+"Yes."
+
+"And you applied them to work."
+
+"Constantly."
+
+"To Sera?"
+
+I looked toward the cave mouth.
+
+"Not constantly."
+
+"Professionally."
+
+"You are becoming predictable."
+
+"You continue providing the same answer."
+
+"Continue providing silence."
+
+He did.
+
+At twenty-six my support work became less cheap.
+
+This was inconvenient because expectations rose with the rate.
+
+The Guild started assigning me to field crews instead of buildings.
+
+Field crews moved.
+
+Buildings were polite enough to remain where engineers left them.
+
+People were worse.
+
+My first regular crew guarded surveyors mapping an old aqueduct route through broken hills east of the river.
+
+Not ancient magic.
+
+Just old stone, bad footing, occasional animals, and bandits who understood that surveying equipment resold well.
+
+There were five of us besides the surveyors.
+
+Two fighters.
+
+One scout.
+
+One medic.
+
+Me.
+
+The fighters were both better than I was.
+
+Directly.
+
+That remained true for most of my life.
+
+I could fight.
+
+C-class eventually.
+
+Useful against normal violence.
+
+Embarrassing next to people whose occupation was turning violence into a technical discipline.
+
+The first time one of our fighters took a bad downhill landing, I reinforced his knee.
+
+Then remembered the quarry.
+
+Then stopped.
+
+His knee bent farther than he wanted.
+
+He swore at me.
+
+His hip did not tear.
+
+He swore at me again after I explained this.
+
+"You let my knee buckle."
+
+"A little."
+
+"I hate a little."
+
+"Your hip is intact."
+
+"I can hate two things."
+
+He could.
+
+That crew taught me stabilization.
+
+Not as a separate spell at first.
+
+As timing.
+
+Barrier before impact was different from Barrier through impact.
+
+Reinforcement during recovery was different from reinforcement during extension.
+
+Holding a joint rigid through the wrong half-second could be worse than letting it travel and catching it later.
+
+The more precisely I controlled the boundary, the less power I needed.
+
+That appealed to me.
+
+Power was expensive.
+
+Precision was mostly practice.
+
+I practiced.
+
+I practiced on stairs.
+
+Doors.
+
+Dropped cups.
+
+My own wrists.
+
+Other people's wrists with permission.
+
+Mostly.
+
+"Mostly?"
+
+"Do not interrupt the important part."
+
+"You introduced the ambiguity."
+
+"I withdraw it. With permission."
+
+"Better."
+
+Fuck dragons.
+
+By twenty-seven I could catch a bad movement without freezing it.
+
+By twenty-eight I could sometimes shape where the recovery went.
+
+Not move force like pouring water between cups.
+
+Nothing so clean.
+
+I could decide which boundary yielded first.
+
+A shoulder could rotate instead of a wrist collapsing.
+
+A planted foot could slide two inches rather than a knee taking the full turn.
+
+A shield arm could recoil instead of transferring everything into ribs.
+
+Small choices.
+
+Ugly choices.
+
+Useful choices.
+
+My official evaluations improved.
+
+My direct combat evaluations did not.
+
+That annoyed me enough that I took another one at twenty-eight.
+
+The examiner was a woman twelve years younger than my pride.
+
+Not literally.
+
+She was probably twenty-four.
+
+I disliked her immediately because she looked at my paperwork and said, "Support?"
+
+"Among other things."
+
+"Today we're measuring the other things."
+
+Then she hit me in the mouth with a padded staff.
+
+C-class.
+
+Again.
+
+The evaluator wrote:
+
+GOOD SPATIAL AWARENESS.
+
+LIMITED OFFENSIVE PRESSURE.
+
+OVERTHINKS EXCHANGES.
+
+I objected to the last one.
+
+She hit me again while I was objecting.
+
+C-class remained appropriate.
+
+That became useful later.
+
+Humility is too generous a word.
+
+Calibration.
+
+I learned that being unusual in one discipline did not make me secretly excellent in another.
+
+This sounds obvious.
+
+It is not obvious when you are twenty-eight and people have started paying extra for your name on a work order.
+
+At twenty-nine the work changed again.
+
+Crews asked for me specifically.
+
+Not famous crews.
+
+Working crews.
+
+People who cleared roads after slides.
+
+Protected survey teams.
+
+Escorted shipments through places where local animals had developed unreasonable territorial opinions.
+
+Supported construction near unstable ruins.
+
+The Guild clerk stopped asking whether I was free and started asking when.
+
+Small difference.
+
+Dangerous difference.
+
+I liked being wanted.
+
+Professionally.
+
+Ithar breathed out through his nose.
+
+Warm air moved across the cave floor.
+
+"Do not."
+
+"I said nothing."
+
+"Your entire face said something."
+
+"You have become skilled at interpretation."
+
+"Fuck you."
+
+"Available."
+
+At twenty-nine I worked with three different crews in five months.
+
+That was when I started noticing a problem Arcrutus had shown me years earlier but I had not known how to solve.
+
+Individuals could be supported correctly and the group could still become worse.
+
+One crew had a shield fighter who preferred to absorb forward pressure.
+
+Good fighter.
+
+One spear fighter who preserved distance.
+
+Also good.
+
+One scout who attacked angles whenever they opened.
+
+Very good.
+
+Support each separately and they became more themselves.
+
+The shield held harder.
+
+The spear gave cleaner ground.
+
+The scout ranged farther.
+
+The group stretched.
+
+So I stopped supporting each person toward their own preference.
+
+That felt wrong.
+
+The shield fighter got less reinforcement during first impact.
+
+The spear fighter got earlier stabilization on retreat so she stopped yielding quite as far.
+
+The scout got nothing at all during two openings I knew she could take.
+
+She yelled at me afterward.
+
+"I had him."
+
+"Yes."
+
+"Then why didn't you reinforce the cut?"
+
+"Because then you would have been twelve feet away from the shield."
+
+"I can count twelve feet."
+
+"Apparently you cannot care about it."
+
+She threw a glove at me.
+
+Not a chestnut.
+
+Different relationship.
+
+The next engagement was uglier.
+
+We won it faster.
+
+I began writing things down.
+
+Not spells.
+
+Relationships.
+
+If Bren takes ground, Mara must hold.
+
+If Mara retreats, Joss cannot chase.
+
+If shield absorbs high, support ribs later, not shoulder now.
+
+If scout commits, spear shifts first.
+
+I could not link them.
+
+Not magically.
+
+I could barely keep separate effects stable when everyone moved at once.
+
+But I could begin deciding which person received help first and which consequence I was willing to leave alone.
+
+That was new.
+
+At thirty I stopped thinking of Barrier as a wall.
+
+Not completely.
+
+Walls are useful.
+
+Rain remains irritating.
+
+But a boundary is not only where something stops.
+
+It is where something changes.
+
+Force.
+
+Movement.
+
+Pressure.
+
+Fluid.
+
+Heat, within limits.
+
+Attention, if you are clever about what people think is safe.
+
+That last one was not magical.
+
+Mostly.
+
+I learned to make reinforcement yield intentionally.
+
+I learned to stagger stabilization so one correction did not create the next problem immediately.
+
+I learned that some supports looked weaker because they were allowing safe motion.
+
+I learned that the best correction was occasionally no correction because the body already had somewhere better to put the load.
+
+I learned to stop helping.
+
+That may have been harder than learning to help.
+
+There were failures.
+
+Obviously.
+
+One caravan guard lost two teeth because I expected his footing to hold.
+
+It did not.
+
+One surveyor broke a wrist because I stabilized the wrong arm during a fall.
+
+She recovered.
+
+She also sent me the healer's bill.
+
+Fair.
+
+A fighter named Pell tore a calf while I was managing his knee beautifully.
+
+That one bothered me for years because the knee looked perfect.
+
+Wrong noun.
+
+Wrong measurement.
+
+I had protected the part I understood.
+
+The force found the part I wasn't watching.
+
+Arcrutus was nowhere near any of this.
+
+That matters too.
+
+Nobody leaned over my shoulder and corrected the spell.
+
+Nobody gave me the next technique.
+
+Nobody told me what support was supposed to become.
+
+I was wrong repeatedly until the wrongness developed a pattern.
+
+Then I studied the pattern.
+
+Then I became wrong in more sophisticated ways.
+
+Progress.
+
+Ithar's eye narrowed.
+
+"You sound proud of that."
+
+"I am."
+
+"Of being wrong."
+
+"Of surviving correction."
+
+He considered this.
+
+"Better."
+
+I pointed at him.
+
+"You stole that."
+
+"From Arcrutus?"
+
+"Yes."
+
+"He is not here to object."
+
+"Apparently neither are ethics."
+
+Around thirty-one I had a reputation.
+
+Small one.
+
+Regional.
+
+Support crews knew me.
+
+Guild clerks knew me.
+
+A few fighters knew me.
+
+People who had worked with me tended to request me again.
+
+People who had only read my classification sometimes did not understand why.
+
+That discrepancy became familiar.
+
+C-class fighter.
+
+Better support than the letter suggested, depending on which letter you were reading and what the evaluator had bothered to measure.
+
+Useful enough that jobs found me more often than I found them.
+
+Still cheap enough that institutions could afford to be curious.
+
+Good career stage.
+
+The tournament came back every year.
+
+I did not.
+
+For eight years I had better things to do.
+
+Or thought I did.
+
+Then a Guild clerk pushed a registration sheet across the counter while I was renewing field clearance.
+
+"You should enter."
+
+"Why?"
+
+"Because you argue with your evaluations."
+
+"I argue with inaccurate evaluations."
+
+"Exactly."
+
+I looked at the sheet.
+
+Same regional tournament.
+
+Different sponsors.
+
+Larger purse.
+
+More brackets.
+
+Solo C-class registration.
+
+Team events after.
+
+I laughed.
+
+"I'm support."
+
+"You're C-class direct."
+
+"Barely."
+
+"Still counts."
+
+"What do you get if I enter?"
+
+"A quieter renewal appointment next year."
+
+Strong incentive.
+
+I took the sheet home.
+
+Not to Sera's room.
+
+Not to anyone's room.
+
+Mine.
+
+One rented room above a cooper's shop with a window that stuck in rain and a neighbor who practiced flute badly after dinner.
+
+I had money.
+
+Work.
+
+Contacts in six towns.
+
+Three shirts worth wearing in public.
+
+No permanent party.
+
+No wife.
+
+No children.
+
+No toothbrush waiting anywhere except my own cup.
+
+I considered this a successful arrangement.
+
+At thirty-one, I meant it.
+
+Mostly.
+
+I filled out the tournament registration.
+
+Name.
+
+Guild number.
+
+Direct classification.
+
+C.
+
+Primary discipline.
+
+Support.
+
+The clerk had left a blank for special considerations.
+
+I wrote:
+
+NONE.
+
+Then crossed it out because that seemed like tempting the world.
+
+I left the line blank.
+
+Ithar shifted one foreclaw.
+
+Stone clicked beneath it.
+
+"Another tournament."
+
+"Yes."
+
+"The first one taught you to observe."
+
+"Among other things."
+
+"And now you remember the next because you remembered the first."
+
+"Yes."
+
+"This is how you are choosing the path through eight years."
+
+I thought about that.
+
+"Yes."
+
+"Not because nothing else mattered."
+
+"No."
+
+"Because this is where the question changed."
+
+That was annoyingly good.
+
+I looked at him.
+
+"You have become better at this."
+
+"You have been here several days."
+
+"Four."
+
+"More now."
+
+I did not ask how many.
+
+Not yet.
+
+Back then, I paid the entry fee.
+
+It hurt more than expected.
+
+Tournament organizers understand optimism as a revenue source.
+
+I had no idea whether I would win anything.
+
+I had a reasonable idea I would get hit.
+
+I had spent eight years learning what happened to force after it arrived.
+
+Apparently I wanted to test the question personally.
+
+The first tournament had taught me how to watch.
+
+Eight years later, I paid an entry fee to find out what happened when people watched me.
