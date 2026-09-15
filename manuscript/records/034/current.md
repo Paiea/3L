@@ -2,6 +2,34 @@
 
 ## THE RATEPAYER
 
+Mira and Tomas were five when I called three copper nothing.
+
+This was stupid for several reasons.
+
+The first was that I had twins.
+
+Five-year-olds can convert small amounts of money into urgent household problems with remarkable efficiency.
+
+Shoes.
+
+Clothes.
+
+Food.
+
+Soap.
+
+Washing fuel.
+
+Healer visits.
+
+Paper.
+
+Broken cups.
+
+Lost spoons.
+
+Objects nobody remembered buying but which somehow became essential immediately after disappearing.
+
 Three copper sounded cheap until forty-eight households heard it at once.
 
 Then it became politics.
@@ -40,11 +68,11 @@ That should have warned me.
 
 Halden showed me the proposal in his office.
 
-“Three copper.”
+"Three copper."
 
-“Yes.”
+"Yes."
 
-“That's nothing.”
+"That's nothing."
 
 He looked at me.
 
@@ -56,21 +84,21 @@ His own version.
 
 Tired disappointment.
 
-“Per unit.”
+"Per unit."
 
-“I read it.”
+"I read it."
 
-“Per month.”
+"Per month."
 
-“Yes.”
+"Yes."
 
-“Passed through landlords.”
+"Passed through landlords."
 
-“Probably.”
+"Probably."
 
-“Market stalls?”
+"Market stalls?"
 
-“Commercial schedule.”
+"Commercial schedule."
 
 I read that page.
 
@@ -82,13 +110,13 @@ Heavy workshops more.
 
 Still looked small.
 
-Then Halden said, “Public hearing next week.”
+Then Halden said, "Public hearing next week."
 
-“Why?”
+"Why?"
 
-“Because people pay it.”
+"Because people pay it."
 
-“Three copper.”
+"Three copper."
 
 He closed his eyes.
 
@@ -98,85 +126,337 @@ Nessa corrected me at home.
 
 Not kindly.
 
-“Three copper is one breakfast.”
+The household ledger was already open because Tomas had needed new shoes.
 
-“Exactly.”
+Again.
 
-“For you.”
+He grew mostly through his feet for one year.
 
-“For anyone.”
+Mira considered this unfair because her shoes still fit and therefore she did not receive new ones.
 
-“No.”
+Children learn distributive justice before arithmetic.
 
-She opened the household ledger.
+"Three copper is one breakfast," Nessa said.
+
+"Exactly."
+
+"For us."
+
+"For anyone."
+
+"No."
+
+She turned the ledger toward me.
 
 Weapon.
 
-“Your mother buys medicine.”
+"Tomas's shoes."
 
-“Yes.”
+"Necessary."
 
-“How much did it increase last winter?”
+"Mira's winter coat needs letting out."
+
+"Also necessary."
+
+"Washing fuel went up."
+
+"I noticed."
+
+"Food?"
+
+I looked at the weekly line.
+
+Five years earlier two adults had seemed expensive.
+
+Then we had produced two additional people who ate unpredictably and objected when informed that pears were seasonal.
+
+"Higher," I said.
+
+"Healer?"
+
+"Mira's cough."
+
+"Paper?"
+
+I looked toward the other room.
+
+Mira had recently discovered drawing houses.
+
+Every house required six sheets because the first five were wrong in ways she could not explain.
+
+Tomas preferred drawing wheels.
+
+Most were apparently broken and required replacement.
+
+"Higher," I said.
+
+Nessa tapped the ledger.
+
+"Three copper rent assessment. Two copper medicine. Coal up four. Bread up one. Shoes this month. Coat next month."
+
+"Mina did not raise bread."
+
+"She raised rolls."
+
+"That is different."
+
+"Greg."
+
+"I know."
+
+She leaned back.
+
+"Our household can pay three copper without changing anything important."
+
+That was true.
+
+Now.
+
+Years earlier, not always.
+
+"Your mother buys medicine," Nessa said.
+
+"Yes."
+
+"How much did it increase last winter?"
 
 I knew.
 
-“Two copper a bottle.”
+"Two copper a bottle."
 
-“Did she complain?”
+"Did she complain?"
 
-“Yes.”
+"Yes."
 
-“Why?”
+"Why?"
 
-“Because she complains.”
+"Because she complains."
 
 Nessa stared.
 
 I sighed.
 
-“Because it adds up.”
+"Because it adds up."
 
-“Three copper rent assessment. Two copper medicine. Coal up four. Bread up one.”
+"Correct."
 
-“Mina did not raise bread.”
+Mira entered carrying a wooden horse missing one ear.
 
-“She raised rolls.”
+"Can you fix this?"
 
-“That is different.”
+I looked at the horse.
 
-“Greg.”
+"Probably."
 
-“I know.”
+"Now?"
 
-She turned the ledger around.
+"No."
 
-Our household could pay three copper without noticing.
+"Why?"
 
-That was true now.
+"Because your mother is explaining money to me."
 
-Years earlier, not always.
+Mira looked at Nessa.
 
-Lena's first apartment could have paid it.
+"He bad at money?"
 
-Would have noticed.
+Nessa said, "Sometimes."
 
-My parents could pay it.
+Traitor.
 
-Would complain and cut something else on principle.
+"I make money."
 
-A widow renting one room?
+"That is not the same skill," Nessa said.
 
-Different.
+Worse.
 
-A family splitting two rooms after rent rose?
+Tomas came in behind Mira holding one of his new shoes.
 
-Different.
+Not wearing it.
 
-The fee was small.
+"Too hard."
 
-Small things accumulate best.
+"It is leather."
 
-The hearing filled the public bath's dry hall.
+"Old soft."
+
+"Old also too small."
+
+"Old better."
+
+I looked at Nessa.
+
+"Three copper is nothing."
+
+She smiled.
+
+I deserved it.
+
+Two days later we took the twins to the market.
+
+That was not part of the district process.
+
+It became relevant anyway.
+
+My father had given each of them three copper that morning.
+
+Not for anything.
+
+Grandfathers weaken institutions.
+
+Mira carried hers in a cloth purse Nessa had made from scrap.
+
+Tomas kept his in one fist for so long the coins marked his palm.
+
+At the market they discovered money represented refusal.
+
+Not acquisition.
+
+That surprised both of them.
+
+Mira wanted a sugared pear slice.
+
+One copper.
+
+Then a blue ribbon.
+
+Three copper.
+
+Then a tiny painted bird.
+
+Four.
+
+She had three.
+
+"I need more," she said.
+
+"You have three."
+
+"Bird four."
+
+"Correct."
+
+"Give one."
+
+Reasonable request.
+
+I reached for my purse.
+
+Nessa touched my wrist.
+
+"No."
+
+I looked at her.
+
+"One copper."
+
+"Exactly."
+
+Mira looked betrayed.
+
+"Dada has money."
+
+"Yes," Nessa said.
+
+"Then bird."
+
+"Your money buys one thing or another thing," Nessa said. "Not every thing."
+
+Mira frowned at the entire economy.
+
+"Bad system."
+
+"Many agree," I said.
+
+Nessa looked at me.
+
+"Helpful."
+
+Mira stood in front of the stalls for nearly ten minutes.
+
+She bought the ribbon.
+
+Then regretted not buying the pear.
+
+Then liked the ribbon again when Nessa tied it in her hair.
+
+Then asked whether regret returned money.
+
+It did not.
+
+More bad system.
+
+Tomas had a different problem.
+
+A woodworker's stall had a little carved wheel on a peg.
+
+Not a toy exactly.
+
+Probably scrap turned round because somebody had time.
+
+Two copper.
+
+Tomas picked it up.
+
+Turned it.
+
+Looked through the center hole.
+
+Set it down.
+
+Walked away.
+
+I followed.
+
+"You don't want it?"
+
+"Want."
+
+"It costs two."
+
+"I know."
+
+He had learned numbers faster than Mira because numbers answered without asking why.
+
+"Then why not buy it?"
+
+He held up his fist.
+
+"Keep."
+
+"For what?"
+
+He shrugged.
+
+"Later."
+
+Five years old.
+
+Already financially superior to me.
+
+Mira spent all three copper.
+
+Tomas spent none.
+
+By lunch Mira wanted one of Tomas's coins.
+
+He said no.
+
+She argued that twins should share.
+
+He argued by putting both hands in his pockets and walking faster.
+
+Nessa refused jurisdiction.
+
+I attempted mediation.
+
+Recent history suggested I should have known better.
+
+By the time we got home, Mira had the ribbon, Tomas still had three copper, and I had spent six copper on food because watching children learn scarcity made me hungry.
+
+Economic education remained expensive.
+
+The public hearing filled the public bath's dry hall.
 
 Same room where we had argued about heat allocation.
 
@@ -210,17 +490,17 @@ He represented his buildings and had brought papers.
 
 Prepared people have pages.
 
-“Three copper per unit becomes twelve silver and change across my rooms annually.”
+"Three copper per unit becomes twelve silver and change across my rooms annually."
 
-Halden said, “Correct.”
+Halden said, "Correct."
 
-“You assume I absorb it.”
+"You assume I absorb it."
 
-“No.”
+"No."
 
-“Then tenants pay.”
+"Then tenants pay."
 
-“Likely.”
+"Likely."
 
 Senn nodded.
 
@@ -234,21 +514,41 @@ I recognized her.
 
 The baby was older now and not with her.
 
-“Rent went up last year.”
+"Rent went up last year."
 
 Senn looked at the floor.
 
 Interesting.
 
-“Coal went up.”
+"Coal went up."
 
-Someone behind her said, “Everything went up.”
+Someone behind her said, "Everything went up."
 
 She continued.
 
-“I understand repairs cost money. I also understand every office says their three copper is the necessary three copper.”
+"I understand repairs cost money. I also understand every office says their three copper is the necessary three copper."
 
 That sentence stayed.
+
+Before that week I would have heard three copper.
+
+Now I heard shoes.
+
+Medicine.
+
+Coal.
+
+Rolls.
+
+A ribbon.
+
+A carved wheel not purchased.
+
+Still not the same household.
+
+Important distinction.
+
+But the number had acquired edges.
 
 A baker complained commercial rates punished businesses for using the Line to produce food people needed.
 
@@ -274,15 +574,15 @@ That became another meeting inside the meeting.
 
 A retired station hand spoke.
 
-“Charge by draw.”
+"Charge by draw."
 
 Halden explained residential meters were building-level, not unit-level.
 
-“Then meter units.”
+"Then meter units."
 
-“Costs more than the assessment.”
+"Costs more than the assessment."
 
-“Then stop pretending three copper is precise.”
+"Then stop pretending three copper is precise."
 
 Good point.
 
@@ -312,11 +612,11 @@ A man asked what happened if the assessment failed.
 
 Easy.
 
-“Some surveys slow. Monitoring stays temporary longer. Parts replacement remains reactive.”
+"Some surveys slow. Monitoring stays temporary longer. Parts replacement remains reactive."
 
-“Does the Line fail?”
+"Does the Line fail?"
 
-“No.”
+"No."
 
 The room shifted.
 
@@ -324,13 +624,13 @@ Bad answer politically.
 
 Correct technically.
 
-“Then why pay?” someone asked.
+"Then why pay?" someone asked.
 
-“Because waiting until failure is more expensive.”
+"Because waiting until failure is more expensive."
 
-“How much?”
+"How much?"
 
-“Depends.”
+"Depends."
 
 Groans.
 
@@ -338,19 +638,19 @@ Fair.
 
 I tried again.
 
-“East Two's winter restriction required daily monitoring because we did not understand a moving legacy support. That cost workers every shift. If we had better instrumentation earlier, cheaper.”
+"East Two's winter restriction required daily monitoring because we did not understand a moving legacy support. That cost workers every shift. If we had better instrumentation earlier, cheaper."
 
-“Did it fail?”
+"Did it fail?"
 
-“No.”
+"No."
 
-“East Four chamber?”
+"East Four chamber?"
 
-“Did not fail.”
+"Did not fail."
 
-“South Three?”
+"South Three?"
 
-“No.”
+"No."
 
 I could hear how this sounded.
 
@@ -358,11 +658,11 @@ Pay money to prevent things that had not happened.
 
 Safety has terrible marketing.
 
-Senn asked, “How many failures has this new program prevented?”
+Senn asked, "How many failures has this new program prevented?"
 
-“I don't know.”
+"I don't know."
 
-“Then what are we buying?”
+"Then what are we buying?"
 
 There it was.
 
@@ -378,13 +678,19 @@ Workers.
 
 Time.
 
-“Margin,” I said.
+I thought about West Three and eleven extended nights.
+
+About Jori lying under a housing listening while everyone stronger guessed wrong.
+
+About a station remaining healthy because somebody had time to notice a small thing before it became a large thing.
+
+"Margin," I said.
 
 Senn frowned.
 
-“What?”
+"What?"
 
-“Time between noticing and emergency. Spare parts before failure. Enough staff that somebody is not on an eleventh extended shift. Records that tell the next crew what the last one saw. We are buying room to be wrong before wrong becomes expensive.”
+"Time between noticing and emergency. Spare parts before failure. Enough staff that somebody is not on an eleventh extended shift. Records that tell the next crew what the last one saw. We are buying room to be wrong before wrong becomes expensive."
 
 The room quieted slightly.
 
@@ -392,7 +698,7 @@ Good sentence.
 
 Still three copper.
 
-The woman from Rope Street asked, “Why same fee for my room and his?”
+The woman from Rope Street asked, "Why same fee for my room and his?"
 
 She pointed at Senn.
 
@@ -400,23 +706,23 @@ People laughed.
 
 Senn did too, barely.
 
-“Property owners pay commercial share?” I asked Halden.
+"Property owners pay commercial share?" I asked Halden.
 
 The clerk beside him answered.
 
-“Common service plus per-unit residential assessment.”
+"Common service plus per-unit residential assessment."
 
-“So both.”
+"So both."
 
-“Yes.”
+"Yes."
 
-“Still her unit pays same as a larger one.”
+"Still her unit pays same as a larger one."
 
-“Yes.”
+"Yes."
 
-“Why?”
+"Why?"
 
-“Administration.”
+"Administration."
 
 There.
 
@@ -448,33 +754,33 @@ Not at the public.
 
 At the problem.
 
-“I need twenty-two silver a month.”
+"I need twenty-two silver a month."
 
-“Then charge buildings.”
+"Then charge buildings."
 
-“That was the proposal.”
+"That was the proposal."
 
-“No. Charge building service, not units.”
+"No. Charge building service, not units."
 
-“Landlords pass it through anyway.”
+"Landlords pass it through anyway."
 
-“Yes.”
+"Yes."
 
-“But larger buildings distribute more.”
+"But larger buildings distribute more."
 
-“Maybe.”
+"Maybe."
 
-“Commercial mixed-use becomes ugly.”
+"Commercial mixed-use becomes ugly."
 
-“Yes.”
+"Yes."
 
 He looked at me.
 
-“You have become very helpful.”
+"You have become very helpful."
 
-“Thank you.”
+"Thank you."
 
-“That was not praise.”
+"That was not praise."
 
 We spent two weeks making the proposal worse in more sophisticated ways.
 
@@ -524,11 +830,69 @@ My mother complained.
 
 I explained what it funded.
 
-She said, “I know what it funds. I still pay it.”
+She said, "I know what it funds. I still pay it."
 
 That was the lesson.
 
 Understanding a cost does not make it disappear.
+
+Our own household paid too.
+
+Nessa entered it in the ledger beneath coal and above soap.
+
+LINE ASSESSMENT.
+
+Two words.
+
+Three copper.
+
+Mira sounded out the first word because she had begun recognizing letters badly enough to be proud of it.
+
+"Line."
+
+"Yes."
+
+"For your work?"
+
+"Some of it."
+
+"We pay you?"
+
+"Not exactly."
+
+"Why?"
+
+I looked at Nessa.
+
+She was already smiling.
+
+Coward.
+
+"We pay for the stations to keep working."
+
+Mira looked toward the wall as though East Four might be visible through it.
+
+"Sera station?"
+
+"Yes. And the others."
+
+"Dera district?"
+
+"Also yes."
+
+Satisfied.
+
+Tomas was counting his coins at the other end of the table.
+
+He still had one from market week.
+
+Not the original three.
+
+Five-year-old savings accounts experience withdrawals.
+
+He lined the coin beside a button, a smooth stone, and Dera's pencil stub.
+
+Private reserves.
 
 I had spent years talking about maintenance as though good standards were morally free.
 
@@ -553,3 +917,89 @@ Who pays?
 If you cannot answer that, you have not finished the maintenance plan.
 
 You have only written the expensive half.
+
+I was considering that sentence when Tomas made a sound under the table.
+
+Not crying.
+
+Worse.
+
+Accusation.
+
+"Gone."
+
+"What?"
+
+"Copper."
+
+The coin was no longer beside the button.
+
+Mira immediately said, "I didn't take."
+
+Nobody had accused her.
+
+Suspicious.
+
+"Where did you put it?" I asked Tomas.
+
+"Here."
+
+He pointed at the table.
+
+"Then it fell."
+
+"Find."
+
+Command structure had improved since age two.
+
+I got down on the floor.
+
+Mira joined because searching became valuable once someone else cared.
+
+Tomas went under the opposite side.
+
+Nessa kept working at the ledger.
+
+"Three copper is nothing," she said.
+
+I looked up at her from beneath the table.
+
+"Fuck you."
+
+Mira's head appeared beside mine.
+
+"Dada said fuck."
+
+"Yes," Nessa said.
+
+"Why?"
+
+"Emotion."
+
+Some institutions also remain stable.
+
+We found the copper against the wall under a chair leg.
+
+Tomas took it.
+
+Checked both sides.
+
+Put it in his pocket.
+
+Then refused to explain what he was saving for.
+
+Reasonable.
+
+The ledger stayed open.
+
+Mira still had the blue ribbon tied around the handle of her wooden horse because hair had proven too temporary.
+
+Nessa kept writing.
+
+I stayed on the floor another minute because getting up required effort and nobody urgently needed me to.
+
+Three copper was not nothing.
+
+One copper was not nothing either.
+
+Especially when it was under the table.
