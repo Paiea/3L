@@ -1,0 +1,77 @@
+{
+  "record": "024",
+  "source_sha256": "c706c3669d031781103ba7000fdedb8a90e0fa64ce4a8ac69a27087f1eff71fd",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I ruined a man's job interview because he had not done something yet.\n\nThat is difficult to defend.\n\nI tried anyway.\n\nHis name was Verren Holt.\n\nI knew the name before I knew the face.\n\nThat should have helped.\n\nIt did not.\n\nDistrict survey needed another field inspector.\n\nNot because the work had become important all at once.\n\nBecause there was too much of it.\n\nOld passages.\n\nFoundation discrepancies.\n\nStation books that disagreed with walls.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Operators who had been writing the same complaint for twenty years and had finally accumulated enough paper to become inconvenient.\n\nTova and I could not cover all of it.\n\nPell helped when East Two allowed.\n\nOther foremen loaned people when their own schedules were merciful.\n\nHalden wanted one permanent inspector with structural training and enough Line experience to know when a drawing was lying.\n\nSix people applied.\n\nVerren was fourth.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I was not supposed to be in the interview.\n\nThat part matters.\n\nHalden asked me to sit in because I would work with whoever got hired.\n\nTova said this was a bad reason.\n\n\"Why?\"\n\n\"Because you have opinions.\"\n\n\"So do you.\"\n\n\"Mine are certified.\"\n\n\"Fuck you.\"\n\nHalden looked up from the applications.\n\n\"Can we hire someone before both of you retire?\"\n\nTova was fifty-four.\n\nI was thirty-two.\n\nI looked at her.\n\nShe looked at me.\n\n\"Probably not,\" she said.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The first three interviews were ordinary.\n\nOne mason with excellent foundation sense and no pressure experience.\n\nOne station operator with twelve years on the Line and handwriting that appeared to be an act of revenge.\n\nOne young surveyor who knew every current code and had never been inside a station older than herself.\n\nAll useful.\n\nDifferent gaps.\n\nThen Verren walked in.\n\nThirty-eight.\n\nThin.\n\nClean coat.\n\nBrown hair going gray early at the temples.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "No resemblance to the man I remembered except the eyes.\n\nNot shape.\n\nHabit.\n\nHe looked at the room before he sat.\n\nDoor.\n\nWindow.\n\nTova's tools.\n\nHalden's papers.\n\nMe.\n\nFirst life arrived all at once.\n\nNot as a face.\n\nAs a report.\n\nVERREN HOLT.\n\nSenior load assessor.\n\nWestern redevelopment office.\n\nAge forty-six.\n\nSigned pressure acceptance on three temporary supports outside Vey.\n\nOne failed.\n\nSeven workers injured.\n\nTwo died later.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 6,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Investigation found the test readings had been copied from the previous week because running the actual test would have delayed opening.\n\nHolt said a deputy copied the numbers.\n\nThe deputy said Holt ordered it.\n\nThe hearing found falsification.\n\nLicense suspended.\n\nI remembered reading the summary because the failed route delayed one of my contracts.\n\nAgain.\n\nPeople dead.\n\nGreg inconvenienced.\n\nExcellent historical method.\n\n\"Good morning,\" Verren said.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I already disliked him.\n\nThat is the ugly sentence.\n\nNot distrusted.\n\nNot watched carefully.\n\nDisliked.\n\nA man walked into a room and inherited guilt from himself eight years older in a history nobody else remembered.\n\nHalden asked about experience.\n\nSix years structural survey.\n\nFour years station reconstruction.\n\nTwo years inspecting bridge Line supports for a private firm.\n\nCurrent certification.\n\nNo disciplinary marks.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 8,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Tova asked what he did when field measurements contradicted approved drawings.\n\n\"Measure again.\"\n\n\"Then?\"\n\n\"Ask who made the drawing.\"\n\n\"Why?\"\n\n\"Because construction drawings and record drawings lie differently.\"\n\nTova's mouth moved slightly.\n\nApproval.\n\nI hated that.\n\nHalden gave him a sample problem from East Two.\n\nUnknown bronze sleeve.\n\nResponsive to load.\n\nMovement below current intervention threshold.\n\nWhat do you do?\n\n\"Close the station?\" Verren asked.\n\n\"Your call.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Then no.\"\n\nI leaned forward.\n\n\"Why?\"\n\nHe looked at me.\n\n\"Not enough information.\"\n\n\"You have movement under load.\"\n\n\"Yes.\"\n\n\"Unknown legacy structure.\"\n\n\"Yes.\"\n\n\"And you leave it operating.\"\n\n\"Maybe. Depends on movement, service consequence, alternate feed, observation frequency, whether the response repeats.\"\n\nReasonable.\n\nI pushed harder.\n\n\"Would you sign continued operation?\"\n\n\"Maybe.\"\n\n\"Convenient.\"\n\nVerren frowned.\n\nTova looked at me.\n\nHalden did too.\n\nI knew.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 10,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I continued.\n\n\"What would make you sign?\"\n\n\"Enough evidence that restricted operation is safer overall than isolation.\"\n\n\"Safer overall.\"\n\n\"Yes.\"\n\n\"That phrase can hide a lot.\"\n\n\"It can.\"\n\n\"You comfortable signing because delay is expensive?\"\n\nThere.\n\nToo close.\n\nVerren's expression changed.\n\n\"Expensive to whom?\"\n\n\"Does it matter?\"\n\n\"Yes.\"\n\n\"Answer.\"\n\nHalden said, \"Greg.\"\n\nI ignored him.\n\nVerren held my eyes for another second.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
