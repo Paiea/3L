@@ -23,19 +23,28 @@ def manuscript_body(source: str) -> str:
 
 
 def quoted_spans(text: str):
-    """Yield (start, end, exact_quote) for curly-quoted spans.
+    """Yield (start, end, exact_quote) for curly- or straight-quoted spans.
 
     Paragraphs inside one speech may repeat the opening curly quote without a
     closing quote. The next closing curly quote ends the full spoken span.
+    Straight quotes are paired with the next straight quote.
     """
     pos = 0
     while True:
-        start = text.find("“", pos)
-        if start < 0:
+        curly_start = text.find("“", pos)
+        straight_start = text.find('"', pos)
+        starts = [i for i in (curly_start, straight_start) if i >= 0]
+        if not starts:
             return
-        end = text.find("”", start + 1)
-        if end < 0:
-            raise ValueError(f"unclosed curly quote beginning at offset {start}")
+        start = min(starts)
+        if start == curly_start:
+            end = text.find("”", start + 1)
+            if end < 0:
+                raise ValueError(f"unclosed curly quote beginning at offset {start}")
+        else:
+            end = text.find('"', start + 1)
+            if end < 0:
+                raise ValueError(f"unclosed straight quote beginning at offset {start}")
         end += 1
         yield start, end, text[start:end]
         pos = end
