@@ -2,127 +2,599 @@
 
 ## THE CREW LEAD
 
-The first crew I led hated me by breakfast.
+The twins were eight months old when I nearly put a brace through Lorn's head.
 
-That meant we were ahead of schedule.
+Ithar moved one claw.
 
-I thought this was good.
+Small movement.
 
-I was wrong.
+Stone complained anyway.
 
-The job was South Three.
+"The twins."
 
-Kel Arno's station.
+I looked at him.
 
-She had spent twenty-six years writing pressure drift in margins before anyone outside the building cared.
+"Yes."
 
-By then she was sixty-seven and had expanded the practice to insulting district engineering in footnotes.
+"You did not have twins."
 
-Halden preserved the originals for the archive.
+"I did by then."
 
-Kel said he should preserve his own ass somewhere else.
+His eyes narrowed.
 
-They got along.
+Dragons have very little need for facial expression.
+
+That makes it worse when they use one.
+
+"You leased a second room."
+
+"Yes."
+
+"You lost a public contract."
+
+"Also yes."
+
+"Now there are two children."
+
+"Time passed."
+
+Smoke moved once from one nostril.
+
+I had begun learning the difference between smoke as weather and smoke as judgment.
+
+"How much?" he asked.
+
+"About two years."
+
+The smoke came again.
+
+"Gregory."
+
+"Greg."
+
+"You omitted two years and two humans."
+
+"They are relevant to the brace."
+
+"Then begin before the brace."
+
+I hated when he was right in complete sentences.
+
+Fine.
+
+Nessa got pregnant the year after we signed the lease.
+
+Not immediately.
+
+That would have made the room suspicious.
+
+We had enough time to fill the narrow back room with tools, winter blankets, three boxes of district records, a broken chair I intended to repair, and six jars Nessa insisted were useful despite containing nothing.
+
+Then she missed a cycle.
+
+Then another.
+
+Then a healer confirmed what Nessa already knew and I had been carefully failing to infer.
+
+"Pregnant," she said.
+
+We were at the table.
+
+Of course.
+
+There was soup.
+
+I remember that because I knocked mine over.
+
+Not dramatically.
+
+Just enough to flood the household ledger.
+
+Nessa lifted the book out of it.
+
+"Good response."
+
+"You said pregnant."
+
+"I know. I was there."
+
+"Pregnant."
+
+"Still."
+
+I stood up.
+
+Then sat down.
+
+Then stood again because apparently my body had no procedure for this information.
+
+Nessa watched me.
+
+"Are you all right?"
+
+"Yes."
+
+"You look like a station alarm."
+
+"How pregnant?"
+
+She stared.
+
+"There are not ranks."
+
+"How far?"
+
+"Better question."
+
+Nine weeks, approximately.
+
+The healer said normal.
+
+I disliked normal immediately because it meant we had months to imagine every abnormal thing.
+
+First-life Greg knew injuries.
+
+Disease.
+
+Exhaustion.
+
+Mana-channel rupture.
+
+Blood loss.
+
+Pressure trauma.
+
+I had held people together while worse things than pregnancy happened around them.
+
+None of that made me useful when Nessa vomited because bread smelled wrong.
+
+None of it helped when her back hurt.
+
+None of it explained why she could eat pears for three days and then declared pears disgusting forever.
+
+I tried to track symptoms.
+
+She took the slate away.
+
+"I am not a station."
+
+"Stations complain less."
+
+She threw a cloth at me.
+
+Fair.
+
+At the second major healer visit, the woman listened longer than usual.
+
+I noticed.
+
+Nessa noticed me noticing.
+
+"What?" I asked.
+
+The healer moved the listening charm slightly.
+
+Then again.
+
+"There are two."
+
+I waited.
+
+"Two what?"
+
+Nessa closed her eyes.
+
+The healer smiled.
+
+"Babies."
+
+There are moments when an intelligent person should produce a meaningful response.
+
+I said, "That seems excessive."
+
+Nessa laughed so hard she had to lie back down.
+
+The healer told me not to make her do that.
+
+As if I controlled anything by then.
+
+Ithar's mouth had changed.
+
+Not a smile.
+
+Dragons probably have regulations about admitting amusement.
+
+"You said excessive," he observed.
+
+"There were two."
+
+"Yes."
+
+"At once."
+
+"That is generally what twins means."
+
+"You were not there."
+
+His mouth changed more.
+
+Traitor.
+
+The rest of the pregnancy became logistics because logistics were safer.
+
+Two sleeping baskets.
+
+More cloth.
+
+More healer visits.
+
+Nessa reduced district travel late in the pregnancy but kept desk work because telling her to stop working produced results I do not recommend.
+
+My mother began arriving with food we had not requested.
+
+My father inspected the second room and announced we needed another shelf.
+
+Lena brought tiny shirts.
+
+I held one up.
+
+"No human is this size."
+
+"You were."
+
+"Unverified."
+
+She told Nessa I was getting worse.
+
+Nessa said pregnancy had improved her evidence base.
+
+Lorn started taking more private calls without me.
+
+Rell covered two inspection windows.
+
+Sera Pellin handled a weekend response while I sat through a healer appointment that lasted three hours and contained fourteen minutes of actual medicine.
+
+The systems we had built after losing the Harven contract worked.
+
+I did not appreciate the irony.
+
+I was busy complaining about invoices.
+
+The twins arrived early enough to frighten us and late enough that the healer called them stubborn instead of premature.
+
+One boy.
+
+One girl.
+
+Mira came first.
+
+Tomas followed seven minutes later.
+
+Those seven minutes were the longest period in which we ever had only one child.
+
+Nessa hated that joke the first time.
+
+She liked it later.
+
+The birth itself is not mine to turn into a heroic story.
+
+Nessa did the hard part.
+
+I held what I was told to hold.
+
+Water.
+
+Cloth.
+
+Her hand.
+
+My mouth, eventually.
+
+The healer made that last instruction explicit.
+
+When Mira cried, I thought that was the loudest sound a creature that small could make.
+
+Then Tomas arrived with professional ambition.
+
+They were healthy.
+
+Nessa was not fine because no one who has delivered two children should be described with a word that lazy.
+
+She was alive.
+
+Exhausted.
+
+Bleeding more than I liked and less than the healer feared.
+
+In pain.
+
+Hungry.
+
+Shaking.
+
+Furious that everyone kept asking whether she was happy.
+
+"I am tired," she told my mother.
+
+My mother nodded.
+
+Good woman.
+
+Nobody asked again that day.
+
+I stayed home.
+
+Not for two days.
+
+Not until Nessa could stand long enough to make me feel excused.
+
+I stayed.
+
+For the first six weeks I took almost no outside work.
+
+Records came to the apartment.
+
+Lorn brought contracts.
+
+Rell brought questions she already knew the answers to because she wanted my signature.
+
+Halden sent district notes with insulting amounts of blank space for responses.
+
+I did what I could at the desk between feedings, washing cloth, heating water, carrying babies, finding missing cloth, discovering the cloth was under a baby, and being informed by Nessa that I had heated too much water.
+
+Work continued without me.
+
+Mostly.
+
+That should have felt like victory after Harven.
+
+Instead it was strange.
+
+I had spent years trying to make myself less necessary to every job.
+
+Then two people arrived who were completely unreasonable about requiring me specifically.
+
+Not always.
+
+That would have been simpler.
+
+Mira wanted Nessa when she was hungry and me when she was angry.
+
+I do not know why.
+
+Tomas would fall asleep against anyone with a heartbeat and then wake the instant that person attempted to sit down.
+
+Mira hated having her hands wrapped.
+
+Tomas escaped every blanket by moving one foot repeatedly until the entire arrangement failed.
+
+Mira made a small offended noise before crying.
+
+Tomas skipped warning stages.
+
+Mira would stare at the stove flame until we turned her away.
+
+Tomas stared at faces.
+
+Especially mine.
+
+Judgmental child.
+
+"You remember a great deal," Ithar said.
+
+"They were loud."
+
+"You remember how one moved a foot under a blanket."
+
+"Repeated failure pattern."
+
+His eyes narrowed again.
+
+I continued.
+
+The first three months were horrible.
+
+There is no reason to improve the word.
+
+We slept in pieces.
+
+Nobody finished meals while they were warm.
+
+Our clothes smelled like milk, soap, sweat, or something worse.
+
+The narrow room stopped pretending to belong to tools.
+
+The tools retreated to shelves.
+
+Then higher shelves.
+
+Then locked storage because Tomas learned to crawl before good judgment arrived.
+
+One baby crying wakes the other unless you desperately need both awake, in which case the sleeping one becomes immune to sound.
+
+Nessa and I developed schedules.
+
+The babies rejected them.
+
+We developed new schedules.
+
+The babies rejected those with greater confidence.
+
+We stopped using the word schedule around them.
+
+At some point Mira slept four consecutive hours.
+
+I woke after three because the silence felt medically suspicious.
+
+I checked whether she was breathing.
+
+Then Tomas woke because I stepped on a floorboard.
+
+Nessa did not speak to me for several minutes.
+
+Reasonable.
+
+Money became stupid.
+
+Cloth.
+
+Food.
+
+Healer.
+
+More washing fuel.
+
+Less outside work from me.
+
+Less district travel from Nessa for a while.
+
+People brought things.
+
+My parents brought food.
+
+Lena brought more clothing.
+
+Mina reduced our rent by absolutely nothing but did repair the second stove after I threatened to remove it personally.
+
+Community has limits.
+
+By four months Nessa was stronger.
+
+By five she was doing more district work from home and some office days.
+
+By six I was taking regular inspection hours again.
+
+Not because the babies had become easy.
+
+They had become familiar.
+
+Different problem.
+
+You can become competent at exhaustion without becoming less tired.
+
+I believed those were the same thing for several months.
+
+That is where South Three enters the story.
+
+The night before the job, Tomas woke three times.
+
+Mira woke twice.
+
+Only one of those was independent.
+
+The others were collaborative sabotage.
+
+At dawn Nessa found me asleep at the table with a spoon in my hand.
+
+She took the spoon.
+
+I woke immediately.
+
+"I'm awake."
+
+"Powerful evidence."
+
+"I have the overnight tonight."
+
+"I know."
+
+"I'll sleep this afternoon."
+
+She looked at me.
+
+"Will you?"
+
+"Yes."
+
+Mira screamed from the other room.
+
+Tomas answered.
+
+Nessa raised one eyebrow.
+
+I hated her face.
+
+I slept perhaps two hours that afternoon.
+
+Enough, I thought.
+
+I had functioned on worse.
+
+That sentence should be printed above many preventable injuries.
 
 South Three needed a planned overnight isolation so we could open a legacy service pocket beneath the east floor.
 
-Not deep.
+Six-hour window.
 
-Not mysterious.
-
-We knew there was old work below.
-
-We did not know exactly how the modern return sat on it.
-
-The station could be isolated from tenth bell to fourth.
-
-Six hours.
+Tenth bell to fourth.
 
 After that morning load needed the branch back.
 
-If we missed the window, we waited another week.
-
 Halden put me in charge of the field crew.
 
-“Why?”
+"Why?"
 
-“Tova is on West Two.”
+"Tova is on West Two."
 
-“Pell?”
+"Pell?"
 
-“East Two.”
+"East Two."
 
-“Mara?”
+"Mara?"
 
-“Your second.”
+"Your second."
 
-“Then make her lead.”
+"Then make her lead."
 
-“She has not led a mixed opening.”
+"She has not led a mixed opening."
 
-“Neither have I.”
+"Neither have I."
 
 Halden looked at me.
-
-“That is not true.”
 
 First life.
 
 Right.
 
-I had led crews through much worse.
+I had led crews through collapsed stations and emergency excavations.
 
-Emergency excavations.
+I had coordinated Rankers and civilians while structures failed around us.
 
-Collapsed stations.
+I had also spent the previous night being defeated by two people who could not walk.
 
-Ranker teams with civilian specialists behind us.
-
-That experience sat in my body like confidence.
-
-Dangerous thing.
-
-“I haven't in this life.”
-
-“Then this is educational.”
-
-“Your management philosophy is lazy.”
-
-“Yes.”
+Guess which experience I trusted.
 
 The crew had seven people.
 
 Me.
 
-Mara Vel, inspector and station operator.
+Mara Vel.
 
-Lorn, because I trusted him around old fittings and because he complained when excluded.
+Lorn.
 
-A mason named Davi, the same man who had opened our apartment wall without killing the building.
+Davi, the mason who had opened our apartment wall.
 
 Two South Three station hands.
 
-And a pipe fitter named Rell Marn.
+Rell Marn.
 
-Rell had worked private jobs with us and still charged more than I liked.
-
-She said that was because I liked prices from five years ago.
-
-Everyone was competent.
+Everyone competent.
 
 That made leadership look easy before we started.
 
-Kel met us at ninth bell.
+Kel Arno met us at ninth bell.
 
-“You are late.”
+Sixty-seven years old and still writing insults about district engineering into station margins.
 
-“We are early.”
+"You are late."
 
-“I have been here since seventh.”
+"We are early."
 
-“You work here.”
+"I have been here since seventh."
 
-“That is not a defense.”
+"You work here."
+
+"That is not a defense."
 
 She gave Mara the station keys.
 
@@ -132,11 +604,11 @@ I noticed.
 
 Kel noticed me noticing.
 
-“Mara works stations.”
+"Mara works stations."
 
-“So do I.”
+"So do I."
 
-“You visit them.”
+"You visit them."
 
 That hurt more than necessary.
 
@@ -152,11 +624,9 @@ Return drained.
 
 Branch tagged.
 
-Mara verified zero live reading at the work point.
+Mara verified zero live reading.
 
 Rell verified separately.
-
-Good.
 
 We opened the floor.
 
@@ -164,9 +634,11 @@ Davi cut mortar.
 
 Lorn and one station hand lifted plates.
 
-Rell disconnected the modern return section.
+Rell disconnected the modern return.
 
-Under it sat older brick and a bronze collar that did not appear on current drawings.
+Older brick beneath.
+
+Bronze collar not shown on current drawings.
 
 Expected enough to be boring.
 
@@ -176,17 +648,17 @@ By midnight we were forty minutes ahead.
 
 That was where I made the mistake.
 
-“Open the next bay.”
+"Open the next bay."
 
 Davi looked at the clock.
 
-“We only need one.”
+"We only need one."
 
-“If the collar continues east, second bay tells us alignment.”
+"If the collar continues east, second bay tells us alignment."
 
-Mara said, “Not in scope.”
+Mara said, "Not in scope."
 
-“Adjacent inspection allowed if access is already open.”
+"Adjacent inspection allowed if access is already open."
 
 She looked at the work sheet.
 
@@ -194,29 +666,29 @@ I had written that.
 
 Of course.
 
-“Do we need it tonight?” she asked.
+"Do we need it tonight?"
 
-“No.”
+"No."
 
-“Then why?”
+"Then why?"
 
-“Because we're ahead.”
+"Because we're ahead."
 
 Lorn made a small sound.
 
 I looked at him.
 
-“What?”
+"What?"
 
-“Nothing.”
+"Nothing."
 
-“It was something.”
+"It was something."
 
-“You said because we're ahead.”
+"You said because we're ahead."
 
-“Yes.”
+"Yes."
 
-“That is how jobs become not ahead.”
+"That is how jobs become not ahead."
 
 I ignored him.
 
@@ -224,13 +696,11 @@ Leadership.
 
 Davi opened the second bay.
 
-We found the collar continuing east.
+The collar continued east.
 
 Useful.
 
 I felt vindicated.
-
-Dangerous again.
 
 Then the second bay showed a support crack.
 
@@ -242,13 +712,13 @@ Now we had to document it.
 
 Measure.
 
-Photographic plate request impossible at one in the morning.
-
 Sketch.
+
+Decide whether the return could be restored before daylight review.
 
 Mara crawled in.
 
-Rell wanted the return left disconnected until daylight review.
+Rell wanted the return left disconnected until morning.
 
 Kel wanted the station back by fourth bell.
 
@@ -256,9 +726,9 @@ I wanted both.
 
 That was possible if everyone moved faster.
 
-Another dangerous sentence.
+Another sentence for the wall.
 
-“Davi, clean the crack face. Mara, dimensions. Rell, prep the return for temporary bypass. Lorn, get the brace stock.”
+"Davi, clean the crack face. Mara, dimensions. Rell, prep the return for temporary bypass. Lorn, brace stock."
 
 People moved.
 
@@ -282,31 +752,27 @@ Then they got quiet.
 
 I knew that.
 
-Apparently memory does not help if pride likes the current interpretation better.
+I also knew what tired felt like.
 
-Rell had been bent over the return for an hour.
+Or thought I did.
 
-Davi's hands were shaking slightly from hammer work.
+That was worse.
 
-One South Three hand had yawned so often his eyes watered.
+For eight months I had been tired every day and still changed cloth, heated water, argued over invoices, inspected stations, answered notes, carried children, cooked badly, and remained mostly functional.
 
-Mara wrote the same measurement twice and crossed both out.
+Tired had become weather.
 
-Lorn dropped a brace pin.
+I stopped treating it like information.
 
-Not dangerous.
+So when Davi's hands shook slightly from hammer work, I saw effort.
 
-Small metal.
+When one station hand yawned until his eyes watered, I saw night shift.
 
-It hit the floor.
+When Mara wrote the same measurement twice and crossed both out, I saw annoyance.
 
-He stared at it for one second too long.
+When Lorn dropped a brace pin and stared at it one second too long, I saw a pin on the floor.
 
-That was the sign.
-
-I missed it.
-
-“Pick it up,” I said.
+"Pick it up," I said.
 
 Lorn looked at me.
 
@@ -336,7 +802,7 @@ Enough.
 
 My stomach went cold.
 
-Lorn looked at the brace.
+Lorn stared at the brace.
 
 Then at me.
 
@@ -344,15 +810,15 @@ Nobody said anything.
 
 I hated the silence.
 
-“Break,” I said.
+"Break."
 
-Kel said, “We have ninety minutes.”
+Kel said, "We have ninety minutes."
 
-“Break.”
+"Break."
 
-“How long?”
+"How long?"
 
-“Fifteen.”
+"Fifteen."
 
 Rell sat down before I finished the word.
 
@@ -372,69 +838,65 @@ We drank water.
 
 Ate cold bread.
 
-Nobody talked much.
+Lorn eventually said, "Brace pin."
 
-Lorn eventually said, “Brace pin.”
+"What?"
 
-“What?”
+"You told me to pick it up."
 
-“You told me to pick it up.”
+"I know."
 
-“I know.”
+"I was looking at the lift."
 
-“I was looking at the lift.”
+"I know."
 
-“I know.”
+"I should have said wait."
 
-“I should have said wait.”
+"Yes."
 
-“Yes.”
+Then the harder part.
 
-Then I said the harder part.
+"I should have stopped us before you needed to."
 
-“I should have stopped us before you needed to.”
+He nodded once.
 
-He looked down.
-
-Mara said, “We should have stayed one bay.”
+Mara said, "We should have stayed one bay."
 
 There it was.
-
-My extra work.
 
 Useful information.
 
 Bad decision.
 
-“Agreed.”
+"Agreed."
 
 Kel looked surprised.
 
-“You are giving up the second bay?”
+"You are giving up the second bay?"
 
-“No. It is already open.”
+"No. It is already open."
 
-“Then what?”
+"Then what?"
 
-“I was wrong to open it tonight.”
+"I was wrong to open it tonight."
 
 Different statement.
 
-Leadership does not let you reverse time by admitting things.
-
-It only changes what you do next.
-
 I looked at the remaining work.
 
-We had a crack documented enough for preliminary review.
+We had enough documentation for preliminary review.
 
-Did not need full bypass rebuild tonight.
+We did not need a full bypass rebuild before daylight.
 
-Could stabilize, reconnect original return, close first bay for service, leave second bay secured and isolated from foot traffic until daylight.
+Stabilize.
 
-Slower investigation.
+Reconnect original return.
 
-Faster safe return.
+Close first bay for service.
+
+Secure the second behind a barrier.
+
+Come back when people had slept.
 
 Rell agreed.
 
@@ -445,10 +907,6 @@ Kel hated the open bay but accepted it.
 Davi wanted another ten minutes before standing.
 
 I gave him fifteen.
-
-That cost us schedule.
-
-Good.
 
 At third bell we resumed.
 
@@ -464,27 +922,29 @@ Davi owned masonry closure.
 
 Lorn handled brace stock but did not touch a lift without another worker calling ready.
 
-I stopped trying to own everything because apparently ownership had nearly put metal through my friend's face.
+I stopped trying to own the room.
+
+That was the actual correction.
+
+Not thinking better.
+
+Giving things back.
 
 We restored service twelve minutes late.
 
-Morning load had already started.
-
-South Three pressure came up slowly.
-
-Market branch complained.
+Morning load had started.
 
 One bakery lost oven heat for eighteen minutes.
 
-District received two calls.
-
-Nobody died.
+District received two complaints.
 
 Nobody got hit.
 
 The second bay remained open behind a barrier.
 
-Kel wrote LATE RESTORE in the station book.
+Kel wrote in the station book:
+
+LATE RESTORE.
 
 Then underneath:
 
@@ -492,156 +952,302 @@ CREW TIRED. LEAD GOT CLEVER.
 
 I stared at her.
 
-“You cannot put that in an official book.”
+"You cannot put that in an official book."
 
-“I just did.”
+"I just did."
 
-“Define clever.”
+"Define clever."
 
-“You know.”
+"You know."
 
 Mara laughed.
 
 I let it stay.
 
-The review the next day was worse.
-
-Not disciplinary.
-
-I almost would have preferred that.
+The review later that morning was worse.
 
 Halden asked why we opened the second bay.
 
-“Available time.”
+"Available time."
 
-“Needed?”
+"Needed?"
 
-“No.”
+"No."
 
-“Result?”
+"Useful?"
 
-“Found support crack.”
+"Yes."
 
-“Useful?”
+"Would the crack have existed tomorrow?"
 
-“Yes.”
-
-“Would it have existed tomorrow?”
-
-I looked at him.
-
-“Yes.”
+"Yes."
 
 He nodded.
 
 That was all.
 
-Tova read the near-miss note later.
+Tova read the near-miss note.
 
-She asked, “What was your fatigue plan?”
+"What was your fatigue plan?"
 
-I had one.
+"Break at second bell."
 
-Technically.
+"You worked through it."
 
-Break at second bell.
+"We were ahead."
 
-We had worked through it because we were ahead.
-
-I showed her.
-
-She tapped the break line.
-
-“So you had a plan.”
-
-“Yes.”
-
-“And changed it.”
-
-“Yes.”
-
-“Why?”
-
-“Progress.”
-
-She stared.
+She stared at me.
 
 I knew.
 
-“Write that down.”
+Then she asked, "When did you sleep?"
 
-“What?”
+I looked at her.
 
-“Progress caused fatigue control to be skipped.”
+"What?"
 
-“That sounds stupid.”
+"Before the shift."
 
-“Yes.”
+"Afternoon."
 
-I wrote it.
+"How long?"
 
-That became the useful part.
+"Enough."
 
-Not a heroic correction.
+"Greg."
 
-A sentence embarrassing enough that people remembered it.
+"Two hours."
 
-Future overnight work got fixed breaks tied to clock, not progress.
+She waited.
 
-Anyone could call an additional break.
+"Maybe."
+
+"And the night before?"
+
+"Irrelevant."
+
+"Why?"
+
+"Because I was lead."
+
+Her face changed.
+
+Not anger.
+
+Disbelief.
+
+"Are leads not crew?"
+
+There it was.
+
+I had written a fatigue plan for everyone except the person deciding whether the plan mattered.
+
+That sounds stupid because it was.
+
+We changed the procedure.
+
+Fixed breaks tied to clock, not progress.
+
+Anyone could call another break.
 
 No adjacent scope expansion after second bell without a specific hazard reason.
 
 Two-person call before brace lifts.
 
-Simple.
+And the lead had to meet the same rest declaration as everyone else before an overnight opening.
 
-Annoying.
+I objected to that last line.
 
-Effective.
+Tova wrote it while I objected.
 
-The next mixed crew I led complained about the mandatory second-bell break while we were ahead.
+Experience has many forms.
 
-I smiled.
+Sometimes it is someone putting your stupidity into policy.
 
-One worker said, “Why are you happy?”
+I went home after the review.
 
-“Experience.”
+Late morning by then.
 
-“Something bad happen?”
+The apartment smelled like warm milk and boiled cloth.
 
-“Yes.”
+Nessa was asleep on the bed with Mira against her chest.
 
-“What?”
+Tomas was awake in the second room making the small throat noise he used before deciding whether life had offended him.
 
-“Nothing.”
+I stood in the doorway.
 
-He looked confused.
+He saw me.
 
-Good.
+The decision was made.
 
-Near misses are difficult stories because the ending is absence.
+He began to cry.
 
-Metal did not hit Lorn.
+Quietly at first.
 
-He did not lose an eye.
+I picked him up before he could improve.
 
-We did not spend the next year talking about recovery.
+He stopped almost immediately.
 
-There was only a brace mark in old brick and a line in Kel's station book calling me clever.
+That was his other trick.
 
-I had led S-class crews in the first life.
+Make a crisis.
 
-People followed me into places where mistakes killed faster than fatigue could become visible.
+Then forgive you for solving it.
 
-I thought that made six hours at South Three easy.
+I sat at the table with him against my chest.
 
-It made me dangerous in a different way.
+My hands still smelled faintly of station brick despite washing twice.
 
-I knew how to push.
+There was a bruise on Lorn's coat where Mara had grabbed him.
 
-Crew leadership required knowing when not to.
+I kept seeing the brace hit masonry.
 
-That skill had less glory.
+Tomas put one hand against my shirt.
 
-Most useful ones did.
+Tiny fingers.
+
+Warm.
+
+Then he fell asleep.
+
+I stayed there because moving was dangerous.
+
+Ithar had gone very still.
+
+He did that when he wanted me to continue without helping.
+
+Annoying habit.
+
+"It was a horrible year," I said.
+
+One eye ridge lifted.
+
+"What?"
+
+"You have described it as horrible four times."
+
+"It was."
+
+"You remember which child disliked wrapped hands."
+
+"Mira."
+
+"Which woke when placed down."
+
+"Tomas."
+
+"Which watched fire."
+
+"Mira."
+
+"Which watched you."
+
+I looked at him.
+
+"Tomas."
+
+Ithar said nothing.
+
+That was worse than arguing.
+
+"Sleep deprivation is bad," I said.
+
+"I believe you."
+
+"Two infants are inefficient."
+
+"Obviously."
+
+"Expensive."
+
+"You have established this."
+
+"Loud."
+
+"Gregory."
+
+"Greg."
+
+The dragon's mouth moved again.
+
+There.
+
+The expression.
+
+He had caught me.
+
+I knew it and resented him for making me know it too.
+
+"You are smiling," he said.
+
+"No."
+
+"You are."
+
+"Security flaw."
+
+His claws shifted against the stone.
+
+"You speak of collapsed stations with less detail."
+
+That one landed.
+
+I looked away from him.
+
+Toward the dark opening behind his shoulder where the cave disappeared into somewhere I could not see.
+
+The first year with Mira and Tomas was exhausting.
+
+Nessa and I fought more.
+
+We had less money.
+
+Less sleep.
+
+Less privacy.
+
+Work became harder to schedule.
+
+Meals went cold.
+
+Every object below waist height became a hazard.
+
+Sometimes I went to district and thought a room full of officials was restful because nobody there screamed when I set them down.
+
+Ithar made the expression again.
+
+"Do not."
+
+"I have said nothing."
+
+"Your face."
+
+Perhaps I had learned something from Nessa.
+
+Not enough.
+
+I looked back at him.
+
+"It was fucking awful."
+
+"Yes."
+
+"Harder than I expected."
+
+"Yes."
+
+"I was tired for years."
+
+"You have made that extremely clear."
+
+I waited.
+
+He waited longer.
+
+Dragons cheat at silence.
+
+Finally he said, "And?"
+
+I hated him.
+
+"And I didn't say I wanted it to stop."
