@@ -1,0 +1,42 @@
+{
+  "record": "023",
+  "source_sha256": "04f54f4f69992bfbd177b6c4b5247c2eabe0b56079716869d7ff5aaa377f29be",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Nessa sat beside me in one of the district shirts.\n\nMy mother raised her cup.\n\n\"To Nessa.\"\n\nEveryone did.\n\nNessa looked embarrassed.\n\nGood.\n\nI enjoyed that.\n\nOn the walk home she said, \"You know what the worst part is?\"\n\n\"What?\"\n\n\"I liked East Four.\"\n\n\"You still like it.\"\n\n\"I know.\"\n\n\"You can like a place and leave the job.\"\n\nShe looked at me.\n\nThen smiled.\n\n\"That sounds familiar.\"\n\nIt did.\n\nEleven years at East Four had ended for me without a clean last day.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Nessa's ended differently.\n\nShe kept two qualification shifts each month for a while.\n\nThen one.\n\nThen enough to maintain field status.\n\nHer locker stayed too.\n\nDera refused to clear it.\n\n\"Until I need it,\" she said.\n\nSame line.\n\nApparently Dera had limited material.\n\nNessa's red cord was still tied to a peg inside.\n\nNot the original.\n\nThose cords had multiplied across our life like weeds.\n\nI saw it one afternoon when I stopped at East Four for a survey copy.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 33,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "For a second I remembered the young woman scraping oxide beside me and stealing my potato.\n\nThen Nessa came through the door carrying district slates and told Dera her transfer request was impossible.\n\nDera told her to make it possible.\n\nNessa told Dera to find another district.\n\nBoth women looked pleased.\n\nNot young.\n\nNot symbols.\n\nWorking.\n\nI loved her then.\n\nI had loved her before.\n\nThose were not the same sentence.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Love changes when you keep having to update the person inside it.\n\nFirst-life Greg had mostly learned that through absence.\n\nWho someone had been the last time I saw them.\n\nWhat they wrote in letters.\n\nWhat I learned too late.\n\nSecond-life Greg learned it while the other person kept coming home changed in small ways.\n\nNew responsibilities.\n\nNew grudges.\n\nNew shirts.\n\nNew people whose names I did not know.\n\nNew reasons to be tired.\n\nNew things she could do better than me.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 35,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "There are easier forms of love.\n\nProbably.\n\nI had tried several.\n\nThis one kept requiring revisions.\n\nI recommend it.\n",
+      "pause_after_ms": 220
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "record": "023",
+  "source_sha256": "04f54f4f69992bfbd177b6c4b5247c2eabe0b56079716869d7ff5aaa377f29be",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Specific.\"\n\n\"West Three asked for double reserve.\"\n\n\"They always ask high.\"\n\n\"Yes. Which would be manageable if South Four had not lost a pump and Market hadn't flooded a service passage.\"\n\n\"East Four?\"\n\n\"Fine.\"\n\n\"Dera?\"\n\n\"Insufferable.\"\n\n\"Good.\"\n\nNessa closed her eyes.\n\nI put food in front of her.\n\nShe ate three bites before speaking again.\n\n\"They wanted to isolate Market Two completely.\"\n\n\"Clinic.\"\n\n\"Exactly.\"\n\n\"So you didn't.\"\n\n\"No.\"\n\n\"What did you do?\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 22,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "She opened her eyes.\n\nFor the next twenty minutes she explained it.\n\nNot like a report.\n\nThat mattered.\n\nShe told me who panicked.\n\nWho lied.\n\nWhich station chief volunteered capacity before being asked.\n\nWhich dispatcher caught an impossible schedule.\n\nWhich clerk found an old tram-load agreement everyone else had forgotten.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 23,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "She moved reserve through South Three, cut a commercial block for forty minutes, delayed a maintenance restart, and bullied West Three into admitting their first request included a comfort margin they did not need.\n\nNo heroic transfer.\n\nNo single brilliant move.\n\nForty small decisions made before the next bad thing arrived.\n\nI almost told her what I would have changed.\n\nMarket reserve earlier.\n\nDifferent isolation order.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 24,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Maybe call the tram office before the second feeder flooded.\n\nThe answers assembled themselves because answers always do when you were not the one making decisions while the clock moved.\n\nI kept them.\n\nNot heroically.\n\nI was simply tired enough to recognize hindsight before speaking.\n\nNessa ate another bite.\n\n\"What?\"\n\n\"Nothing.\"\n\n\"You made the face.\"\n\n\"What face?\"\n\n\"The correction face.\"\n\nApparently there were several security failures.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 25,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"I was going to tell you how I would have done your job.\"\n\n\"And?\"\n\n\"I decided I enjoy marriage.\"\n\n\"Good choice.\"\n\nShe pushed the plate toward me.\n\n\"You can wash that.\"\n\nThere are rewards for personal growth.\n\nThey are not always ceremonial.\n\n\"How many outages?\" I asked.\n\n\"Full?\"\n\n\"Yes.\"\n\n\"One service lane. Twenty-three minutes.\"\n\nI whistled.\n\n\"That is good.\"\n\n\"I know.\"\n\nShe said it without modesty.\n\nI loved that.\n\nThen she put her forehead on the table.\n\n\"Tired?\"\n\n\"No.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 26,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Current evidence?\"\n\nShe raised one finger without lifting her head.\n\nMarriage allows efficient communication.\n\nThe storm made the district circulars.\n\nA retaining wall repair.\n\nFlooded feeder inspection.\n\nTemporary reserve rules.\n\nNothing anyone would sing about.\n\nYears later, if you asked me what happened that winter, I could have told you about the rain.\n\nI could have told you which districts lost heat.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 27,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I could have told you the Market tram ran single track for nine days.\n\nAll true.\n\nThe thing I remember best is Nessa asleep at our table with ink on her hand while I held a cooling cloth against the back of her neck.\n\nThat was also true.\n\nThe acting appointment became permanent in month five.\n\nNot because of the storm.\n\nNessa hated when people said it was because of the storm.\n\n\"The system worked because forty people did their jobs.\"\n\n\"You coordinated them.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 28,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"I coordinated some of them.\"\n\n\"You were there seventeen hours.\"\n\n\"That does not make me weather.\"\n\nFair.\n\nThe boring numbers were what kept the job.\n\nPlanned outages overlapping live maintenance dropped.\n\nEmergency reserve requests stopped arriving on three different forms.\n\nNight crews got earlier notice.\n\nTransfer windows got longer where longer actually reduced risk and shorter where people had been padding them out of habit.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 29,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "One station complained she favored market loads.\n\nAnother complained she favored residential loads.\n\nThe complaints contradicted each other enough that Halden called it promising.\n\nNessa hated that.\n\n\"I want them to know I am fair.\"\n\nI looked at her.\n\nRecord Nineteen lived between us.\n\nShe saw it.\n\n\"Don't.\"\n\n\"I said nothing.\"\n\n\"You thought defensible.\"\n\n\"I did.\"\n\n\"Asshole.\"\n\nShe accepted the permanent post.\n\nThe pay increase was smaller than expected.\n\nOf course.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 30,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The pension was better.\n\nThe hours became slightly more predictable.\n\nSlightly is one of civilization's most important words.\n\nWe celebrated at a restaurant we could not quite afford without calling it a special occasion.\n\nWhich it was.\n\nLena came across the river.\n\nMy parents came too.\n\nMy father complained about the chairs.\n\nMy mother complained about the portions.\n\nEli ate dessert before dinner because nobody noticed until too late.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
