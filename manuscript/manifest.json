@@ -458,12 +458,12 @@
       "id": "r042",
       "slot": "042",
       "display": "042",
-      "title": "THE CONSULTANT",
+      "title": "THE TARGET",
       "path": "manuscript/records/042/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
-      "published": false,
-      "word_count": 1069
+      "prose_status": "restored",
+      "published": true,
+      "word_count": 2515
     },
     {
       "id": "r043",
