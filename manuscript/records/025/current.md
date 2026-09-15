@@ -18,17 +18,17 @@ MEANING.
 
 I hated the third one immediately.
 
-“This is stupid.”
+"This is stupid."
 
-“You ruined a man's interview because another version of him did something eight years from now.”
+"You ruined a man's job interview because another version of him did something eight years from now."
 
-“When you say it like that.”
+"When you say it like that."
 
-“How else should I say it?”
+"How else should I say it?"
 
-“With context.”
+"With context."
 
-“That was the context.”
+"That was the context."
 
 We were at the table.
 
@@ -38,15 +38,83 @@ Apparently every major development in my second life required bad furniture.
 
 Verren's name sat at the top of the page.
 
+The ink was still wet.
+
 Nessa had heard the story because I told her.
 
 Not because she asked.
 
 That mattered.
 
-Our rule from the Bren conversation had been simple enough when we made it.
+I came home from Market Five with rain in my coat, mud on one boot, and the particular kind of irritation that meant I had already admitted something to myself and hoped nobody else would notice.
 
-If a memory changed a choice that touched her, tell her.
+Nessa noticed.
+
+Of course.
+
+She was washing two cups at the basin.
+
+"How was Market?"
+
+"Stair's worse than the report."
+
+"Anyone hurt?"
+
+"No."
+
+"Good."
+
+I took off my coat.
+
+Hung it.
+
+Missed the peg.
+
+Picked it up.
+
+Hung it again.
+
+Nessa turned.
+
+"What did you do?"
+
+"Why do you assume I did something?"
+
+"Your coat missed."
+
+"That is not evidence."
+
+"Current evidence."
+
+I hated that phrase.
+
+I told her.
+
+The interview.
+
+The old report.
+
+Mara getting the job.
+
+Three months of me quietly waiting for Verren to become the man I remembered.
+
+The Market Five closure.
+
+The collapsed stair.
+
+The apology.
+
+Nessa finished washing the first cup.
+
+Then the second.
+
+Then dried her hands.
+
+That was when I knew the conversation had become administrative.
+
+Our rule from Bren had been simple enough when we made it.
+
+If an old memory changed a choice that touched her, tell her.
 
 If I made a decision about our life because I was comparing it to the first one, tell her.
 
@@ -54,39 +122,19 @@ Reduced mysterious bullshit.
 
 Verren did not touch her.
 
-The decision did not belong to our household.
+The interview did not belong to our household.
 
 I could have kept it to myself.
 
-I came home from Market Five and told her anyway.
+I did not.
 
 That was either growth or guilt.
 
-Most growth is badly disguised guilt at first.
+Most growth begins as guilt with better scheduling.
 
-Nessa listened while washing cups.
+Nessa went to the shelf beside the flour tin.
 
-Bren.
-
-Halden.
-
-North Vey.
-
-My sister.
-
-Verren.
-
-She did not interrupt until I reached the apology.
-
-Then she said, “You need columns.”
-
-“No.”
-
-I had not even seen the columns yet.
-
-Instinct was correct.
-
-She got a blank ledger.
+Took down a blank ledger.
 
 Different from the household one.
 
@@ -94,9 +142,39 @@ Thank God.
 
 Money already knew too much about me.
 
-She wrote Verren's name.
+"What are you doing?"
 
-Then the headings.
+"Fixing your problem."
+
+"I apologized."
+
+"That fixed Verren's problem as much as it could."
+
+She sat.
+
+"This is yours."
+
+"I do not have a problem."
+
+"You interrogated a stranger about a crime he had not committed."
+
+"When you keep saying it that way, it sounds unreasonable."
+
+"It was unreasonable."
+
+"Context."
+
+"Sit down."
+
+I sat.
+
+Marriage has many forms of authority.
+
+Most are unofficial.
+
+Nessa pulled the lamp closer and wrote Verren Holt across the top.
+
+Then three headings.
 
 MEMORY.
 
@@ -104,13 +182,19 @@ NOW.
 
 MEANING.
 
-“Memory,” she said.
+I stared at the last one.
 
-“I know what memory means.”
+"No."
 
-“Prove it.”
+"You haven't even tried."
 
-I stared.
+"I understand the trap."
+
+"Good. Memory."
+
+"I know what memory means."
+
+"Prove it."
 
 She pointed at the first column.
 
@@ -120,7 +204,7 @@ First life.
 
 Verren Holt.
 
-Forty-six.
+Age forty-six.
 
 Senior load assessor.
 
@@ -128,121 +212,119 @@ False test readings.
 
 Delayed opening.
 
-Injuries.
+Seven injured.
 
-Two deaths later.
+Two dead later.
 
 Hearing.
 
-License suspension.
+License suspended.
 
 Nessa wrote short phrases.
 
-She did not write the whole story.
+Her handwriting got smaller when she was trying to fit more truth into less paper.
 
-She was better at compression than I was when angry.
+Useful skill.
 
-“Now,” she said.
+"Now."
 
-“Second life Verren is thirty-eight.”
+"Second-life Verren is thirty-eight."
 
 She wrote it.
 
-“Qualified.”
+"Qualified."
 
 Wrote.
 
-“No discipline.”
+"No discipline."
 
 Wrote.
 
-“Interview answers were reasonable.”
+"Interview answers were reasonable."
+
+She looked up.
+
+"That sounded painful."
+
+"Fuck you."
+
+"Continue."
+
+"Market Five. Fresh separation in the lintel. Supervisor wanted limited access kept open. Verren closed it."
 
 Wrote.
 
-“That sounds painful.”
-
-“Fuck you.”
-
-“Continue.”
-
-“Market Five. Fresh separation. Supervisor wanted access kept open. Verren closed it.”
+"Put his own name beside the decision."
 
 Wrote.
 
-“Put his own name on the decision.”
+"Stair collapsed twenty-two minutes later."
 
 Wrote.
 
-“Stair collapsed twenty-two minutes later.”
+"No injuries."
 
 Wrote.
 
-“No injuries.”
+Then she tapped the third column with the end of the pen.
 
-Wrote.
-
-Then she tapped MEANING.
+Meaning.
 
 I leaned back.
 
-“That is where the problem is.”
+"That is where the problem is."
 
-“Yes.”
+"Yes."
 
-“What do I write?”
+"What do I write?"
 
-“You tell me.”
+"You tell me."
 
-“First-life Verren became willing to falsify safety evidence.”
+"First-life Verren became willing to falsify safety evidence."
 
 Nessa shook her head.
 
-“That is memory.”
+"Memory."
 
-“It is also meaning.”
+"It is also meaning."
 
-“No. It happened.”
+"No. It happened."
 
-I hated that she was right.
+I stared at the page.
 
-“Fine.”
+She waited.
 
-I thought.
-
-“Current Verren might become the same kind of man.”
+"Current Verren might become the same kind of man."
 
 She wrote it.
 
 Then underlined might.
 
-“Current Verren might not.”
+"Current Verren might not."
 
 She wrote that too.
 
-“His Market Five decision is evidence against treating the old behavior as fixed character.”
+"His Market Five decision is evidence against treating the old behavior as fixed character."
 
 Wrote.
 
-“Different history means I don't know the causes that produced the first-life decision.”
+"Different history means I do not know the causes that produced the first-life decision."
 
-Wrote.
+Her pen stopped.
 
-Nessa stopped.
+"That one."
 
-“That one.”
+"What?"
 
-“What?”
+"That is the one you keep forgetting."
 
-“That is the one you keep forgetting.”
+"I do not forget it."
 
-“I don't forget it.”
+"You absolutely do."
 
-“You absolutely do.”
+"I know outcomes are not mechanisms."
 
-“I know outcomes are not mechanisms.”
-
-“You say that about machines.”
+"You say that about machines."
 
 I stopped.
 
@@ -250,15 +332,29 @@ There it was.
 
 East Four had taught me that knowing the disaster did not mean knowing why it happened.
 
-I had applied that lesson to pressure systems.
+A failed transfer was not a cause.
+
+A cracked support was not a cause.
+
+A pressure drop was not a cause.
+
+Those were outcomes.
+
+You still had to find the load path.
+
+The bad assumption.
+
+The sequence.
+
+The person who skipped a test because somebody above him wanted a door opened by noon.
+
+I had applied that lesson to stations.
 
 Walls.
 
-Stations.
-
 Ancient sleeves.
 
-Load paths.
+Load.
 
 Then Verren walked into a room and I treated a human being as if his mechanism were obvious.
 
@@ -272,35 +368,51 @@ Annoying.
 
 Nessa saw my face.
 
-“You got there.”
+"You got there."
 
-“Yes.”
+"Yes."
 
-“Good.”
+"Good."
 
-“I don't like it.”
+"I don't like it."
 
-“Also good.”
+"Also good."
 
-We kept the ledger.
+She turned the ledger sideways and pushed it toward me.
 
-Not because every memory needed a hearing.
+"Keep it."
 
-That would have become another form of obsession.
+"No."
+
+"Greg."
+
+"I understand the idea."
+
+"You understood it before Verren."
+
+Cruel.
+
+Accurate.
+
+I took the ledger.
+
+We needed a threshold almost immediately.
+
+Otherwise memory could have consumed the house.
 
 I remembered hundreds of things every week.
 
-Foods that had changed price in the first life.
+Foods that used to cost less.
 
-Buildings that used to stand somewhere else.
+Buildings that had stood somewhere else.
 
-A Guild clerk who eventually became bald.
+A Guild clerk who eventually went bald.
 
-Rainfall in years that no longer matched.
+Rain in years that no longer matched.
 
 People who married different people.
 
-A tavern that changed owners.
+Taverns that changed owners.
 
 Minor injuries.
 
@@ -308,61 +420,77 @@ Bad contracts.
 
 Good contracts.
 
-Things I knew well.
+Deaths that had already failed to happen.
 
-Things I only thought I knew because memory gives confidence without citation.
+Lives that had moved three streets sideways and become unrecognizable.
 
-We needed a threshold.
+Things I knew.
 
-Nessa invented one.
+Things I half knew.
 
-“If the memory makes you want to interfere with another person's choice, write it.”
+Things memory presented with the confidence of a signed report and the documentation of a drunk witness.
 
-“That is broad.”
+I was not writing all of it.
 
-“Yes.”
+Nessa invented the rule while cutting onions the next evening.
 
-“If I remember someone walks into traffic tomorrow?”
+"If the memory makes you want to interfere with another person's choice, write it."
 
-“Interfere first. Write later.”
+I looked up from the stove.
 
-“Good.”
+"That is broad."
 
-“If I remember someone becomes an asshole in ten years?”
+"Yes."
 
-“Write first.”
+"If I remember someone walks into traffic tomorrow?"
 
-“Reasonable.”
+"Interfere first. Write later."
 
-“If I remember a station fails?”
+"Good."
 
-“Current evidence?”
+"If I remember someone becomes an asshole in ten years?"
 
-“I hate you.”
+"Write first."
 
-“Write that under meaning.”
+"Reasonable."
+
+"If I remember a station fails?"
+
+"Current evidence?"
+
+"I hate you."
+
+"Put that under meaning."
 
 The ledger became ridiculous quickly.
 
 That helped.
 
-ENTRY: MARA VEL.
+MARA VEL.
 
 Memory: none.
 
-Now: good station operator, terrible handwriting.
+Now: good station operator. Terrible handwriting.
 
 Meaning: stop pretending unfamiliar means safe.
 
-Nessa wrote that one after I said Mara felt easier to trust because I had no old history attached to her.
+Nessa added that one after I said Mara was easier to trust because nothing in my first life warned me about her.
 
-ENTRY: NORTH RIVER PRINT.
+"That is not trust," she said.
 
-Memory: closes years later after contract loss and budget consolidation, order uncertain.
+"What is it?"
 
-Now: profitable three years, new medical printing contract, Lena floor manager.
+"Empty space."
 
-Meaning: closure memory does not justify controlling Lena's job.
+Rude.
+
+NORTH RIVER PRINT.
+
+Memory: closes years later. Contract loss. Budget consolidation. I remembered the order wrong.
+
+Now: profitable. New medical-printing contract. Lena floor manager.
+
+Meaning: knowing one possible ending does not give me ownership of Lena's middle.
 
 Nessa wrote ASSHOLE in the margin.
 
@@ -370,19 +498,19 @@ I crossed it out.
 
 She wrote it again.
 
-ENTRY: BREN CALDER.
+Then Bren.
 
-I did not want to do that one.
+I did not want to do Bren.
 
-Nessa knew.
+Nessa saw the name and put the pen down.
 
-“Then don't.”
+"Then don't."
 
-I looked at the blank page.
+I looked at the blank columns.
 
-“No. I should.”
+"No. I should."
 
-Memory took most of the column.
+Memory took most of the page.
 
 Friend.
 
@@ -394,7 +522,11 @@ Ilya.
 
 Gray Pass.
 
-Death at fifty-three.
+The bad ankle that did not exist now.
+
+Arguments I still knew the answers to.
+
+A death at fifty-three.
 
 I stopped before details that belonged to Bren more than the exercise.
 
@@ -416,23 +548,33 @@ Left.
 
 No current friendship.
 
-MEANING sat empty for a while.
+I held the pen over MEANING long enough that a drop of ink formed at the tip.
 
-Then I wrote:
+Then fell.
+
+Small black circle.
+
+Nessa did not move the page.
+
+I wrote around it.
 
 I miss someone who is alive.
 
-Nessa read it.
+She read it.
 
 Did not correct me.
 
-I added:
+I added another line.
 
 That does not create a debt.
 
-She touched my wrist once.
+Nessa touched my wrist once.
 
-Then turned the page.
+Then got up to check the stove.
+
+No speech.
+
+Better.
 
 The ledger was not therapy.
 
@@ -450,7 +592,15 @@ That surprised me.
 
 Halden sent a proposed survey route for West Two.
 
-One name on the field roster caught me.
+Four workers.
+
+Mara.
+
+Me.
+
+Two field hands.
+
+One name caught.
 
 Jalen Rusk.
 
@@ -458,13 +608,23 @@ First life, Jalen had died in a mine collapse at thirty-four.
 
 Not his fault.
 
-I remembered the name from a casualty notice because the collapse triggered a Ranker rescue contract I took afterward.
+I remembered him from a casualty notice because the collapse triggered a Ranker rescue contract I took afterward.
+
+That was how first-life Greg knew many dead people.
+
+Not faces.
+
+Paper.
+
+Consequences.
 
 Second-life Jalen was thirty-three.
 
-Assigned to West Two field support.
+District Line support.
 
-My first response was immediate.
+Assigned to West Two.
+
+My first response arrived before thought.
 
 Remove him.
 
@@ -476,13 +636,17 @@ Easy.
 
 Kind, even.
 
-That is how old certainty dresses when it wants access.
+That is how old certainty dresses when it wants authority.
 
-I took out the ledger.
+I reached for Halden's route sheet.
+
+Stopped.
+
+Then reached for the ledger instead.
 
 MEMORY.
 
-Jalen Rusk dies in mine collapse around this age.
+Jalen Rusk dies in a mine collapse around this age.
 
 NOW.
 
@@ -496,51 +660,101 @@ West Two survey unrelated.
 
 North Vey divergence already changed regional contract patterns.
 
+I paused at meaning.
+
+The room was nearly empty.
+
+Mara had gone to find lunch.
+
+Halden was arguing with a clerk in the hall about replacement lamp oil.
+
+Nobody was there to grade me.
+
+That made the column harder.
+
 MEANING.
 
 I have no current evidence West Two threatens him.
 
-Changing roster may transfer ordinary risk to someone else.
+Changing the roster transfers ordinary risk to somebody else.
 
-His remembered death is not a reason to remove him from his own job.
+His remembered death is not permission to remove him from his own job.
 
 I left him on the roster.
+
+The next morning Jalen complained about the rain before we had even left the district office.
+
+Good start.
+
+He was broad through the shoulders, missing the tip of one ear, and carried his lunch wrapped in the same oilcloth he used to cover his measuring kit.
+
+I had never known any of that.
+
+First-life casualty notices are poor biographies.
+
+At West Two he held line while Mara checked a foundation seam.
+
+He swore at mud.
+
+He argued with me about whether a warped access frame needed replacing.
+
+He lost one glove.
+
+We spent six minutes looking for it because he insisted it was the good glove.
+
+Tova found it later in her tool case.
+
+She accused him of planting it there.
+
+Jalen denied everything.
+
+Neither explanation was convincing.
+
+At midday he ate cold beans on the station step and asked whether district work always involved this much standing around.
+
+"Yes."
+
+"Why?"
+
+"Because if we moved continuously, management would think the schedule was accurate."
+
+He considered that.
+
+"Fair."
 
 Nothing happened.
 
 That was the point.
 
-He worked.
+No mine collapsed.
 
-Complained about rain.
+No wall failed.
 
-Lost a glove.
+No remembered death approached from the side.
 
-Found it in Tova's tool case.
+Jalen worked.
 
-Tova accused him of planting it there.
+Got wet.
 
-He denied everything.
+Found his glove.
 
-The survey finished.
-
-Jalen went home.
+Went home.
 
 I did not save him.
 
 I did not doom him.
 
-I managed not to turn a memory into authority for one day.
+I managed not to turn memory into authority for one day.
 
 That counted.
 
-The ledger changed too.
+The ledger changed with use.
 
-At first Nessa had to pull it out when I became strange.
+At first Nessa pulled it out when I became strange.
 
 Then I did.
 
-Then sometimes I ran the columns in my head.
+Then sometimes the columns appeared before the book did.
 
 Memory.
 
@@ -556,76 +770,94 @@ Never complete.
 
 Useful anyway.
 
-Years later the headings changed.
+Years later the headings changed when the method escaped our kitchen.
 
 MEMORY became PRIOR RECORD sometimes.
 
 NOW became FIELD EVIDENCE.
 
-MEANING became WORKING THEORY when other people needed to read it without learning my impossible history.
+MEANING became WORKING THEORY.
+
+Those words could be shown to other people without requiring an explanation about reincarnation.
 
 That came much later.
 
-Do not give thirty-two-year-old me credit for building a continental evidence method at the kitchen table.
+Do not give thirty-two-year-old me credit for inventing a continental evidence method at a bad table.
 
-I was trying not to be an asshole to coworkers.
+I was trying not to become unbearable to coworkers.
 
 Scale arrived later.
 
-That is how most useful systems begin.
+Most useful systems begin too small for anyone to name.
 
-Small enough that nobody names them.
-
-Nessa eventually stopped writing in the ledger with me.
+Nessa eventually stopped doing the ledger with me.
 
 Not because we stopped talking.
 
-Because I stopped needing supervision for every entry.
+Because I stopped needing another person to hold the pen every time memory became loud.
 
 One night she came home late from district coordination and found me at the table.
 
 The ledger was open.
 
-I had written about a contractor whose name I remembered from a first-life fraud case.
+A contractor's name at the top.
+
+First-life fraud case.
 
 Current record clean.
 
-No action yet.
+No action.
 
-Nessa put her bag down.
+Not yet.
 
-“You doing columns?”
+Nessa put her bag on the chair.
 
-“Yes.”
+"You doing columns?"
 
-“Need me?”
+"Yes."
+
+She leaned far enough to read the headings.
+
+Not the entry.
+
+That mattered.
+
+"Need me?"
 
 I looked at the page.
 
 Then at her.
 
-“No.”
+"No."
 
 She nodded.
 
-“Good.”
+"Good."
 
 That was all.
 
 She went to wash.
 
+Water ran in the basin.
+
+I sat with the book.
+
+No checking.
+
+No approval.
+
+No second set of eyes making sure I had learned the lesson correctly.
+
 I remember the moment because trust sometimes sounds like someone leaving the room.
-
-Not checking.
-
-Not approving.
 
 Leaving you responsible for the thing you said you learned.
 
 I finished the entry.
 
-Closed the book.
+Closed the ledger.
 
-Then made dinner badly.
+Then started dinner.
+
+I burned the onions.
 
 Some systems improved faster than others.
