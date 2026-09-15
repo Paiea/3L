@@ -164,6 +164,46 @@ Greg completes the revenge. Revenge is not the ending.
 
 Nobody comes back. The story must continue into the harder territory of life after revenge.
 
+### The post-revenge mentee
+During roughly the final decade before the Ithar frame, Greg deliberately seeks a young non-support combatant, approximately age twenty to twenty-five, whose starting conditions resemble young First-Life Greg as closely as reasonably possible.
+
+The mentee is **good, not great**. They are a competent young combatant with a real professional future, but they are not an obvious prodigy, chosen one, or hidden S-class. The important similarities are things Greg can actually observe and compare: physicality, reinforcement habits, mana-channel development, combat baseline, load sense, magical tendencies, and the kinds of strengths and limitations Greg remembers having before support changed his life.
+
+Greg trains this person into a genuine **relational support** rather than another Solo Greg. He deliberately preserves outward pathways, introduces support concepts earlier, avoids the revenge-build shortcuts that damaged or closed his own future ceiling, and uses knowledge from both lives to construct a cleaner development route.
+
+The mentorship must be real. The mentee benefits, chooses to continue, develops an independent life, and becomes increasingly unlike Greg. Do not reduce them to a laboratory subject or replacement child.
+
+### The hidden third-run experiment
+Greg does **not** tell the mentee, Ithar, or the audience that part of the mentorship is research for himself.
+
+Underneath the legitimate mentorship, Greg is testing a private question: **if he ever began again, how should he build support differently?** The mentee's development gives him evidence about a route that could avoid both First Life's accidental late discovery and Life Two's deliberate solo-support ceiling.
+
+Greg's current mana-channel architecture is materially self-limiting because of choices he made for revenge. He knows by the post-revenge period that he cannot simply train harder and recover his old S-class route in this body. That knowledge is part of why the alternate progression route matters to him.
+
+During the same broad period, Greg investigates the cause of his original return and makes enough progress to treat another reset or rebeginning as a serious possibility rather than pure fantasy. Exact dungeon, artifact, Chronoclast, Line interaction, mechanism, and reproducibility remain open until prose earns them.
+
+This hidden research must not invalidate the mentorship. Greg can genuinely care for the mentee, improve their life, and still be using the relationship to answer a question he has not admitted aloud. That tension deliberately echoes his First-Life habit of benefiting from people while keeping part of himself unbound.
+
+### Ithar calls Greg out
+Greg must not voluntarily confess that he has been designing a third-run support route.
+
+Ithar notices the pattern during the examination. The dragon has heard enough about young First-Life Greg to recognize that Greg selected a twenty-something combatant unusually similar to his remembered younger self, then systematically preserved the channels Greg damaged, introduced disciplines Greg discovered late, and removed developmental choices Greg regrets.
+
+The conceptual accusation is: **Why are you training yourself?** Exact prose is not locked.
+
+Greg should resist because the mentee is genuinely another person and Greg knows that. Ithar's point is not that the mentee literally is Greg. Ithar identifies the second purpose: Greg has been using another person's successful development to test whether he himself could become someone different on another run.
+
+This is one of the moments that exposes the hidden motive beneath Greg's petition to Ithar. The dragon discovers the third-run preparation; Greg does not hand it over willingly.
+
+### Why the mentee stays behind
+The mentee does not accompany Greg to Ithar.
+
+By the frame, they have become an independently valuable support and are needed inside the human response to the failing Line. Greg's departure is partly possible because someone else can carry work he once would have considered his alone. Nhal's route and gift are also Greg's burden rather than an ordinary party expedition.
+
+Greg does not bring the mentee as collateral on an ancient, uncertain petition whose full personal motive he has not disclosed.
+
+Exact mentee name, sex, combat discipline, eventual support class, relationships, and final fate remain open until prose earns them.
+
 ### Peg-Leg Greg identity
 Peg-Leg Greg is the Authority-bestowed Named Ranker title of Life Two. It belongs later in Life Two and must be earned by events rather than imported early.
 
@@ -178,4 +218,6 @@ Ithar may eventually reveal a support architecture or magical possibility Greg d
 Nhal's gift is the durable causal bridge that makes Ithar a credible destination rather than a late fantasy solution. When the western Line crisis outruns human understanding, Greg should remember that Nhal explicitly gave him the one name and route associated with a being who may understand the foundation beneath the systems humans maintain.
 
 ### Artifact / reset convergence
-The ending trends toward a reset or rebeginning mechanism tied to Ithar, the Line, and an artifact. Mechanics, beneficiary, and final action remain deliberately open.
+The ending trends toward a reset or rebeginning mechanism tied to Ithar, the Line, and an artifact or comparable ancient mechanism. By the final decade Greg has already investigated his original return enough to believe another beginning may be possible and has quietly researched how he would develop differently if it happened.
+
+Mechanics, beneficiary, exact trigger, and final action remain deliberately open.
