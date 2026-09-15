@@ -18,27 +18,48 @@ reconstruction → ordinary life / love / family → catastrophic loss → long 
 
 The exact final mechanism remains open. Do not force a literal third reincarnation.
 
+## First-Life private life
+
+First-Life Greg never married and had no children.
+
+He had women, sex, companionship, recurring relationships, and some relationships that mattered deeply, but he never built a permanent household or organized his life around staying with one partner. Do not flatten this into "Greg never loved anyone" or make every woman a victim of him. Some relationships were genuinely casual or mutually temporary. Others carried more attachment than Greg allowed to become binding.
+
+Greg repeatedly chose work, mobility, and demonstrable usefulness over settling down. Competence mattered to him at the level of identity. He needed to prove that he belonged in the room, and support became the discipline in which that need could grow to continental scale.
+
+His work was also genuinely valuable. People survived because Greg went. Teams attempted operations because Greg was attached. Guilds, institutions, rulers, and the people he helped had real reasons to tell him that the next contract mattered more than staying home. Do not reduce First-Life Greg's choices to vanity or a fake career obsession. The social value of his work helped him justify a life built around absence.
+
+Greg also used people. Usually not through cartoonish deception. He was good at understanding what people could provide, accepting companionship, professional loyalty, rooms, food, sex, recovery help, contacts, emotional steadiness, and practical support, then allowing work to determine when he left. He could be honest about leaving and still benefit from relationships more easily than he allowed those relationships to become obligations.
+
+This creates a durable irony: First-Life Greg became the greatest relational support specialist of his era while structuring his private life to minimize the number of people whose needs could require him to stay.
+
+Life Two family is therefore not the restoration of a domestic life Greg previously lost. Nessa, parenthood, shared money, household routine, reciprocal dependence, and choosing to stay are forms of life he did not choose the first time.
+
 ## Identity
 
-Peg-Leg Greg is a Life-Two Authority-assigned named Ranker identity that occurs later and must be earned by lived events.
+**Peg-Leg Greg is locked as Greg's Life-Two Authority-bestowed Named Ranker title.** It occurs later and must be earned by lived events. Do not replace it with a different Life-Two title without an explicit canon revision.
+
+First-Life Greg may have had a different Authority-bestowed Named Ranker title. **Swaggory** is the current legacy candidate from earlier Greg material, but the exact First-Life title remains open until prose earns and fixes it. Do not use Swaggory as a Life-Two title.
 
 Present-frame Greg is publicly accomplished, physically damaged, and roughly B-class as a support. He has a ruined leg and far less raw support capacity than his First-Life S-class body. His retained S-class knowledge can make his practical value higher than the letter suggests under the right conditions. Do not equate this with restored First-Life S-class capability.
 
 Exact present-frame direct-combat classification remains open unless canonical prose fixes it.
 
-## Rank, credential, and Ranker status
+## Rank, credential, Ranker, and Named Ranker status
 
 These are separate systems. Do not treat them as one progression ladder.
 
 - **Capability class** uses letter ranks such as F, E, D, C, B, A, and S. Capability is discipline-specific when the distinction matters. A person may have different classes as a warrior, support, caster, or other specialist.
 - **Guild or professional credential** uses material tiers such as Bronze and Silver. It describes certification, training, work authority, or professional standing. It does not convert directly into capability class.
-- **Ranker** is an Authority-recognized titled identity, not a capability class and not a Guild credential tier. A person becomes a Ranker when the Authority formally recognizes and names them as publicly significant.
+- **Ranker** is a broader recognized field or professional status. A Ranker can be important, dangerous, highly capable, or publicly known without possessing an Authority title.
+- **Named Ranker** is a distinct formal designation bestowed by the Authority. The Authority assigns or ratifies an official title as part of that designation. A Named Ranker is not "named by the people." Public nicknames, tavern names, press names, and folk epithets do not become Named Ranker titles unless the Authority formally adopts them.
 
-First-Life Greg was approximately C-class as a warrior and S-class as a support. Present-frame Greg is a named Ranker while only about B-class in current support execution.
+A Named Ranker title functions like an institutional field identity. It can carry assignment history, political meaning, reputation, expectations, and administrative weight beyond the person's raw capability class. Named Ranker is not a hidden capability tier above S.
+
+First-Life Greg was approximately C-class as a warrior and S-class as a support. Present-frame Greg is a Named Ranker while only about B-class in current support execution.
 
 A person may be high in one system and low, unrated, or differently placed in another. Avoid language that implies direct promotion from a material credential into a letter class unless the prose is explicitly contrasting the two systems.
 
-Going forward, use **rank/class** for capability context, **credential/tier** for professional Guild context, and **Ranker** for formal titled status.
+Going forward, use **rank/class** for capability context, **credential/tier** for professional Guild context, **Ranker** for the broader recognized status, and **Named Ranker** for the Authority-bestowed titled distinction.
 
 ## First-Life S-class support
 
@@ -58,7 +79,7 @@ Barrier is a cheap, common utility spell built around a simple magical principle
 
 Low-level uses can include dust, rain, contamination, splashes, minor debris, wound protection, and other ordinary boundary work. A culturally popular use is contraception: a sufficiently controlled thin Barrier can function as a temporary contraceptive membrane by preventing reproductive fluid from crossing the maintained boundary. It became a fad or ordinary practical trick among some young adventurers, workers, and Rankers.
 
-First-Life Greg initially learned Barrier for that mundane reason. His unusual precision with a cheap spell became the seed of his support career.
+First-Life Greg initially learned Barrier for that mundane reason. The contraceptive application fit a young man who wanted women and sex without building his life around accidental parenthood or domestic permanence. His unusual precision with a cheap spell became the seed of his support career.
 
 His progression grows conceptually from:
 
