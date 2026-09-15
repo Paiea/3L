@@ -8,7 +8,7 @@ I wanted half of it left open.
 
 Neither of us was being stupid.
 
-That made the argument much worse.
+That made the argument worse.
 
 The old bronze sleeve beneath the station had moved four millimeters since summer.
 
@@ -16,11 +16,11 @@ Tova knew because she had cut three reference marks into the masonry and measure
 
 I trusted the gauge too.
 
-That was inconvenient.
+Inconvenient.
 
-Winter load had increased the movement.
+Winter load made the movement worse.
 
-Not continuously.
+Not constantly.
 
 Only when the east market branch climbed above two-thirds pressure.
 
@@ -40,15 +40,13 @@ IMMEDIATE ISOLATION OF EAST MARKET BRANCH PENDING LEGACY STRUCTURE IDENTIFICATIO
 
 Reasonable sentence.
 
-The problem was that the east market branch fed forty-three buildings.
-
-I did not know that until Pell showed me the distribution book.
+The problem was forty-three buildings.
 
 Twelve apartment blocks.
 
 Three bakeries.
 
-One public bath.
+A public bath.
 
 A clinic.
 
@@ -58,53 +56,41 @@ A school kitchen.
 
 The market heating grid.
 
-Several buildings that technically belonged on another branch but had been tied in during repairs nobody had documented properly.
+Several buildings that belonged on other branches in theory and East Two in reality because repairs had accumulated faster than documentation.
 
-Of course.
+If we shut the branch in summer, people complained.
 
-If we isolated the branch in summer, everybody complained.
+In winter, they got cold.
 
-If we isolated it in winter, people got cold.
+Rooms.
 
-Not metaphorically.
+Pipes.
 
-Cold rooms.
+Food.
 
-Frozen pipes.
+Wash water.
 
-Food spoilage.
+Tenants paying rent for worse rooms.
 
-Healer wards without wash heat.
+The alternate feed ran through South Three.
 
-Tenants paying landlords for rooms that became much worse rooms overnight.
+Kel Arno had twenty-six years of unexplained pressure drift there.
 
-The alternate feed could carry some of it.
+I did not like solving one unknown by leaning harder on another.
 
-Not all.
-
-South Three would take the transfer.
-
-Kel Arno had spent twenty-six years writing pressure drift in margins there.
-
-I was not eager to solve one unknown by leaning harder on another.
-
-Tova knew all of that.
+Tova knew all of this.
 
 She still wanted East Two shut down.
 
-“Unknown active legacy structure,” she said.
+We argued in Halden's office with the new district map covering half the wall.
 
-We were standing in Halden's office.
+Tova put one finger on East Two.
 
-The new district map covered half one wall.
+“Unknown active legacy structure.”
 
-Eleven stations.
+“I know.”
 
-Too many line styles.
-
-Tova had won that argument.
-
-“The structure moves under load.”
+“It moves under load.”
 
 “I know.”
 
@@ -120,7 +106,7 @@ Tova had won that argument.
 
 “I know.”
 
-“Then stop saying I know like knowing the list makes the list better.”
+“Stop saying I know like knowing the list makes the list better.”
 
 I stopped.
 
@@ -128,19 +114,19 @@ Halden sat behind his desk and made no attempt to help.
 
 Coward.
 
-Tova tapped her report.
+Tova tapped the report.
 
 “Isolation is reversible.”
 
-“So is reduced service.”
+“So is restricted service.”
 
-“Not if the thing fails while reduced service is on it.”
+“Not if the thing fails while restricted service is on it.”
 
-“Not if South Three fails because we move the load there.”
+“Not if South Three fails because we move load there.”
 
-“We can restrict the transfer.”
+“We can limit the transfer.”
 
-“Then East Market still loses half its heat.”
+“Then East Market still loses heat.”
 
 “Yes.”
 
@@ -148,55 +134,13 @@ She said it cleanly.
 
 That mattered.
 
-She was not pretending there was no cost.
+She was not pretending closure had no cost.
 
-“People can survive cold rooms,” she said.
-
-“Some can.”
-
-“Greg.”
-
-“The clinic has six recovery beds.”
-
-“I read the distribution book.”
-
-“Three have infants this week.”
-
-“I know.”
-
-“The school kitchen feeds two hundred children.”
-
-“I know.”
-
-“The north apartments have bad chimneys. If people start burning room braziers, somebody will die of smoke.”
-
-Tova's mouth tightened.
-
-“Maybe.”
-
-“Yes.”
-
-“Maybe is not evidence.”
-
-“Neither is unknown structure fails if we keep it under half load.”
-
-“No. Movement is evidence.”
-
-There it was.
-
-Her strongest point.
-
-I hated it.
-
-Halden finally spoke.
+Halden looked at me.
 
 “What are you proposing?”
 
-“Me?”
-
-“You are the one refusing the closure recommendation.”
-
-“I am asking for restricted service.”
+“Restricted operation.”
 
 “Define restricted.”
 
@@ -204,25 +148,19 @@ That changed the room.
 
 Advice is comfortable until somebody asks for a number.
 
-I looked at the distribution sheet.
+I looked at Tova's measurements.
 
 “Forty-five percent branch pressure.”
 
-Tova shook her head immediately.
+“Why forty-five?” she asked.
 
-“Why forty-five?”
+“Movement becomes measurable above sixty.”
 
-“Movement starts becoming measurable above sixty.”
+“On how many winter observations?”
 
-“On three observations.”
+“Three.”
 
-“Seven.”
-
-“Three winter observations.”
-
-“Fine.”
-
-“Why forty-five?”
+“Then why forty-five?”
 
 I did not have a beautiful answer.
 
@@ -230,19 +168,17 @@ I did not have a beautiful answer.
 
 Tova stared at me.
 
-Halden made a small sound that might have been pain.
-
-I held up a hand.
+Halden made a small sound.
 
 “I know how that sounds.”
 
-“Do you?” Tova asked.
+“Do you?”
 
 “Yes.”
 
 “Good.”
 
-I looked at the measurements again.
+I looked at the readings again.
 
 Not memory.
 
@@ -250,27 +186,27 @@ Not instinct.
 
 Data.
 
-At thirty-eight percent, no observable shift.
+Thirty-eight percent, no movement.
 
 Forty-two, none.
 
-Forty-eight, trace movement once, not repeated.
+Forty-eight, trace once.
 
 Fifty-three, measurable twice.
 
 Sixty-one, consistent.
 
-Sixty-eight, the four-millimeter winter jump.
+Sixty-eight, four millimeters.
 
 “Forty,” I said.
 
 Tova looked down.
 
-That was different.
+Different answer.
 
 “Why?”
 
-“We have repeated no-movement readings through forty-two.”
+“Repeated no-movement through forty-two.”
 
 “On the wall.”
 
@@ -280,7 +216,7 @@ That was different.
 
 “Yes.”
 
-“We would still be operating an unknown system.”
+“We would still be operating an unknown structure.”
 
 “Yes.”
 
@@ -292,113 +228,41 @@ Halden leaned back.
 
 “What else?”
 
-I understood.
-
 A number was not a plan.
 
-“Continuous gauge on the support.”
+We built one.
 
-“We don't have continuous instruments,” Tova said.
+Hourly checks below thirty-five percent.
 
-“Then human continuous.”
+Fifteen-minute checks above it.
 
-Pell, who had been quiet near the door, laughed once.
+Chalk reference at shift start.
 
-“You volunteering?”
+Temperature.
 
-“No.”
+Wall gap.
 
-“Then define human continuous.”
+Vibration weight.
 
-“Check every half hour during branch service. Chalk reference at shift start. Temperature. Wall gap. Vibration weight.”
+Immediate isolation if movement persisted past the threshold Tova set.
 
-Tova said, “Half hour can hide a fast movement.”
+Pell objected to the staffing.
 
-“Then fifteen minutes above thirty-five percent.”
+Halden paid for the watches.
 
-Pell stopped laughing.
+The clinic and school got alternate-heat plans.
 
-“That is a person in the lower passage all day.”
+The apartment blocks got a notice about unvented braziers because a fire officer had seen what people did when heat disappeared in winter.
 
-“Yes.”
+By the end, the plan belonged to too many people to be elegant.
 
-“I have eight people.”
+Good.
 
-“Rotate.”
+Tova still recommended full isolation.
 
-“On whose budget?”
+Pell agreed he could operate the restriction but refused to certify the buried structure.
 
-Halden said, “Mine.”
-
-Everyone looked at him.
-
-He shrugged.
-
-“Apparently I enjoy paperwork.”
-
-Pell rubbed his jaw.
-
-“We can do one person for the market peaks. Not all day.”
-
-“Fine,” I said. “Below thirty-five, hourly. Thirty-five to forty, fifteen minutes.”
-
-Tova said, “And if the mark moves?”
-
-“Immediate isolate.”
-
-“How much?”
-
-“Any measurable movement.”
-
-“That is too sensitive.”
-
-I looked at her.
-
-Now it was my turn to stare.
-
-She frowned.
-
-“Thermal expansion can move it.”
-
-“Then what?”
-
-“Half millimeter persistent after five minutes.”
-
-“Agreed.”
-
-Pell said, “Temperature?”
-
-We set one.
-
-Vibration threshold too.
-
-Then a maximum service window during peak evening hours.
-
-Then an alternate-heating list for the clinic and school if we had to isolate.
-
-Then a notice to the apartment blocks telling them not to use unvented braziers.
-
-That one came from a fire officer who had seen the same winter problem before.
-
-The argument became a plan slowly.
-
-Not Tova's plan.
-
-Not mine.
-
-Something uglier.
-
-More expensive.
-
-Harder to operate.
-
-Probably safer than what I had proposed in the first five minutes.
-
-Definitely less safe than full isolation.
-
-That was the part no amount of paper removed.
-
-Halden waited until everyone had stopped adding conditions.
+Halden would authorize operation after the inspection finding.
 
 Then he slid the packet toward me.
 
@@ -420,11 +284,11 @@ He tapped Tova's report.
 
 Tova nodded.
 
-Pell said, “I can operate the restriction. I am not certifying the buried structure.”
+Pell said, “I can run the restriction. I am not telling anyone that wall is safe.”
 
-Halden tapped his own line.
+Halden pointed to his own line.
 
-“I will sign operating authorization after the inspection finding.”
+“I authorize operation after your finding.”
 
 Then his finger moved to mine.
 
@@ -434,13 +298,17 @@ Blank.
 
 My name wanted to go there.
 
-Not emotionally.
-
 Literally.
 
 That was the form.
 
-I read the whole packet again.
+I read the packet again.
+
+Every condition.
+
+Every threshold.
+
+Every contingency.
 
 Tova waited.
 
@@ -458,51 +326,35 @@ That made it worse.
 
 That surprised me.
 
-She pointed at the distribution book.
+She tapped the distribution book.
 
-“You are right that isolation transfers risk. You are right that service loss harms people. You are right that South Three is not a clean alternative.”
+“You are right that isolation transfers risk. You are right that service loss hurts people. You are right that South Three is not a clean alternative.”
 
 “But.”
 
-“But we have an unknown structure moving under load.”
+“But an unknown structure is moving under load.”
 
 “I know.”
 
-“There is no cleverness that makes that fact smaller.”
+“There is no cleverness that makes that smaller.”
 
-I looked at the report.
+I looked at the signature line.
 
-“I know.”
-
-“Good.”
-
-That was all.
-
-No speech about courage.
-
-No professional blessing.
-
-She disagreed.
-
-She respected the process enough to let disagreement remain disagreement.
-
-I signed.
+Then signed.
 
 GREGORY.
 
-I hated that my official signature used the full name.
+I hated that official forms used the full name.
 
-It seemed inappropriate for a moment of consequence to also be irritating.
+It seemed inappropriate for consequence to also be irritating.
 
-Most moments are.
+Most consequence is.
 
 Halden signed beneath me.
 
-Then Pell.
+Pell signed operating responsibility.
 
-Tova signed her dissenting recommendation on the attached page.
-
-All four names went into the station book.
+Tova signed her dissent.
 
 East Market stayed warm.
 
@@ -510,17 +362,15 @@ That sentence is dangerous because it sounds like I was right.
 
 For nineteen days, nothing happened.
 
-People got heat.
-
 The clinic kept its wash water.
 
 The bakeries baked.
 
-South Three did not take extra load.
+South Three did not take the extra load.
 
 Pell's crews hated the lower-passage watches.
 
-I knew because they wrote increasingly creative insults beside the half-hour measurements.
+I knew because the measurement sheets grew insults.
 
 One night somebody drew a small man freezing beside the wall and labeled him INSPECTOR GREGORY.
 
@@ -528,17 +378,17 @@ I kept that page.
 
 Nessa found it years later and laughed for ten minutes.
 
-On the twentieth day, the weather turned colder.
+On the twentieth day the temperature outside dropped four degrees.
 
-Not dramatically.
+Not dramatic.
 
-Four degrees.
+Enough.
 
-Enough that the market branch climbed early.
+The market branch climbed early.
 
 East Two held at forty percent.
 
-The lower passage monitor was a woman named Sena Marr.
+The lower-passage monitor was Sena Marr.
 
 Thirty-six.
 
@@ -568,25 +418,23 @@ She waited the five minutes the procedure required.
 
 The gap remained.
 
-She isolated the branch.
-
-Exactly as written.
+Sena isolated the branch.
 
 No consultation.
 
-No heroic judgment.
-
 No Ranker.
+
+No heroic judgment.
 
 A station hand with a pencil followed the condition.
 
-The pressure dropped.
+Pressure dropped.
 
-The bronze sleeve shifted once beneath the wall.
+The bronze sleeve shifted once inside the wall.
 
 Hard.
 
-A section of mortar cracked loose and hit the floor where Sena had been standing thirty seconds earlier.
+Mortar cracked loose and hit the floor where Sena had been standing thirty seconds earlier.
 
 She was already outside the marked zone because the procedure required that too.
 
@@ -600,13 +448,13 @@ The school kitchen closed for the day.
 
 Two bakeries lost a batch.
 
-The public bath complained loudly enough that district engineering received three separate letters.
+The public bath sent three complaints.
 
-Six apartment buildings dropped below comfortable temperature by evening.
+Six apartment buildings were cold by evening.
 
 One landlord distributed charcoal braziers despite the notice.
 
-A fire officer confiscated nine of them.
+A fire officer confiscated nine.
 
 A tenant threw soup at him.
 
@@ -618,23 +466,19 @@ I appreciated whoever wrote it.
 
 I reached East Two after fifth bell.
 
-Tova was already in the lower passage.
+Tova was already below.
 
 The support had shifted nearly two millimeters.
 
-More than any previous single movement.
-
-The old bronze sleeve had rotated slightly inside the wall.
+The bronze sleeve had rotated inside the wall.
 
 Not failed.
 
 Moved.
 
-Tova looked at me.
-
 I looked at the chalk mark.
 
-“You were right,” I said.
+“You were right.”
 
 “No.”
 
@@ -652,7 +496,7 @@ I looked at her.
 
 She pointed at Sena's log.
 
-“Your operating condition caught it.”
+“Your condition caught it.”
 
 “After nineteen days of loading something we didn't understand.”
 
@@ -664,23 +508,21 @@ She pointed at Sena's log.
 
 I hated that answer because it did not punish me properly.
 
-Tova saw that too.
+Tova noticed.
 
-“You want this to be moral?”
+“You want this to become moral.”
 
 “No.”
 
-“Yes, you do.”
+“Yes.”
 
 “I want to know whether signing was a mistake.”
 
 “That is a different question.”
 
-“Fine. Was it?”
+“Was it?”
 
 She looked at the wall.
-
-Then at the log.
 
 “I would still have isolated on day one.”
 
@@ -690,15 +532,13 @@ Then at the log.
 
 “I know.”
 
-“But the restriction was not reckless.”
+“But your restriction was not reckless.”
 
-That should have made me feel better.
+That should have helped.
 
 It did not.
 
-Sena came down the stairs carrying a fresh lantern.
-
-She saw us.
+Sena came down carrying a fresh lantern.
 
 “Inspector.”
 
@@ -706,25 +546,21 @@ I looked behind me.
 
 She meant me.
 
-I still had not gotten used to that.
-
 “Good call,” I said.
 
 She shrugged.
 
 “It was on the sheet.”
 
-That sentence did more to me than Tova's entire argument.
+That did more than Tova's argument.
 
 It was on the sheet.
 
-My sheet.
-
-Our sheet, technically.
+Not my sheet exactly.
 
 Tova's measurements.
 
-Pell's operating limits.
+Pell's staffing.
 
 Halden's authorization.
 
@@ -734,31 +570,25 @@ Clinic contingency.
 
 A dozen people's knowledge compressed into instructions.
 
-But my name sat under the finding that allowed the branch to stay active.
+My name still sat under the finding that let the branch run.
 
-Sena had entered a passage under an unknown structure every fifteen minutes because I had signed a page saying that work was acceptable under conditions.
+Sena had entered that passage every fifteen minutes because we had said the risk was acceptable under conditions.
 
-She had trusted the conditions enough to stand there.
+First-life responsibility had usually been simpler.
 
-That was different from being right.
+I went in.
 
-I had spent much of my first life being useful because I could personally survive dangerous places.
+I took the hit.
 
-That teaches a particular kind of responsibility.
+If I was wrong, my body often got the first vote.
 
-You go in.
+A signature sent somebody else.
 
-You take the hit.
+Different kind of strength.
 
-You hold the line.
+Different kind of danger.
 
-If you are wrong, your body often gets the first vote.
-
-Inspection was not like that.
-
-A signature sent other bodies into the room.
-
-I looked at Sena again.
+I looked at Sena.
 
 “You read the whole procedure?”
 
@@ -768,15 +598,11 @@ She gave me a flat look.
 
 “Sorry.”
 
-“Do inspectors usually assume we can't read?”
-
-“No.”
-
 Tova said, “He assumes everyone is slightly less competent than him until embarrassed.”
 
 “That is not true.”
 
-Sena looked at the cracked mortar.
+Sena looked at the broken mortar.
 
 “Seems useful if he embarrasses easy.”
 
@@ -790,35 +616,27 @@ The bronze sleeve turned out to be one of three nested structures.
 
 Still not a pipe.
 
-Still not something we fully understood.
+Still not fully understood.
 
-The survey map gained another line style.
+District crews installed an external support and rerouted part of the market load.
+
+Tova added another line style to the map.
 
 I complained.
 
-Tova ignored me.
+She ignored me.
 
-District crews installed an external support and rerouted part of the market load before we restored service.
+The repair cost more than immediate closure would have cost for nineteen days.
 
-It cost money.
+Less than a full failure might have.
 
-A lot of it.
+Nobody could prove the other history.
 
-More than full closure would have cost for nineteen days.
+Halden made us review the signoff anyway.
 
-Less than rebuilding after a failure might have.
+Not because somebody got hurt.
 
-No one could prove the counterfactual.
-
-That was becoming another theme.
-
-Halden made us review the signoff afterward.
-
-Not because there had been an injury.
-
-Because there almost had not been one.
-
-Those are different kinds of lessons.
+Because somebody almost did not.
 
 We changed three things.
 
@@ -826,71 +644,55 @@ Shorter winter inspection intervals.
 
 Mandatory exit from the lower passage during load changes.
 
-No single inspector could approve continued operation over a documented dissent without district countersignature.
+And no single inspector could approve continued operation over a documented dissent without district countersignature on the decision page.
 
-That last one was Halden's idea.
-
-“You already countersigned,” I said.
+“You already countersigned,” I told Halden.
 
 “Yes.”
 
 “Then what changes?”
 
-“Now the form admits the disagreement exists on the decision page instead of in an attachment nobody will read.”
+“Now the form admits the disagreement exists where the decision happens.”
 
 Tova smiled.
 
-I did too.
-
 Good change.
 
-The institution did not become wiser because we were brilliant.
+The institution did not become wise.
 
-It became slightly less stupid because something scared us and nobody died before we wrote it down.
+It got scared in a useful direction and wrote down what scared it.
 
-That is how a lot of safety is made.
+That was enough.
 
-Not heroism.
+At home, Nessa read the revised procedure over dinner.
 
-Memory with ink.
+“You signed the first one?”
 
-At East Four, Nessa read the revised procedure over dinner.
-
-“You signed this?”
-
-“The first one.”
+“Yes.”
 
 “The one before the wall moved.”
 
 “Yes.”
 
-She looked at me over the page.
+“You think you were wrong?”
 
-“You were wrong?”
-
-“Tova thinks no.”
-
-“What do you think?”
-
-I hated that question more now.
+I thought about Sena.
 
 “I think I accepted risk for people who weren't in the room.”
 
-Nessa looked back at the paper.
+Nessa looked back at the page.
 
-“That is what station work is.”
+“That is station work.”
 
 “Not like this.”
 
-“Yes, like this.”
+“Yes. Like this.”
 
-I frowned.
-
-She tapped the market branch on the diagram.
+She tapped the market branch.
 
 “When I schedule a transfer, I decide which crew stands under which valve.”
 
-“That is not the same.”
+“That is different.”
 
 “Why?”
 
@@ -898,25 +700,13 @@ She tapped the market branch on the diagram.
 
 “Sometimes.”
 
-She waited.
-
-I saw it.
-
-Another outdated picture.
-
-Nessa was not just the woman at the pressure desk anymore.
-
-She trained people.
-
-Scheduled them.
-
-Approved transfer sequences.
+I stopped.
 
 Her decisions traveled too.
 
-She had been learning the thing I had just discovered.
+Of course they did.
 
-Probably without needing a wall to throw mortar at anyone.
+She had been learning that longer than I had.
 
 “Does it get easier?” I asked.
 
@@ -932,48 +722,26 @@ Nessa considered that.
 
 Then nodded.
 
-The ledger sat beside the procedure packet.
+The next morning I went back to East Two.
 
-Rent.
+The branch was still restricted.
 
-Coal.
+The lower passage smelled like wet mortar and fresh timber.
 
-Family.
+Sena's log sat open on the station desk.
 
-Inspection limits.
+My signature was three pages back.
 
-Names.
+I read the new procedure before I signed it.
 
-Numbers.
+Every line.
 
-Different books.
+Tova watched from across the desk.
 
-Same basic problem.
+“Twice?” she asked.
 
-Write down what other people are depending on you to remember.
+“Yes.”
 
-My first consequential signature did not save a station.
-
-It did not kill anyone either.
-
-It kept forty-three buildings warm for nineteen days.
-
-It put Sena Marr in a lower passage under conditions I had helped write.
-
-It caught a movement before the wall came apart.
-
-It revealed that my first conditions were not good enough for winter.
-
-Then we changed them.
-
-That was less satisfying than being right.
-
-It was also more useful.
-
-After that, I read every line before I put my name under one.
-
-Usually twice.
-
-Tova said three times would be better.
+“Three would be better.”
 
 Tova was like that.

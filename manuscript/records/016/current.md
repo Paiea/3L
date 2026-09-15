@@ -16,7 +16,7 @@ The bakery was downstairs from our apartment.
 
 I had lived over it for years.
 
-I knew when they started the morning batch because the floor warmed under the bed.
+I knew when the morning batch started because the floor warmed under the bed.
 
 I knew when the youngest baker was late because the ovens came up unevenly.
 
@@ -66,7 +66,7 @@ Then at her.
 
 “I don't know yet.”
 
-Nessa shouted from behind me, “If she gives you the money before you do the work, it is probably a contract.”
+From behind me, Nessa said, “If she gives you the money before you do the work, it is probably a contract.”
 
 The woman looked past me.
 
@@ -96,33 +96,23 @@ Mina looked at me.
 
 “No,” Mina said. “It didn't.”
 
-I looked back at Nessa.
-
-She had already started laughing.
+Nessa started laughing.
 
 I learned several things that morning.
 
-The first was that Mina Cor owned the bakery and the building.
+Mina Cor owned the bakery and the building.
 
-The second was that our table had belonged to her brother.
+Our table had belonged to her brother.
 
-The third was that I had spent years assigning meaning to a piece of furniture without knowing who actually owned it before me.
+Private Line work required a Guild notice if I touched anything past the building shutoff.
 
-Ithar would have enjoyed that.
+And I had spent years assigning emotional significance to a piece of furniture without knowing where it came from.
 
-Fortunately he was decades away.
-
-The fourth thing was that private Line work required a Guild notice if the worker touched anything past the building shutoff.
-
-Mina's problem was after the shutoff.
+That last one was less relevant to the contract.
 
 Probably.
 
-That word cost us an hour.
-
-I went to Guild Hall.
-
-The clerk gave me a one-page private call sheet.
+The Guild notice took an hour.
 
 SITE.
 
@@ -170,33 +160,21 @@ The clerk looked at it.
 
 “It is today.”
 
-She shrugged and stamped it.
+She stamped it.
 
-I liked that about Guild Hall.
-
-They often let you make your own mistakes if the mistake was legal and documented.
-
-Mina's oven feed lost pressure every morning between fifth and sixth bell.
+The bakery lost oven pressure every morning between fifth and sixth bell.
 
 Only then.
 
-District pressure logs showed no matching drop.
+District pressure held steady.
 
-The building gauge showed a drop.
+Building pressure did not.
 
-Mina had replaced the gauge.
+Mina had replaced the gauge twice.
 
-Twice.
+The ovens were fine. Three bakers explained that to me at once with their arms folded.
 
-The ovens themselves were fine.
-
-I knew because three bakers explained that to me simultaneously while standing with folded arms.
-
-People trust equipment they work with every day more than strangers.
-
-They were right to.
-
-I checked the building shutoff.
+I checked the shutoff.
 
 Fine.
 
@@ -208,19 +186,19 @@ Heat exchanger.
 
 Dirty, but fine.
 
-I started thinking about the old Line.
+Then I did what I had started doing too often.
 
-That was becoming my new bad habit.
+I looked for the interesting answer.
 
-Hidden sleeve.
+Hidden connection.
 
-Legacy connection.
+Legacy sleeve.
 
-Pressure migration through foundations.
+Pressure migrating through old construction.
 
 I was halfway under a floor hatch when Lorn walked in carrying breakfast.
 
-He looked down at me.
+He looked down at my legs.
 
 “What are you doing?”
 
@@ -230,11 +208,11 @@ He looked down at me.
 
 “I do.”
 
-Lorn looked around the bakery.
+He looked around the bakery.
 
 Then at Mina.
 
-Then at me.
+Then back at me.
 
 “Working.”
 
@@ -260,7 +238,7 @@ Lorn almost choked.
 
 “What?”
 
-“For a house-side pressure fault?”
+“For a building-side pressure fault?”
 
 “Yes.”
 
@@ -270,37 +248,17 @@ Lorn almost choked.
 
 “That makes it worse.”
 
-Nessa had contaminated the crew.
+I climbed out from under the floor.
 
-I climbed out of the hatch.
-
-Lorn was still chewing.
-
-His two bad fingers on the left hand made him hold food strangely.
-
-They had been damaged before I joined East Four.
-
-I had known him almost eleven years and had never asked exactly how.
-
-That fact arrived and sat beside the Mina problem.
-
-Apparently widening my world mostly revealed how much of the old one I had failed to notice.
-
-“What do you think?” Lorn asked.
-
-“About?”
-
-“The pressure drop.”
-
-“You've been here thirty seconds.”
-
-“Been buying bread here nine years.”
-
-He pointed toward the back wall.
+“What do you think?” I asked.
 
 “Hot-water draw.”
 
-“What?”
+“You have been here thirty seconds.”
+
+“I've bought bread here nine years.”
+
+He pointed toward the back wall.
 
 “Fifth bell. They wash yesterday's trays.”
 
@@ -308,33 +266,21 @@ One of the bakers looked over.
 
 “Yes.”
 
-Lorn pointed upward.
+Lorn pointed at the exchanger.
 
-“Same exchanger?”
+“Same manifold?”
 
-Mina said, “Always has been.”
+Mina nodded.
 
-I looked at the heat exchanger.
-
-Then the oven feed.
+I looked at the oven branch.
 
 Then the hot-water branch.
 
 Same manifold.
 
-No legacy mystery.
+Undersized balancing valve.
 
-No buried structure.
-
-Two ordinary services pulling through an undersized balancing valve installed sometime before either of us lived there.
-
-I hated it immediately.
-
-Lorn smiled.
-
-“Inspector.”
-
-“Fuck you.”
+No buried civilization required.
 
 We ran the wash draw.
 
@@ -342,35 +288,27 @@ Oven pressure dropped.
 
 There it was.
 
-Simple.
+Simple after somebody noticed the building had people in it.
 
-Not exactly.
+I had inspected metal.
 
-Simple after somebody noticed the schedule.
+Lorn had inspected the morning.
 
-I had looked at metal.
+“Inspector,” he said.
 
-Lorn looked at people using the building.
-
-That was the diagnosis.
+“Fuck you.”
 
 We could have replaced the valve.
 
-Mina did not want to.
+Mina did not want to pay for that.
 
-Too expensive.
+So we changed the wash sequence and fitted a cheap restrictor on the hot-water branch. Lorn did most of the fitting while I watched the gauges.
 
-Instead we adjusted the wash sequence and fitted a cheap restrictor on the hot-water branch so the ovens kept minimum feed.
-
-Lorn did most of the fitting because his fingers were bad in exactly the way that still allowed him to work a small wrench better than I could.
-
-I noticed that too.
-
-Three silver became four because Mina insisted Lorn should be paid.
+Three silver became four because Mina insisted he should be paid.
 
 I gave him one.
 
-He stared at it.
+He stared at the coin.
 
 “That's too much.”
 
@@ -392,13 +330,13 @@ Lorn looked offended.
 
 “Eight years.”
 
-Apparently everyone in my neighborhood had a financial system I did not understand.
+Apparently everyone in my neighborhood kept better accounts than I did.
 
-The ovens held pressure the next morning.
+The ovens held the next morning.
 
 Mina came upstairs with six rolls and no complaint.
 
-That counted as success.
+Success.
 
 The second private call came four days later.
 
@@ -418,19 +356,17 @@ That was when Nessa intervened.
 
 “I charged four.”
 
-“Because Lorn accidentally made you competent.”
+“Because Lorn saved you from excavating the bakery.”
 
-“He did not accidentally make me competent.”
+“That is not what happened.”
 
-“You were under the floor looking for ancient civilization while the bakery washed pans.”
+“You were under the floor looking for ancient infrastructure while they washed pans.”
 
-“That is an unfair summary.”
+“Unfair summary.”
 
-“It is exact.”
+“Exact summary.”
 
-She opened the household ledger.
-
-New page.
+She opened the household ledger to a blank page.
 
 PRIVATE WORK.
 
@@ -446,17 +382,17 @@ PRIVATE WORK.
 
 “From what?”
 
-I knew the trap and walked into it anyway.
+I saw the trap.
+
+Walked into it anyway.
 
 “Our money.”
 
 Nessa waited.
 
-I sighed.
-
 “Fine.”
 
-She smiled and wrote three columns.
+She wrote:
 
 CLIENT.
 
@@ -464,127 +400,81 @@ FEE.
 
 COST.
 
-“Cost?”
+Cost turned out to contain things I had been treating as weather.
 
-“Guild notice.”
+Guild notice.
 
-“One copper.”
+Tool replacement.
 
-“Tools.”
+Lorn.
 
-“I own tools.”
+Travel.
 
-“Replacement.”
+Materials.
 
-“Fine.”
+Emergency calls ruining dinner.
 
-“Lorn.”
+We settled on six silver for an ordinary district inspection.
 
-“He volunteered.”
-
-“You paid him.”
-
-“Fine.”
-
-“Travel.”
-
-“Walking.”
-
-“Boots.”
-
-“That is not how boots work.”
-
-“That is exactly how boots work.”
-
-I hated accounting.
-
-It kept discovering reality after I had already completed the interesting part.
-
-We settled on six silver for ordinary inspection within the district.
-
-More if I had to file a hazard plan.
-
-More if the work crossed a station shutoff.
+More for hazards.
 
 Materials separate.
 
 Second worker paid separately.
 
-Emergency call cost more because Nessa said people should pay for ruining dinner.
+Emergency work cost extra because Nessa said people should pay for ruining dinner.
 
-That became the official reason.
+I found no flaw in the reasoning.
 
 The work stayed small.
 
-That matters.
+Most weeks, none.
 
-I did not become wealthy because three shopkeepers discovered I could inspect valves.
-
-Most weeks there was no private work.
-
-Some weeks one job.
+Some weeks, one call.
 
 Occasionally three and I regretted all of them.
 
-The money helped.
+The money mattered anyway.
 
-My father's hours were down again.
+My father's mill hours kept dropping. My mother's medicine cost money. Rent went up. Nessa's certification fees appeared often enough that we stopped pretending they were unusual.
 
-My mother's medicine was not free.
+Private work took the sharp edge off those numbers.
 
-Our rent had risen.
+It also showed me the Line from the wrong side of the wall.
 
-Nessa's certification fees kept appearing in the ledger under PROFESSIONAL and then migrating to NESSA when she got annoyed with me.
+A bathhouse owner did not care about district pressure theory if the women's side went cold before noon.
 
-The extra silver made those numbers less sharp.
+A tailor cared that shutting heat for a day ruined dye work.
 
-The work also changed how people saw me.
+A family over a fish shop cared that a knocking pipe woke the baby.
 
-At East Four I belonged to the station.
+People did not experience infrastructure.
 
-At district survey I belonged to engineering.
+They experienced bread.
 
-Private work belonged to whoever opened the door.
-
-A bathhouse owner did not care that I had an inspection badge if the women's side went cold before noon.
-
-A landlord cared about cost first and safety second until I explained that safety often had better long-term pricing.
-
-A tailor cared that shutting his heat feed for a day ruined dye work.
-
-A family above a fish shop cared that the pipe knocking in their wall kept waking the baby.
-
-None of them experienced the Line as infrastructure.
-
-They experienced it as warm water.
-
-Bread.
-
-Rent.
+Hot water.
 
 Noise.
 
+Rent.
+
 Work.
 
-That was useful knowledge.
+That was useful.
 
-Not dramatic knowledge.
+Lorn started coming on jobs that needed two people.
 
-Better.
-
-Lorn started coming on the jobs that needed two people.
-
-Not every time.
+Not every job.
 
 He had East Four shifts.
 
-A life.
+A mother across the river.
 
-Apparently a mother who lived across the river and a son I had somehow not known existed.
+A son.
 
-“What?” I asked.
+I learned that last one while we were walking back from the bathhouse.
 
-We were walking back from the bathhouse.
+“What?”
 
 “My son.”
 
@@ -592,7 +482,7 @@ We were walking back from the bathhouse.
 
 Lorn stopped.
 
-He looked genuinely concerned.
+He looked concerned.
 
 “Greg.”
 
@@ -614,7 +504,7 @@ A small boy near East Four.
 
 Missing front tooth.
 
-Held Dera's whistle once and nearly caused an evacuation.
+Held Dera's whistle once and almost caused an evacuation.
 
 “That was your son?”
 
@@ -636,17 +526,13 @@ Lorn started laughing.
 
 “I know.”
 
-“You know ancient wall marks but not who my kid is.”
-
-“I know now.”
-
 “He has a name.”
 
 I waited.
 
 Lorn stared.
 
-I realized I was supposed to ask.
+Right.
 
 “What is it?”
 
@@ -656,45 +542,37 @@ I realized I was supposed to ask.
 
 “Yes.”
 
-I repeated it twice.
+I repeated it once more.
 
-Lorn nodded.
-
-“Good. Inspection complete.”
+“Good,” Lorn said. “Inspection complete.”
 
 I deserved that.
 
-Eleven years at East Four ended without anyone noticing the exact day.
+The private work grew just enough to change my week.
 
-That sounds wrong.
+At the same time, East Four stopped needing me in the same way.
 
-There should be a last shift.
+Two younger workers qualified for Rank coverage.
 
-A speech.
+Nessa ran transfers without me.
 
-Dera pretending not to care.
-
-Nessa stealing something from my lunch for symmetry.
-
-Instead my schedule changed over three months.
-
-Two survey days became three.
-
-Private calls took some evenings.
+Dera had been able to run everything without me for years and remained delighted by the fact.
 
 Halden got approval for a permanent district inspection post.
 
-East Four needed my Ranker coverage less because two younger workers had qualified.
+My schedule shifted over three months.
 
-Nessa could run transfers without me.
+Two survey days became three.
 
-Dera had been able to run everything without me for years and enjoyed reminding me.
+Private calls took an evening here and there.
 
-One Monday I looked at the board and saw only one East Four shift beside my name.
+East Four shifts thinned.
+
+One Monday I looked at the board and saw one station shift beside my name.
 
 The next month there were two.
 
-Then one again.
+Then one.
 
 Then none for three weeks.
 
@@ -704,7 +582,7 @@ I went to Dera's office.
 
 “No.”
 
-“My name is not on the schedule.”
+“My name isn't on the schedule.”
 
 “You have district hours.”
 
@@ -736,11 +614,7 @@ I waited.
 
 I did not know.
 
-That annoyed me.
-
 Dera did.
-
-Of course.
 
 “You thought leaving would feel like leaving.”
 
@@ -796,35 +670,33 @@ I looked at her.
 
 She smiled.
 
-There it was again.
-
-Life refusing to mark its own transitions.
+There it was.
 
 I had intended to stay four weeks.
 
-Stayed eleven years.
+I stayed eleven years.
 
-Then left by continuing to walk through the same door often enough that nobody could tell me which crossing counted.
+Then I left slowly enough that nobody could tell me which day counted.
 
 The first private contract stayed in the ledger.
 
-Mina Cor.
+MINA COR.
 
 Three silver.
 
-One silver paid to Lorn.
+One silver to Lorn.
 
 One copper Guild notice.
 
-Six rolls received later and not valued because Nessa said bread did not belong in business accounts.
+Six rolls later, unvalued because Nessa said bread did not belong in business accounts.
 
 I argued.
 
 Lost.
 
-Years later, people would pay much more for my name on a job.
+Years later people paid much more for my name on a job.
 
-That is not what I remember about the first one.
+I do not remember the first contract because of the money.
 
 I remember Lorn standing in a bakery with a roll in his mouth asking why I was staring at a floor when the workers washed pans at fifth bell.
 
@@ -832,4 +704,8 @@ Eleven years at East Four had made me useful.
 
 It had not made me the only useful person in the room.
 
-Leaving became possible once I finally understood that.
+Four days later, the landlord on Rope Street hired us.
+
+I was supposed to meet Lorn there.
+
+I didn't.
