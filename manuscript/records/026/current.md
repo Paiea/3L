@@ -250,6 +250,52 @@ Nessa pointed at the pantry door leaning against the wall.
 
 I got a crate.
 
+Perrin looked around the apartment while we shifted bowls.
+
+Then at me.
+
+"Can Rankers punch through walls?"
+
+"Some."
+
+"Can you?"
+
+"Yes."
+
+Nessa said, "Not our wall."
+
+"I was not going to."
+
+Perrin leaned forward.
+
+"How thick?"
+
+"Depends on the wall."
+
+"Brick?"
+
+"Probably."
+
+"Stone?"
+
+"Some."
+
+"Station wall?"
+
+"No."
+
+"Why?"
+
+"Because I am not an idiot."
+
+Lorn coughed into his hand.
+
+Nessa looked at him.
+
+He looked down at his bowl.
+
+Traitors everywhere.
+
 Rain beat the window hard enough to make conversation pause twice.
 
 Then it softened.
