@@ -1,595 +1,1019 @@
 ## RECORD 039
 
-## THE ACCOUNTABLE
+## THE MARGIN
 
-Kett followed my instructions exactly and burned his wrist.
+I found Arcrutus after work.
 
-That was the problem.
+That sentence makes it sound easier than it was.
 
-Not the burn.
+He had said:
 
-The burn was small.
+"You find me."
 
-Painful.
+Then left.
 
-Ugly for a week.
+No location.
 
-He kept the hand.
+No time beyond after.
 
-Worked again after four days.
+No explanation.
 
-The problem was exactly.
+At twenty-three I considered this mysterious.
 
-By then district had copied my legacy-assist training sheet to six stations.
+At fifty-nine I consider it poor scheduling.
 
-Not formal standard.
+I asked three people.
 
-Working guide.
+The first pretended not to know.
 
-Worse, in some ways.
+The second actually did not know.
 
-Formal standards get reviewed.
+The third pointed behind the tournament grounds toward a cluster of temporary clan yards near the south road.
 
-Working guides get used.
+"Black spear banner."
 
-The sheet had started as notes for Kett.
+"There are four black spear banners."
 
-Then Mara wanted a copy.
+"His is the one people are avoiding."
 
-Then Sera gave one to another worker.
+Useful.
 
-Then Dera found it and added comments in handwriting angry enough to count as editing.
+I found it.
 
-Eventually Halden had a clerk produce clean copies.
+Not because the banner was better.
 
-I liked seeing my instructions printed.
+Because the traffic changed again.
 
-That should have warned me.
+Same thing as the gallery.
 
-One line read:
+People adjusted early.
 
-UNKNOWN LEGACY CAVITY: CONFIRM ZERO LIVE PRESSURE BEFORE OPENING INSPECTION CAP. CRACK CAP ONE TURN, PAUSE, THEN REMOVE.
+Wagons gave the entrance more room than necessary.
 
-Reasonable.
+Messengers slowed before entering.
 
-We had done it dozens of times.
+A merchant carrying three bundles of spear shafts stopped arguing with someone the moment Arcrutus crossed the yard.
 
-Gauge zero.
+He did not say anything to the merchant.
 
-Crack.
+Did not look at him.
 
-Listen.
+The argument remained over.
 
-Wait.
+The yard itself was disappointing.
 
-Open.
+Canvas shelters.
 
-The instruction was supposed to stop workers from removing caps quickly on structures that might hold residual pressure.
+Two supply wagons.
 
-Good intent.
+Weapon racks.
 
-Bad enough abstraction.
+Cooking fire.
 
-South Four had an old thermal cavity under the wash return.
+Wet laundry on a line.
 
-Kett and another trainee were documenting it under Mara's supervision.
+Children under one awning trying to stab each other with reed sticks while an older woman ignored them professionally.
 
-Modern gauge on the access leg read zero.
+One horse missing a shoe.
 
-They isolated the connected service.
+Somebody had burned rice.
 
-Verified zero again.
+S-class, apparently.
 
-Kett followed the sheet.
+Arcrutus stood beside an open wagon crate holding a spear shaft across both hands.
 
-One turn.
+No blade.
 
-Pause.
+Just ash wood.
 
-The cap hissed.
+He rolled it once against his palm.
+
+Then handed it back to the merchant.
+
+"Warped."
+
+The merchant looked offended.
+
+"Lord Arcrutus, that's kiln-cured river ash."
+
+"Warped kiln-cured river ash."
+
+"It is within tolerance."
+
+Arcrutus looked at the shaft again.
+
+Then at the merchant.
+
+Complete attention.
+
+The merchant took the shaft back.
+
+"I can replace the bundle."
+
+"Good."
+
+That discussion had cost fewer words than most contracts.
+
+I waited near the gate.
+
+Nobody asked me why I was there.
+
+That worried me more than if they had.
+
+The woman with silver at one shoulder saw me.
+
+She looked at Arcrutus.
+
+Then at me.
+
+Then went back to checking a wagon inventory.
+
+Apparently I had been categorized.
+
+I did not know the category.
+
+Still do not.
+
+Arcrutus finished with the merchant.
+
+A young man came over immediately.
+
+Twenty maybe.
+
+Clan colors.
+
+Bad right knee.
+
+I knew that because he favored it standing still.
+
+Not because I was interpreting.
+
+Observation.
+
+Weight on left.
+
+Right toe angled outward.
+
+Knee never fully locked.
 
 Good.
 
-Expected reason for pause.
+Arcrutus looked at the leg.
 
-Then the hiss stopped.
+"You are not traveling north."
 
-Kett waited another five seconds.
+The young man stiffened.
 
-Removed the cap.
+"I can ride."
 
-A trapped pocket behind a collapsed internal baffle released.
+"You can sit on a horse."
 
-Hot condensate and pressure came through the opening.
+"Same result."
 
-Not full Line pressure.
+"No."
 
-Enough.
+"Uncle."
 
-Kett turned away.
+Ah.
 
-Good reflex.
+Family.
 
-His glove took most of it.
+That explained nothing and everything.
 
-Wrist above glove did not.
+"The escort is light already," the young man said.
 
-Mara shut the secondary isolation.
+"Then they will be light without you."
 
-Other trainee moved clear.
+"It is my rotation."
 
-No one else hurt.
+"Your rotation moved."
 
-Kett spent the afternoon at a healer.
+"To when?"
 
-Second-degree burn along the inside of the wrist.
+Arcrutus looked at the knee.
 
-Four days off wet work.
+"When that stops lying."
 
-Light duty after.
+The young man looked at me.
 
-I learned about it from Dera.
+I looked elsewhere.
 
-Not because she was there.
+Professional courtesy.
 
-Because district incidents reached Field Practice.
+He left angry.
 
-She walked into my office with the training sheet in one hand.
+Arcrutus watched him go.
 
-Not Halden's office.
+Then said to the silver-shouldered woman:
 
-Mine.
+"Put Eren on south road instead."
 
-Small desk by then.
+"Eren has wagon duty."
 
-Bad chair.
+"Move Talla to wagon."
 
-Institutions punish advancement with furniture.
+"Talla hates wagon."
 
-Dera put the sheet down.
+"She can hate it while seated."
 
-“Read line twelve.”
+The woman wrote something on a slate.
 
-I did.
+No debate.
 
-I knew immediately.
+Not because Arcrutus had barked an order.
 
-Not the exact mechanism.
+He had barely changed volume.
 
-The failure in the instruction.
+People just treated his decisions as expensive enough to implement correctly the first time.
 
-Zero live pressure where?
+He finally looked at me.
 
-Gauge leg.
+"You came."
 
-Not cavity.
+"You told me to."
 
-Hiss stops meaning what?
+"Yes."
 
-Could mean vented.
+I waited.
 
-Could mean blocked path.
+He did too.
 
-Could mean pocket waiting behind something.
+"That is all?"
 
-One turn was not a test.
+"No."
 
-It was an action.
+More waiting.
 
-We had mistaken repeated success for proof of universal safety.
+"You enjoy this."
 
-“How bad?”
+"Sometimes."
 
-“Wrist.”
+"Why did you ask me here?"
 
-“Who?”
+Arcrutus picked up another spear shaft from the crate.
 
-“Kett.”
+Rolled it against his palm.
 
-My stomach dropped.
+"You were useful to talk to."
 
-Dera watched me.
-
-“Do not make this about Kett.”
-
-I looked at her.
-
-“That is not what I am doing.”
-
-“It will be if you go there guilty instead of useful.”
-
-Cruel.
-
-Correct.
-
-I hated her career growth.
-
-We went to South Four.
-
-Kett was not there.
-
-Healer had sent him home.
-
-Mara showed us the cavity.
-
-Cap back in place.
-
-Isolation maintained.
-
-Incident marks untouched.
-
-Good.
-
-She walked the sequence.
-
-Every step matched the sheet.
-
-No deviation.
-
-No shortcut.
-
-No missing PPE except the glove ended below the exposed wrist because that was the standard glove.
-
-I asked, “Did he test the cap movement?”
-
-“Yes.”
-
-“Pause?”
-
-“Seven seconds.”
-
-“Sheet says?”
-
-“Pause.”
-
-“How long is pause?”
-
-Mara looked at me.
-
-There.
-
-Another bad abstraction.
-
-“What did we teach?”
-
-“Until hiss stops.”
-
-“Written?”
-
-“No.”
-
-“Good.”
-
-Mara frowned.
-
-“How is that good?”
-
-“Because it proves the sheet isn't the only problem.”
-
-Training had local oral additions.
-
-Some safer.
-
-Some not.
-
-Procedure drift inside three months.
-
-Fast.
-
-Dera looked almost pleased.
-
-Not at injury.
-
-At finding more than one thing wrong.
-
-Field people are strange.
-
-We opened the cavity properly the next day with remote vent tubing and a shield plate.
-
-The internal baffle had partially collapsed.
-
-Gauge leg sat on one side.
-
-Inspection cap on the other.
-
-Zero at gauge said nothing about the trapped pocket.
-
-Current drawings did not show the baffle.
-
-Old drawings showed a divider but called it nonstructural.
-
-Of course.
-
-The safe procedure became different immediately.
-
-Unknown cavity was no longer something a trainee opened after a gauge check.
-
-First access required either known vent path or remote vent setup.
-
-If geometry unknown, treat as trapped pressure regardless of gauge.
-
-Cap cracking allowed only behind shield and from offset position.
-
-Pause defined by measured vent condition, not sound ending.
-
-Glove coverage extended.
-
-Simple after someone got burned.
-
-That sentence made me angry.
-
-At myself.
-
-At the system.
-
-At the fact that injury turns vague language into specific policy better than imagination does.
-
-I went to Kett's house that evening.
-
-He lived with his sister and two cousins above a cooper.
-
-Apparently everyone lived above somebody making noise.
-
-He opened the door with his left wrist wrapped.
-
-Right hand fine.
-
-“You look guilty.”
-
-“Dera warned me about this.”
-
-“Then stop.”
-
-Everyone had become Dera too.
-
-I went inside.
-
-His sister gave me tea.
-
-Kett sat at the table.
-
-The bandage made his arm look worse than the injury was.
-
-Bodies do that.
-
-“I'm sorry.”
+"You could have asked."
 
 He looked at me.
 
-“For what?”
+"I did."
 
-“The instruction.”
+"You told me to find you."
 
-“I opened it.”
-
-“Yes.”
-
-“You didn't.”
-
-“I told you how.”
-
-“You didn't know the baffle was broken.”
-
-“No.”
-
-“Then?”
+"And you did."
 
 There it was.
 
-Good intent waiting to become defense.
+The first small warning.
 
-I refused it.
+I did not recognize it as one.
 
-“I wrote a procedure that treated one gauge as proof of a cavity state it could not measure.”
+Ithar interrupted.
 
-Kett looked at the bandage.
+"Warning."
 
-“That sounds more expensive than sorry.”
+I looked at him.
 
-“District language.”
+"You are cheating."
 
-“Bad.”
+"You said you did not recognize it."
 
-“Yes.”
+"At the time."
 
-He smiled slightly.
+"I recognize it now."
 
-Then asked, “Am I in trouble?”
+"Yes. Because I am telling you what happened later."
 
-I stared.
+"You have not yet told me what happened later."
 
-“For what?”
+I pointed at him.
 
-“Opening.”
+"Exactly. So stop being smug in advance."
 
-“You followed the sheet.”
+The dragon's mouth shifted.
 
-“Mara said incident review.”
+"Continue."
 
-“Yes.”
+Back in the yard, Arcrutus handed the second shaft to the merchant.
 
-“Reviews find fault.”
+"Good."
 
-“Sometimes.”
+The merchant looked relieved.
 
-“So?”
+I did not know whether congratulations were appropriate.
 
-“No discipline.”
+Then someone shouted from the far side of the yard.
 
-“You know?”
+Not alarm.
 
-“I will fight anyone who tries.”
+Training noise.
 
-Kett looked uncomfortable.
+A pair of fighters were working inside a chalked square between two wagons.
 
-Wrong answer.
+One older.
 
-I fixed it.
+One young.
 
-“Better: the record shows you followed training. If review finds you missed something, we record it. Right now I have not found that.”
+Both clan.
 
-“Okay.”
+The younger fighter had the same bad knee as the nephew.
 
-Less heroic.
+Different person.
 
-More useful.
+Apparently knees were a family weakness.
 
-Then came money.
+Or fighting was stupid.
 
-District injury pay covered his scheduled station shifts.
+A support stood just outside the square with one hand extended.
 
-Not the two private calls he had planned with another contractor.
+Barrier work.
 
-Lost income.
+Not obvious.
 
-Three silver.
+I only saw it because I knew what to look for now.
 
-Not huge.
+A thin shimmer around the younger fighter's right knee whenever he planted hard.
 
-His.
+Not constant.
 
-The injury happened during district training work because of district guidance I wrote.
+Timed.
 
-I asked payroll to cover the lost private days.
+Plant.
 
-They refused.
+Barrier.
 
-Reasonable under existing rules.
+Release.
 
-District did not insure outside earnings.
+Plant.
 
-I hated the rule anyway.
+Barrier.
 
-Halden said, “We can pay training incident supplement.”
+Release.
 
-“There is one?”
+The fighter moved well.
 
-“No.”
+Fast enough that I would have called the knee fine if I had not seen him before the drill.
 
-“Then?”
+Arcrutus watched.
 
-“We can create one if Field Practice approves.”
+So did I.
 
-Dera approved before he finished asking.
+The older fighter struck low with a wooden spear.
+
+The younger one pivoted.
+
+Barrier flashed around the knee.
+
+He stayed upright.
+
+"Good support," I said.
+
+Arcrutus looked at me.
+
+I regretted speaking immediately.
+
+"Why?" he asked.
+
+"He is keeping the knee stable under load."
+
+"Observation or interpretation?"
+
+"Both."
+
+"Separate them."
 
 Of course.
 
-Three silver paid from training budget as incident compensation.
+"Barrier appears when the right foot plants."
 
-Not my pocket.
+"Yes."
 
-That mattered.
+"Knee does not collapse inward under the pivot."
 
-If I had paid personally, the system could remain bad while I purchased relief from guilt.
+"Yes."
 
-Dera said that.
+"He can keep moving."
 
-I hated her all week.
+"Yes."
 
-The incident went into the training record with my name.
+I waited.
 
-AUTHORING INSTRUCTION CONTRIBUTED TO UNSAFE ASSUMPTION OF CAVITY DEPRESSURIZATION.
+Arcrutus waited longer.
 
-I wanted to soften it.
+"So the knee is protected."
 
-Not hide.
+"From what?"
 
-Just improve wording.
+"Failure."
 
-Dera saw me holding the pencil.
+"Where does the failure go?"
 
-“No.”
+I looked at him.
 
-“Contributed is broad.”
+"What?"
 
-“Yes.”
+He nodded toward the drill.
 
-“The failed baffle also contributed.”
+The younger fighter planted again.
 
-“It has its own line.”
+Barrier flashed.
 
-“Mara supervision?”
+Knee held.
 
-“Own line.”
+Hip rotated hard.
 
-“Kett action?”
+Torso followed.
 
-“Own line.”
+Wood cracked against wood.
 
-Everyone got a line.
+"Where does it go?" Arcrutus repeated.
 
-Good institutions separate things.
+"Nowhere. The knee holds."
 
-Record Eighteen had taught me that too.
+"That was not the question."
 
-We revised the sheet.
+I watched again.
 
-Version number added.
+Plant.
 
-Date.
+Barrier.
 
-Author.
+Knee holds.
 
-Reviewer.
+Hip turns.
 
-Change summary.
+Foot sticks harder because the knee does not give.
 
-Old copies recalled.
+Force continues upward.
+
+"Hip," I said.
+
+Arcrutus said nothing.
+
+Another exchange.
+
+The younger fighter took a lateral strike.
+
+Barrier reinforced the knee.
+
+His pelvis twisted farther to absorb what the knee refused.
+
+"Hip and lower back."
+
+"Better."
+
+The support adjusted timing.
+
+Barrier came slightly earlier.
+
+The fighter's foot stayed straighter.
+
+Less knee movement.
+
+More torso rotation.
+
+"If the knee doesn't move, something else has to."
+
+"Yes."
+
+Simple.
+
+Embarrassingly simple.
+
+I knew barriers redirected things.
+
+Everyone did.
+
+Rain hits Barrier and moves around.
+
+Dust stops on one side.
+
+Pressure distributes across a surface.
+
+I had learned the spell for contraception because boundaries were useful.
+
+But in bodies I had been thinking in categories.
+
+Protected.
+
+Not protected.
+
+Stable.
+
+Unstable.
+
+Strong.
+
+Weak.
+
+Arcrutus watched the drill.
+
+"Again."
+
+The younger fighter lunged.
+
+Support caught the knee.
+
+He landed hard.
+
+Hip held.
+
+Torso compensated.
+
+Shoulder rose.
+
+His next breath shortened.
+
+Not much.
+
+Enough.
+
+"Shoulder," I said.
+
+Arcrutus looked at me.
+
+"Why?"
+
+"I saw it rise."
+
+"Good."
+
+"Meaning?"
+
+"You tell me."
+
+Annoying old bastard.
+
+The drill continued.
+
+The shoulder rise repeated twice.
+
+Then the younger fighter shook out his right hand.
+
+"He is bracing through the whole side."
+
+"Maybe."
+
+"You really enjoy that word."
+
+"It is useful."
+
+"It is evasive."
+
+"Only when certainty is available."
+
+I watched again.
+
+The fighter's right foot planted.
+
+Knee barrier.
+
+Hip rotated.
+
+Shoulder rose.
+
+Hand opened.
+
+Next exchange, support changed the barrier angle.
+
+Not stronger.
+
+Different.
+
+The knee gave half an inch inward.
+
+The fighter's hip moved less.
+
+His shoulder stayed down.
+
+I felt the shape of it before I had language.
+
+"He let the knee move."
+
+"Yes."
+
+"On purpose."
+
+"Interpretation."
+
+"The barrier angle changed and the knee moved farther."
+
+"Observation."
+
+"Then the hip moved less."
+
+"Yes."
+
+"So the support chose where the load went."
+
+Arcrutus looked at me.
+
+That look again.
+
+Not praise.
+
+Recognition maybe.
+
+Careful.
+
+Interpretation.
+
+His eyes stayed on me for two seconds longer than before.
+
+Observation.
+
+"Closer," he said.
+
+The word annoyed me.
+
+Mostly because I wanted more.
+
+"Closer to what?"
+
+"The question."
+
+"Which question?"
+
+"Where does the failure go?"
+
+I looked back at the fighter.
+
+The knee held enough.
 
 Not perfectly.
 
-One stayed at Market Five for six months before someone found it folded under a tool tray.
+Hip carried enough.
 
-That discovery created another rule about obsolete copies.
+Not all.
 
-Paper breeds.
+Torso adjusted.
 
-Kett returned to training after nine days.
+Support changed timing again.
 
-I expected him to be cautious around inspection caps.
+Nothing had disappeared.
 
-He was.
+That was the thing.
+
+Nothing ever disappeared.
+
+"It moves," I said.
+
+Arcrutus nodded.
+
+"Sometimes."
+
+"Sometimes?"
+
+"Sometimes it waits."
+
+I frowned.
+
+He pointed at the support.
+
+The support had gone pale.
+
+Barely.
+
+One hand still extended.
+
+Other hand closed behind his back.
+
+He was hiding tremor.
+
+"Sometimes someone carries it," I said.
+
+"Yes."
+
+The drill stopped.
+
+Not because the fighter failed.
+
+Because Arcrutus raised two fingers.
+
+The entire yard responded faster than the tournament officials had.
+
+The older fighter lowered the wooden spear.
+
+The younger fighter stepped out.
+
+The support dropped his hand.
+
+His knees bent immediately.
+
+Not collapse.
+
+Close.
+
+The silver-shouldered woman crossed the yard before I processed the movement.
+
+She caught his elbow.
+
+Someone brought water.
+
+No shouting.
+
+No drama.
+
+Practice ending before injury became spectacle.
+
+Arcrutus looked at me.
+
+"What failed?"
+
+I watched the support sit.
+
+"Nothing."
+
+His eyebrow moved.
+
+I corrected.
+
+"Nothing visible."
+
+"Better."
+
+"The support reached margin."
+
+"Whose?"
+
+There it was again.
+
+I hated him.
+
+The fighter was breathing hard.
+
+Support was worse.
+
+Knee still intact.
+
+Hip fine enough.
+
+No one injured.
+
+"Both," I said.
+
+"Different margins."
+
+"Linked."
+
+Arcrutus looked toward the pair.
+
+"Maybe."
+
+I almost swore.
+
+Did not.
+
+Growth.
+
+Then I did.
+
+"Fuck you."
+
+The silver-shouldered woman laughed openly this time.
+
+Arcrutus ignored her.
+
+"You keep treating support as strength added to a body," he said.
+
+That was the longest sentence he had given me all afternoon.
+
+I paid attention.
+
+"Isn't it?"
+
+"Sometimes."
+
+"Of course."
+
+"More often, it changes what can fail first."
+
+I stopped.
+
+There it was.
+
+Not everything.
+
+Not the architecture I would build later.
+
+Not linking.
+
+Not load transfer.
+
+Not reinforcement networks.
+
+Just the door.
+
+Support changes what can fail first.
+
+I looked at the young fighter.
+
+At the knee.
+
+Then the support.
+
+At his shaking hand.
+
+Then the older fighter, who had adjusted his strikes without anyone explaining why.
+
+Three people managing one bad knee.
+
+Not one spell.
+
+A system.
+
+Small.
+
+Temporary.
+
+Enough.
+
+"Show me," I said.
+
+Arcrutus looked at me.
+
+"I just did."
+
+"No. You."
+
+"What about me?"
+
+"Show me what you do."
+
+"No."
+
+Immediate.
+
+"Why?"
+
+"You would watch the wrong thing."
+
+"You do not know that."
+
+"I have watched you for four days."
+
+Fair.
+
+"Then tell me what to watch."
+
+"That defeats the purpose."
+
+"You are unbelievably irritating."
+
+"Frequently."
+
+Ithar interrupted.
+
+"You admired him."
+
+"That is becoming an aggressive interpretation of the evidence."
+
+"You remember his words after four decades."
+
+"I remember injuries too."
+
+"You threw food at him."
+
+"We have established that is not affection."
+
+"You sought him after work."
+
+"He told me to."
+
+"You stayed."
+
+I looked at the dragon.
+
+"Are we discussing Arcrutus or me?"
+
+"Yes."
+
+I hated that answer.
+
+Ithar's eye narrowed.
+
+"He taught you to ask where consequences go."
+
+"Among other things."
+
+"Did you apply that to people?"
+
+"Professionally."
+
+Silence.
+
+I knew immediately.
+
+"Do not."
+
+More silence.
+
+"That was not the question," Ithar said.
+
+There are advantages to speaking with humans.
+
+Most of them become uncomfortable before maintaining silence that long.
+
+Dragons have fewer social weaknesses.
+
+I looked at the dead fire.
+
+"Continue," Ithar said.
+
+"That is my line."
+
+"It is effective."
+
+Back in the clan yard, the sun had dropped enough that the canvas shadows reached the wagons.
+
+People were eating.
+
+Someone handed Arcrutus a bowl.
+
+Rice.
+
+Not chestnuts.
+
+He looked mildly disappointed.
 
 Good.
 
-I expected him to trust my instructions less.
+Human.
 
-He did.
+I started toward the gate.
 
-Better.
+"Support."
 
-During the next field lesson he asked, “Why?” after almost every step.
+I turned.
 
-By the eighth why I wanted to throw him into a drain.
+Arcrutus had already begun eating.
 
-Then I remembered his wrist.
+"Tomorrow."
 
-Answered.
+"I work tomorrow."
 
-That was the cost continuing to pay dividends.
+"After."
 
-I do not like that phrase.
+I stared at him.
 
-Injuries are not investments.
+"Again?"
 
-But consequences can either end as pain or become information too.
+"There is a match."
 
-The burn healed.
+"Tournament is over."
 
-Small pale patch remained near Kett's wrist for years.
+"Not tournament."
 
-I saw it sometimes when he reached for tools.
+"What match?"
 
-He never pointed it out.
+He pointed with the spoon toward the far training square.
 
-Did not need to.
+"Left side."
 
-My procedures were better afterward.
+"What about it?"
 
-I would prefer to tell you they became better because I was thoughtful.
+"Watch it."
 
-They became better because a young man followed one exactly and got hurt.
+"Why?"
 
-That is less flattering.
+Arcrutus ate another bite.
 
-It is also the version future workers needed recorded.
+"Find out."
+
+That was all.
+
+No offer.
+
+No title.
+
+No apprenticeship.
+
+No declaration that he had seen some hidden potential inside me.
+
+He had work.
+
+I had work.
+
+For some reason, our work had started overlapping.
+
+I left the yard.
+
+Behind me, Arcrutus went back to deciding wagon assignments and bad knees.
+
+I did not look back immediately.
+
+I made it almost to the road.
+
+Then I did.
+
+He was already looking at me.
+
+I raised one hand.
+
+He did not.
+
+Progress, apparently.
