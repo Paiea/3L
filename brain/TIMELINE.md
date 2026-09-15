@@ -12,7 +12,7 @@
 
 ## First Life
 
-### Roughly age 19 into late 50s
+### Roughly age 19 into late 40s
 
 - Greg is only about C-class as a direct warrior.
 - He never marries and has no children.
@@ -22,12 +22,34 @@
 - He often accepts what people can provide while allowing work to decide when he leaves; reciprocal domestic dependence never becomes the organizing principle of his life.
 - He learns the cheap Barrier spell for an ordinary practical reason, including its fashionable contraceptive use among young field workers and Rankers.
 - His unusual precision with Barrier develops into stabilization, reinforcement control, load transfer, linking, and team-scale support architecture.
-- Over roughly three decades or more he becomes essentially the only support of his era to reach S-class.
-- He is one of seven S-class humans in his era.
-- At peak, he can make an A-class combatant operate at effective S-class conditions and can push an actual S-class combatant beyond ordinary rated conditions.
+- Over decades he becomes an extraordinary support specialist and eventually reaches **A-class support** while remaining only about C-class as a direct warrior.
+- His A-class value already exceeds the letter in the right team because he can amplify already exceptional fighters without secretly possessing their combat output himself.
+
+### Around age 48 or 49: the Nhal expedition
+
+- Greg joins a major expedition beneath the salt flats north of Vey as **A-class support**.
+- Three of the seven living S-class humans are part of the expedition.
+- The expedition discovers Nhal, an ancient nonhuman being trapped, bound, contained, or otherwise held within an ancient structure or system. Exact containment mechanics and original expedition objective remain open.
+- The site gradually proves to be more than a barrier keeping humans out; it is also holding Nhal in or binding Nhal to something larger.
+- One of the three S-class humans dies during the expedition.
+- The death is a world-level event. For a period only six living humans are recognized as S-class.
+- Greg's support performance after the death keeps the remaining expedition functioning under S-class conditions and proves capability the existing classification system can no longer honestly call merely A-class support.
+- Nhal notices Greg specifically and finds the architecture of his support interesting: boundaries, load, stability, connection, and systems.
+- Nhal gives Greg an actual gift of knowledge. The gift includes Ithar's hidden name, route or access knowledge, and the judgment that Ithar may understand foundational structures humans merely service and may listen if Greg ever reaches a question human knowledge cannot answer.
+- Nhal does not promise that Ithar will save Greg or humanity.
+- Greg later receives S-class recognition as a support. This restores the living S-class count to seven. He earns the classification through demonstrated capability; the death creates the historical opening but does not make the promotion honorary.
+
+### First-Life apex after Nhal into late 50s
+
+- Only seven living humans are recognized as S-class during Greg's apex period.
+- Most are older and terrifying: clan heads, old-blood inheritors, long-lived veterans, or people whose power and institutional influence accumulated over decades.
+- Only two or three belong to a younger generation, Greg among them.
+- Greg is essentially the only support among the seven.
+- An eighth living S-class would be a world-scale event and should not be introduced casually.
+- At peak, Greg can make an A-class combatant operate at effective S-class conditions and can push an actual S-class combatant beyond ordinary rated conditions.
 - First-Life Greg's S-class ceiling depends on team architecture, repeated partners, trust, broad outward linking, and a body shaped by decades of support work.
 - First-Life Greg may receive a distinct Authority-bestowed Named Ranker title. Swaggory is a legacy candidate, not yet fixed canon.
-- Around age 48 or 49 he meets Nhal beneath salt flats north of Vey and eventually receives Ithar's hidden name and route.
+- Greg carries Nhal's gift for years without needing to use the Ithar route. It becomes relevant only when Life Two reaches a foundational crisis beyond human understanding.
 
 ## Named Ranker institution
 
@@ -133,7 +155,8 @@ For multiple scenes or records if needed:
 - Greg is hurt and cannot simply narrate onward;
 - Ithar does not become a therapist;
 - the audience can finally learn what First-Life S-class support actually meant;
-- the distinction becomes explicit: Greg was C-class as a warrior and S-class as a support.
+- the distinction becomes explicit: Greg was C-class as a warrior and S-class as a support;
+- the Nhal expedition can become one of the natural First-Life sequences used to show how A-class Greg crossed into S-class support.
 
 This pause occurs in the present frame even though it is triggered by the late-thirties Life-Two memory.
 
@@ -189,6 +212,8 @@ By about fifty-nine:
 - he knows he will not simply recreate First-Life S through the path he chose;
 - the ruined leg, age, shorter development window, grief, and deliberate specialization are all part of the difference;
 - the western Line crisis, Ithar, Nhal knowledge, and artifact/reset convergence become the active present problem.
+
+As human options fail, Greg remembers Nhal's gift: not a promise that Ithar will save anyone, but a hidden name, route, and old judgment that Ithar may understand the foundational layer beneath systems humans only maintain.
 
 Ithar may expose a third magical architecture or possibility Greg never considered, but not as an instant restoration or free power-up.
 
