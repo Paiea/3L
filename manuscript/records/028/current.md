@@ -26,29 +26,55 @@ Call response if something failed after.
 
 Ordinary work multiplied until it became money large enough to frighten me.
 
-The notice went up at Guild Hall in spring.
+That mattered more than I wanted to admit.
 
-Lorn found it.
+We had just taken the second room.
 
-He brought the sheet to our new room and put it on Nessa's desk.
+The new rent was manageable.
+
+Manageable is what adults call an expense after deciding they want the thing anyway.
+
+There was also the doorway.
+
+Shelves.
+
+Another proper chair.
+
+A stove in the second room that Mina insisted technically worked because it had produced heat once during inspection.
+
+My shoulder still required healer visits when it became ambitious.
+
+Nessa's district pay was steady.
+
+My work was not.
+
+We were not poor.
+
+We were simply at the stage of life where every improvement arrived with a monthly opinion.
+
+Then Lorn found the contract notice at Guild Hall.
+
+He brought it upstairs and put the sheet on Nessa's new desk.
 
 She looked at him.
 
-“Wrong desk.”
+"Wrong desk."
 
-“They are touching.”
+He pointed at mine beside it.
 
-“That does not make his paper mine.”
+"They are touching."
 
-“Household precedent says otherwise.”
+"That does not make his paper mine."
 
-I looked up.
+"Household precedent says otherwise."
 
-“What?”
+I looked up from a box of old station records I had been pretending would organize themselves.
 
-Lorn pointed at the contract.
+"What?"
 
-“Bid.”
+Lorn pointed at the notice.
+
+"Bid."
 
 I read it.
 
@@ -76,73 +102,95 @@ I read the total estimate twice.
 
 Then a third time because large numbers develop additional digits when observed.
 
-“We can do that.”
+I looked at the new room.
 
-Nessa said, “Can you?”
+Not intentionally.
 
-“Yes.”
+Nessa noticed anyway.
 
-Lorn said, “Yes.”
+Of course.
 
-Nessa looked between us.
+"We can do that," I said.
 
-“That was fast.”
+She leaned back in her chair.
 
-“We know the systems,” I said.
+"The work or the number?"
 
-“You know eight buildings?”
+"The work."
 
-“I know four.”
+Lorn said, "Also the number."
 
-“Half.”
+Traitor.
 
-“Lorn knows the bath.”
+"We can do both."
 
-“I know the bathhouse owner owes money to everyone.”
+Nessa held out her hand.
 
-“That counts.”
+I gave her the notice.
 
-Nessa took the notice.
+She read the first page.
 
-“What is the call requirement?”
+"You know eight buildings?"
 
-“Two bells.”
+"I know four."
 
-“Every day?”
+"Half."
 
-“Critical failures.”
+"Lorn knows the bath."
 
-“That was not what I asked.”
+Lorn said, "I know the bathhouse owner owes money to everyone."
 
-I read the small line.
+"That counts."
+
+Nessa kept reading.
+
+"What is the call requirement?"
+
+"Two bells."
+
+"Every day?"
+
+"Critical failures."
+
+"That was not what I asked."
+
+I took the sheet back.
+
+Read the small line.
 
 Service coverage continuous during contract term.
 
 There it was.
 
-“We rotate.”
+"We rotate."
 
-“With whom?”
+"With whom?"
 
-“Me. Lorn. Rell.”
+"Me. Lorn. Rell."
 
-“Rell agreed?”
+Lorn looked at me.
 
-“No.”
+"Rell agreed?"
 
-“Excellent crew.”
+"No."
 
-“She will.”
+Nessa nodded.
 
-“How do you know?”
+"Excellent crew."
 
-“Current evidence.”
+"She will."
 
-Nessa stared.
+"How do you know?"
 
-I sighed.
+I almost said because she usually did.
 
-“I will ask.”
+That sounded worse before it reached my mouth.
+
+"I will ask."
+
+"Growth," Nessa said.
+
+"Shut up."
 
 The bid packet was fourteen pages.
 
@@ -166,11 +214,11 @@ Surety reserve.
 
 That one stopped me.
 
-“What is a surety reserve?”
+"What is a surety reserve?"
 
-Lorn looked at me.
+Lorn looked over my shoulder.
 
-“I don't know.”
+"I don't know."
 
 Good.
 
@@ -182,15 +230,19 @@ Clerk Aven was not at the front desk.
 
 Thank God.
 
-The younger clerk explained.
+A younger clerk explained it.
 
-For public maintenance contracts above fifty silver, bidder had to prove they could finish or fail safely.
+For public maintenance contracts above fifty silver, the bidder had to prove they could finish or fail safely.
 
-Cash reserve, bonded sponsor, or Guild surety.
+Cash reserve.
+
+Bonded sponsor.
+
+Or Guild surety.
 
 Enough to cover one month of wages plus emergency replacement labor if the contractor disappeared, died, became insolvent, or decided winter was spiritually optional.
 
-“How much?” I asked.
+"How much?" I asked.
 
 He calculated.
 
@@ -200,17 +252,17 @@ I laughed.
 
 The clerk did not.
 
-“That is not funny.”
+"That is not funny."
 
-“I know.”
+"I know."
 
-“It is your workers' wages.”
+"It is your workers' wages."
 
-“I know.”
+"I know."
 
-“Then why laugh?”
+"Then why laugh?"
 
-“Alternative to crying.”
+"Alternative to crying."
 
 We had savings.
 
@@ -224,29 +276,47 @@ Family reserve.
 
 Not forty-eight silver we could freeze for five months without becoming stupid.
 
-“Guild surety?”
+I found myself doing subtraction anyway.
 
-“Premium.”
+New rent.
 
-“How much?”
+Healer.
+
+Food.
+
+Work float.
+
+What could move.
+
+What could not.
+
+Nessa was not even there and I could already hear her objecting.
+
+Annoying woman.
+
+"Guild surety?" I asked.
+
+"Premium."
+
+"How much?"
 
 He gave the number.
 
 Also not funny.
 
-“Who pays that?”
+"Who pays that?"
 
-“Contractors who do not have reserve.”
+"Contractors who do not have reserve."
 
-“Then how do they get reserve?”
+"Then how do they get reserve?"
 
-“By completing contracts.”
+"By completing contracts."
 
-I stared.
+I stared at him.
 
 The clerk shrugged.
 
-“Yes.”
+"Yes."
 
 Civilization had discovered circles before I did.
 
@@ -266,7 +336,7 @@ Written substitute coverage if both lead workers were unavailable.
 
 We had none.
 
-Parts account with approved supplier.
+Parts account with an approved supplier.
 
 Mina's cousin sold fittings from a cart.
 
@@ -284,25 +354,33 @@ I disliked records when they remembered me.
 
 Lorn read the packet at our table that night.
 
-“Still bid.”
+The table had moved into the larger room but remained itself.
 
-“We cannot meet surety.”
+Still rocked if you leaned on the wrong corner.
 
-“Guild surety.”
+Still accumulated paper faster than food.
 
-“Costs nine silver.”
+"Still bid," he said.
 
-“Contract pays more.”
+"We cannot meet surety."
 
-“Only if we win and nothing goes wrong.”
+"Guild surety."
 
-“That is business.”
+"Costs nine silver."
+
+"Contract pays more."
+
+"Only if we win and nothing goes wrong."
+
+"That is business."
 
 Nessa looked up from her district schedule.
 
-“No. That is gambling with invoices.”
+"No. That is gambling with invoices."
 
-“Same family.”
+Lorn considered it.
+
+"Same family."
 
 She came over.
 
@@ -334,6 +412,26 @@ Emergency cart hire.
 
 Material float before city reimbursement.
 
+Nessa drew a line under the household reserve before I touched it.
+
+"No."
+
+"I didn't say anything."
+
+"Your face did."
+
+"Security flaw."
+
+"That money is not business float."
+
+"I know."
+
+"Then stop looking at it."
+
+I stopped looking at it.
+
+Mostly.
+
 By the bottom of the page, the impressive number had become ordinary.
 
 Still profitable.
@@ -348,19 +446,19 @@ If nobody got hurt.
 
 If winter behaved.
 
-Nessa tapped the page.
+Nessa tapped the total.
 
-“You can bid.”
+"You can bid."
 
 I looked at her.
 
-“You just spent an hour making it smaller.”
+"You just spent an hour making it smaller."
 
-“Yes.”
+"Yes."
 
-“Why bid?”
+"Why bid?"
 
-“Because now you know the price.”
+"Because now you know what it actually pays."
 
 That annoyed me.
 
@@ -374,11 +472,11 @@ She wanted guaranteed minimum pay during the contract even if call volume was lo
 
 Lorn objected.
 
-“Why pay if we don't need her?”
+"Why pay if we don't need her?"
 
 Rell looked at him.
 
-“Because if you reserve my winter, I cannot take other work.”
+"Because if you reserve my winter, I cannot take other work."
 
 Lorn stopped.
 
@@ -392,13 +490,45 @@ Our price went up.
 
 Then Rell asked who covered if my shoulder flared.
 
-“I do.”
+"I do."
 
-“That is not an answer.”
+She stared at me.
 
-Nessa smiled from across the room.
+"That sentence means nothing."
 
-Everyone had learned my weak points.
+"I work around it."
+
+"You spent six weeks doing records because you could not lift a pot."
+
+"That is an unfair summary."
+
+"Accurate though."
+
+Lorn looked down at the bid sheet.
+
+Nessa, from her desk, said nothing.
+
+Worse.
+
+Rell tapped the response section.
+
+"If your shoulder goes and Lorn is already on a call, who answers the second building?"
+
+I looked at the paper.
+
+The contract did not care that I was usually available.
+
+It cared whether someone would be available when I was not.
+
+Annoying distinction.
+
+"We need another coverage agreement," I said.
+
+Rell nodded.
+
+No speech.
+
+Better.
 
 We arranged reciprocal call coverage with another small contractor named Sera Pellin.
 
@@ -440,11 +570,11 @@ Twelve ladders.
 
 I counted.
 
-They had brought a equipment list.
+They had brought an equipment list.
 
-“Who needs twelve ladders?” I whispered.
+"Who needs twelve ladders?" I whispered.
 
-Lorn said, “People with eight buildings.”
+Lorn said, "People with eight buildings."
 
 Traitor.
 
@@ -484,45 +614,79 @@ I read the decision twice.
 
 Lorn read it once.
 
-“Fuck.”
+"Fuck."
 
-“Yes.”
+"Yes."
 
-“We were good.”
+"We were good."
 
-“Yes.”
+"Yes."
 
-“Then why them?”
+"Then why them?"
 
-I pointed at the sheet.
+I wanted to say money.
 
-He read the scoring again.
+Or size.
 
-“Because they own everything.”
+Or the ladders.
 
-“No.”
+Preferably the ladders.
+
+Instead I pointed at the scoring sheet.
+
+Lorn read it again.
+
+"Because they own everything."
+
+"No."
 
 I hated the answer while saying it.
 
-“Because if their lead gets sick, the contract still exists.”
+"Because if their lead gets sick, the contract still exists."
 
 Lorn looked at me.
 
-That was it.
+There it was.
 
-Our entire operation still concentrated too much risk in people.
+We could do the work.
+
+That had been the first question I asked.
+
+Wrong question.
+
+The city wanted to know whether the work would still happen if one of us could not.
+
+Our entire operation concentrated too much failure in people.
 
 Me.
 
-Him.
+Lorn.
 
 Rell.
 
-Harven had redundancy.
+Harven had more ways for ordinary problems to remain ordinary.
 
-Not better workers necessarily.
+One worker sick.
 
-More ways for work to continue after one worker became unavailable.
+Another went.
+
+One fitting missing.
+
+Their yard had six.
+
+Cart wheel broke.
+
+Second cart.
+
+Lead inspector gone.
+
+Someone else knew the route.
+
+They were not necessarily better at the work.
+
+They were harder to interrupt.
+
+That was different.
 
 Record Twenty-Two returned rudely.
 
@@ -532,9 +696,13 @@ Desk.
 
 Other people rearranging around me.
 
-A public client did not want to rearrange.
+I had considered that a personal inconvenience.
 
-Reasonable.
+A public client called it operational risk.
+
+Much less sympathetic phrase.
+
+Reasonable though.
 
 I still hated them.
 
@@ -560,6 +728,16 @@ A crew arrived while their lead inspector was apparently two towns away.
 
 Infuriating competence.
 
+I asked who had taken the call.
+
+Nobody knew.
+
+That bothered me more than if it had been Harven himself.
+
+The company had answered.
+
+Not the man.
+
 Then one of their ladders broke.
 
 Nobody was hurt.
@@ -568,13 +746,13 @@ I enjoyed that too much.
 
 Nessa said so.
 
-“They have eleven now.”
+"They have eleven now."
 
-“Still excessive.”
+"Still excessive."
 
-“Let it go.”
+"Let it go."
 
-“No.”
+"No."
 
 We did not grow into Harven Works overnight.
 
@@ -586,11 +764,39 @@ Larger creates different failures.
 
 I had seen enough institutions to know that.
 
-But we changed three things.
+And I liked knowing who was actually doing the work.
 
-First, reciprocal coverage became permanent with Sera instead of something arranged only for bids.
+Names.
+
+Habits.
+
+Who rushed fittings.
+
+Who checked twice.
+
+Who could be trusted alone in a boiler room and who became creative when unsupervised.
+
+Twenty-three workers sounded less like a crew and more like paperwork.
+
+I was not ready for that.
+
+But I was ready to stop pretending availability was a personality trait.
+
+We changed three things.
+
+First, reciprocal coverage with Sera became permanent instead of something arranged only when a bid required it.
+
+Not free.
+
+Worth it.
 
 Second, we opened a supplier account with an actual parts yard and kept a small standard inventory instead of buying every fitting after the problem existed.
+
+That hurt because inventory is money sitting still pretending to be useful.
+
+Then a regulator failed on a cold morning and the correct seal was already on our shelf.
+
+I complained less after that.
 
 Third, I started documenting comparable jobs properly.
 
@@ -604,9 +810,17 @@ Outcome.
 
 Client reference.
 
-Not because memory failed.
+If Lorn ran the job, his name went first.
 
-Because nobody awarding a contract could inspect the contents of my head.
+If Rell solved the problem, hers did.
+
+That felt obvious once I did it.
+
+Before then most of my records had quietly treated me as the center because I was the one writing them.
+
+Bad measurement habit.
+
+Nobody awarding a contract could inspect the contents of my head.
 
 They should not have to.
 
@@ -618,11 +832,37 @@ No continuous winter coverage.
 
 Surety twelve silver.
 
+Our paperwork was better.
+
+Coverage was real.
+
+Parts account existed.
+
 We won.
 
-That is not the important part.
+Lorn celebrated like we had taken a fortress.
 
-The important part is the first loss remained fair.
+Nessa asked what the margin was after wages.
+
+This damaged the mood briefly.
+
+The margin was fine.
+
+Not heroic.
+
+Fine.
+
+We paid people.
+
+We paid suppliers.
+
+We paid ourselves.
+
+The new rent got paid too.
+
+That part pleased me more than I admitted.
+
+The first loss still mattered more.
 
 No corrupt official.
 
@@ -630,7 +870,7 @@ No idiot procurement clerk.
 
 No institution too stupid to recognize Greg's brilliance.
 
-Harven Works was more legible as a promise.
+Harven Works had simply been more legible as a promise.
 
 They had people.
 
@@ -644,10 +884,26 @@ Ladders.
 
 Too many ladders.
 
-I was technically good enough for the work.
+I had thought being good enough to perform the work was the same as being good enough to promise it.
 
-The contract required more than technical goodness.
+It was not.
 
-That offended me until I started paying other people.
+A promise had to survive things.
 
-Then it became obvious.
+Sickness.
+
+Broken tools.
+
+Bad timing.
+
+One person being somewhere else.
+
+I understood that eventually.
+
+Not immediately.
+
+Immediately, I bought a second ladder.
+
+Lorn asked if this meant Harven had won.
+
+I told him to go fuck himself.
