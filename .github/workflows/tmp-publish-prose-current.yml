@@ -1,0 +1,95 @@
+name: Temporary publish current prose and audio 023
+
+on:
+  push:
+    branches: [release/public-035]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/public-035
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Import verified Record 023 audio artifacts
+        run: |
+          set -euo pipefail
+          mkdir -p audio/assets audio/routing audio/production/record-023/work-orders
+          base=https://raw.githubusercontent.com/Paiea/3L/audio/capture-023
+          curl -fL "$base/audio/assets/record-023-quote-locked-v2.mp3" -o audio/assets/record-023-quote-locked-v2.mp3
+          curl -fL "$base/audio/routing/record-023.json" -o audio/routing/record-023.json
+          curl -fL "$base/audio/production/record-023/captures.json" -o audio/production/record-023/captures.json
+          curl -fL "$base/audio/production/record-023/route-plan.json" -o audio/production/record-023/route-plan.json
+          curl -fL "$base/audio/production/record-023/verification-v2.json" -o audio/production/record-023/verification-v2.json
+          for f in segments-001-010.json segments-011-020.json segments-021-030.json segments-031-035.json; do
+            curl -fL "$base/audio/production/record-023/work-orders/$f" -o "audio/production/record-023/work-orders/$f"
+          done
+      - name: Publish prose through 036 and Record 023 audio
+        run: |
+          python - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          root=Path('.')
+          mm_path=root/'manuscript/manifest.json'
+          mm=json.loads(mm_path.read_text(encoding='utf-8'))
+          def count_words(text):
+              return sum(1 for token in text.split() if token != '##')
+          for rec in mm['records']:
+              slot=rec['slot']
+              current=root/rec['path']
+              original=root/f'manuscript/records/{slot}/versions/original-run.md'
+              if current.exists() and original.exists() and current.read_bytes()!=original.read_bytes() and rec['prose_status']=='needs_rehearsal':
+                  rec['prose_status']='restored'
+                  rec['word_count']=count_words(current.read_text(encoding='utf-8'))
+              rec['published']=int(slot) <= 36
+          mm_path.write_text(json.dumps(mm,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+
+          source=root/'manuscript/records/023/current.md'
+          source_sha=hashlib.sha256(source.read_bytes()).hexdigest()
+          v_path=root/'audio/production/record-023/verification-v2.json'
+          v=json.loads(v_path.read_text(encoding='utf-8'))
+          asset=root/v['asset']
+          asset_sha=hashlib.sha256(asset.read_bytes()).hexdigest()
+          assert v['record']=='023' and v['segment_count']==35 and v['ithar_segment_indices']==[]
+          assert v['source_sha256']==source_sha=='04f54f4f69992bfbd177b6c4b5247c2eabe0b56079716869d7ff5aaa377f29be'
+          assert v['sha256']==asset_sha=='a1bfe9b788d86b10ffef05bba3265350e1b1a76cf6c155ae3fc7ff4ef427a634'
+          assert v['duration_seconds']==938.16
+          v['status']='published_unlistened'
+          v['note']='Published by explicit user continuation request; deterministic route/pause verification passed; auditory listen-back remains pending.'
+          v_path.write_text(json.dumps(v,indent=2)+'\n',encoding='utf-8')
+
+          am_path=root/'audio/manifest.json'
+          am=json.loads(am_path.read_text(encoding='utf-8'))
+          am['records']['r023']={
+              'status':'published','src':v['asset'],'source_sha256':source_sha,
+              'audio_sha256':asset_sha,'duration_seconds':v['duration_seconds'],
+              'routing_mode':'exact_quote_locked','listened':False
+          }
+          am_path.write_text(json.dumps(am,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+
+          test_path=root/'tests/test_repo_contract.py'
+          test=test_path.read_text(encoding='utf-8')
+          test=test.replace('records[:22]))','records[:36]))')
+          test=test.replace('records[22:]))','records[36:]))')
+          test=test.replace('for i in range(1, 23)))','for i in range(1, 24)))')
+          test_path.write_text(test,encoding='utf-8')
+          PY
+      - name: Verify full repository contract
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit clean release payload
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/assets/record-023-quote-locked-v2.mp3 audio/manifest.json audio/routing/record-023.json audio/production/record-023 manuscript/manifest.json tests/test_repo_contract.py
+          git commit -m "Publish prose through Record 036 and audio 023"
+          git push origin HEAD:release/public-035
