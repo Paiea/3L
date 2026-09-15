@@ -1,0 +1,40 @@
+name: Temporary publish audio 021
+
+on:
+  push:
+    branches: [release/audio-021]
+    paths:
+      - .github/workflows/tmp-publish-audio-021.yml
+      - scripts/tmp_publish_audio_021.py
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: release/audio-021
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+      - name: Assemble release
+        run: python scripts/tmp_publish_audio_021.py
+      - name: Validate release
+        run: |
+          python -m unittest -v
+          python scripts/check_repo.py
+      - name: Commit release files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/routing/record-021.json audio/assets/record-021-quote-locked-v2.mp3 audio/production/record-021/captures.json audio/production/record-021/route-plan.json audio/production/record-021/verification-v2.json audio/manifest.json manuscript/manifest.json tests/test_repo_contract.py
+          git commit -m "Publish Record 021 with audio"
+          git push origin HEAD:release/audio-021
