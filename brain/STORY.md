@@ -63,7 +63,7 @@ Named Ranker is not a hidden capability tier above S. A person may be high in on
 
 During Greg's First-Life apex period, only **seven living humans** are recognized as S-class. Treat seven as a world fact, not a casual roster size. Do not introduce an eighth living S-class without explicit canon revision; an eighth would be a world-scale event.
 
-Most of the seven are older and terrifying: clan heads, old-blood inheritors, long-lived veterans, or people whose power and institutional weight accumulated over decades. Only two or three belong to a meaningfully younger generation, Greg among them.
+Four of the Seven at Greg's First-Life apex are old monsters, roughly sixty-plus or otherwise carrying decades of accumulated age, bloodline, technique, institutional weight, and survival. Clan heads, old-blood inheritors, long-lived veterans, and comparable figures belong in this group. The remaining three are the comparatively younger generation, Greg among them after his recognition.
 
 S-class is not simply the next ordinary career step after A. A-class is already rare. S-class individuals are people around whom governments, clans, expeditions, and military planning change shape.
 
@@ -79,7 +79,15 @@ High-level support is control of boundaries, reinforcement, load, pressure, stab
 
 At his peak Greg could make an A-class combatant operate at effective S-class conditions for limited periods and could push an actual S-class combatant beyond ordinary rated operating conditions. Do not invent an SS-class ladder. An S-class fighter with Greg attached remains S-class, but planners understand that **S-class with Greg** is a materially different operational problem.
 
-Greg's S-class strength was relational and architectural. He linked people, redistributed force, stabilized failing bodies and reinforcement, managed recoil and pressure, and made teams survive operations that would otherwise be impossible.
+Greg's defining difference is that his support continues to scale when the target is already near the human ceiling. Most support adds capacity directly. Greg increasingly identifies and manages the reasons existing capacity cannot safely be used: recoil, load concentration, channel strain, reinforcement failure, unstable transitions, joint and organ stress, pressure transfer, timing, and the small structural failures that force an elite combatant to hold back.
+
+Greg therefore does not simply make an S-class person "stronger" by pouring more power into them. He removes or redistributes enough failure pressure that they can safely use more of the power they already possess. An old S-class who has known the same personal ceiling for decades can experience Greg's support as access to margin they thought no longer existed.
+
+This is why S-class humans who have actually worked with Greg tend to value him far above his official letter. Some may initially resist, dismiss, or resent attaching an A-class support to them. Once supported by him, many become unusually protective of access to him because they can feel the operational difference directly. They already know what being strong feels like. Greg makes them feel stronger again.
+
+At higher development Greg can treat a team less like separate bodies and more like a connected load network. He can link people, redistribute force, stabilize failing bodies and reinforcement, manage recoil and pressure, prepare one member of the network to catch the consequences of another member's output, and make teams survive or attempt operations that would otherwise be impossible. Exact perception mechanics remain open; prose does not need a game-like visual interface.
+
+Greg himself is not the archetypal S-class body-first monster. His self-reinforcement and direct-warrior capability are comparatively unimpressive beside the Seven. His genius is architectural: instead of only making his own body carry more load, he learns to decide where load is allowed to go.
 
 ## Barrier origin and support magic
 
@@ -97,23 +105,37 @@ The deeper support principle is deciding what crosses a boundary, what remains s
 
 ## The Nhal expedition and Greg's S-class recognition
 
-Around age forty-eight or forty-nine in First Life, Greg joins a major expedition beneath the salt flats north of Vey. **Expedition** is the default term unless prose later establishes a more specific institutional label.
+Around age forty-eight or forty-nine in First Life, Greg becomes part of a major expedition beneath the salt flats north of Vey, but **he was not formally invited onto the expedition**.
 
-Greg enters as an **A-class support**, not yet S-class. Three of the seven living S-class humans are present. Exact membership beyond Greg and those three, their disciplines, and the original stated objective remain open.
+Greg hears about the expedition and wants to go. He seeks a place and is denied. The official reasoning can include secrecy, limited complement, concern that an A-class support lacks the durability required for a mission already carrying three S-class humans, or confidence that existing support personnel are sufficient. Exact paperwork and authority chain remain open.
+
+One older S-class human already knows Greg's practical value and refuses to accept leaving him behind. Without giving Greg a meaningful choice, that S-class renders him unconscious by some safe and reliable method and physically smuggles him into the expedition inside a literal reinforced expedition gear bag or comparable mundane carry sack. Greg had wanted the mission. He remains justifiably furious that the S-class could have simply asked him instead of kidnapping him.
+
+The arrival reveal is durable. Other expedition personnel see the S-class arrive with unexpected cargo and can plausibly assume food, restricted equipment, a secret weapon, or some other contingency. The S-class opens the bag and the great secret is Greg: cramped, disoriented, angry, and still officially an A-class support.
+
+The exact dialogue is open, but the old S-class can conceptually treat Greg as **insurance** rather than a glamorous secret weapon. The important reaction is that experienced S-class people who have already worked with Greg understand the logic immediately. Administrative personnel may be furious. The people expecting to survive the expedition are relieved he is there.
+
+Three of the seven living S-class humans are present: **two of the old monsters and one comparatively newer S-class**. Greg is still A-class support. The wider expedition also contains ordinary personnel such as surveyors, researchers, guides, logistics staff, Guild or Authority workers, specialists, security, and other support roles as the mission earns them. Greg's old narration need not preserve a clean ensemble cast. He can forget names while retaining odd minor details, fragments of behavior, injuries, equipment, food, habits, or moments that memory kept for no obvious reason.
 
 The expedition discovers Nhal, an ancient nonhuman being trapped, bound, contained, anchored, or otherwise unable to leave an ancient structure or system.
 
-**Nhal's containment predates the divergence between Greg's two adult histories. Nhal is trapped in both lives.** First Life differs because Greg's high-rank career helps create or join the expedition that reaches her. Life Two never reproduces that discovery path, so humanity does not automatically know she is there and does not automatically free or contact her.
+**Nhal's containment predates the divergence between Greg's two adult histories. Nhal is trapped in both lives.** First Life differs because Greg's high-rank career and the expeditionary world around him create the path that reaches her. Life Two never reproduces that discovery path, so humanity does not automatically know she is there and does not automatically free or contact her.
 
 The containment is more than a simple prison. The expedition must discover that the site is not merely keeping humans out or Nhal in; Nhal is held in relation to a larger load-bearing or foundational system. Exact mechanism remains open. Greg's support instincts make him unusually able to perceive the relevant questions: where the load goes, what Nhal is carrying, what changes if she moves, and whether breaking the containment would transfer or release something worse.
 
 This is why "just free Nhal" is not a valid solution. Even with three S-class humans present, the expedition cannot safely brute-force the problem.
 
-One of the three S-class humans dies during the expedition. The death is real, consequential, and world-shaking. For a period only six living humans are recognized as S-class.
+The Nhal expedition is also the natural sequence for showing why the S-class love working with Greg. The two old monsters and the newer S-class already possess enormous personal power and have worked with support before. Greg's difference becomes experiential: he lets them use more of themselves, for longer and under worse conditions, by managing the failure points that normally define their ceiling. The three S-class participants should feel materially more dangerous with Greg attached.
+
+One of the three S-class humans dies during the expedition. The death is real, consequential, and world-shaking. The exact casualty remains open, though the newer S-class is a viable pressure if later prose earns it. For a period only six living humans are recognized as S-class.
 
 Greg's behavior after that death proves his own S-class capability. Under conditions severe enough to kill an S-class human, A-class support Greg keeps the remaining expedition functioning at a scale the human classification system can no longer honestly describe as A-class support.
 
 Greg is subsequently recognized as S-class support, restoring the living count to seven. He understands that another S-class person's death created the historical opening, while his own recognition was earned by what he demonstrated afterward.
+
+The surviving S-class participants become important political witnesses to what Greg actually is. Their advocacy matters because they have personally experienced his support at their own ceiling and watched him continue functioning after one of the Seven died. They may have disagreed with his classification beforehand; after Vey, at least some of them actively fight for the Authority to recognize that a system measuring Greg mainly by solo durability or personal destructive output is measuring the wrong thing.
+
+Protecting Greg during operations is therefore not merely affection. It is rational doctrine. If Greg is disabled, everyone attached to his network immediately loses margin. The S-class can also genuinely like him, become possessive of access to his support, and treat threats to him with disproportionate seriousness because they know exactly what disappears when he does.
 
 Nhal finds Greg personally interesting before human institutions fully understand what he has become. She is interested in the deeper structure of his support magic: boundaries, load, stability, connection, and architectures between systems, not secret warrior strength.
 
