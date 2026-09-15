@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 91,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"It remains suspicious.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 92,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI bit the apple.\n\nSoft.\n\nNot rotten.\n\nLow standard.\n\nIthar watched me chew.\n\n\"This is uncomfortable.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 93,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"For you?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 94,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes. Stop watching me eat.\"\n\nHis eye closed.\n\nThat was somehow worse.\n\n\"Now you're making a point.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 95,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I am resting the eye.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 96,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You have another one.\"\n\nThe other eye remained open.\n\nBastard.\n\nI finished the apple.\n\nThe bread took longer.\n\nMy jaw hurt.\n\nThat felt insulting.\n\nI had fought things with too many teeth and was losing to bread.\n\nEventually Ithar spoke.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 97,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"The eastern face still has animals.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 98,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You already told me.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 99,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have not hunted them.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 100,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I've been busy.\"\n\nHis eye moved to my leg.\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

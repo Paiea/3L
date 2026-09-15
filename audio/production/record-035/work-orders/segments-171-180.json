@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 171,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nGood.\n\nI spread my blanket near the second shelf.\n\nNot close to the gold.\n\nNot close to Ithar either.\n\nThere is caution and there is theater.\n\nA dragon that wanted me dead did not need me within arm's reach.\n\nHis arm's reach was most of the cave.\n\nI took off my outer coat and rolled it beneath my head.\n\nMy left leg needed arranging.\n\nThen rearranging.\n\nThen insulting.\n\nEventually it accepted a position.\n\nIthar watched.\n\n\"Stop.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 172,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I am not doing anything.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 173,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Again, exactly.\"\n\nThe fire snapped.\n\nWater moved behind the shelf.\n\nI closed my eyes.\n\nOpened them again.\n\nIthar was still there.\n\nOf course he was.\n\n\"If you eat me while I sleep, I'm going to be very annoyed.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 174,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Briefly.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 175,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That was a joke.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 176,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 177,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI opened my eyes wider.\n\nHis had closed.\n\nBastard.\n\nI lay there longer than I expected.\n\nNot afraid exactly.\n\nThat would have been sensible.\n\nMy body was past sensible.\n\nFour days of talking had done something strange to the dragon.\n\nNot made him safe.\n\nI knew better than that.\n\nMade him present.\n\nThere is a difference between sleeping near danger and sleeping near a thing that has been there every time you opened your eyes for four days.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 178,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Humans can make habit out of almost anything.\n\nApparently dragons too.\n\nThe last thing I remember before sleep was Ithar breathing.\n\nSlow.\n\nLarge enough that each breath changed the air near the fire.\n\nI slept.\n\nProperly.\n\nNot mountain sleep.\n\nNot one hand near the knife, wake at every stone, count the exits sleep.\n\nI went away.\n\nWhen I woke, the fire was ash.\n\nThe cave was gray with early light from the passage.\n\nMy mouth tasted terrible.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 179,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "My shoulder had found a new complaint.\n\nMy leg was numb from the knee down.\n\nNormal morning.\n\nIthar was in almost exactly the same position.\n\nAlmost.\n\nOne claw had moved.\n\nPossibly six feet.\n\nProgress.\n\nI sat up.\n\nThe dragon's eye opened.\n\n\"How long?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 180,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Seven hours.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

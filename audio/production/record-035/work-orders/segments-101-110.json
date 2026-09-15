@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 101,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Also that.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 102,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I can hunt.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 103,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Poorly.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 104,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You enjoy that word.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 105,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"It remains accurate.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 106,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI chewed the last piece of bread for an unreasonable amount of time.\n\n\"What do you suggest?\"\n\nIthar stood.\n\nThat changed the cave.\n\nNot metaphorically.\n\nAir moved.\n\nGold collapsed off one shoulder in a glittering slide. His body unfolded through spaces I had stopped noticing were occupied by him. One foreleg planted farther down the chamber. The floor vibrated under my boots.\n\nI looked up.\n\nAnd up.\n\n\"Where are you going?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 107,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Food.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 108,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"For me?\"\n\nNo answer.\n\nHe moved toward a passage large enough for him and disappeared into darkness.\n\nI sat alone in a dragon's hoard.\n\nThat was a strange sentence even by then.\n\nFor several minutes I considered theft.\n\nNot seriously.\n\nMostly professionally.\n\nThere were coins within reach older than the kingdom.\n\nA silver cup half buried near my boot.\n\nA jeweled knife whose handle probably cost more than my parents' building.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 109,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Three gold rings hooked around what I had assumed was a broken spear and now suspected had once been ceremonial.\n\nI touched none of it.\n\nNot because I had become virtuous.\n\nBecause I had seen Ithar flick a copper into stone hard enough to bury it.\n\nOwnership law becomes intuitive around dragons.\n\nThe silence changed without him.\n\nSmaller.\n\nThat surprised me.\n\nThe cave water became louder.\n\nWind moved somewhere high above.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 110,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "A few coins continued sliding after his departure, settling into the space his body had occupied.\n\nI tried again.\n\n\"After they turned five...\"\n\nNothing.\n\nI swore at an empty cave.\n\nIt did not help.\n\nI tried work.\n\nNames.\n\nDates.\n\nStations.\n\nNo.\n\nI tried Nessa.\n\nWorse.\n\nI could see her.\n\nThat was never the problem.\n\nI could see the ledger.\n\nHer district coat.\n\nThe way she pushed loose hair behind one ear when reading something she expected to dislike.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

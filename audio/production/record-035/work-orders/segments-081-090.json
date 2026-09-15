@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 81,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"No.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 82,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You don't get a vote.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 83,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That is not food sufficient for your size.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 84,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"My size?\"\n\nHis eye moved over me.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 85,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You are unexpectedly tall for how little food you carry.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 86,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Unexpectedly?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 87,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Most humans of your height understand volume.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 88,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I had more four days ago.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 89,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You arrived with too little.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 90,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"We covered this. Planning prioritized arrival. Very suspicious.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 231,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Changing the subject until I can talk.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 232,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I changed the direction.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 233,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Same thing.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 234,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"No.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 235,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Feels the same.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 236,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Also not the same.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 237,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI walked back toward the fire.\n\nAsh now.\n\nI crouched and moved one blackened stick with another.\n\nNo reason.\n\nHands wanted a job.\n\n\"You think because I can talk about First Life, that's where we should go.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 238,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I think language returned.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 239,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThat stopped me.\n\nI looked at him.\n\nHe waited.\n\nNo victory.\n\nNo clever dragon smile.\n\nJust observation.\n\nWorse.\n\n\"You noticed.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 240,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

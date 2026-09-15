@@ -1,0 +1,506 @@
+{
+  "record": "035",
+  "routing_mode": "exact_quote_locked",
+  "voices": {
+    "greg": "deep",
+    "ithar": "normal"
+  },
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "dragon_quotes": [
+    {
+      "text": "\"I have done nothing.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You object to my silence.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have relied on it for several days.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Four.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"The sun is visible from the eastern shelf.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It is when the sun behaves reliably.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You stopped.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You asked me to say something.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Useful to which problem?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Name it.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"That is different from not remembering.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Do you?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Then why did you call it losing the thread?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Mm.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Did Mira keep the ribbon?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Did Tomas spend the copper?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"On the wheel?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"His argument was coherent.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Your memory functions.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Your language functions.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You just described a ribbon's migration through three household objects and a child's theory of property seizure.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Mm.\"",
+      "occurrence": 2
+    },
+    {
+      "text": "\"I did not.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You moved.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Poorly, in your case.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"What happened next?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"That is not the same as not knowing.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"And not the same as refusing.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have. I recognize the sound.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"This is different,\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 3
+    },
+    {
+      "text": "\"I do not experience waiting as aggressively as you do.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It appears to be unbearable for you.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have food left.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 2
+    },
+    {
+      "text": "\"Eat.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Then consider whether obeying it would improve your condition.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 4
+    },
+    {
+      "text": "\"That is not food sufficient for your size.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You are unexpectedly tall for how little food you carry.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Most humans of your height understand volume.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You arrived with too little.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It remains suspicious.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"For you?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I am resting the eye.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"The eastern face still has animals.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have not hunted them.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Also that.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Poorly.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It remains accurate.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Food.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It is one.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 3
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 4
+    },
+    {
+      "text": "\"Good.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Human hunting appears worse.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Mm.\"",
+      "occurrence": 3
+    },
+    {
+      "text": "\"Your cut is too shallow.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You are going to.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Define tiny.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Why are you moving?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It is lit.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You climbed here.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 5
+    },
+    {
+      "text": "\"Enough.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have used it repeatedly.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Mm.\"",
+      "occurrence": 4
+    },
+    {
+      "text": "\"Sometimes.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 6
+    },
+    {
+      "text": "\"Older than your current calendar.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Accurate.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 6
+    },
+    {
+      "text": "\"You came for mine?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Then efficient.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You are tired,\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Sleep.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You are not.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Temporarily.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You require my help.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I did not say affection.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I am not doing anything.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Briefly.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 7
+    },
+    {
+      "text": "\"Seven hours.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"The sun remains reliable.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"What happened next?\"",
+      "occurrence": 2
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 8
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 9
+    },
+    {
+      "text": "\"You have packaged nearly everything else.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Eleven years at East Four became Tuesdays, wages, meals, shoes, and one woman stealing a potato.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"A brother who no longer knew you became one conversation in a room. A marriage you insist on describing through ledgers became bread, work, disagreement, and signatures. Two children became sleep, cloth, cups, pencils, coins, and arguments over trousers.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You compress aggressively. Often badly. Sometimes dishonestly. But you compress.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"That was not praise.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Now you cannot choose the container.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Perhaps.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have spent four days attempting to demonstrate that experience has structure. Cause. Choice. consequence. Revision. You select what belongs together and call the selection an account.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 10
+    },
+    {
+      "text": "\"So perhaps the failure is information.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have used the other life as a measuring instrument since you arrived.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"When this body disappoints you, you compare it to the first. When your choices surprise you, you compare them to the first. When a person differs from your memory, the first life becomes evidence. When your knowledge exceeds this life's experience, the first life becomes explanation.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Sometimes.\"",
+      "occurrence": 2
+    },
+    {
+      "text": "\"That is your claim.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"We are on everything.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You call the man S-class. You call him support. You say he never married. You say he never had children. You say he kept leaving. You say he knew Nhal. You say this body remembers what his could do.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have used him to explain this life repeatedly.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have not told me what he thought he was doing.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"What is?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I changed the direction.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 8
+    },
+    {
+      "text": "\"Also not the same.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I think language returned.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 11
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 12
+    },
+    {
+      "text": "\"That phrase also remains available.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You assume the reason is behind you.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"That outcome favors me.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Where?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"If we go backward, where do you begin?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I have one face.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Begin.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Why did you?\"",
+      "occurrence": 1
+    }
+  ]
+}

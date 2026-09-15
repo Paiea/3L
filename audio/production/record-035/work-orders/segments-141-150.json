@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 141,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That is not an answer.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 142,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have used it repeatedly.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 143,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Different jurisdiction.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 144,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Mm.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 145,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Do you dream?\"\n\nA pause.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 146,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Sometimes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 147,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThat was more answer than I expected.\n\n\"About what?\"\n\nHis eye opened.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 148,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"No.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 149,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI laughed.\n\n\"Fair.\"\n\nI cut another piece of meat.\n\n\"How old are you?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 150,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Older than your current calendar.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

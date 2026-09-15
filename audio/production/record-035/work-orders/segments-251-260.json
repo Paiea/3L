@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 251,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": " he asked.\n\n\"Where what?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 252,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"If we go backward, where do you begin?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 253,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI almost said the Guild.\n\nWrong.\n\nI almost said my first field contract.\n\nAlso wrong.\n\nCould have said the first time I realized reinforcement could be more than reinforcement.\n\nToo impressive.\n\nCould have said the first person I saved.\n\nThat would have sounded good.\n\nIt would also have been bullshit.\n\nThe beginning was smaller.\n\nEmbarrassingly smaller.\n\nIthar's nostril moved.\n\n\"Do not.\"\n\nHe had not said anything.\n\n\"You are doing the face.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 254,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I have one face.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 255,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Untrue.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 256,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Begin.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 257,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI rubbed both hands over my face.\n\nThen let them fall.\n\n\"Barrier.\"\n\nIthar waited.\n\n\"Cheap utility spell. Everybody knew somebody who knew it. Dust. Rain. Splashes. Wound covers. Keeping things on one side of a boundary.\"\n\nHis eye sharpened slightly.\n\nGood.\n\nTechnical language.\n\nEasy.\n\n\"It wasn't impressive. Half the reason people learned it had nothing to do with combat.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 258,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Why did you?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 259,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThere it was.\n\nI looked at the dragon.\n\nAt the mountain of gold.\n\nAt the ancient creature waiting for the origin of the only human support specialist who would eventually reach S-class.\n\nForty years of work.\n\nSeven living S-class at the height of it.\n\nNhal beneath the salt.\n\nKings.\n\nCities.\n\nPeople who would later use my name in reports.\n\nThere were several ways to answer that question with dignity.\n\nNone were true.\n\nI sighed.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 260,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"I learned Barrier because I didn't want to get anyone pregnant.\"",
+      "pause_after_ms": 220
+    }
+  ]
+}

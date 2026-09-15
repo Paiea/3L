@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 241,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Immediately.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 242,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 243,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Fuck you.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 244,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That phrase also remains available.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 245,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI laughed.\n\nActually laughed.\n\nThat helped more than I wanted it to.\n\nI sat again.\n\nThe stone had not become more comfortable overnight.\n\nSome institutions resist reform.\n\n\"Fine.\"\n\nIthar waited.\n\n\"Not fine. Temporary.\"\n\nStill waited.\n\n\"We go backward until I can figure out why forward stopped working.\"\n\nHis eye narrowed.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 246,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You assume the reason is behind you.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 247,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I assume talking is better than staring at each other until one of us dies.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 248,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That outcome favors me.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 249,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Exactly.\"\n\nThe dragon's mouth shifted.\n\nI had him there.\n\nProbably not.\n\nI looked at my hands.\n\nOld hands now.\n\nScarred.\n\nOne finger still did not close properly.\n\nThe first hands had been different.\n\nNot at nineteen.\n\nAt nineteen they had been ordinary too.\n\nThat was the part people forget when they hear S-class.\n\nNobody begins as the thing people later use to summarize them.\n\nIthar watched the thought arrive without hearing it.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 250,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Where?\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

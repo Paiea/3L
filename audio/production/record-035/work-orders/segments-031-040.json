@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Then why did you call it losing the thread?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nBecause that sounded temporary.\n\nBecause threads can be found.\n\nBecause people who lose threads are still people telling stories.\n\nI did not say any of that.\n\n\"Convenient phrase.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 33,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Mm.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI hated that sound.\n\nI had hated it for four days.\n\nPossibly longer.\n\n\"Ask me something.\"\n\nIthar considered.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 35,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Did Mira keep the ribbon?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 36,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThe answer arrived before he finished the question.\n\n\"For months. Not in her hair. She hated keeping things tied in her hair. She put it on the horse, then a basket handle, then around a jar she claimed was hers even though it held onions. Nessa took it off the jar because the ribbon smelled like onion for a week. Mira blamed the onions.\"\n\nI stopped.\n\nIthar watched me.\n\n\"What?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 37,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Did Tomas spend the copper?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 38,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Eventually.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 39,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"On the wheel?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 40,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"No.\"\n\nI frowned.\n\nThe memory shifted into place.\n\n\"A whistle. Terrible thing. Two copper. He blew it inside once. Nessa confiscated it. He argued that confiscation should return the purchase price.\"\n\nIthar's mouth moved.\n\n\"He was five.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 181,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You counted that too?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 182,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"The sun remains reliable.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 183,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Show-off.\"\n\nI drank water.\n\nCold this time from behind the shelf.\n\nBetter.\n\nThere was meat left.\n\nA lot.\n\nDragon portioning.\n\nI ate some cold because morning standards were lower.\n\nNeither of us spoke until I finished.\n\nThen Ithar asked, ",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 184,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"What happened next?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 185,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI stared at him.\n\n\"Fuck you.\"\n\nHis nostril moved.\n\nI tried anyway.\n\nNothing.\n\nSleep had not fixed it.\n\nThat was the first moment I became afraid.\n\nNot visibly.\n\nI hoped.\n\nIthar's eye shifted.\n\nFine.\n\nProbably visibly.\n\n\"I can remember.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 186,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 187,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I can answer questions.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 188,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 189,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I cannot...\"\n\nThe word would not come.\n\nOf course.\n\nI laughed once.\n\nBad sound.\n\n\"Package it.\"\n\nIthar waited.\n\n\"There. That's the word. I cannot package it.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 190,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have packaged nearly everything else.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

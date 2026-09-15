@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 151,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Annoying answer.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 152,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Accurate.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 153,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Were you ever young?\"\n\nHe looked at me long enough that I regretted the question.\n\nThen:\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 154,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 155,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI waited.\n\nNothing else.\n\n\"You are terrible at stories.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 156,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You came for mine?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 157,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"No.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 158,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Then efficient.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 159,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI hated that enough to smile.\n\nThe food helped.\n\nNot the problem.\n\nEverything around it.\n\nMy hands stopped shaking slightly.\n\nI had not noticed they were shaking until they stopped.\n\nIthar had.\n\nOf course.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 160,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You are tired,\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

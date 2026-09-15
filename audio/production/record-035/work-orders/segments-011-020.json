@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI frowned.\n\n\"Several?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 12,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Four.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked toward the cave mouth again.\n\nLight there had changed enough times that four should not have surprised me.\n\nIt did.\n\nThe mountain had a poor relationship with clocks.\n\nSo did dragons.\n\nI had slept.\n\nNot enough.\n\nEaten.\n\nLess than enough.\n\nTalked.\n\nFar too much.\n\nApparently four days.\n\n\"You counted?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 14,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"The sun is visible from the eastern shelf.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That is not the same as counting.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 16,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"It is when the sun behaves reliably.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 17,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Show-off.\"\n\nIthar said nothing.\n\nFine.\n\nI tried the sentence again.\n\n\"After they turned five...\"\n\nNothing.\n\nNot blankness.\n\nThat would have been easier.\n\nBlankness is absence.\n\nYou can point to it.\n\nThis was crowding.\n\nToo much arrived at once.\n\nRooms.\n\nWeather.\n\nArguments.\n\nWork.\n\nHands.\n\nFood.\n\nIllness.\n\nSchedules.\n\nShoes.\n\nDoors.\n\nPeople I could name.\n\nPeople I could not.\n\nYears that had not been empty and would not stand in line.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 18,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The memories did not disappear when I reached for them.\n\nThey came closer.\n\nAll of them.\n\nThat was the problem.\n\nI pressed the heel of my hand against my forehead.\n\n\"Fuck.\"\n\nIthar waited.\n\n\"Say something.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 19,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You stopped.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 20,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Excellent work.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

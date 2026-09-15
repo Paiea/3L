@@ -1,0 +1,77 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 191,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I know.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 192,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Eleven years at East Four became Tuesdays, wages, meals, shoes, and one woman stealing a potato.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 193,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at him.\n\nHe continued.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 194,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"A brother who no longer knew you became one conversation in a room. A marriage you insist on describing through ledgers became bread, work, disagreement, and signatures. Two children became sleep, cloth, cups, pencils, coins, and arguments over trousers.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 195,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nHis head lowered slightly.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 196,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You compress aggressively. Often badly. Sometimes dishonestly. But you compress.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 197,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Thank you.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 198,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That was not praise.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 199,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Everyone has learned that sentence.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 200,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Now you cannot choose the container.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}
