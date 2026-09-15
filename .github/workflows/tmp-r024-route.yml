@@ -1,0 +1,68 @@
+name: Temporary Record 024 Route Build
+
+on:
+  push:
+    branches: [audio/record-024-production]
+    paths:
+      - audio/routing/record-024.json
+      - .github/workflows/tmp-r024-route.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build-route:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-024-production
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate exact route plan and work orders
+        run: |
+          python scripts/audio_route.py manuscript/records/024/current.md audio/routing/record-024.json audio/production/record-024/route-plan.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          route_path = Path('audio/production/record-024/route-plan.json')
+          plan = json.loads(route_path.read_text(encoding='utf-8'))
+          segments = plan['segments']
+          assert ''.join(s['transcript'] for s in segments) == plan['audio_body']
+          assert [s['index'] for s in segments] == list(range(1, len(segments) + 1))
+
+          out = Path('audio/production/record-024/work-orders')
+          out.mkdir(parents=True, exist_ok=True)
+          for old in out.glob('segments-*.json'):
+              old.unlink()
+          for offset in range(0, len(segments), 10):
+              chunk = segments[offset:offset + 10]
+              first = chunk[0]['index']
+              last = chunk[-1]['index']
+              payload = {
+                  'record': plan['record'],
+                  'source_sha256': plan['source_sha256'],
+                  'routing_mode': plan['routing_mode'],
+                  'segments': chunk,
+              }
+              target = out / f'segments-{first:03d}-{last:03d}.json'
+              target.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+          print(f"record 024: {len(segments)} segments; source {plan['source_sha256']}")
+          PY
+      - name: Verify repository contract
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit generated production plan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/production/record-024
+          if git diff --cached --quiet; then
+            echo "No generated changes"
+          else
+            git commit -m "Generate Record 024 audio route plan"
+            git push origin HEAD:audio/record-024-production
+          fi
