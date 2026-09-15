@@ -1,581 +1,1283 @@
 ## RECORD 037
 
-## THE TEACHER
+## THE OPENING
 
-I was a terrible teacher because I knew what I meant.
+"You wanted to know what he was seeing."
 
-This seemed unfair.
+Ithar had not forgotten the sentence.
 
-Sera volunteered me.
+Of course not.
 
-That was revenge for the cabinet lock.
+"Yes."
 
-East Four had a young station hand named Kett Sorn.
+"So you returned."
 
-Twenty-two.
+"I was employed there."
 
-Three years on crew.
-
-Color-blind enough that Sera's metal repair tags had saved him from pretending red cord made sense.
-
-Good with tools.
-
-Patient with machinery.
-
-Bad at asking questions before he became confused.
-
-In other words, familiar.
-
-District wanted station workers trained to assist with legacy inspection so every old wall did not require me, Tova, or Mara to arrive personally.
-
-Reasonable.
-
-Dera, now ruining procedures professionally, wrote the training request.
-
-PRACTICAL FIELD INSTRUCTION REQUIRED.
-
-Sera wrote my name beneath it.
-
-I objected.
-
-“You know legacy work,” she said.
-
-“So does Tova.”
-
-“Tova charges district training rate.”
-
-“I also charge.”
-
-“You owe me for six missing gauge returns.”
-
-“That is not how debt works.”
-
-“It is today.”
-
-Kett stood beside us pretending not to exist.
+"You returned early."
 
 I looked at him.
 
-“You want this?”
+"Support staff arrive early."
 
-He shrugged.
+"You said that already."
 
-Sera said, “Use words.”
+"Still true."
 
-Everyone had become Nessa.
+"How early?"
 
-Kett said, “Yes.”
+I considered lying.
 
-“Why?”
+Not seriously.
 
-“Better qualification.”
+"An hour."
 
-“Pay?”
+Ithar's nostril moved.
 
-“Yes.”
+"Fuck you."
 
-Good.
+"I said nothing."
 
-Honest student.
+"You have become very expressive."
 
-Our first lesson went badly in eleven minutes.
+"Continue."
 
-I took him to East Two's lower passage.
+Day three started before the crowd.
 
-Old brick.
+The stone rings were wet from overnight rain.
 
-Bronze sleeve.
+Workers pushed water toward drains with broad wooden squeegees while barrier crews checked the main boundary.
 
-Load marks.
+Vendors lit cookfires.
 
-Reference gauges.
+Somebody burned onions before sunrise.
 
-I pointed at the wall.
+I remember that because the smell followed me through the entire morning.
 
-“What do you see?”
+The Guild tent had seven new injury reports waiting.
 
-“Brick.”
+One from sleep.
 
-I waited.
+A competitor rolled out of a temporary cot and dislocated two fingers catching himself.
 
-He waited.
+He was scheduled for the open bracket.
 
-“Anything else?”
+A-class.
 
-“Old brick.”
+Human dignity survives classification poorly.
 
-“Yes.”
+We reduced the fingers.
 
-“Warm.”
+Wrapped them.
 
-“Good.”
+Told him he could compete if the senior healer cleared him.
 
-“Paint.”
+He asked whether we could leave the report informal.
 
-“There is no paint.”
+We could not.
 
-“On the upper edge.”
+He called us bureaucrats.
 
-I looked.
+He was correct.
 
-Tiny line of old whitewash near the lintel.
+Then the gallery started filling.
 
-Fine.
+I did not look for Arcrutus.
 
-“What matters?”
+Not immediately.
 
-Kett frowned.
+I made it almost four minutes.
 
-“The warm brick?”
+Same section.
 
-“Maybe.”
+Same shade.
 
-“The load mark?”
+No paper cone yet.
 
-“Maybe.”
+He was speaking to a woman in dark clan colors with silver at one shoulder.
 
-“The sleeve?”
+She stood.
 
-“Maybe.”
+He sat.
 
-He looked at me.
+That seemed unfair until I watched her for thirty seconds and decided she was probably more dangerous than everyone in my Guild tent combined.
 
-“This is bad teaching.”
+Then I stopped feeling bad for her.
 
-I stared.
+The first open quarterfinal began.
 
-He looked terrified immediately.
+Two A-class fighters.
 
-Good instinct.
+One used a long saber.
 
-Unfortunately correct.
+The other fought empty-handed because apparently hands are insufficiently dangerous until reinforced by somebody who has spent twenty years learning how to break stone with them.
 
-“What would you like?”
+The saber fighter controlled distance early.
 
-“To know what answer you want.”
+Three clean entries.
 
-“I don't want an answer.”
+No hits.
 
-“Then why ask?”
+The empty-hand fighter kept turning off line.
 
-That was annoyingly difficult.
+Fourth entry, he accepted the blade against a forearm barrier and stepped inside.
 
-“Because inspection is noticing before deciding.”
+The impact cracked the stone beneath both of them.
 
-Kett nodded slowly.
+The crowd made the noise crowds make when something nearly becomes a medical emergency.
 
-“Okay.”
+I looked at Arcrutus.
 
-Then he wrote BRICK on his slate.
+Nothing.
 
-I closed my eyes.
+Expected.
 
-We tried again.
+The empty-hand fighter stayed inside.
 
-I showed him the hooked legacy mark.
+Short elbow.
 
-“What does it mean?”
+Shoulder.
 
-“I don't know.”
+Hip.
 
-“Good.”
+The saber fighter gave ground and changed grip.
 
-He looked suspicious.
+His support outside the ring shifted two steps left.
 
-“I also don't know.”
+Not closer.
 
-“Then why are we looking at it?”
+Left.
 
-“Because it repeats near responsive supports.”
+I watched that instead.
 
-“So it means responsive support.”
+The support raised one hand.
 
-“No.”
+Barrier shimmered around the saber fighter's rear calf.
 
-“Why not?”
+Brief.
 
-“Correlation.”
+Gone.
 
-“What?”
+The saber fighter attacked again.
 
-Right.
+Arcrutus leaned forward.
 
-First-life vocabulary leaking from technical briefings.
+I looked at the calf.
 
-“It appears near them. We do not know whether it labels load, construction type, inspection point, crew mark, direction, or something else.”
+The fighter's rear foot landed cleaner than before.
 
-Kett wrote:
+Not stronger.
 
-HOOK = SOMETHING.
+Cleaner.
 
-I looked at him.
+The next retreat was faster.
 
-He smiled slightly.
+He recovered distance.
 
-I liked him more.
+The crowd reacted to the saber cut that followed.
 
-The next lesson was sound.
+I looked up.
 
-Worse.
+Arcrutus was not watching the cut.
 
-I took him through East Four after shift.
+He was looking at me.
 
-Healthy station.
+Again.
+
+This time I did not freeze.
 
 Mostly.
 
-“Listen.”
+I looked back at the support.
 
-He listened.
+Then at Arcrutus.
 
-“What?”
+His head moved once.
 
-“The hum.”
+Small.
 
-“Yes.”
+Could have been nothing.
 
-“What about it?”
+I decided it was not.
 
-“Healthy.”
+The saber fighter won four exchanges later.
 
-“How?”
+I had no idea whether my conclusion was right.
+
+That bothered me more than the result.
+
+The morning continued.
+
+Work interrupted education.
+
+A cracked rib.
+
+Two channel burns.
+
+One concussion.
+
+A woman from a minor clan tried to leave before we finished checking her pupils.
+
+I stood in the tent opening.
+
+She told me to move.
+
+I told her no.
+
+She informed me she could throw me through the canvas wall.
+
+Accurate.
+
+I informed her she could do that after the healer cleared her vision.
+
+She stared at me.
+
+I stared back.
+
+Then she sat.
+
+I was very proud of myself until the senior healer said, "You know she could have actually done that."
+
+"Yes."
+
+"Then why stand there?"
+
+"It worked."
+
+The healer closed his eyes.
+
+Apparently this was not the answer he wanted.
+
+Around noon I carried a stack of used stabilization wraps toward the wash barrels behind the main gallery.
+
+That put me closer to Arcrutus's section than I had been before.
+
+Not intentionally.
+
+Mostly.
+
+The upper walkway curved behind the seats.
+
+Clan attendants moved through it carrying food, messages, weapons cases, folded cloaks.
+
+I kept to the outside.
+
+Then someone said:
+
+"Support."
+
+I kept walking.
+
+There were many of us.
+
+"The one staring at me."
+
+I stopped.
+
+There were fewer of those.
+
+Arcrutus stood at the rail above me.
+
+Not in the chair.
+
+That was new.
+
+Up close he looked older.
+
+Also worse.
+
+Not unhealthy.
+
+Just used.
+
+Scar along one side of the jaw.
+
+Another disappearing beneath the collar.
+
+The left hand had two knuckles that sat wrong.
+
+His eyes were dark.
+
+Ordinary eyes.
+
+I found that disappointing for reasons I could not defend.
+
+He looked at the wraps in my arms.
+
+Then at me.
+
+Complete attention.
+
+That was different.
+
+The tournament noise remained behind us.
+
+People moving.
+
+Vendors shouting.
+
+A crowd reacting to something in the east ring.
+
+None of it felt quieter.
+
+Arcrutus simply made it less relevant.
+
+"You have been watching me," he said.
+
+Not accusation.
+
+Inventory.
+
+"Yes."
+
+One eyebrow moved.
+
+Maybe he expected denial.
+
+Maybe not.
+
+"Why?"
+
+"You react to different things than everyone else."
+
+"Everyone reacts to different things."
+
+"Not like you."
+
+"How do I react?"
+
+There are moments when honesty becomes easier because lying would require too much architecture.
+
+"Mostly you eat chestnuts."
+
+A woman behind him made a sound that might have been a cough.
+
+Arcrutus looked at me for another second.
+
+Then down at his empty hand.
+
+"Currently no chestnuts."
+
+"I've noticed."
+
+"Good."
+
+I could not tell whether he was making fun of me.
+
+That became a recurring problem.
+
+"You stop," I said.
+
+"Doing what?"
+
+"Small things. Eating. Tapping your finger. Looking where everyone else looks. You change when something matters."
+
+"To me."
+
+"Yes."
+
+"You assume that means it matters."
 
 I opened my mouth.
 
-There it was.
+Closed it.
 
-I knew.
+"More likely than when the entire crowd starts screaming."
 
-Teeth vibration.
+That got something.
 
-Bearing note.
+Not a smile.
 
-Return resonance.
+Almost the decision before one.
 
-Pressure whistle under upper feed.
+Then gone.
 
-Eleven years of repetition compressed into one word.
+"Why did the saber fighter win?" he asked.
 
-Healthy.
+I answered too quickly.
 
-Kett had three years.
+"His support stabilized the rear leg after the fourth entry."
 
-He heard a station.
+"No."
 
-I heard deviations from thousands of remembered hours.
+The answer hit harder than expected.
 
-“Fine,” I said. “Bad lesson.”
+"You looked at the support."
 
-He looked relieved.
+"Yes."
 
-Sera, at the pressure desk, said, “Two in one day.”
+"You leaned forward after he adjusted the calf barrier."
 
-“Fuck you.”
+"Yes."
 
-We built a better one.
+"Then what was it?"
 
-Not that day.
+"You tell me."
 
-Over weeks.
+Annoying old bastard.
 
-I started collecting pairs.
+I thought.
 
-Healthy bearing and worn bearing.
+The saber fighter had been losing distance.
 
-Open valve and partially obstructed valve.
+Support corrected the calf.
 
-Normal pressure hammer and pipe support knock.
+Movement improved.
 
-Warm foundation from ordinary heat transfer and warm foundation with load response.
+But that was not why he won.
 
-Good mortar and hollow overplate.
+"He stopped giving ground."
 
-Not descriptions first.
+"No."
 
-Experience side by side.
+"The other fighter got impatient."
 
-“Listen to this.”
+"Closer."
 
-Then the other.
+I replayed the exchanges.
 
-“What changed?”
+Empty-hand fighter had gotten inside repeatedly.
 
-Kett learned faster.
+After the supported recovery, saber fighter regained distance once.
 
-So did I.
+Then deliberately gave some of it back.
 
-Teaching exposed how much of my expertise was unlabelled.
+The empty-hand fighter followed.
 
-I would say, “That sounds dry.”
+Too eagerly.
 
-Kett would ask, “Dry how?”
+Same entry as before.
 
-I would become angry at language.
+Expected success.
 
-Then find words.
+Saber changed grip.
 
-Sharp return.
+Cut on exit.
 
-No low resonance.
+"He made him believe the inside was still available."
 
-Vibration ends immediately after valve close instead of trailing.
+Arcrutus's gaze stayed on me.
 
-Better.
+"Better."
 
-Not perfect.
+That felt absurdly good.
 
-Transferable.
+I disliked that immediately.
 
-Tova helped once.
+"Then why were you watching the support?"
 
-She watched me explain a cracked support.
+"I was not."
 
-I said, “You can tell this is old movement.”
+"You were looking directly at him."
 
-Kett asked, “How?”
+"I was looking at the fighter through him."
 
-I pointed at dust.
+I frowned.
 
-“Edges dark.”
+Arcrutus pointed one finger toward the ring without looking away from me.
 
-Tova said, “Also mineral fill.”
+"You see the thing in front of your eyes and decide it is the thing being measured."
 
-I looked closer.
+"Usually a good starting assumption."
 
-White deposit inside the crack.
+"Starting."
 
-Water had moved through it long enough to leave scale.
+He let the word sit there.
 
-I had seen it without consciously naming it.
+That was irritating.
 
-Kett wrote both.
+"You do this often?" I asked.
 
-Teacher and student learned something.
+"What?"
 
-Annoying arrangement.
+"Make people answer questions until they discover you think they are wrong."
 
-The hardest lesson was stopping.
+"Only when they stare at me for three days."
 
-Young workers want rules.
+Fair.
 
-Old workers pretend they do not use them.
+Someone behind him said, "Lord Arcrutus, the south delegation is waiting."
 
-Kett asked, “When do I call district instead of inspecting myself?”
+He looked over his shoulder.
 
-I gave him several answers.
+The attention left me.
 
-None satisfied me.
+It was almost physical.
 
-Unknown pressure source.
+"I have work," he said.
 
-Movement under load.
+"So do I."
 
-Legacy structure tied into live service.
+I lifted the dirty wraps.
 
-Evidence of active failure.
+Arcrutus looked at them.
 
-Anything beyond qualification.
+"You are carrying laundry."
 
-He asked, “What if I don't know if it is beyond qualification?”
+"Professional laundry."
 
-That was the real question.
+"Important distinction."
 
-“Then it is.”
+"Very."
 
-“Always?”
+He turned away.
 
-“For now.”
+I made it five steps.
 
-“That seems cowardly.”
+"Support."
 
-“Yes.”
+I turned back.
 
-He looked surprised.
+"You decide too quickly."
 
-“Cowardice is underrated during training.”
+"About what?"
 
-“You were not cowardly when you were young.”
+"Everything."
+
+Then he left.
+
+I stood there holding bloody cloth and feeling personally attacked by accuracy.
+
+Ithar interrupted.
+
+"Did you?"
+
+"Did I what?"
+
+"Decide too quickly."
+
+"No."
+
+Silence.
+
+"Fine. Yes. Sometimes."
+
+More silence.
+
+"Frequently."
+
+Ithar settled one foreclaw farther beneath his jaw.
+
+"Interesting."
+
+"You are both very irritating."
+
+"You sought him out."
+
+"I did not seek him out."
+
+"You arrived an hour early."
+
+"For work."
+
+"And carried laundry beneath his seating section."
+
+"There were wash barrels there."
+
+"Convenient."
+
+"Do you want the story or not?"
+
+"Yes."
+
+"Then stop helping."
+
+The dragon's mouth moved.
+
+I ignored it.
+
+After that conversation the tournament changed.
+
+Not because Arcrutus taught me anything formally.
+
+He did not.
+
+He watched.
+
+I watched him watching.
+
+Sometimes I thought I understood something and looked toward the upper gallery.
+
+Sometimes he was already looking at me.
+
+That became annoying.
+
+Then competitive.
+
+A support reinforced the wrong side of a shoulder before a heavy strike.
+
+I saw it.
+
+Looked up.
+
+Arcrutus was watching the ring.
+
+I waited.
+
+The fighter over-rotated on impact.
+
+Shoulder held.
+
+Hip did not.
+
+Arcrutus looked at me.
+
+I pointed at the hip.
+
+He moved his hand side to side once.
+
+No.
+
+I looked again.
+
+The fighter's next breath hitched.
+
+Ribs.
+
+I pointed lower.
+
+Arcrutus tapped one finger against his chest.
+
+Closer.
+
+The match continued.
+
+I missed the actual answer.
+
+That happened often.
+
+Another time a B-class shield fighter took three enormous hits without giving a step.
+
+Everyone praised the reinforcement.
+
+I watched the support instead.
+
+Nothing.
+
+No gestures.
+
+No visible channel work.
+
+Then I noticed the support had stopped blinking.
+
+Not metaphorically.
+
+His eyes watered.
+
+Jaw locked.
+
+Hands loose at his sides.
+
+Too loose.
+
+He was carrying something.
+
+I looked up.
+
+Arcrutus was looking at me.
+
+I pointed at the support.
+
+Arcrutus nodded once.
+
+That felt better than getting paid.
+
+Which was dangerous.
+
+I was still twenty-three enough to confuse recognition with value.
+
+By late afternoon I had developed a second system.
+
+Worse than the first.
+
+I started trying to catch Arcrutus not noticing me.
+
+This is difficult to explain without making myself sound stupid.
+
+So I will not try very hard.
+
+If I looked up and he looked back, that proved nothing.
+
+If I looked up and he did not, maybe he had not noticed.
+
+Except sometimes five seconds later he would scratch one eyebrow while still watching the ring.
+
+I decided that was acknowledgment.
+
+Maybe it was an itch.
+
+Once I moved behind a tent support where he could not see me directly.
+
+His eyes shifted to the other side before I came out.
+
+Could have been coincidence.
+
+I tried again from behind two people.
+
+Same thing.
+
+Third time I stayed hidden.
+
+Arcrutus kept watching the match.
+
+I waited.
+
+Thirty seconds.
+
+Nothing.
+
+Victory.
+
+Then a clan attendant walked past me and said, "He says this is becoming embarrassing."
+
+I stopped experimenting for almost an hour.
+
+Eventually I found myself near the lower gallery during a bracket reset.
+
+Arcrutus was standing at the rail again.
+
+Chestnuts had returned.
+
+I looked at the cone.
+
+He noticed.
+
+"Hungry?"
+
+"No."
+
+"Then stop looking at my food."
+
+"I'm testing something."
+
+"Poorly."
+
+"Do you always know when I'm watching you?"
+
+"No."
+
+That surprised me.
+
+"No?"
+
+"No."
+
+"Good."
+
+"Why good?"
+
+"Means there are openings."
+
+The woman with silver at her shoulder was beside him again.
+
+She closed her eyes briefly.
+
+Arcrutus ate a chestnut.
+
+"You are trying to surprise me."
+
+"Not currently."
+
+"That answer contains too much confidence."
+
+"Can you be surprised?"
+
+"Yes."
+
+"By me?"
+
+"Almost certainly."
+
+"That sounds encouraging."
+
+"It was not."
+
+I leaned against the lower rail.
+
+"If I threw something at you while you weren't looking, would you catch it?"
+
+The silver-shouldered woman opened her eyes.
+
+Arcrutus looked at me.
+
+Then at the woman.
+
+Then back at me.
+
+"No."
+
+"Interesting."
+
+"Why?"
+
+"I expected yes."
+
+"You should improve your expectations."
+
+"So it would hit you?"
+
+"No."
+
+I frowned.
+
+"You just said you wouldn't catch it."
+
+"Correct."
+
+"Those are the available outcomes."
+
+"To you."
+
+There are sentences that become invitations only because the listener is an idiot.
+
+That was one.
+
+"You'd still have to know it was coming."
+
+"Would I?"
+
+"Yes."
+
+"Try."
+
+The woman beside him turned her head very slowly toward Arcrutus.
+
+He ignored her.
 
 I stared at him.
 
-“How do you know?”
+"Seriously?"
 
-“Stories.”
+"No."
 
-“What stories?”
+"What?"
 
-He immediately became interested in the wall.
+"Nothing about this conversation is serious."
 
-Sera.
+Then he returned to the ring.
 
-Dera.
+I should have left it there.
 
-Lorn.
+I did not.
 
-Everyone was dead to me.
+The opportunity came twenty minutes later.
 
-“Most stories skip paperwork,” I said.
+Or I manufactured one.
 
-“Yeah.”
+Those can feel similar at twenty-three.
 
-“They also skip the days after you guess wrong.”
+A semifinal had started in the main ring.
 
-He nodded.
+Good one.
 
-Good enough.
+Two A-class fighters with enough history that the crowd had chosen sides before either entered.
 
-His first supervised inspection was Market Five.
+Arcrutus was seated.
 
-Not the dramatic stair.
+Not eating now.
 
-Different section.
+He had turned partly away from the ring to speak with a clan officer behind him.
 
-Old service wall beside a wash return.
+Full head turn.
 
-Kett led.
+Eyes elsewhere.
 
-I followed.
+One hand resting open on the arm of the chair.
 
-He hated that.
+The other pointing at something on a folded document.
 
-Good.
+Not looking at me.
 
-“What do you see?” I asked.
+Not looking at the ring.
 
-He looked at me.
+Not looking at the aisle.
 
-“No.”
+I had bought chestnuts.
 
-“What?”
+For research.
 
-“You answer that now.”
+One remained in the cone.
 
-“I am supervising.”
+I rolled it between two fingers.
 
-“You said teacher should not hide answer.”
+The Guild woman from the first day saw me.
 
-“I did not say that.”
+Her face changed.
 
-“You said something like it.”
+That should have been enough warning.
 
-Tova would have enjoyed this.
+I tossed the chestnut.
 
-I let him work.
+Not hard.
 
-He checked records.
+Underhand.
 
-Measured wall temperature.
+A clean little arc from maybe fifteen feet away.
 
-Tapped mortar.
+It crossed eight feet.
 
-Noted one old mark without assigning meaning.
+Maybe nine.
 
-Compared current pressure to station log.
+Then it became dust.
 
-Then stopped at a drain opening.
+No sound.
 
-“What?” I asked.
+No flash.
 
-He crouched.
+No visible barrier.
 
-“Air.”
+No hand moved that I could see.
 
-I felt nothing.
+The chestnut was whole.
 
-“From where?”
+Then it was a brown cloud expanding gently through the afternoon air.
 
-“Drain.”
+Pieces would have made more sense.
 
-“Drains have air.”
+There were no pieces.
 
-“Pulsing.”
+Powder.
 
-I put my hand near it.
+Fine enough that sunlight caught it.
 
-There.
+The dust drifted downward.
 
-Faint.
+Arcrutus kept speaking to the clan officer.
 
-Regular pulse with station load.
+I stared.
 
-I had missed it.
+The Guild woman stared at me.
 
-Not because First-Life certainty.
+The silver-shouldered woman had one hand on the weapon at her hip.
 
-Not because pride.
+Arcrutus lifted one finger without turning around.
 
-Because I had been watching Kett.
+She removed her hand.
 
-He had been watching the station.
+That was when fear arrived.
 
-Good student.
+Late.
 
-We traced the drain.
+Curiosity had gotten there first.
 
-Old vent path connected to a legacy cavity.
+Arcrutus finished whatever sentence he was saying.
 
-Not dangerous.
+The clan officer nodded and left.
 
-Useful map correction.
+Only then did Arcrutus turn toward me.
 
-Kett wrote the report.
+"Chestnut," he said.
 
-His first draft said:
+"Yes."
 
-FOUND ACTIVE LEGACY VENT.
+"Wasteful."
 
-I crossed out ACTIVE.
+"What did you do?"
 
-“Why?”
+"You threw food at me."
 
-“Air responds to load. We do not know what the cavity does.”
+"I know what I did."
 
-He looked at me.
+"Good."
 
-Then smiled.
+"What did you do?"
 
-“Correlation.”
+"Stopped it."
 
-“Fuck you.”
+"With what?"
 
-He changed it.
+"Enough."
 
-FOUND LEGACY VENT WITH LOAD-RESPONSIVE AIR MOVEMENT.
+I looked at the dust still settling between us.
 
-Better.
+"That is not an answer."
 
-Longer.
+"It answered the problem."
 
-Usually the same thing.
+"I didn't see you move."
 
-District gave him provisional legacy-assist qualification three months later.
+"You often do not see things."
 
-He got a small pay increase.
+"Did you move?"
 
-Sera made him buy lunch.
+Arcrutus reached into his cone.
 
-Reasonable institution.
+Took another chestnut.
 
-I kept teaching others after Kett.
+Ate it.
 
-Not many at first.
+"Maybe."
 
-One worker at a time.
+"Fuck you."
 
-Sometimes two.
+The silver-shouldered woman made the cough sound again.
 
-The training changed because every student exposed another piece of knowledge I had mistaken for obvious.
+Definitely laughter this time.
 
-That became embarrassing enough to be useful.
+Arcrutus looked at her.
 
-First-life mastery had made me exceptional at doing.
+"He is young."
 
-Second life was asking a harder question.
+"I noticed," she said.
 
-Could someone else do it safely after I left the room?
+I pointed at the space where my chestnut had stopped existing.
 
-Strength does not answer that.
+"Again."
 
-Teaching might.
+Arcrutus looked back at me.
 
-If the teacher stops saying maybe at brick.
+"No."
+
+"Why?"
+
+"Chestnuts cost money."
+
+That was apparently the end of the demonstration.
+
+Ithar was quiet for several seconds.
+
+Then:
+
+"You threw food at one of the seven strongest humans alive."
+
+"One of the seven S-class humans."
+
+"Is that meaningfully different in this context?"
+
+"Classification matters."
+
+"You threw food at him."
+
+"He told me to try."
+
+"He said the conversation was not serious."
+
+"Before that."
+
+"You selected the interpretation most convenient to your experiment."
+
+"Yes."
+
+Ithar's eye narrowed.
+
+"Why?"
+
+"Data."
+
+Silence.
+
+"You could have asked."
+
+"I did."
+
+"You disliked the answer."
+
+"It was incomplete."
+
+"So you assaulted him with a chestnut."
+
+"Assault is doing a lot of work there."
+
+"What would your law call it?"
+
+"Depends who wrote the report."
+
+"And if Arcrutus wrote it?"
+
+I thought about that.
+
+"Probably wasted food."
+
+Ithar's mouth shifted.
+
+"Your species remains difficult."
+
+"You ate an entire mountain goat because you did not understand portions."
+
+"It was one goat."
+
+"Exactly."
+
+We let that stand.
+
+Back at the tournament, Arcrutus did not speak to me again for the rest of the semifinal.
+
+He did look at me twice.
+
+I did not throw anything either time.
+
+Growth.
+
+The match ended badly for the fighter in blue.
+
+Not catastrophic.
+
+Broken forearm.
+
+Dislocated shoulder.
+
+Pride likely unrecoverable.
+
+He had led most of the fight.
+
+That was what interested me.
+
+Blue controlled distance.
+
+Forced bad entries.
+
+Won the early exchanges.
+
+His support was experienced.
+
+Nothing obvious failed.
+
+Then somewhere in the middle the match turned.
+
+Not one moment.
+
+A slope.
+
+Blue started taking longer to reset.
+
+Small.
+
+Half breaths.
+
+Extra foot placement.
+
+One hand opening between exchanges.
+
+His opponent began arriving sooner.
+
+Not moving faster.
+
+Sooner.
+
+By the final minute Blue was defending things he had dictated at the start.
+
+Then the arm broke.
+
+Crowd remembered the break.
+
+I remembered the five minutes before it.
+
+After medical cleared the ring, I was carrying a fresh wrap bundle toward the tent when Arcrutus spoke behind me.
+
+"Support."
+
+I turned.
+
+He was alone this time.
+
+Relatively.
+
+With Arcrutus, alone meant his people had decided fifteen feet counted as privacy.
+
+He pointed toward the damaged ring.
+
+"Why did blue lose?"
+
+I looked at him.
+
+"You know."
+
+"Yes."
+
+"Then why ask me?"
+
+"You have spent three days looking at my face for answers."
+
+Fair.
+
+He waited.
+
+I replayed the fight.
+
+"Fatigue."
+
+"Everyone is fatigued."
+
+"Accumulated reinforcement load."
+
+"Everyone accumulates load."
+
+"His support missed it."
+
+"Did he?"
+
+I stopped.
+
+That was the trap.
+
+I looked back at the ring.
+
+Blood being washed from stone.
+
+Barrier crew checking the boundary.
+
+Blue gone.
+
+Only consequences left.
+
+"His recovery changed first," I said.
+
+Arcrutus said nothing.
+
+"Not speed. Sequence. He used to settle the rear foot, breathe, then lift the guard. Later he lifted the guard before the foot was stable."
+
+Still nothing.
+
+"He was protecting the appearance of readiness."
+
+Arcrutus's head moved slightly.
+
+Not yes.
+
+Not no.
+
+I kept going.
+
+"Maybe the support saw the load. Maybe he was already compensating for it. If he hadn't, Blue would have failed sooner."
+
+Arcrutus looked at me directly.
+
+"Better."
+
+Again that stupid satisfaction.
+
+"What was actually wrong?" I asked.
+
+He shook his head.
+
+"No."
+
+"No what?"
+
+"You asked for answers for three days."
+
+"Yes."
+
+"You have enough answers."
+
+"I disagree."
+
+"Expected."
+
+He pointed at the ring.
+
+"What did you see?"
+
+I started to answer.
+
+He stopped me with one raised finger.
+
+"Not what it meant."
+
+That was harder.
+
+Much harder.
+
+Arcrutus waited.
+
+So I went back to the beginning.
