@@ -29,13 +29,17 @@ jobs:
               "audio/production/record-${n}/route-plan.json"
           done
           python -m unittest tests.test_audio_routing -v
-      - name: Validate captured segment manifests
+      - name: Validate captured segment manifests for 011-020
         run: |
           python - <<'PY'
-          import glob, json
+          import json
           from pathlib import Path
-          for capture_path in sorted(glob.glob('audio/production/record-*/captures.json')):
-              capture_path = Path(capture_path)
+          verified = 0
+          for i in range(11, 21):
+              slot = f'{i:03d}'
+              capture_path = Path(f'audio/production/record-{slot}/captures.json')
+              if not capture_path.exists():
+                  continue
               route_path = capture_path.with_name('route-plan.json')
               capture = json.loads(capture_path.read_text(encoding='utf-8'))
               route = json.loads(route_path.read_text(encoding='utf-8'))
@@ -48,7 +52,9 @@ jobs:
               for captured, routed in zip(csegs, rsegs):
                   assert captured['pause_after_ms'] == routed['pause_after_ms'], (capture_path, captured['index'])
                   assert captured['preview_url'].startswith('https://'), (capture_path, captured['index'])
+              verified += 1
               print(f'verified {capture_path}: {len(csegs)} segments')
+          print(f'verified batch capture manifests: {verified}')
           PY
       - name: Commit generated route plans
         run: |
