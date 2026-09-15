@@ -197,7 +197,17 @@ The ruined leg later forces additional asymmetry and rerouting. The peg may beco
 
 After Record 020, continue building the life before destroying it. Do not rush directly into catastrophe.
 
-Greg and Nessa have a child and a real stretch of parenthood, household pressure, money decisions, work, family aging, ordinary pleasure, arguments, and time. The life is not setup for revenge.
+Greg and Nessa have **twins, one boy and one girl**, and live a real stretch of parenthood before the catastrophe. The twins are separate people, not a single emotional unit. Their names, exact personalities, habits, and ages remain open until prose earns them, but the story must accumulate enough ordinary asymmetry that the audience knows there are two distinct children.
+
+Fatherhood is harder than Greg expected and also, by the evidence of how he remembers it, one of the best things that ever happened to him. He does not need to say this cleanly. He can describe exhaustion, noise, bodily mess, money pressure, interrupted sleep, lost privacy, scheduling, arguments, and practical difficulty while making it increasingly obvious that he loved the life and wanted more of it.
+
+Two newborns make the household materially different from one. Nessa cannot simply absorb the childcare while Greg resumes his old work pattern. Greg stays home or sharply reduces outside work for a meaningful early stretch because two infants and Nessa's recovery make his presence necessary. Family can help, but Greg is not optional. Eventually he returns to work because money, professional life, and the household require a new balance. Returning to work can bring relief and guilt at the same time; work may briefly feel easier than home, while he also misses the twins almost immediately.
+
+Greg and Nessa eventually discuss or desire another child. The exact timing and whether they actively try remain open, but the durable emotional fact is that Greg did not merely endure fatherhood. He wanted **more life** of that kind.
+
+The world continues moving during these years. Wars, Ranker events, Authority decisions, prices, Line problems, public disasters, appointments, and other history can remain active. Greg often tries to narrate those public events because he knows how to tell history more easily than he knows how to tell domestic life. Ithar should notice when Greg uses public chronology to summarize around what actually happened to him. The dragon can force the camera back toward Nessa, the twins, work, money, sleep, family, and the household without dismissing the external events as irrelevant. Greg's argument that "stuff was happening" is often true; Ithar's pressure is that Greg is choosing the safer layer of the truth.
+
+Ithar can also notice before Greg admits it that Greg's complaints about fatherhood are descriptions of attachment and joy. Greg may repeatedly emphasize how exhausting or difficult the twins were while remembering tiny domestic details with far more precision than supposedly important public history. The dragon's role is not to sentimentalize fatherhood for him, but to recognize the conclusion Greg keeps avoiding.
 
 The catastrophe is tied to a revenge event Greg already knew culturally in First Life. A song or famous account preserved the avengers, their grievance, and the culmination of their revenge while compressing the destroyed town and residents into background.
 
@@ -205,9 +215,9 @@ In First Life Greg knew the tune or story and thought little about the town beca
 
 The people who destroy the town are pursuing their own revenge for a real prior wrong. Greg, Nessa, and family are collateral rather than intended personal targets.
 
-Nessa and much of Greg's immediate family and home are killed. Exact survivor set remains open.
+**Nessa and both twins die in the catastrophe.** Much of Greg's immediate family and home may also be lost; the exact additional survivor set remains open.
 
-Shortly before the catastrophe Greg accepts a defensible job away from home because the household can genuinely use the money. Greg is absent when the town is destroyed.
+Shortly before the catastrophe Greg accepts a defensible job away from home because the household can genuinely use the money. Greg is absent when the town is destroyed. The fact that four people cost more than two can materially contribute to why returning to work and taking paid jobs remain reasonable parts of family life.
 
 His deepest Life-Two regret becomes: **I took the job.** The story must not prove that this reasonable decision made him morally responsible.
 
