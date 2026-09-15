@@ -90,37 +90,31 @@ Halden asked me to join the survey two days a week.
 
 “That does not sound like Dera.”
 
-From the pressure desk, without looking up, Dera said, “I recommended sending you away two days a week.”
+From the pressure desk, Dera said, “I recommended sending you away two days a week.”
 
-Nessa turned one page of a transfer sheet.
+Nessa looked up from a transfer sheet.
 
 “Can we make it three?”
 
 “Fuck both of you.”
 
-Halden smiled.
-
 The official title was provisional legacy inspector.
 
 My father was impressed.
-
-That should have warned me.
 
 My mother asked whether it paid more.
 
 Better question.
 
-It did. A little.
+A little.
 
-Not enough for the coat.
+The coat came with the position anyway.
 
-The coat came with the position anyway. District brown, brass buttons, INSPECTION stitched over the inside pocket in letters large enough to make theft embarrassing.
+District brown. Brass buttons. INSPECTION stitched over the pocket.
 
 I tried it on at home.
 
-Nessa was still favoring her right side when tired. The South Six accident had healed enough that strangers would not notice and badly enough that I did.
-
-She looked up from the table.
+Nessa stared.
 
 “No.”
 
@@ -128,37 +122,17 @@ She looked up from the table.
 
 “You look like a man who fines bakeries.”
 
-“I inspect Line stations.”
+“I inspect stations.”
 
-“You look like you inspect bread weight.”
+“You inspect bread weight.”
 
-I looked down at myself.
+I gave the coat back the next morning.
 
-The coat was too clean.
-
-That was part of the problem.
-
-My work clothes had burns, old oil, a repaired cuff, and one pale line across the stomach where transfer grit had eaten through the dye. The coat had never touched anything more dangerous than a hook.
-
-I took it off.
-
-Nessa nodded.
-
-“Better.”
-
-“You are biased.”
-
-“Yes.”
-
-Halden was offended when I returned it the next morning.
+Halden was offended.
 
 “You need to be identifiable.”
 
 “I have a badge.”
-
-“You always have a badge.”
-
-“Yes.”
 
 “That identifies you as a Ranker.”
 
@@ -168,10 +142,6 @@ Halden was offended when I returned it the next morning.
 
 That stopped me.
 
-Halden saw it and became irritatingly pleased.
-
-“Exactly.”
-
 “What am I there as?”
 
 “Someone who asks questions and writes down the answers.”
@@ -180,11 +150,9 @@ Halden saw it and became irritatingly pleased.
 
 “It usually is.”
 
-My inspection partner wore the coat.
+My inspection partner kept the coat.
 
-Of course she did.
-
-Tova Renn was fifty-two, formally certified in structural survey, foundations, and station reconstruction. She carried three hammers and trusted none of my professional habits yet.
+Tova Renn was fifty-two, certified in structural survey, foundations, and station reconstruction. She carried three hammers and trusted none of my habits.
 
 Small hammer.
 
@@ -216,43 +184,17 @@ Pell, the station foreman, said there had always been one.
 
 The retired foreman disagreed.
 
-He lived above a cooper's yard two streets away. We found him because Pell remembered his daughter still bought coal from the same merchant.
+He lived above a cooper's yard two streets away and answered the door wearing one boot.
 
-The cooper's yard smelled like wet oak and sour wine. Someone was hammering iron hoops onto a barrel below us while Tova knocked on the upstairs door.
+Tova asked about the lower service walk before I could.
 
-The old foreman answered wearing one boot.
-
-Only one.
-
-I looked at the bare foot.
-
-He looked at me looking.
-
-“Wasn't expecting inspectors.”
-
-“Do inspectors require two boots?” I asked.
-
-“Tova does.”
-
-She ignored us.
-
-“East Two,” she said. “Lower service walk.”
-
-The old man's face changed before he answered.
-
-That was useful.
-
-Not proof.
-
-Useful.
-
-“Used to carry lantern oil down there.”
-
-Pell frowned.
+“Used to carry lantern oil down there,” he said.
 
 “How many steps?”
 
 “Six.”
+
+Pell frowned.
 
 “There is no stair.”
 
@@ -260,9 +202,9 @@ Pell frowned.
 
 “What year?”
 
-The old man thought.
+The old man looked at Pell.
 
-“Before Pell.”
+“Before him.”
 
 “That narrows it to thirty years,” Tova said.
 
@@ -276,141 +218,57 @@ The old man studied him.
 
 “No.”
 
-I laughed.
+We found the sealed stair behind plaster in the tool room.
 
-Pell did not.
+Not because I remembered it.
 
-Tova kept asking.
-
-Flood?
-
-Yes.
-
-Bad one?
-
-Bad enough.
-
-Was the walk closed before or after?
-
-After, he thought.
-
-Who ordered it?
-
-Could not remember.
-
-What was behind the lower wall?
-
-“Wall.”
-
-Tova looked at me.
-
-I shrugged.
-
-Old people were useful.
-
-They were not maps.
-
-That was the first lesson.
-
-We went back to East Two.
-
-The tool room smelled like oil, wet wool, and the sharp mineral dust people stop smelling after twenty years in the same building.
-
-Pell moved a cabinet out of the way.
-
-Behind it, the current wall was plaster over older brick.
-
-Tova took off the brown coat before she started tapping.
-
-I noticed.
-
-“Thought you liked the coat.”
-
-“I like it clean.”
-
-“Then it is decorative.”
-
-“It identifies me.”
-
-“That sounds familiar.”
-
-She looked at me.
-
-I stopped helping.
+Because an old man remembered six steps and Tova found a lintel where the wall should have been solid.
 
 Tap.
 
 Tap.
 
-Tap.
+Different sound.
 
-Then a different sound.
-
-Not dramatic.
-
-Just hollow enough that once I heard it, I could not unhear it.
-
-Tova tapped twice more.
-
-Same place.
-
-She took chalk from her pocket and drew a square.
+She marked a square in chalk.
 
 “There.”
 
-Pell stared at the mark.
+Pell stared at it.
 
-“That's been wall since I started.”
+“That has been wall since I started.”
 
-Tova shrugged.
+“Wall is a job,” Tova said. “It can be reassigned.”
 
-“Wall is a job. It can be reassigned.”
-
-We opened it carefully.
-
-That was disappointing too.
-
-No ancient machine.
-
-No hidden treasure.
-
-No monster waiting patiently behind municipal plaster.
+We opened it.
 
 Six steps.
-
-A landing.
 
 Standing water.
 
 Three dead rats.
 
-One live rat that objected to our arrival and made Pell swear loudly enough to echo.
+One living rat with strong opinions.
 
-Then a passage running beneath the station.
-
-Tova lifted her lantern.
+Then a passage beneath the station.
 
 The brick was older than East Two.
 
 Much older.
 
-I knew that before she did.
-
-My stomach tightened before my mind caught up.
+I knew the construction family.
 
 Ninth-station work.
 
 Lower-channel access.
 
-First-life places I had entered after something had already gone wrong.
+First-life places I had entered after failures, when old walls were already broken open and everyone was trying to understand the mechanism backward.
 
-By then the old construction had usually been broken open, burned, flooded, or excavated around by people trying to understand the failure backward.
+Here it was intact.
 
-Here it was intact enough to be boring.
+That made it harder, not easier.
 
-That made it stranger.
-
-Tova turned toward me.
+Tova noticed my face.
 
 “You know this brick?”
 
@@ -424,15 +282,13 @@ Bad question.
 
 She waited.
 
-That answer had lasted for years.
+That answer had lasted years.
 
 It was aging badly.
 
-Nessa's voice arrived in my head without permission.
+Nessa's rule arrived in my head.
 
 Reduced mysterious bullshit.
-
-I tried again.
 
 “I've seen later Line work built over construction like this. North and west.”
 
@@ -444,25 +300,13 @@ I looked at the wet floor.
 
 Tova kept looking at me.
 
-Not convinced.
+I had reduced the bullshit, not eliminated it.
 
-Not her problem yet.
-
-She turned back toward the passage.
-
-Unlike Nessa, she was being paid to inspect walls, not me.
+Good enough for a coworker who was paid to inspect walls.
 
 We went down.
 
-The ceiling forced me to duck in two places. Cold water soaked through one boot before we reached the first support.
-
-I hated wet socks more than several injuries I had survived.
-
-That sounds unreasonable.
-
-It is.
-
-Old marks showed where plaster had peeled away.
+The ceiling forced me to duck in two places. Water soaked through one boot. Old marks showed through peeled plaster.
 
 Half circles.
 
@@ -470,21 +314,7 @@ Short bars.
 
 A hooked line beside every third support.
 
-I knew the family of notation.
-
-Not the meaning of every mark.
-
-Important difference.
-
-First-life Greg had treated marks like those as field knowledge. Stand here. Do not stand there. This section carries something. That wall is bad.
-
-Later, engineers explained mechanisms after rubble existed.
-
-At twenty-nine in Life Two, I had less authority and more time.
-
-It was an improvement.
-
-Pell pointed at the hooked line.
+Pell pointed.
 
 “What does that mean?”
 
@@ -508,7 +338,7 @@ Tap.
 
 Tap.
 
-Then she put two bare fingers against the brick.
+Then pressed two fingers to the brick.
 
 “Warm.”
 
@@ -516,13 +346,9 @@ I touched it.
 
 She was right.
 
-East Two's active feed ran thirty feet above us.
+East Two's active feed ran thirty feet above us. Nothing on the plan should have warmed that wall.
 
-Nothing on the current plan should have warmed that wall.
-
-Pell crouched beside us.
-
-“Old drain?”
+Pell said, “Old drain?”
 
 “Could be,” Tova said.
 
@@ -534,27 +360,13 @@ I put my palm flat against the brick.
 
 There.
 
-A vibration.
+A faint vibration.
 
-Faint.
-
-Broad.
-
-Not the clean hum of a modern feed.
-
-Something slower.
-
-My body recognized it before my mind had language.
-
-East Four.
-
-Pressure through stone.
-
-Wrongness under my hand.
+Broad. Slow. Wrong.
 
 “Active load,” I said.
 
-Tova's eyes moved to me.
+Tova looked at me.
 
 “Based on?”
 
@@ -564,15 +376,13 @@ She touched the wall again.
 
 Pell did too.
 
-He shook his head.
-
-“I don't feel anything.”
+“I don't feel anything,” he said.
 
 “Neither do I,” Tova said.
 
 I almost insisted.
 
-The old reflex arrived cleanly.
+First-life habit.
 
 I know.
 
@@ -580,87 +390,35 @@ They do not.
 
 Therefore the world should move.
 
-Then I remembered East Four and the wrong feed.
-
-I had remembered the outcome and mistaken that for understanding the mechanism.
+Then East Four came back to me. The wrong feed. The remembered outcome. The mechanism I had not actually understood.
 
 Feeling was not measurement either.
 
-I took my hand off the wall.
-
-“Fine. Let's test it.”
+“Fine,” I said. “Let's test it.”
 
 Tova smiled for the first time.
-
-Not warmly.
 
 Professionally.
 
 Better.
 
-We stayed underground most of the day.
+We spent the rest of the day proving I might be right.
 
-That sentence makes the work sound cleaner than it was.
+Chalk dust along the joints.
 
-Pell went upstairs.
+Weighted thread against the wall.
 
-Tova made me hold the lantern while she dusted chalk along two support joints.
-
-My shoulder began aching after twenty minutes.
-
-I switched hands.
-
-She noticed.
-
-“Old injury?”
-
-“Yes.”
-
-“Useful?”
-
-“What?”
-
-“The pain.”
-
-“Mostly annoying.”
-
-“Then don't build a theory from it.”
-
-“I wasn't.”
-
-“You were thinking about weather.”
-
-I looked at her.
-
-“How the fuck did you know?”
-
-“People with old injuries always think they can predict weather.”
-
-“It does predict weather.”
-
-“Badly.”
-
-She tied weighted thread against the wall.
-
-I decided not to tell her my shoulder was usually right.
-
-Pell changed station load twice while we watched a piece of string.
+Pell changing station load upstairs while we watched a piece of string.
 
 Very advanced work.
 
-At third bell nothing happened.
+At fourth bell the market branch climbed.
 
-At fourth, the upper station took more market load.
-
-The weight shifted.
-
-Not much.
-
-A finger width.
+The weight shifted a finger width.
 
 Returned.
 
-Shifted again when Pell opened the east branch.
+Shifted again.
 
 Tova stopped smiling.
 
@@ -668,47 +426,25 @@ Tova stopped smiling.
 
 “Yes.”
 
-“Not necessarily carrying pressure.”
+“Not necessarily pressure.”
 
 “No.”
 
-Pell came back downstairs with three cups and a heel of bread wrapped in cloth.
+Pell asked, “What else moves with station load?”
 
-The cups held something claiming to be coffee.
+“Foundation strain. Shared masonry. Water. Heat. Ten other things.” Tova dusted chalk from her knee. “We do not pick the interesting answer because it is interesting.”
 
-I drank mine anyway.
+That was when I started liking her.
 
-“What else moves when station load changes?” he asked.
+Two days later we opened another section and found an old bronze sleeve inside the wall.
 
-Tova counted on her fingers.
-
-“Foundation strain. Shared masonry. Water. Heat. Ten other things.”
-
-“Helpful.”
-
-“We do not pick the interesting answer because it is interesting.”
-
-Pell looked at me.
-
-I ate the bread.
-
-That was when I started liking Tova.
-
-A lot.
-
-Two days later we opened another section of wall.
-
-Inside was an old bronze sleeve.
-
-Not a pipe exactly.
-
-Too broad.
+Too broad for a pipe.
 
 Flattened oval.
 
-It crossed beneath the station and vanished east into stone.
+It crossed beneath the station and disappeared east into stone.
 
-The reconstruction book from sixty-three years earlier described that foundation as SOLID FILL.
+The reconstruction book from sixty-three years earlier described the foundation as SOLID FILL.
 
 It was not solid.
 
@@ -716,199 +452,85 @@ It was not fill.
 
 Both words had survived three generations of copied plans.
 
-Nobody had needed corruption.
+No conspiracy.
 
-Nobody had needed conspiracy.
+No corruption.
 
-One confident assumption and good handwriting had been enough.
+One confident assumption with good handwriting.
 
 That frightened me more.
 
 Halden came down that afternoon.
 
-His boots were too clean when he entered and ruined by the time he reached us.
-
-Good.
-
 Tova showed him the sleeve.
 
-He stared at it.
+“Active?” he asked.
 
-Then at me.
-
-“Don't.”
-
-“I didn't say anything.”
-
-“You have the face.”
-
-“What face?”
-
-Tova said, “He has several.”
-
-Traitor.
-
-Halden crouched beside the bronze.
-
-“Active?”
-
-“Responsive,” Tova said.
+“Responsive.”
 
 “Difference?”
 
 “We can prove station load affects it. We cannot prove what it carries.”
 
-Halden nodded immediately.
-
-No ego.
-
-Still one of his best qualities.
+Halden nodded.
 
 “What do you recommend?”
 
-Tova looked at me.
-
-I looked at her.
-
 “Keep access open,” I said.
 
-“Monitor,” she said.
+“Monitor,” Tova said.
 
 “Do not isolate anything connected to it until we understand what else moves.”
-
-“Agreed.”
 
 Pell frowned.
 
 “We have a live unknown under my station and the recommendation is leave it alone?”
 
-Tova stood and wiped her fingers on the brown inspection coat.
+“No,” Tova said. “The recommendation is stop pretending touching something is safer than understanding it.”
 
-“No. The recommendation is stop pretending touching something is safer than understanding it.”
-
-Pell looked at the sleeve again.
+Pell looked at the bronze.
 
 Then nodded.
 
-Competent people agreeing cautiously is terrible storytelling.
-
-It is excellent maintenance.
-
 The survey expanded.
-
-Not dramatically.
-
-One bad drawing at a time.
 
 Four stations became seven.
 
-Seven became eleven over the next year.
+Then eleven over the next year.
 
-I stayed at East Four through all of it.
+Not every station deserved a chapter.
 
-That mattered.
+South Three probably did.
 
-Two days inspecting most weeks. Three or four doing ordinary station work. Sometimes nights when schedules went wrong because the Line did not care about my title.
+Kel Arno had been recording pressure drift in the same margin for twenty-six years.
 
-I still changed seals.
+Halden arrived with six copied reports.
 
-Still cleared grit traps.
-
-Still got yelled at by Dera for returning tools to the wrong cabinet.
-
-The first month I carried a separate inspection notebook because Tova said station notes and survey notes served different purposes.
-
-I lost it twice.
-
-Both times it was in my locker.
-
-Dera suggested tying it to me.
-
-Nessa suggested the coat.
-
-I bought a smaller notebook.
-
-The inspection work made ordinary stations look different.
-
-At South Three, Kel Arno met us with twenty-six years of irritation already prepared.
-
-She was sixty-four.
-
-Small woman.
-
-Gray hair cut badly with something that had not been intended for hair.
-
-She kept the station book beside the pressure desk with a strip of red cloth tied around the spine.
-
-“Why red?” I asked.
-
-“So idiots find it.”
-
-Halden arrived carrying copies of her reports.
-
-Six of them.
-
-Kel counted.
+Kel counted them.
 
 “I sent eight.”
 
-Halden checked his list.
+Halden checked.
 
 “Eight.”
 
-She looked offended.
+“Then why did you bring six?”
 
-“Then why did you only bring six?”
+We spent an hour reconstructing the life of a complaint.
 
-He stared at her.
+Meter calibration.
 
-I laughed.
+Seasonal variance.
 
-That did not help.
+Budget request.
 
-We spent the next hour reconstructing the life of a complaint.
+Reconstruction packet.
 
-Her first report had been filed under meter calibration.
+Resolved because somebody replaced the meter.
 
-Second under seasonal variance.
+The drift remained.
 
-Third attached to a budget request that was denied.
-
-Fourth copied into a reconstruction packet.
-
-Fifth marked resolved because somebody replaced the meter.
-
-The pressure drift remained.
-
-The sixth reached Halden only because the legacy survey gave the problem a new category.
-
-Same observation.
-
-New box.
-
-Suddenly visible.
-
-Kel stood with both hands on the desk while Halden read the filing trail.
-
-“So I wasn't ignored.”
-
-“Not exactly.”
-
-“That is worse somehow.”
-
-Halden looked at me.
-
-I had nothing.
-
-She was right.
-
-Then Kel opened the old station book.
-
-Not the copied reports.
-
-The actual one.
-
-Twenty-six years of margins.
+Kel opened the original station book.
 
 PRESSURE LATE AFTER HEAVY RAIN.
 
@@ -920,77 +542,33 @@ DRIFT AGAIN. STOP REPLACING THE FUCKING METER.
 
 I looked at her.
 
-“You wrote that?”
-
-“Which part?”
-
-“The last one.”
-
-“Yes.”
-
 “Good note.”
 
 “Didn't work.”
 
-Tova was crouched beside the east floor with the liar.
-
-“Worked eventually.”
+Tova, crouched beside the floor, said, “Worked eventually.”
 
 Kel looked at her.
 
 “Twenty-six years is not eventually. Twenty-six years is a career.”
 
-Fair.
+We copied the margins.
 
-We stayed through lunch.
-
-Kel shared pickled onions and hard cheese because none of us had brought enough food.
-
-Halden refused the onions.
-
-Kel said that explained management.
-
-By third bell we had not found the cause.
+We did not solve the cause.
 
 That mattered too.
 
-Inspection did not transform every complaint into a revelation.
-
-Sometimes the worker had been right that something happened and nobody, including us, knew why yet.
-
-We copied the margins.
-
-All of them.
-
-Not because paper solved anything.
-
-Because this time the notes would exist somewhere besides Kel's desk.
-
-At Market Five, the hidden door produced less philosophy.
-
-It opened into a dry room full of retired gauges.
+At Market Five the mysterious door opened into a room full of old gauges.
 
 Seventy years of them.
 
-Round brass faces.
+Cracked glass. Missing needles. Brass faces. One still attached to a pipe that went nowhere.
 
-Cracked glass.
-
-Missing needles.
-
-One still attached to a length of pipe that went nowhere.
-
-I stood in the doorway.
-
-“This is it?”
+“This is it?” I asked.
 
 Tova looked delighted.
 
 “You wanted treasure.”
-
-“No.”
-
-“You look disappointed.”
 
 “I was promised archaeology.”
 
@@ -1000,175 +578,63 @@ Tova looked delighted.
 
 “That is what archaeology mostly is. Old versions of things people still complain about.”
 
-We spent six hours cataloging them.
+We cataloged them and moved on.
 
-Six.
+One still worked badly enough that Tova mounted it over her desk.
 
-I know because Nessa and I were supposed to eat at my parents' house that night and I arrived after everyone had finished.
+I still do not understand that.
 
-My father had kept stew warm.
+The work changed faster than my schedule did.
 
-This made the carrots worse.
+Two days a week inspecting became three some weeks. East Four still owned the rest.
 
-“Inspection,” he said when I came in.
+I still changed seals.
 
-Not a question.
+Still cleared grit traps.
 
-“Yes.”
+Still got yelled at by Dera for returning tools to the wrong cabinet.
 
-My mother looked at my boots.
+Nessa's work widened at the same time.
 
-“You're tracking mud.”
+Not because mine did.
 
-“Sorry.”
+She started training junior pressure hands and taking more transfer scheduling from Dera.
 
-“New job makes you forget floors?”
+She hated scheduling.
 
-“Apparently.”
+One man apparently lost three grandmothers in the same winter.
 
-Nessa was at the table with my sister and did not look angry.
+“Could be complicated family structure,” I said.
 
-That was almost worse.
+“He has one grandmother.”
 
-There was a folded note beside my bowl.
+“How do you know?”
 
-I opened it.
+“I asked his mother.”
 
-SOUTH SIX TOMORROW. DON'T WAIT FOR DINNER.
+“That feels excessive.”
 
-I looked at her.
+“He asked for sixth bell off three times.”
 
-“You're at South Six?”
+“Carry on.”
 
-“Transfer qualification coverage.”
-
-“Since when?”
-
-“Tomorrow.”
-
-“That is not what I meant.”
-
-“I know.”
-
-My sister said, “This is going well.”
-
-“Eat,” my mother told me.
-
-I ate.
-
-The stew was mostly carrot.
-
-Some institutions survive every reform.
-
-Later, walking home, Nessa told me she had started training two junior pressure hands.
-
-“You didn't tell me.”
-
-“I did.”
-
-“When?”
-
-“Three days ago.”
-
-I searched memory.
-
-There had been a morning.
-
-I had been reading an East Two measurement sheet while tying one boot.
-
-Nessa had said something from the wash basin.
-
-“Fuck.”
-
-“Yes.”
-
-“I said congratulations.”
-
-“You said good.”
-
-“That can mean congratulations.”
-
-“It can mean almost anything.”
-
-We walked another half block.
-
-Rain had started lightly.
-
-My shoulder clicked.
-
-Nessa heard it.
-
-“Tomorrow?”
-
-“Probably.”
-
-“You working East Two?”
-
-“Market Five.”
-
-“Old gauges?”
-
-“Old gauges.”
-
-“Exciting.”
-
-“One works.”
-
-“Then you have doubled district capacity.”
-
-“Fuck you.”
-
-She smiled.
-
-Then bumped her shoulder into mine.
-
-Carefully.
-
-Her bad one had become good enough that she forgot about it sometimes.
-
-Mine had become bad enough that I did not.
-
-For a while we saw less of each other.
+We saw less of each other for a while.
 
 Not badly.
 
 Just less.
 
-Two people gaining responsibility do not become more available because the relationship is going well.
+Notes appeared beside cold food.
 
-That would be convenient.
+SOUTH SIX TOMORROW. DON'T WAIT FOR DINNER.
 
-I came home late from East Two and found cold food under a cloth.
+MARKET FIVE. PROBABLY HOME BY EIGHTH.
 
-Nessa left before dawn for South Six.
+Nessa added LIAR under that one when I came home at ninth.
 
-Two mornings later I wrote MARKET FIVE, PROBABLY HOME BY EIGHTH beneath one of her notes.
+The household ledger gained travel costs and new boots. My mother started admitting the stairs hurt. My father worked fewer mill shifts. My sister's boy learned to read and immediately started correcting public signs.
 
-She added LIAR when she came back and I was still out at ninth.
-
-The household ledger acquired more entries in different handwriting.
-
-Coal.
-
-Tea.
-
-Travel.
-
-A healer fee for my mother's knees.
-
-A new pair of boots for Nessa because station stairs had finally killed the old ones.
-
-One week neither of us remembered to buy soap.
-
-That became noticeable.
-
-My father worked fewer mill shifts.
-
-My mother stopped pretending stairs did not hurt.
-
-My sister's boy learned to read and immediately became intolerable because he discovered public signs could be corrected.
-
-I was thirty by then.
+I turned thirty.
 
 Thirty had felt old when I was nineteen the first time.
 
@@ -1176,13 +642,11 @@ The second time it felt like Thursday.
 
 That was probably healthier.
 
-By the end of the survey's first year, district engineering had a new map.
+By the end of the survey's first year, district engineering had a better map.
 
 Not complete.
 
-I had become suspicious of that word.
-
-Better.
+I stopped trusting that word.
 
 Known modern feeds.
 
@@ -1194,7 +658,7 @@ Observed responsive structures.
 
 Unverified spaces.
 
-Tova insisted every category had its own line style.
+Tova gave every category a different line style.
 
 I complained there were too many.
 
@@ -1208,53 +672,23 @@ The East Two sleeve remained unexplained.
 
 So did three related structures beneath other stations.
 
-They did not form a pattern I trusted yet.
-
-That matters.
-
-Old Greg can see the beginning of one now.
+Old Greg can see the beginning of a pattern now.
 
 Young Greg could not.
 
-Young Greg had eleven marks on a district map, three warm walls, two pressure-responsive buried structures, and a growing suspicion that modern stations were not separate machines sitting on dead foundations.
+At thirty, I had eleven marks on a district map, three warm walls, two pressure-responsive buried structures, and a growing suspicion that modern stations were not separate machines sitting on dead foundations.
 
-That was all.
+That was enough.
 
 Enough to change how I worked.
 
 Not enough to tell me why.
 
-The map lived on Halden's wall.
+Halden made my inspector badge permanent at the end of the year.
 
-My notebook lived in my pocket.
-
-Tova's bad gauge from Market Five lived over her desk because apparently even broken instruments deserved retirement.
-
-Kel's copied margins lived in a district file labeled OPERATOR OBSERVATIONS.
-
-That title took only one meeting.
-
-Progress.
-
-At East Four, I still had a locker.
-
-Still had shifts.
-
-Still had Dera telling me where I had put my own tools.
-
-Nessa's red cord was still tied around a peg near the pressure desk.
-
-We were becoming district people without becoming people who had left.
-
-Not yet.
-
-Halden made my provisional inspector badge permanent at the end of the year.
-
-He did it at his desk with no ceremony.
+No ceremony.
 
 Good.
-
-Ceremony would have made me suspicious.
 
 I looked at the new badge.
 
@@ -1290,69 +724,35 @@ Then handed me a packet.
 
 “Because she disagrees with you.”
 
-I opened the packet.
-
-The old bronze sleeve beneath East Two had moved more under winter load.
+The old bronze sleeve had begun moving more under winter load.
 
 Not much.
 
 Enough.
 
-Tova had cut three new reference marks into the masonry and measured them twice because she trusted measurements more than people and herself only slightly more than measurements.
-
-Her recommendation sat on the first page.
+Tova's recommendation sat on the first page.
 
 IMMEDIATE ISOLATION OF EAST MARKET BRANCH PENDING LEGACY STRUCTURE IDENTIFICATION.
 
-I read it once.
-
-Then again.
-
-Halden waited.
-
-“You agree with her?” I asked.
-
-“I asked what you think.”
-
-“I think shutting the branch moves the load somewhere else.”
-
-“Where?”
-
-“South Three, partly.”
-
-Kel's red-thread station book came back into my head.
-
-Twenty-six years of pressure drift.
-
-Not resolved.
-
-Not forgotten either.
-
-Just there.
-
-“And the market?” I asked.
-
-Halden pointed at the distribution attachment.
+I read the distribution attachment.
 
 Forty-three buildings.
 
-I had not known that.
-
-Apartment blocks.
+Apartments.
 
 Bakeries.
 
 A clinic.
 
-A school kitchen.
+School kitchen.
 
-The public bath.
+Public bath.
 
-Shops.
+Market heat.
 
-Market heating.
+The alternate feed ran through South Three.
 
-Ordinary rooms full of people who did not care what a bronze sleeve was as long as the walls stayed warm.
+Kel's twenty-six years of pressure drift sat in my head.
 
 Tova knew that too.
 
@@ -1360,11 +760,9 @@ Of course she did.
 
 That was the problem.
 
-I closed the packet.
+“When do we meet?” I asked.
 
-“When do we meet?”
-
-“Tomorrow.”
+“Tomorrow. Second bell.”
 
 “With Tova?”
 
@@ -1374,39 +772,17 @@ I closed the packet.
 
 “Yes.”
 
-Halden looked at the badge still in my hand.
-
-“You can leave that here if you changed your mind.”
-
-I put it in my pocket.
-
-“Fuck you.”
-
-“Tomorrow, second bell.”
-
 I took the packet home.
 
-Nessa was already asleep.
+Nessa was asleep.
 
 I set it on the table beside the household ledger.
 
-The table still leaned slightly toward the window.
+One book held rent, coal, family, travel, boots.
 
-Less than before.
+The other held East Two.
 
-Enough.
-
-I stood there for a while looking at both books.
-
-One contained rent, coal, family, soap, and the price of Nessa's new boots.
-
-The other contained East Two.
-
-Not separate things.
-
-I was beginning to understand that.
-
-Not well enough yet.
+I was beginning to understand those were not separate systems.
 
 In the morning, Tova wanted East Two shut down.
 
