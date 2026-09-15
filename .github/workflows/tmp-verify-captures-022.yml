@@ -1,0 +1,49 @@
+name: Temporary verify captures 022
+
+on:
+  push:
+    branches: [audio/capture-022]
+    paths:
+      - audio/production/record-022/captures.json
+      - audio/production/record-022/route-plan.json
+      - .github/workflows/tmp-verify-captures-022.yml
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/capture-022
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify capture manifest against route plan
+        run: |
+          python - <<'PY'
+          import json, hashlib
+          from pathlib import Path
+          source = Path('manuscript/records/022/current.md')
+          route = json.loads(Path('audio/production/record-022/route-plan.json').read_text(encoding='utf-8'))
+          captures = json.loads(Path('audio/production/record-022/captures.json').read_text(encoding='utf-8'))
+          digest = hashlib.sha256(source.read_bytes()).hexdigest()
+          assert digest == route['source_sha256'] == captures['source_sha256']
+          assert route['record'] == captures['record'] == '022'
+          assert route['routing_mode'] == captures['routing_mode'] == 'exact_quote_locked'
+          assert captures['status'] == 'candidate_unlistened'
+          assert len(route['segments']) == len(captures['segments']) == 42
+          assert [s['index'] for s in route['segments']] == list(range(1,43))
+          assert [s['index'] for s in captures['segments']] == list(range(1,43))
+          for routed, captured in zip(route['segments'], captures['segments']):
+              assert routed['index'] == captured['index']
+              assert int(routed['pause_after_ms']) == int(captured['pause_after_ms'])
+              assert captured['preview_url'].startswith('https://')
+          ithar = [(s['index'], s['transcript']) for s in route['segments'] if s['speaker'] == 'ithar']
+          assert [i for i,_ in ithar] == [35,37,39,41], ithar
+          assert all(route['segments'][i-1]['voice_id'] == 'normal' for i in [35,37,39,41])
+          assert all(s['voice_id'] == 'deep' for s in route['segments'] if s['speaker'] == 'greg')
+          print('Record 022 capture verification passed: 42/42; Ithar segments 35,37,39,41; source', digest)
+          PY
