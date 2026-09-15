@@ -1,0 +1,8 @@
+{
+  "record": "014",
+  "routing_mode": "exact_quote_locked",
+  "voices": {"greg": "deep", "ithar": "normal"},
+  "max_chars": 480,
+  "pause_ms": {"continuation": 220, "paragraph": 450, "action": 700, "speaker_handoff": 1100, "major_beat": 1400},
+  "dragon_quotes": []
+}

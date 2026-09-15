@@ -72,9 +72,12 @@ def _resolve_dragon_indices(found_quotes, locks):
       - an exact quote string, which must be unique in the manuscript, or
       - {"text": exact_quote, "occurrence": N}, where N is the 1-based
         occurrence among identical exact quotes.
+
+    An empty lock list means the record contains no Ithar dialogue and every
+    quoted span remains Greg-owned remembered dialogue.
     """
     if not locks:
-        raise ValueError("dragon_quotes must not be empty")
+        return set()
 
     selected = set()
     lock_keys = set()

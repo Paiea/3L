@@ -153,9 +153,9 @@
       "title": "THE INSPECTOR",
       "path": "manuscript/records/014/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 2622
+      "word_count": 2214
     },
     {
       "id": "r015",
@@ -164,9 +164,9 @@
       "title": "THE SIGNATORY",
       "path": "manuscript/records/015/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 2609
+      "word_count": 1901
     },
     {
       "id": "r016",
@@ -175,9 +175,9 @@
       "title": "THE CONTRACTOR",
       "path": "manuscript/records/016/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 2159
+      "word_count": 1747
     },
     {
       "id": "r017",
@@ -186,9 +186,9 @@
       "title": "THE ABSENT",
       "path": "manuscript/records/017/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 2037
+      "word_count": 2003
     },
     {
       "id": "r018",
@@ -197,9 +197,9 @@
       "title": "THE WITNESS",
       "path": "manuscript/records/018/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 2013
+      "word_count": 1893
     },
     {
       "id": "r019",
@@ -208,9 +208,9 @@
       "title": "THE ALLOCATOR",
       "path": "manuscript/records/019/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 2100
+      "word_count": 1465
     },
     {
       "id": "r020",
@@ -219,9 +219,9 @@
       "title": "THE SON",
       "path": "manuscript/records/020/current.md",
       "story_status": "valid",
-      "prose_status": "needs_rehearsal",
+      "prose_status": "restored",
       "published": false,
-      "word_count": 2211
+      "word_count": 1649
     },
     {
       "id": "r021",

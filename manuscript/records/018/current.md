@@ -6,7 +6,7 @@ The Guild hearing had bad chairs.
 
 I remember that before I remember the panel.
 
-Three chairs for witnesses.
+Three witness chairs.
 
 Straight backs.
 
@@ -32,13 +32,13 @@ Angry people are easy to read.
 
 Prepared people have pages.
 
-The hearing panel had three members.
+The panel had three members.
 
-One Guild contract officer.
+A Guild contract officer.
 
-One building-trades representative.
+A building-trades representative.
 
-One technical reviewer.
+A technical reviewer.
 
 The technical reviewer was Tova Renn.
 
@@ -72,7 +72,7 @@ Senn did not smile.
 
 Probably wise.
 
-The officer's name was Clerk Aven.
+The officer's name was Aven.
 
 Not a clerk in the front-window sense.
 
@@ -122,9 +122,9 @@ He nodded.
 
 “Good. You may all continue doing that.”
 
-The building-trades representative coughed into one hand.
+The trades representative coughed into one hand.
 
-I think he was hiding a laugh.
+Possibly laughter.
 
 Aven started with the contract.
 
@@ -140,19 +140,19 @@ RANK OR TRADE AUTHORITY.
 
 FEE.
 
-My handwriting.
+My handwriting sat in the middle.
 
 INSPECT RECURRING WALL KNOCK / HOUSE-SIDE LINE PRESSURE LOSS.
 
 That was it.
 
-Aven tapped the page.
+Aven tapped the line.
 
 “Does this authorize wall opening?”
 
 “No.”
 
-“Does it authorize service isolation?”
+“Service isolation?”
 
 I hesitated.
 
@@ -178,7 +178,7 @@ She looked back at me.
 
 Lorn's knee stopped bouncing.
 
-Aven looked at him.
+Aven turned toward him.
 
 “Did you receive that instruction?”
 
@@ -192,7 +192,7 @@ Aven looked at him.
 
 I had spent the weekend wanting to answer that question for him.
 
-The urge returned.
+The urge came back immediately.
 
 I kept my mouth shut.
 
@@ -200,27 +200,25 @@ Lorn looked at Senn.
 
 Then the panel.
 
-“The wall knocked when heat came up. Metal contact sound. Could not see the service sleeve. Plaster was already cracked along the knock point.”
+“The wall knocked when heat came up. Metal contact sound. Couldn't see the service sleeve. Plaster was already cracked along the knock point.”
 
-Aven said, “Was the plaster loose?”
+“Was the plaster loose?”
 
 “Yes.”
 
 “How much did you remove?”
 
-“About this.”
-
-He held his hands apart.
+Lorn held his hands apart.
 
 Aven looked at the trades representative.
 
-He said, “Record says approximately two feet square.”
+He checked a note.
+
+“Approximately two feet square.”
 
 Lorn nodded.
 
 “That.”
-
-Aven continued.
 
 “Why did you not wait for Gregory?”
 
@@ -230,15 +228,13 @@ Aven continued.
 
 “No.”
 
-“Then you opened property against instruction based on a suspected hazard.”
+“So you opened property against instruction based on a suspected hazard.”
 
 “Yes.”
 
-“Did you notify Senn before opening?”
+“Did you notify Senn first?”
 
 “No.”
-
-There it was.
 
 Senn sat slightly straighter.
 
@@ -290,15 +286,15 @@ Lorn's knee started again.
 
 Aven wrote something.
 
-That one hurt more than I expected.
+That hurt more than I expected.
 
 Not because Lorn looked incompetent.
 
-Because I had hired him without making sure either of us knew exactly what authority traveled with the contract.
+Because I had hired him without making sure either of us knew what authority traveled with the contract.
 
-At East Four, everybody knew the station rules through years of repetition.
+At East Four, station rules lived in our bodies after years of repetition.
 
-Private work looked similar enough that we had assumed the same instincts transferred.
+Private work looked similar enough that we assumed the same instincts transferred.
 
 They did not all transfer.
 
@@ -326,11 +322,11 @@ Lorn described the manifold.
 
 Shared upstream shutoff.
 
-Individual building branches after the damaged section.
+Individual branches after the damaged section.
 
-No safe way to maintain the other two without pressurizing the worn sleeve.
+No safe way to keep the other two live without pressurizing the worn sleeve.
 
-Tova asked the first technical question.
+Tova spoke for the first time since my face.
 
 “Depth of groove?”
 
@@ -344,7 +340,7 @@ She nodded.
 
 “Good.”
 
-Senn shifted.
+Senn shifted in his chair.
 
 Aven looked at him.
 
@@ -356,8 +352,6 @@ Prepared people have pages.
 
 He had photographs.
 
-Not magic.
-
 Actual chemical plates from a neighborhood survey photographer.
 
 One of the open wall.
@@ -368,9 +362,9 @@ One of coal braziers in a wash yard.
 
 One of a tenant holding a rent receipt.
 
-I understood what he was doing immediately.
+I understood what he was doing before he spoke.
 
-The complaint was not about the sleeve anymore.
+The complaint was not really about the sleeve anymore.
 
 It was about consequence.
 
@@ -380,11 +374,11 @@ That changed the room.
 
 Lorn looked at me.
 
-I kept looking at Senn.
+I kept watching Senn.
 
 “The fitter I hired next morning replaced it. He said shutdown was appropriate.”
 
-Aven said, “Then what remedy are you seeking?”
+Aven asked, “Then what remedy are you seeking?”
 
 “Wall repair and one day's service loss.”
 
@@ -418,8 +412,6 @@ Actual cost.
 
 “How much?” Aven asked.
 
-He gave the number.
-
 Two silver and six copper.
 
 Coal from district emergency stores.
@@ -438,17 +430,13 @@ Reasonable.
 
 “How much?”
 
-Another number.
-
 One silver and four.
 
-Aven wrote both down.
+Aven wrote both numbers down.
 
 “Anything else?”
 
 “I lost half a day arranging it.”
-
-Aven looked up.
 
 “Not compensable under private works rules.”
 
@@ -456,11 +444,11 @@ Senn nodded.
 
 He knew.
 
-That bothered me too.
+That bothered me more than anger would have.
 
 He had not come to punish us.
 
-He had come to recover costs he believed our process created.
+He came to recover costs he believed our process created.
 
 Some of them it had.
 
@@ -476,7 +464,7 @@ Shutdown was necessary.
 
 Senn would have paid more if the sleeve failed.
 
-We probably prevented damage.
+We probably prevented worse damage.
 
 All true.
 
@@ -492,7 +480,7 @@ Lorn looked at me.
 
 I kept going.
 
-“My work order was incomplete. I told Lorn visual only and gave no emergency expansion procedure.”
+“My work order was incomplete. I told Lorn visual only and gave him no emergency expansion procedure.”
 
 Aven asked, “Does that make his decision yours?”
 
@@ -502,7 +490,7 @@ The question I had been avoiding since the notice arrived.
 
 “No.”
 
-Lorn's knee stopped again.
+Lorn's knee stopped.
 
 “He chose to open the wall.”
 
@@ -520,7 +508,7 @@ Cracked plaster.
 
 Bright groove.
 
-Tiny wet bead.
+Wet bead.
 
 “No.”
 
@@ -546,7 +534,7 @@ That almost got a smile.
 
 Almost.
 
-Tova asked me, “If you had been present, would you have opened the wall?”
+Tova asked, “If you had been present, would you have opened the wall?”
 
 “Yes.”
 
@@ -554,11 +542,9 @@ Tova asked me, “If you had been present, would you have opened the wall?”
 
 I thought.
 
-That mattered.
-
 “Probably not.”
 
-“Would waiting for approval have increased immediate risk?”
+“Would waiting have increased immediate risk?”
 
 “Maybe.”
 
@@ -600,7 +586,7 @@ Aven wrote.
 
 The trades representative answered.
 
-“Technically useful. Contractually outside stated scope. Emergency property entry can be justified if delay presents likely immediate harm. Record does not establish immediate harm before opening because the leak was discovered after opening.”
+“Technically useful. Contractually outside stated scope. Emergency property entry can be justified if delay presents likely immediate harm. The record does not establish immediate harm before opening because the leak was discovered after opening.”
 
 Circular.
 
@@ -610,19 +596,17 @@ Correct.
 
 “So not justified?” Lorn asked.
 
-The representative looked at him.
-
 “Not clearly justified under the contract you had.”
 
 Different sentence.
 
 Lorn nodded.
 
-Aven continued.
+Aven turned to me.
 
 “Supervision.”
 
-She looked at me.
+I sat straighter.
 
 “Inadequate delegation terms. You hired a station worker for private work and relied on station emergency norms without writing or confirming private authority.”
 
@@ -640,11 +624,13 @@ OPEN AUTHORITY.
 
 CALL AUTHORITY.
 
-Tova read over her shoulder.
+Tova leaned slightly toward the page.
 
 “Better.”
 
-Aven said, “Do not grade documents while I am holding them.”
+Aven looked at her.
+
+“Do not grade documents while I am holding them.”
 
 “Sorry.”
 
@@ -660,19 +646,19 @@ Service isolation upheld.
 
 Senn's claim for lost heat denied because the shutdown responded to an actual building hazard, not contractor error.
 
-His claim for wall repair was partially granted.
+His wall-repair claim was partially granted.
 
 We owed one silver and four copper because the opening exceeded explicit scope and client notice was feasible before removal.
 
 Coal costs denied.
 
-The building would have needed alternate heat during a necessary repair regardless of who found the leak.
+The building would have needed alternate heat during necessary repair regardless of who found the leak.
 
 Senn did not look happy.
 
 He did not look cheated either.
 
-That was probably the best a hearing could do.
+Probably the best a hearing can do.
 
 Aven read the final instruction.
 
@@ -696,17 +682,19 @@ Then at Senn.
 
 Senn stared at her.
 
-“That was a joke.”
+“That was a joke,” Aven said.
 
 “Oh.”
 
-Aven closed the file.
-
 “Poor one.”
+
+She closed the file.
 
 Hearing over.
 
-Outside Guild Hall, Senn caught us on the steps.
+Outside Guild Hall, cold air felt better than the chairs.
+
+Senn caught us on the steps.
 
 I expected another argument.
 
@@ -742,7 +730,7 @@ He looked embarrassed to be asking.
 
 Lorn said, “Roof.”
 
-Senn glared.
+Senn glared at him.
 
 “Could be.”
 
@@ -818,36 +806,8 @@ Nessa circled it in the ledger.
 
 She wrote LESSON beside it.
 
-I crossed that out.
+I crossed it out.
 
 She wrote it again.
 
 The word stayed.
-
-Years later, I sat through hearings where the numbers were larger.
-
-Deaths.
-
-District failures.
-
-Contracts worth more money than my parents saw in a lifetime.
-
-The first one stayed useful because nobody let me turn it into a story about being right.
-
-The leak was real.
-
-Lorn's shutdown was right.
-
-Opening the wall without notice was procedurally wrong.
-
-My instructions were inadequate.
-
-Senn's tenants would have lost heat during repair anyway.
-
-Senn still paid for plaster we had removed outside the agreement.
-
-All of those things fit in the same event.
-
-That is harder than blame.
-
-It is also usually closer to how things happen.

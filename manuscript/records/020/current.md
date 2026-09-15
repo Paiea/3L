@@ -34,9 +34,7 @@ My mother did not.
 
 My mother looked at me.
 
-I had become too comfortable making jokes in dangerous rooms.
-
-Family kitchens counted.
+Family kitchens are dangerous places to become pleased with your own joke.
 
 “Talk to him.”
 
@@ -58,25 +56,19 @@ He was at the mill.
 
 Of course.
 
-Sitting on an overturned crate near the tool wall while a younger man reset a drive coupling.
-
-My father had both hands on his knees.
+He sat on an overturned crate near the tool wall while a younger man reset a drive coupling. Both hands rested on his knees.
 
 That was new.
 
-Not the hands.
-
-The resting.
-
-He used to stand when other people worked because standing meant he could become useful without admitting he had been watching.
+My father used to stand while other people worked because standing meant he could become useful without admitting he had been watching.
 
 Now he sat.
 
-The younger man looked at him.
+The younger man looked over.
 
 “Too tight?”
 
-My father said, “Half turn.”
+“Half turn,” my father said.
 
 The man backed the nut off.
 
@@ -104,15 +96,9 @@ I sat on another crate.
 
 The mill smelled the same as it had when I was nineteen.
 
-Oil.
+Oil. Grain dust. Hot belt leather. Wet wood near the river wall.
 
-Grain dust.
-
-Hot belt leather.
-
-Wet wood near the river wall.
-
-People age inside places that seem rude enough not to.
+People age inside places that do not bother aging with them.
 
 I hated the mill for that briefly.
 
@@ -132,11 +118,7 @@ My father watched the younger man finish the coupling.
 
 There it was.
 
-He was not angry.
-
-Not really.
-
-He was watching somebody else become good at the thing his body was beginning to refuse.
+He was watching somebody else become good at a thing his body was beginning to refuse.
 
 I knew something about that.
 
@@ -158,7 +140,7 @@ My father looked at me.
 
 Apparently my mother had not told him she told me.
 
-Family intelligence networks are poorly governed.
+Family intelligence networks remain poorly governed.
 
 “What spells?”
 
@@ -174,8 +156,6 @@ Family intelligence networks are poorly governed.
 
 “Still moved.”
 
-I rubbed my face.
-
 “You need the healer again.”
 
 “No.”
@@ -184,15 +164,9 @@ I rubbed my face.
 
 “No.”
 
-This continued for six minutes.
+This continued long enough for the mill bell to ring while we were still using the same two words.
 
-I know because the mill bell rang in the middle and again when we were still arguing.
-
-The younger man finished the coupling, heard enough of us to understand the structure, and left quietly.
-
-Coward.
-
-My father finally said, “I am old.”
+Then my father said, “I am old.”
 
 That stopped me.
 
@@ -200,11 +174,7 @@ Not because it was true.
 
 Because he had never said it before.
 
-He was sixty-two.
-
-Old depends on the body and the work.
-
-Mill work negotiates aggressively.
+He was sixty-two. Old depends on the body and the work, and mill work negotiates aggressively.
 
 “You're not that old.”
 
@@ -212,9 +182,7 @@ Mill work negotiates aggressively.
 
 “Fair.”
 
-He flexed his right hand.
-
-The fingers closed slowly.
+He flexed his right hand. The fingers closed slowly.
 
 Not injured.
 
@@ -224,7 +192,7 @@ Worn.
 
 “What?”
 
-“Stop lifting. Stop climbing. Sit when dizzy. Eat less salt. Drink less.”
+“Stop lifting. Stop climbing. Sit when dizzy. Drink less.”
 
 “That last one sounds wise.”
 
@@ -244,23 +212,15 @@ He looked back at the mill floor.
 
 “More.”
 
-“Probably.”
-
-“I don't want more rules.”
-
 There it was.
 
-Not fear of diagnosis.
-
-Not exactly.
+Not fear of diagnosis exactly.
 
 Fear of becoming a managed person.
 
-I understood that too.
+I understood that more than I wanted.
 
-More than I wanted.
-
-“If I go with you,” I said, “I will argue with half the rules.”
+“If I go with you, I will argue with half the rules.”
 
 “Half?”
 
@@ -274,77 +234,33 @@ That finally got a laugh.
 
 He came.
 
-The healer did say most of what he predicted.
+The healer told him no heavy lifting alone, no ladders for a month, sit immediately if dizzy, and come back if the spells worsened. She thought the concussion had probably made an older balance problem more obvious rather than creating it.
 
-Not less salt.
-
-More water.
-
-No heavy lifting alone.
-
-No ladders for a month.
-
-Sit immediately if dizzy.
-
-Return if the spells worsened.
-
-She also told him the concussion had probably made an old balance problem more obvious rather than creating it.
-
-My father heard only the word old.
+My father heard old.
 
 I heard probably.
 
-First-life memory stirred.
+First-life memory stirred and offered almost nothing useful.
 
-Not a useful event.
+My father becoming less strong in letters.
 
-No date.
+My mother saying he had given up mill nights.
 
-No diagnosis.
-
-Just my father in letters becoming less strong while I was somewhere else.
-
-A sentence from my mother about him giving up mill nights.
-
-Another about his hand.
+A line about his hand.
 
 Money I sent home.
 
-A visit delayed by a contract.
+A visit delayed because I had a contract somewhere that felt important enough at the time.
 
 I had loved them in the first life.
 
-That mattered.
+Distance did not make that false.
 
-Distance did not make the love false.
+But distance had compressed their aging into information.
 
-But memory had compressed their aging into information because I had not been there for most of the Tuesdays.
+Life Two made me carry the grain sacks.
 
-Second life refused the compression.
-
-My father needed rides to the healer.
-
-Not rides.
-
-We did not have a horse by then either.
-
-Apparently horses and I had a long-standing professional disagreement.
-
-He needed walks.
-
-Slow ones.
-
-He needed somebody to carry grain sacks from the market because the healer had specifically named grain sacks after he tried to negotiate the weight limit.
-
-My mother needed help too.
-
-Her knees had become worse.
-
-Not enough to stop her.
-
-Enough that stairs changed from background to decision.
-
-She started keeping things downstairs because going up for them was no longer free.
+My mother's knees had reached the point where stairs were no longer background. She started keeping things downstairs because going up for them cost something now.
 
 I installed a second rail.
 
@@ -352,71 +268,33 @@ She complained it made the stair look like a healer's house.
 
 Then used it every day.
 
-My sister, Lena, had her own family.
+Lena helped too.
 
-She helped.
+Not evenly, because evenly according to what?
 
-Not evenly.
+She lived farther away. Had a child in school. Worked at the printer and supervised three people who apparently created problems specifically so she could complain about them at dinner.
 
-That sentence is dangerous.
-
-Evenly according to what?
-
-She lived farther away.
-
-Had a child in school.
-
-Worked at the printer still, now supervising three people who apparently created problems specifically so she could come home and complain about them.
-
-She took my mother to appointments when she could.
-
-Brought food.
-
-Handled medicine lists better than I did.
+She handled medicine lists better than I did.
 
 I handled repairs.
 
 Money moved from our ledger to my parents more often.
 
-Then less after my father accepted a small mill pension I had not known existed.
+Then less after a clerk discovered my father had a small mill pension under a misspelled registry name.
 
-He had not known either.
+“Grigor,” I told Nessa.
 
-A clerk found nine years of contributions under a misspelled registry name.
-
-Apparently institutional memory occasionally returned gifts from the wrong drawer.
-
-Nessa laughed when I told her.
-
-“Gregory?”
-
-“No.”
-
-“Worse?”
-
-“Grigor.”
-
-She laughed harder.
+She laughed.
 
 My father did not.
 
-The pension helped.
+The pension was not enough.
 
-Not enough.
-
-Enough matters.
+Enough still matters.
 
 That year I turned down six private jobs.
 
-Not dramatic ones.
-
-A bathhouse valve.
-
-Two apartment inspections.
-
-A workshop vibration complaint.
-
-One warehouse call that paid well because the owner hated waiting.
+A bathhouse valve. Two apartment inspections. A workshop vibration complaint. One warehouse call that paid well because the owner hated waiting.
 
 I gave four to Lorn.
 
@@ -424,27 +302,23 @@ He took three.
 
 The fourth conflicted with his son's school ceremony.
 
-I learned Perrin's name had remained in my head.
+Perrin.
+
+I remembered the name this time.
 
 Progress.
 
-Tova covered one district survey when I took my mother to a healer.
-
-Halden moved a two-day inspection without complaining.
-
-Then complained later because he believed delayed complaining preserved authority.
+Tova covered a district survey when I took my mother to a healer. Halden moved a two-day inspection without complaining and then complained later because he believed delayed complaining preserved authority.
 
 Nessa paid more rent for two months when my private income dipped.
 
-I noticed this time.
+I noticed.
 
-That was progress too.
+Also progress.
 
-The systems we had been building did not make family obligation cheap.
+None of those arrangements made family obligation cheap.
 
-They made it survivable without pretending one person could carry every piece.
-
-That distinction became important long before I had language for it.
+They made it possible for one person not to carry every piece.
 
 My father returned to the mill after the no-ladder month.
 
@@ -452,13 +326,7 @@ Not to work.
 
 He said.
 
-He sat near the tool wall.
-
-Corrected people.
-
-Sharpened blades.
-
-Sorted worn fasteners into jars because the new tool keeper kept throwing salvageable metal away.
+He sat beside the tool wall. Corrected people. Sharpened blades. Sorted worn fasteners into jars because the new tool keeper threw salvageable metal away.
 
 Then the mill started paying him a half-day advisory rate because apparently criticism becomes expertise if you put a number beside it.
 
@@ -466,9 +334,9 @@ He came home proud and pretended not to be.
 
 My mother pretended not to notice.
 
-Nessa wrote MILL under his income in the family ledger and drew a small crown beside it.
+Nessa wrote MILL under his income in the family ledger and drew a crown beside it.
 
-I asked why.
+“Why?” I asked.
 
 “King of sitting down.”
 
@@ -478,37 +346,15 @@ He laughed until he coughed.
 
 Then told her the crown was too small.
 
-The year passed.
+The year kept moving.
 
-That sentence is a lie.
-
-Years do not pass.
-
-Days pass.
-
-Then somebody tells you it has been a year and you become suspicious.
-
-My nephew Perrin was not my nephew.
-
-That was Lorn's son.
-
-See?
-
-Even now the years smear names if I am not careful.
-
-My sister's boy was Eli.
-
-Eli turned seven.
-
-Then eight.
-
-He learned division and used it to prove my share of a pie was too large.
+Eli turned seven and then eight. He learned division and used it to prove my share of a pie was too large.
 
 I stopped helping with mathematics.
 
-My mother began using a cane outside the house and hiding it when visitors came.
+My mother started using a cane outside and hiding it when visitors came.
 
-My father stopped climbing ladders after falling from one again.
+My father fell from another ladder.
 
 Not badly.
 
@@ -516,35 +362,17 @@ He called it stepping off early.
 
 The ladder disagreed.
 
-Nessa's transfer crew gained two new workers.
-
-One quit.
-
-One stayed.
+Nessa's transfer crew gained two workers. One quit. One stayed.
 
 Lorn took more private calls without me.
 
-Tova and I mapped six more legacy structures.
+Tova and I mapped six more legacy structures. None explained the whole Line.
 
-None explained the whole Line.
+Halden started talking about permanent district archives for operator notes instead of leaving them buried in station books.
 
-That is important too.
+Kel Arno approved by saying, “About fucking time.”
 
-Knowledge accumulated without becoming revelation.
-
-Halden started talking about creating permanent district archives for operator notes instead of leaving them inside station books nobody outside the station read.
-
-Kel Arno approved of this by saying, “About fucking time.”
-
-She was sixty-six then.
-
-Still writing in margins.
-
-Mina replaced the bakery's rear oven.
-
-The new one heated our floor differently.
-
-I hated it for a month.
+Mina replaced the bakery's rear oven. The new one heated our floor differently. I hated it for a month.
 
 Senn paid us eight silver to inspect the rain knock in his back building.
 
@@ -572,79 +400,41 @@ I adjusted it twice.
 
 She caught me once.
 
-The second time remains unproven.
+The second remains unproven.
 
 Nothing happened that year.
 
 The cave returned so suddenly I opened my eyes before I understood why.
 
-Black glass.
+Black glass. Gold. Heat.
 
-Gold.
+My present left leg had gone numb from sitting. I shifted it and immediately regretted the choice.
 
-Heat.
-
-My present left leg had gone numb from sitting.
-
-I shifted it and immediately regretted the choice.
-
-Ithar's head was higher than before.
-
-Not much.
-
-Enough.
-
-He had been listening for a long time without speaking.
-
-That made his voice feel larger when it returned.
+Ithar had raised his head.
 
 “You have developed a habit.”
 
-I rubbed my leg.
-
 “I have several.”
 
-“You call years empty when they contain no event you would once have considered worthy of a contract report.
+“You call years empty when they contain no event you would once have considered worthy of a contract report.”
 
-“In this empty year, your father ceased ordinary labor, resisted dependence, accepted altered work, and began receiving money from an institution that had nearly lost him through a spelling error. Your mother changed how she moved through her own house. Your sister divided care with you while maintaining a household of her own. Your companion carried more of your shared expense when your attention moved elsewhere. Your employee became capable of acting without you. Your professional peers absorbed work you could not perform. A district began preserving operator knowledge differently. Children aged. Buildings changed. You learned the names of people you had known for years.
+I rubbed my leg.
 
-“You have spent much of this record arguing that ordinary continuity matters. Then you reach a year made almost entirely of ordinary continuity and call it nothing.”
+“I meant nothing big happened.”
 
-I looked at him.
+His eye narrowed.
+
+“Big.”
+
+“Don't.”
+
+“Your father ceased ordinary labor and learned another form of usefulness. Your mother changed how she moved through her own house. Your sister divided care with you while maintaining a household of her own. Nessa carried more expense when your attention moved elsewhere. Lorn worked without you. Tova absorbed work you could not perform. Children aged. Buildings changed.”
 
 “That was longer than it needed to be.”
 
 “Yes.”
 
 At least he knew.
-
-I flexed my present right hand.
-
-The two bad fingers resisted.
-
-Different injury.
-
-Later.
-
-There was always later.
-
-“I meant nothing big happened.”
-
-Ithar's eye narrowed.
-
-“Big.”
-
-“Don't.”
-
-“You climbed a mountain to explain that millions of deaths should compel me because of their scale. You then spent hours teaching me that a table, a roof, a work schedule, a line in a ledger, and a father's failing grip altered the shape of your life. I recommend choosing one theory of importance at a time.”
-
-I hated dragons.
-
-Especially correct ones.
-
-“My father wasn't dying.”
-
-“I did not say he was.”
 
 “The year wasn't a turning point.”
 
@@ -654,33 +444,21 @@ I opened my mouth.
 
 Closed it.
 
-Ithar waited.
-
 Patient bastard.
 
 “No.”
 
-“Then why are you trying to make it one before permitting yourself to remember it?”
+“Then why require it to become one before you permit yourself to remember it?”
 
-That question went somewhere I did not want it.
+That went somewhere I did not want.
 
-I looked toward the passage.
-
-The passage had not improved in the years since Record Six.
-
-Still neutral.
-
-Still useless.
-
-I thought of my father sitting beside the mill tool wall telling a younger man half turn.
+I thought of my father beside the tool wall telling a younger man half turn.
 
 My mother using the second rail while complaining about it.
 
 Nessa moving rent money without calling it rescue.
 
-Lorn standing in somebody else's building making a safe decision without me.
-
-Tova covering an inspection.
+Lorn working in somebody else's building without me.
 
 Eli stealing pie with mathematics.
 
@@ -708,17 +486,9 @@ Nessa was still there.
 
 East Four still hummed under the tram viaduct whether I was on the schedule or not.
 
-The Line still worked well enough that most people only noticed it when somebody reduced their heat.
+The Line still worked well enough that most people noticed it only when somebody reduced their heat.
 
 I was thirty-one.
-
-I had no idea which of those facts would become rare first.
-
-That is not foreshadowing.
-
-I did not know.
-
-I only know now that ordinary years look different from the far side of them.
 
 At thirty-one, it was Tuesday.
 

@@ -12,13 +12,7 @@ The client was a landlord named Senn.
 
 Three buildings on Rope Street.
 
-Nothing elegant.
-
-Narrow rooms.
-
-Shared wash yards.
-
-Too many people using too few stairs.
+Narrow rooms. Shared wash yards. Too many people using too few stairs.
 
 The middle building had a wall that knocked every evening when the heat came up.
 
@@ -42,7 +36,7 @@ Not far.
 
 That detail mattered to him.
 
-He repeated it three times while I helped him sit up.
+He repeated it while I helped him sit up.
 
 “Wasn't far.”
 
@@ -66,37 +60,33 @@ My father looked betrayed.
 
 “That is not medical evidence,” she said.
 
-Nessa, who had arrived carrying bread, looked at me.
+Nessa had arrived carrying bread.
 
-I knew that look.
+She looked at me.
 
-Go.
-
-“I have a contract.”
-
-She looked at my father.
+Then at my father.
 
 Then back at me.
 
-I hated when evidence took her side before she said anything.
+I hated when evidence took her side before she spoke.
 
-“I can move it.”
+“I have a contract.”
 
-“You promised today,” my father said.
+My father said, “You promised today.”
 
 Not about the healer.
 
 About Senn's building.
 
-He had heard me mention it at dinner the night before.
+He had heard me mention it over dinner.
 
 “I can move it.”
 
 My mother said, “Or somebody else can work.”
 
-That sentence was rude in several directions.
+Rude in several directions.
 
-Lorn was supposed to meet me at Rope Street anyway.
+Lorn was already supposed to meet me at Rope Street.
 
 Second pair of hands.
 
@@ -108,21 +98,11 @@ START VISUAL ONLY.
 
 DO NOT OPEN WALL.
 
-I added that last line because Lorn enjoyed opening things.
+I added the last line because Lorn enjoyed opening things.
 
-The runner left.
+Then we took my father to the healer.
 
-I got my father upright.
-
-He swayed.
-
-My mother looked at me.
-
-“He is fine,” my father said.
-
-We took him to the healer.
-
-He had a concussion.
+Concussion.
 
 Not severe.
 
@@ -136,9 +116,7 @@ I liked her.
 
 By the time we finished, seventh bell had passed.
 
-I expected Lorn to be waiting at Rope Street with Senn angry beside him.
-
-He was not.
+I expected Lorn to be waiting on Rope Street with Senn angry beside him.
 
 Senn was there.
 
@@ -146,9 +124,9 @@ Angry.
 
 Lorn was inside.
 
-I heard hammering.
+I could hear hammering from the pavement.
 
-I stopped on the pavement.
+I stopped walking.
 
 Senn saw me.
 
@@ -159,8 +137,6 @@ That tone rarely introduces praise.
 “What happened?”
 
 “Your man shut my heat off.”
-
-I looked at the building.
 
 The branch indicator was down.
 
@@ -208,15 +184,13 @@ Lorn stopped smiling.
 
 That changed things.
 
-Senn followed us.
-
 Second floor.
 
 Rear hall.
 
 The knocking wall.
 
-Lorn had removed a section of plaster the size of a serving tray.
+Lorn had removed a square of plaster about the size of a serving tray.
 
 Behind it was an old copper return sleeve.
 
@@ -224,7 +198,7 @@ House-side.
 
 Legal for us to inspect.
 
-The sleeve had rubbed against a brick edge long enough to wear a bright line into the metal.
+The sleeve had rubbed against a brick edge long enough to polish a bright line into the metal.
 
 Every time the heat came up, expansion pushed it sideways.
 
@@ -240,13 +214,13 @@ Except the bright line had become a groove.
 
 Deep one.
 
-I touched it.
+I reached toward it.
 
 Lorn said, “Don't.”
 
 I looked at him.
 
-He pointed to the lower side.
+He pointed below the groove.
 
 A bead of moisture sat there.
 
@@ -256,7 +230,7 @@ Condensate around a pressure leak.
 
 Tiny.
 
-The kind of tiny that becomes larger if everyone agrees to wait.
+The kind of tiny that becomes larger if everybody agrees to wait.
 
 I took my hand away.
 
@@ -282,15 +256,11 @@ Senn stared at me.
 
 “You work for me.”
 
-“Not exactly.”
-
-“I hired you.”
-
 “You hired us to inspect a pressure fault.”
 
 “And he shut off three buildings.”
 
-“Because you have a leaking pressure sleeve in a wall.”
+“Because you have a leaking pressure sleeve inside a wall.”
 
 “It has probably been leaking for years.”
 
@@ -312,9 +282,7 @@ Senn folded his arms.
 
 “Heat.”
 
-I looked at Lorn.
-
-He answered.
+Lorn answered.
 
 “Tomorrow if the sleeve is standard.”
 
@@ -350,7 +318,7 @@ I would have shut it too.
 
 Maybe after another measurement.
 
-Maybe after checking whether we could isolate only the middle building.
+Maybe after checking whether only the middle building could be isolated.
 
 That was the uncomfortable part.
 
@@ -374,8 +342,6 @@ Senn's face closed.
 
 Lorn looked at me.
 
-That was not what he expected.
-
 Senn pointed at the open wall.
 
 “You damaged my property.”
@@ -390,9 +356,11 @@ Senn pointed at the open wall.
 
 He walked out.
 
-Lorn waited until we heard the front door slam.
+The front door slammed hard enough to shake dust from the hall trim.
 
-Then he said, “Six silver.”
+Lorn waited.
+
+Then said, “Six silver.”
 
 “Yes.”
 
@@ -428,7 +396,7 @@ He looked at the sleeve.
 
 Lorn looked at me.
 
-I did not like how hard the answer was to explain.
+The answer was harder than it should have been.
 
 “You found a condition that made the existing scope unsafe.”
 
@@ -440,11 +408,11 @@ I did not like how hard the answer was to explain.
 
 “It is.”
 
-He smiled slightly.
+He almost smiled.
 
 I shook my head.
 
-“You should have told me before opening the wall.”
+“You should have sent for me before opening.”
 
 “You were with your father.”
 
@@ -463,12 +431,6 @@ I shook my head.
 I looked at the groove.
 
 It probably was.
-
-There are rules that protect people from improvisation.
-
-There are moments improvisation protects people from rules.
-
-The trick is not pretending afterward that you always knew which one you were in.
 
 “Next time,” I said, “send a runner before opening.”
 
@@ -508,11 +470,9 @@ I stared at him.
 
 Better.
 
-Senn did not pay us.
+Senn hired another fitter that afternoon.
 
-He also hired another fitter that afternoon.
-
-The fitter looked at the sleeve, kept the feed off, and replaced it the next morning.
+The fitter kept the feed off and replaced the sleeve the next morning.
 
 Three buildings spent one cold night with blankets and borrowed coal heaters from district stores.
 
@@ -521,12 +481,6 @@ Nobody died.
 Nobody was happy.
 
 Senn sent me a written complaint anyway.
-
-Not to the Guild.
-
-To me.
-
-That was almost worse.
 
 UNAUTHORIZED DAMAGE.
 
@@ -554,9 +508,7 @@ Lorn said, “I told him not to.”
 
 Nessa ignored him.
 
-I had already decided.
-
-“Yes.”
+“Yes,” I said.
 
 Lorn frowned.
 
@@ -604,13 +556,9 @@ Nessa drew a box around it.
 
 “Do you?”
 
-I looked at her.
-
 She pointed at Lorn.
 
 “What did you buy for two silver?”
-
-I knew what she meant.
 
 Not labor.
 
@@ -618,9 +566,67 @@ Judgment.
 
 The ability for a job carrying my name to become safer while I was somewhere else.
 
-That was expensive.
+Expensive.
 
 Also cheap.
+
+The cave returned around me before I could move on.
+
+Ithar had lowered his head closer to the gold.
+
+“You continue to call yourself absent.”
+
+“I was.”
+
+“In body.”
+
+“Yes. That is generally how absence works.”
+
+“No.”
+
+I sighed.
+
+He continued.
+
+“Your fee had been agreed. Your instructions arrived before you. Your worker understood himself to be acting under your name. The landlord expected your judgment even when you were not present to provide it. When the danger appeared, Lorn was already inside a structure you had built around the work.”
+
+“It was one sheet.”
+
+“A structure can be badly built and still exist.”
+
+I looked at him.
+
+He looked back.
+
+Dragons are very difficult to intimidate with silence.
+
+“I was with my father,” I said.
+
+“Yes.”
+
+“That mattered more.”
+
+“I did not say otherwise.”
+
+“Then what are you arguing?”
+
+“That your body had finally become too small for the amount of responsibility you were acquiring.”
+
+That shut me up.
+
+Ithar's eye narrowed slightly.
+
+“You could stand in the healer's room or Rope Street. Not both. Your authority could. You are describing the first time you noticed it arriving somewhere ahead of you.”
+
+I hated that sentence.
+
+Mostly because it was useful.
+
+“So I wrote the sheet better.”
+
+“Continue.”
+
+The memory took me back to the table.
 
 The next week I changed the private work sheet.
 
@@ -658,11 +664,7 @@ That complaint reached Guild Hall two weeks later.
 
 Of course it did.
 
-Senn had reconsidered.
-
-Or somebody told him formal complaints could recover repair costs.
-
-The Guild sent me a notice requiring testimony.
+The Guild notice required testimony.
 
 PRIVATE WORK REVIEW.
 
@@ -704,15 +706,13 @@ Then at me.
 
 “Good.”
 
-That answer came too quickly.
+The answer came too fast.
 
 Lorn heard it.
 
 So did I.
 
-There had been a time I would have protected someone by taking their decision away from them.
-
-I would have said my contract.
+My contract.
 
 My worker.
 
@@ -723,8 +723,6 @@ All true.
 Incomplete.
 
 Lorn had made the call.
-
-If I spoke over him, I would turn trust back into ownership.
 
 “I'll tell them what I wrote,” I said.
 
@@ -740,7 +738,7 @@ If I spoke over him, I would turn trust back into ownership.
 
 “I was never good at speeches.”
 
-Nessa, from the wash basin, said, “True.”
+From the wash basin, Nessa said, “True.”
 
 I threw a pencil at her.
 
@@ -750,17 +748,11 @@ We were losing fewer pencils by then.
 
 Practice.
 
-The hearing was set for the following Monday.
+The hearing was set for Monday.
 
 I spent the weekend wanting to prepare Lorn.
 
-Questions.
-
-Answers.
-
-Order of events.
-
-Words to avoid.
+Questions. Answers. Order of events. Words to avoid.
 
 He refused.
 
@@ -770,17 +762,15 @@ He refused.
 
 “Then stop trying to put your mouth on it.”
 
-That sentence was disgusting.
+Disgusting sentence.
 
-Also effective.
+Effective.
 
 I stopped.
 
 Mostly.
 
 The night before the hearing, my father asked how business was going.
-
-We were at his house.
 
 He had returned to the mill after the concussion.
 
@@ -816,8 +806,6 @@ He let me.
 
 That worried me more than the hearing.
 
-I sharpened it properly.
-
 He watched my hands.
 
 “You always do too much yourself,” he said.
@@ -832,36 +820,16 @@ He smiled.
 
 Old bastard.
 
-The first private job I missed did not teach me how to delegate.
+The next morning, Lorn and I went to Guild Hall together.
 
-Delegation sounds clean.
+Neither of us talked much.
 
-Assign task.
+He bounced one knee while we waited outside the hearing room.
 
-Grant authority.
+I told him to stop.
 
-Review result.
+He switched knees.
 
-What happened was messier.
+Then the door opened.
 
-I was somewhere else.
-
-Lorn saw something.
-
-He made a call I had not authorized clearly enough.
-
-The call was right.
-
-The client hated it.
-
-I lost money.
-
-Then I changed the system so next time the authority matched the responsibility I had already expected him to carry.
-
-That was the lesson.
-
-Trust is not telling someone you trust them.
-
-It is deciding what they are allowed to do when you are absent.
-
-Then living with the answer.
+Bad chairs waited inside.
