@@ -13,6 +13,15 @@ Greg's First-Life meeting with Nhal, the hidden name, and the route to Ithar req
 ### Divergence has consequences
 Halden's survival changed Bren's path. Future remembered knowledge must continue behaving as evidence under changed conditions, not as a deterministic script.
 
+### First-Life private life
+First-Life Greg never married and had no children.
+
+He had women, sex, companionship, recurring relationships, and some relationships that mattered, but he did not build a permanent household. Do not flatten this into lovelessness or make every woman secretly waiting for him to settle down.
+
+Greg's work was genuinely valuable, and competence mattered to him as identity. The world repeatedly rewarded him for leaving, being useful, solving larger problems, and proving he belonged among extraordinary people. That real social value should make his choices more complicated than simple selfishness.
+
+Greg also used people in ordinary and sometimes uncomfortable ways: accepting companionship, practical help, loyalty, sex, contacts, rooms, care, and emotional steadiness while allowing work to decide when he left. Life Two must eventually make reciprocal dependence feel genuinely new to him.
+
 ### Nessa
 Nessa survived an event that killed her in First Life. She must remain a person with independent choices rather than a reward for Greg's foreknowledge.
 
@@ -37,6 +46,17 @@ Greg's S-class history belongs to support, not warrior combat.
 First-Life Greg was approximately C-class as a warrior and S-class as a support, one of only seven S-class humans of his era and essentially the only support among them.
 
 Do not casually describe First-Life Greg as an S-class warrior or imply one universal capability letter when discipline matters.
+
+### Ranker versus Named Ranker
+Ranker and Named Ranker are not interchangeable.
+
+A Ranker can possess recognized high-level field status without an official epithet. A **Named Ranker** is formally designated and titled by the Authority. The title is institutional, not a crowd nickname or press invention, even if popular culture later adopts it.
+
+The story should showcase at least one other Named Ranker relatively soon in post-020 material so the reader understands the category before Greg later earns his Life-Two title.
+
+**Peg-Leg Greg is locked as Greg's Life-Two Named Ranker title.** Do not replace or rename it casually.
+
+First-Life Greg may have carried a different Named Ranker title. **Swaggory** is a legacy candidate, but the exact First-Life title remains open until prose fixes it.
 
 ### The other S-class humans
 The other S-class people from Greg's First Life are active promises once named. At least some should later appear, matter, or be encountered rather than existing only as lore decoration.
@@ -121,7 +141,7 @@ Greg completes the revenge. Revenge is not the ending.
 Nobody comes back. The story must continue into the harder territory of life after revenge.
 
 ### Peg-Leg Greg identity
-The Authority-assigned named Ranker identity belongs later in Life Two and must be earned by events rather than imported early.
+Peg-Leg Greg is the Authority-bestowed Named Ranker title of Life Two. It belongs later in Life Two and must be earned by events rather than imported early.
 
 ### First-Life apex
 Greg once reached S-class support through decades of relational, team-based development. Life Two must not collapse into simply recovering the old build.
