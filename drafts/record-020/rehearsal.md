@@ -94,7 +94,9 @@ We both knew who he meant.
 
 I sat on another crate.
 
-The mill smelled the same as it had when I was nineteen. Oil. Grain dust. Hot belt leather. Wet wood near the river wall.
+The mill smelled the same as it had when I was nineteen.
+
+Oil. Grain dust. Hot belt leather. Wet wood near the river wall.
 
 People age inside places that do not bother aging with them.
 
@@ -153,8 +155,6 @@ Family intelligence networks remain poorly governed.
 “Only for you.”
 
 “Still moved.”
-
-I rubbed my face.
 
 “You need the healer again.”
 
@@ -260,7 +260,7 @@ But distance had compressed their aging into information.
 
 Life Two made me carry the grain sacks.
 
-My mother needed help too. Her knees had reached the point where stairs were no longer background. She started storing things downstairs because going up for them cost something now.
+My mother's knees had reached the point where stairs were no longer background. She started keeping things downstairs because going up for them cost something now.
 
 I installed a second rail.
 
@@ -268,7 +268,9 @@ She complained it made the stair look like a healer's house.
 
 Then used it every day.
 
-Lena helped. Not evenly, because evenly according to what?
+Lena helped too.
+
+Not evenly, because evenly according to what?
 
 She lived farther away. Had a child in school. Worked at the printer and supervised three people who apparently created problems specifically so she could complain about them at dinner.
 
@@ -276,7 +278,7 @@ She handled medicine lists better than I did.
 
 I handled repairs.
 
-Money moved from our household ledger to my parents more often.
+Money moved from our ledger to my parents more often.
 
 Then less after a clerk discovered my father had a small mill pension under a misspelled registry name.
 
@@ -344,13 +346,7 @@ He laughed until he coughed.
 
 Then told her the crown was too small.
 
-The year passed.
-
-That sentence is a lie.
-
-Years do not pass.
-
-Days do, and then somebody tells you a year happened.
+The year kept moving.
 
 Eli turned seven and then eight. He learned division and used it to prove my share of a pie was too large.
 
@@ -414,11 +410,7 @@ Black glass. Gold. Heat.
 
 My present left leg had gone numb from sitting. I shifted it and immediately regretted the choice.
 
-Ithar's head was higher than before.
-
-Not much.
-
-Enough.
+Ithar had raised his head.
 
 “You have developed a habit.”
 
@@ -428,29 +420,21 @@ Enough.
 
 I rubbed my leg.
 
-He continued.
+“I meant nothing big happened.”
 
-“Your father ceased ordinary labor and learned another kind of usefulness. Your mother changed how she moved through her own house. Your sister divided care with you while maintaining a household of her own. Nessa carried more expense when your attention moved elsewhere. Lorn worked without you. Tova absorbed work you could not perform. Children aged. Buildings changed. You learned names.”
+His eye narrowed.
+
+“Big.”
+
+“Don't.”
+
+“Your father ceased ordinary labor and learned another form of usefulness. Your mother changed how she moved through her own house. Your sister divided care with you while maintaining a household of her own. Nessa carried more expense when your attention moved elsewhere. Lorn worked without you. Tova absorbed work you could not perform. Children aged. Buildings changed.”
 
 “That was longer than it needed to be.”
 
 “Yes.”
 
 At least he knew.
-
-“I meant nothing big happened.”
-
-Ithar's eye narrowed.
-
-“Big.”
-
-“Don't.”
-
-“You climbed a mountain to explain that millions of deaths should compel me because of their scale. Then you spent hours teaching me that a table, a roof, a work schedule, a ledger, and a father's failing grip altered the shape of your life.”
-
-I hated dragons.
-
-Especially correct ones.
 
 “The year wasn't a turning point.”
 
@@ -475,8 +459,6 @@ My mother using the second rail while complaining about it.
 Nessa moving rent money without calling it rescue.
 
 Lorn working in somebody else's building without me.
-
-Tova covering an inspection.
 
 Eli stealing pie with mathematics.
 
