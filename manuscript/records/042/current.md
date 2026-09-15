@@ -76,7 +76,7 @@ I disliked that silence.
 
 "Good."
 
-My first opponent was a dock guard from Bellwater named Serik.
+My first opponent was a dock guard from Bellwater named Bram.
 
 I remembered him because we had both complained about the entry fee before realizing we were paired.
 
@@ -98,7 +98,7 @@ No deliberate joint destruction.
 
 Judges had considerable discretion, which is another way of saying everyone complained afterward.
 
-Serik used a short spear.
+Bram used a short spear.
 
 I had a staff.
 
@@ -110,7 +110,7 @@ We touched weapons.
 
 Judge called start.
 
-Serik immediately proved he was better at the actual tournament part of tournaments.
+Bram immediately proved he was better at the actual tournament part of tournaments.
 
 He took center.
 
@@ -154,7 +154,7 @@ My hip turned.
 
 Shoulder yielded.
 
-Most of Serik's pressure went somewhere that did not include my teeth.
+Most of Bram's pressure went somewhere that did not include my teeth.
 
 He blinked.
 
@@ -166,7 +166,7 @@ Enough for the judge.
 
 Point.
 
-Serik frowned at me.
+Bram frowned at me.
 
 "That felt wrong."
 
@@ -212,7 +212,7 @@ Technically matters.
 
 The judge gave me the bout by one point.
 
-Serik shook my hand afterward.
+Bram shook my hand afterward.
 
 "You fight like furniture."
 
@@ -242,7 +242,7 @@ Name lost.
 
 Sorry.
 
-He hit me six times in approximately the amount of time Serik had needed to become irritated.
+He hit me six times in approximately the amount of time Bram had needed to become irritated.
 
 I got two points.
 
@@ -492,7 +492,7 @@ That began approximately twelve minutes later.
 
 A woman from my Guild chapter saw me near the C bracket board.
 
-Her name was Hessa.
+Her name was Veda.
 
 We had worked two warehouse jobs together.
 
@@ -534,7 +534,7 @@ Arcrutus was no longer looking at me.
 
 Of course.
 
-Hessa followed my eyes.
+Veda followed my eyes.
 
 Then looked back at the welt.
 
@@ -796,13 +796,13 @@ My forehead hurt.
 
 Good day to go home.
 
-Then Hessa found me.
+Then Veda found me.
 
 She had two people with her.
 
 One I knew by sight.
 
-Rellan Vos.
+Calder Vos.
 
 C-class sword.
 
@@ -812,9 +812,9 @@ Good reputation.
 
 Not famous.
 
-The other was a woman named Mari Elt who carried a round shield and had the posture of someone who considered chairs morally suspicious.
+The other was a woman named Orla Elt who carried a round shield and had the posture of someone who considered chairs morally suspicious.
 
-Hessa pointed at me.
+Veda pointed at me.
 
 "This is him."
 
@@ -822,7 +822,7 @@ I looked behind myself.
 
 "No."
 
-Rellan looked at my forehead first.
+Calder looked at my forehead first.
 
 Everyone did.
 
@@ -830,17 +830,17 @@ Everyone did.
 
 "No."
 
-Hessa said, "Horny."
+Veda said, "Horny."
 
 "Fuck you."
 
-Mari laughed once.
+Orla laughed once.
 
 Then stopped when I looked at her.
 
 Professional.
 
-Rellan held up a team slate.
+Calder held up a team slate.
 
 "We need a fourth."
 
@@ -854,15 +854,15 @@ Rellan held up a team slate.
 
 "Allegedly."
 
-Hessa made a choking sound.
+Veda made a choking sound.
 
 I ignored her.
 
-Rellan said, "You fought Kelm."
+Calder said, "You fought Dorn."
 
 Apparently my second opponent had possessed a name after all.
 
-"Kelm fought me."
+"Dorn fought me."
 
 "You made him adjust."
 
@@ -876,7 +876,7 @@ Apparently my second opponent had possessed a name after all.
 
 "This recruitment strategy needs work."
 
-Mari spoke for the first time.
+Orla spoke for the first time.
 
 "You're not very good alone."
 
@@ -890,7 +890,7 @@ I stared at her.
 
 She folded her arms.
 
-"Kelm usually breaks stance on people. Drives through their guard. Makes them reset where he wants."
+"Dorn usually breaks stance on people. Drives through their guard. Makes them reset where he wants."
 
 "He did."
 
@@ -900,13 +900,13 @@ She folded her arms.
 
 "Seven."
 
-I looked at Hessa.
+I looked at Veda.
 
 She looked away.
 
 Traitor.
 
-Mari continued.
+Orla continued.
 
 "Every time he loaded the same line, your failure changed."
 
@@ -926,7 +926,7 @@ Failure.
 
 "We know."
 
-Rellan tapped the slate.
+Calder tapped the slate.
 
 "We have three fighters."
 
@@ -954,11 +954,11 @@ I looked toward the vendor lane.
 
 I made a note never to eat there.
 
-Hessa said, "They need a fourth body for the team event."
+Veda said, "They need a fourth body for the team event."
 
 "I am support."
 
-Mari nodded.
+Orla nodded.
 
 "Good."
 
@@ -968,7 +968,7 @@ Mari nodded.
 
 "Excellent pitch."
 
-Rellan looked tired.
+Calder looked tired.
 
 "We don't need another good solo fighter."
 
@@ -986,7 +986,7 @@ I almost laughed.
 
 Arcrutus had infected language.
 
-Rellan pointed at the practice square beyond registration.
+Calder pointed at the practice square beyond registration.
 
 "We lose shape under pressure."
 
@@ -1008,13 +1008,13 @@ Rellan pointed at the practice square beyond registration.
 
 I waited.
 
-Rellan did too.
+Calder did too.
 
 That was annoying.
 
 "Then what's the problem?"
 
-Mari answered.
+Orla answered.
 
 "We keep becoming four separate people."
 
@@ -1044,7 +1044,7 @@ Exactly the sort of arrangement I understood.
 
 "How much?"
 
-Rellan blinked.
+Calder blinked.
 
 "What?"
 
@@ -1062,13 +1062,13 @@ Rellan blinked.
 
 "Food?"
 
-Mari looked at my forehead.
+Orla looked at my forehead.
 
 "Not chestnuts."
 
 I disliked her less.
 
-Hessa smiled.
+Veda smiled.
 
 "Do it, Horny."
 
