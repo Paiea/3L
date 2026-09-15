@@ -1,399 +1,951 @@
 ## RECORD 043
 
-## THE CARTOGRAPHER
+## THE FOURTH
 
-The district map was accurate until we compared it to the ground.
+Temporary teams are an excellent way to discover whether your ideas work.
 
-Then it became administrative fiction.
+Nobody has enough history to hide behind.
 
-Not useless.
+We had thirty-four minutes before our first match.
 
-Important distinction.
+Rellan wanted introductions.
 
-Maps are allowed to be wrong about some things if you know which things.
+Mari wanted formation.
 
-We did not.
+Hessa wanted to know whether I had ice for my forehead.
 
-The problem began with a parts request from Hillcross.
+I wanted Hessa removed from the team.
 
-Their lower pump station needed a replacement pressure sleeve.
+This was denied.
 
-Standard size according to regional inventory.
+"Again," Rellan said. "Rellan Vos. Sword. Front right."
 
-Bellwater had one.
+"Mari Elt. Shield. Front left."
 
-Easy.
+Hessa raised two fingers.
 
-Then Bellwater refused transfer because their records said Hillcross belonged to a different service network and the fitting certification did not cross jurisdiction without retesting.
+"Hessa Vale. Spear. Rear right. Long reach, excellent judgment, beloved by peers."
 
-That sentence annoyed everyone enough to create a meeting.
+"One of those is false," I said.
 
-I attended because apparently my career had become meetings caused by nouns.
+"Only one?"
 
-Halden brought the regional Line map.
+Rellan looked at me.
 
-Large sheet.
+"Greg."
 
-Beautiful.
+"Support."
 
-Color-coded districts.
+Mari waited.
 
-Service boundaries.
+"And?"
 
-Station feeds.
+"Staff if necessary."
 
-Emergency interties.
+"Classification?"
 
-Ownership marks.
+"C."
 
-I had seen versions before.
+Hessa pointed at my forehead.
 
-Never trusted them completely.
+"Horn classification unclear."
 
-Still admired the ink.
+"I can still leave."
 
-Hillcross sat blue.
+"You signed."
 
-Bellwater green.
+"Contracts can be broken."
 
-No direct connection.
+"Not for free."
 
-Different regional maintenance pools.
+That was true.
 
-Separate parts certification.
+I disliked her competence when directed at me.
 
-The Hillcross foreman looked at the map.
+The team event used a larger square than the solo bracket.
 
-Then said, “That pipe is Bellwater.”
+Four against four.
 
-Halden looked at him.
+Controlled weapons.
 
-“What?”
+One designated support allowed per team, though support could still carry a weapon and be struck like everybody else because organizers valued realism when realism was profitable.
 
-“Lower pump feed. Comes from river line.”
+Win by point threshold, forced boundary, or judge stoppage.
 
-“The river line terminates at North Gate.”
+No substitutions during a match.
 
-“No.”
+Our missing support had apparently spent the morning proving that red-banner meat skewers could defeat a trained professional without entering the bracket.
 
-The foreman pointed two inches south on the sheet.
+His name was Pell.
 
-“Runs under old road. Comes up behind our lower station.”
+I never met him.
 
-Halden stared.
+I hope he recovered.
 
-“Since when?”
+Mostly because I later learned he had paid part of the entry fee.
 
-“Before me.”
+Rellan drew a square in the dirt.
 
-“How long have you worked there?”
+"We usually run this."
 
-“Twenty-nine years.”
+Mari front left.
+
+Rellan front right.
+
+Hessa behind Rellan with spear reach over the line.
+
+Support behind Mari.
+
+Compact.
+
+Reasonable.
+
+I looked at it.
+
+"Why support behind Mari?"
+
+Mari answered.
+
+"Because I'm first contact."
+
+"And when pressure shifts right?"
+
+"Support rotates."
+
+"And when Hessa extends?"
+
+"Support rotates."
+
+"And when Rellan chases?"
+
+Rellan said, "I don't chase."
+
+Mari looked at him.
+
+He sighed.
+
+"Support rotates."
+
+I stared at the little square.
+
+"So your support spends the match fixing whichever one of you becomes a problem."
+
+Hessa said, "That is an unkind way to describe support."
+
+"Is it inaccurate?"
+
+Nobody answered.
 
 Good.
 
-Tova closed her eyes.
+I should have stopped there.
 
-I enjoyed that because usually I was the one causing it.
+Instead I decided I understood the problem.
 
-We went to Hillcross.
+That was familiar.
 
-Not because anyone doubted the foreman personally.
+Our first opponents were a local Guild security team who had clearly practiced together longer than thirty-four minutes.
 
-Because maps become expensive when changed.
+Same colored wraps.
 
-The lower station had a Bellwater-style flange.
+Shared signals.
 
-Different bolt spacing from Hillcross standard.
+One woman with paired short blades.
 
-That was evidence enough to make everyone unhappy.
+One shield.
 
-The pipe disappeared underground toward the old road.
+One long staff.
 
-Current map showed nothing.
+One support wearing no visible weapon at all.
 
-Old station book mentioned RIVER AUXILIARY.
+They looked organized.
 
-No route.
+We looked temporary.
 
-We pulled earlier maps.
+Accurate.
 
-Twenty years.
+The judge called us in.
 
-Thirty.
+Hessa glanced at my forehead.
 
-Forty.
+"If the horn gets hit, is that two points?"
 
-The river auxiliary appeared on one.
+"I hope you die first."
 
-Faint dashed line crossing what later became a district boundary.
+"Team spirit."
 
-Next map copied the district boundary over it and stopped the dash at the line.
+Start.
 
-Not because pipe was removed.
+For approximately twenty seconds, I was excellent.
 
-Because the map's purpose changed.
+Mari took first contact.
 
-The older map described construction.
+I reinforced her shield shoulder.
 
-The newer map described responsibility.
+Rellan moved right.
 
-Somewhere in copying, visual grammar became physical claim.
+I stabilized his rear ankle when the staff fighter tried to hook his step.
 
-Line stopped on paper.
+Hessa extended over him.
 
-Pipe kept going.
+I caught recoil through her wrist and kept the spear line clean.
 
-That one was easy after we found it.
+Three good interventions.
 
-Then we started looking elsewhere.
+Three people still standing exactly where they wanted to stand.
 
-Bad decision for sleep.
+I felt useful.
 
-Bellwater and Hillcross had three other cross-boundary connections.
+Then the other team moved as one thing.
 
-Two abandoned physically.
+Their shield pressed Mari inward.
 
-One abandoned administratively but still carrying low flow during peak demand.
+Blades threatened the opening.
 
-Nobody billed it correctly.
+Rellan turned to punish it.
 
-Everyone benefited enough not to ask.
+Hessa widened to preserve spear angle.
 
-South Fen had a wash-return channel maintained by the dye district for half its length and city drainage for the other half.
+All correct.
 
-Official Line map showed it only on the dye side.
+I reinforced Mari because she was under the greatest visible pressure.
 
-Drainage map showed the rest under another symbol.
+Rellan took a staff strike to the upper arm.
 
-Same physical channel.
+I shifted to him.
 
-Two departments.
+Hessa overextended.
 
-Two truths.
+I caught her shoulder.
 
-Cask had a brewery cooling loop everyone considered private until we found the return joined a public thermal sink under the square.
+Mari lost ground.
 
-The brewery owner said this had always been known.
+I returned to Mari.
 
-Known by whom became the chapter's recurring question.
+The other support barely seemed to move.
 
-Regional office produced more maps.
+That bothered me.
 
-Ownership.
+Not physically.
 
-Emergency response.
+Conceptually.
 
-Tax assessment.
+Their team kept forcing decisions.
 
-Maintenance jurisdiction.
+Ours kept making them.
 
-Construction history.
+I was fast enough to save most individual mistakes.
 
-Each one was accurate enough for its job.
+That became the problem.
 
-Put them together and the Line looked like several different systems occupying the same geography accidentally.
+Rellan lunged after the paired blades.
 
-That was not entirely wrong.
+I stabilized his front knee.
 
-I started carrying tracing paper.
+Because I did, he completed the lunge instead of aborting it.
 
-Not glamorous.
+Because he completed it, Hessa had to rotate farther right to cover him.
 
-Useful.
+Because she rotated, Mari's inside became exposed.
 
-Layer one: confirmed physical route.
+Because Mari's inside became exposed, I reinforced her ribs against the shield impact.
 
-Layer two: current administrative owner.
+Because I reinforced her ribs, I had nothing left when the staff fighter swept Hessa's planted foot.
 
-Layer three: actual maintenance crew.
+Hessa hit the ground.
 
-Layer four: known emergency intertie.
+Point.
 
-Layer five: uncertain legacy path.
+Reset.
 
-Tova objected to five line styles.
+"Sorry," I said.
 
-“You once complained about three.”
+"For what?"
 
-“I was younger.”
+"I kept Rellan in."
 
-“You were thirty.”
+Rellan frowned.
 
-“Much younger.”
+"That was good."
 
-We argued about symbols for two days.
+"Was it?"
 
-That sounds stupid.
+Judge called ready.
 
-It was important.
+No time.
 
-A dashed line meant uncertain physical route on my drafts.
+Start.
 
-On Halden's old map, dashed meant temporary service.
+We did it again.
 
-On Bellwater's, dashed meant seasonal.
+Different order.
 
-Same mark.
+Same shape.
 
-Three meanings.
+Mari held too long because I made holding possible.
 
-We almost invented another mistake while correcting the first.
+Rellan committed because I made commitment safer.
 
-So we added a legend large enough that nobody could pretend not to read it.
+Hessa extended because I kept her shoulder stable.
 
-Kett suggested different shapes at endpoints instead of relying on color.
+I was helping everyone do exactly what each of them already wanted to do.
 
-Because color.
+Individually.
 
-Of course.
+We lost by four points.
 
-His tags had already taught us that lesson.
+Not catastrophic.
 
-Map became uglier.
+Not close either.
 
-Better.
+The other team shook hands.
 
-Nessa saw one at home.
+Their support nodded at me.
 
-“What is that?”
+Not smug.
 
-“Regional physical-service overlay.”
+Worse.
 
-“It looks diseased.”
+Professional sympathy.
 
-“Reality is untidy.”
+I hated him immediately.
 
-“You put seven marks on one street.”
+Back outside the square, Rellan drank water and said, "Better than with Pell."
 
-“There are seven relevant facts.”
+Mari said, "We lost faster with Pell."
 
-“Can anyone read it?”
+"That is not the compliment you think it is," I said.
 
-“Yes.”
+Hessa was rubbing her hip.
 
-“Anyone who isn't you?”
+"I liked the part where you supported me directly into the ground."
 
-I paused.
+"I did not support you into the ground."
 
-She smiled.
+"You supported everyone else until gravity became my support."
 
-Cruel.
+I opened my mouth.
 
-We tested it with station foremen.
+Closed it.
 
-They hated the first version.
+Mari looked at me.
+
+"What?"
+
+I crouched and drew the square again.
+
+Not positions.
+
+Movement.
+
+Mari inward under pressure.
+
+Rellan right on opening.
+
+Hessa widening behind him.
+
+Me chasing whichever body looked closest to failure.
+
+Four separate arrows.
+
+I had seen this before.
+
+Eight years earlier.
+
+Left side.
+
+A rear fighter paying for every locally sensible decision around him.
+
+Except now I was the idiot making the corrections.
+
+"Fuck."
+
+Hessa leaned over me.
+
+"Breakthrough?"
+
+"Possibly embarrassment."
+
+"Related fields."
+
+I drew another line.
+
+"I am keeping each of you in your preferred position."
+
+Rellan said, "That's support."
+
+"Maybe bad support."
+
+He frowned.
+
+Mari understood first.
+
+Of course she did.
+
+"You're preserving us separately."
+
+I looked at her.
+
+"Yes."
+
+Hessa said, "What are we supposed to do, merge?"
+
+"No."
+
+I looked at the square.
+
+Then at them.
+
+"You need to be worse."
+
+Silence.
+
+Rellan said, "Explain that carefully."
+
+"Mari, when they press you inward, give ground earlier."
+
+She frowned.
+
+"That opens center."
+
+"For half a step. Rellan, don't take every opening she creates."
+
+"Then why create it?"
+
+"Because Hessa needs somewhere to stand that isn't three feet outside the team."
+
+Hessa pointed at herself.
+
+"I liked three feet outside."
+
+"I know. Stop it."
+
+"Rude."
+
+"Your spear angle is beautiful while everyone else dies."
+
+She considered that.
+
+"Fair."
+
+I continued.
+
+"Mari gives ground before she needs me. Rellan gives up some attacks before he needs me. Hessa shortens extension before she needs me."
+
+Rellan looked at me.
+
+"And what do you do?"
+
+Good question.
+
+"Less."
+
+Nobody liked that answer.
+
+Neither did I.
+
+Our second match was against a mining-contract team from north Vey.
+
+Not tournament specialists.
+
+Strong.
+
+Ugly equipment.
+
+One hammer user who looked personally offended by the concept of padding.
+
+Before the start I told Mari, "If he hits your shield, move."
+
+"I know how shields work."
+
+"Move more."
+
+"That is usually bad."
+
+"Yes."
+
+She stared at me.
+
+"Good talk."
+
+Start.
+
+Hammer came at Mari.
+
+She gave ground immediately.
 
 Too much.
 
-Not enough local labels.
+The center opened.
 
-Wrong names for two old roads.
+Rellan saw it.
 
-One village had changed its street numbers twelve years earlier and nobody told regional records.
+Every part of him wanted to fill it.
 
-The second version was better.
+He did not.
 
-The third became useful.
+That was harder than fighting.
 
-Not official authority.
+Hessa stepped inward instead of preserving reach.
 
-Reference overlay.
+Her spear shortened.
 
-Field crews began adding corrections.
+Worse angle.
 
-That created another problem.
+Better connection.
 
-Who could change the map?
+The hammer user followed Mari.
 
-Everyone had useful local knowledge.
+I let him.
 
-Not everyone should redraw regional infrastructure from memory after lunch.
+Mari looked at me like I had betrayed civilization.
 
-We created correction slips.
+Then the opponent's second fighter tried to split between her and Rellan.
 
-CURRENT MAP SAYS.
+That was the moment.
 
-FIELD OBSERVED.
+I stabilized Rellan's rear foot.
 
-SOURCE.
+Not enough to drive him forward.
 
-CONFIDENCE.
+Enough to let him turn without stealing the space Hessa needed.
 
-There it was again.
+Hessa's shortened spear caught the entry.
 
-Memory.
+Mari recovered inside instead of back to her original line.
 
-Now.
+For perhaps three seconds, nobody stood where they preferred.
 
-Meaning wearing work clothes.
+We were excellent.
 
-I noticed.
+Not individually.
 
-Did not tell Nessa immediately because she would become smug enough to affect weather.
+Together.
 
-The Hillcross sleeve eventually transferred from Bellwater without retesting.
+The opponent reset.
 
-Once we proved the exact feed was physically Bellwater standard, the certification dispute dissolved.
+We did not.
 
-The clerk who had refused it apologized to nobody because she had followed the map she was given.
+That difference won the first point.
 
-Correct.
+Then another.
 
-We changed the map.
+Then I made a mistake.
 
-That mattered more.
+Good.
 
-Regional work became easier afterward.
+Important.
 
-Not easy.
+I tried to hold Mari and Rellan through the same exchange.
 
-Easier.
+Too much pressure in two different directions.
 
-Crews knew which neighboring district actually had compatible parts.
+Barrier control slipped.
 
-Emergency planners stopped assuming jurisdiction lines were isolation points.
+My left hand went numb.
 
-Billing discovered several awkward flows and began asking questions I avoided.
+Rellan took a shoulder tag.
 
-One town learned it had been carrying part of another town's winter return for twenty years without compensation.
+I shook sensation back into my fingers.
 
-That became politics.
+Limit.
 
-Not my chapter.
+There.
 
-The lesson was simpler.
+Not theory.
 
-Official maps had not been lies.
+Body.
 
-They answered official questions.
+Capacity.
 
-Who owns this?
+I could track the shape better than I could sustain every correction it suggested.
 
-Who pays for this?
+So I stopped correcting everything.
 
-Who responds here?
+Mari took hits she could absorb.
 
-The ground answered different questions.
+Rellan abandoned openings he could have won.
 
-What connects?
+Hessa accepted bad angles.
 
-What carries load?
+I spent support only where failure would separate us.
 
-What breaks together?
+We won by two points.
 
-What still exists after the paperwork says it ended?
+Nobody celebrated properly because we were too busy arguing about why it worked.
 
-Late in life those distinctions became terrifyingly important.
+"I hated that," Mari said.
 
-At thirty-five they mostly helped us move fittings without three signatures.
+"Good."
 
-Again.
+"I was out of position half the match."
 
-Useful systems often begin smaller than their eventual consequences.
+"Relative to what?"
 
-The map stayed ugly.
+"My position."
 
-I became protective of that.
+"Exactly."
 
-Clean maps are suspicious.
+She looked ready to hit me with the shield.
+
+Hessa said, "I understand him."
+
+Mari looked at her.
+
+"Explain."
+
+"He wants us all mildly unhappy."
+
+I pointed at her.
+
+"That is closer than I would like."
+
+Rellan was staring at the square.
+
+"We stopped becoming four people."
+
+That shut us up.
+
+Not because it was profound.
+
+Because it was the sentence they had used before recruiting me.
+
+Mari looked at me.
+
+"Can you do it again?"
+
+"Maybe."
+
+"That is not confidence inspiring."
+
+"Precision does not create certainty."
+
+The words came out before I decided to say them.
+
+Hessa frowned.
+
+"What does that mean?"
+
+"An old asshole."
+
+I looked toward the upper seats.
+
+Arcrutus's chair was empty.
+
+Of course it was.
+
+No approval.
+
+No nod.
+
+No old monster watching the promising student discover his destiny.
+
+He had left.
+
+I was strangely relieved.
+
+Ithar interrupted.
+
+"You looked for him."
+
+"Yes."
+
+"Why?"
+
+"Habit."
+
+"After eight years?"
+
+"Apparently."
+
+"And when he was gone?"
+
+I thought about it.
+
+"I kept working."
+
+The dragon was quiet.
+
+That silence I allowed.
+
+We won our third match too.
+
+Better roster than us.
+
+Better individual fighters.
+
+They had a B-class candidate on spear who was only still in C because his evaluation paperwork had not caught up to his body.
+
+You could tell.
+
+He hit like administration was personally insulting him.
+
+We did not beat him.
+
+We beat the places around him.
+
+When he pressed, Mari yielded.
+
+When Mari yielded, Rellan stopped trying to punish every opening.
+
+Hessa worked shorter and uglier.
+
+I watched the lines between them instead of the people alone.
+
+Not magical lines.
+
+Do not make this impressive too early.
+
+Distance.
+
+Angles.
+
+Timing.
+
+Who had somewhere to step.
+
+Who was carrying momentum somebody else had created.
+
+Who would have to compensate next if nothing changed.
+
+Simple things.
+
+Hard things.
+
+We won on boundary control because the better spear fighter kept finding himself one step farther from support than he expected.
+
+His team blamed positioning.
+
+They were right.
+
+So were we.
+
+By the fourth match, my head hurt for two reasons.
+
+Forehead welt.
+
+Thinking.
+
+The second was worse.
+
+We lost.
+
+Not because the idea failed.
+
+Because I did.
+
+Their team moved faster than I could track.
+
+Two pressure changes at once.
+
+Then three.
+
+Mari gave ground.
+
+Rellan held.
+
+Hessa shortened.
+
+All according to plan.
+
+I saw where the next failure would go.
+
+Then another arrived first.
+
+I reinforced too late.
+
+Hessa got tagged.
+
+I compensated.
+
+Rellan lost center.
+
+I compensated.
+
+Mari took a hammer strike on the shield and needed the support I had already spent.
+
+I reached anyway.
+
+My left hand seized.
+
+Barrier collapsed.
+
+Not dramatically.
+
+Just gone.
+
+For one clean second I had nothing.
+
+The other team noticed.
+
+Professionals are rude that way.
+
+Three points in under ten seconds.
+
+Judge stopped it.
+
+Done.
+
+Quarterfinal, I think.
+
+Maybe one round before.
+
+Tournament records would know.
+
+I do not care enough to lie precisely.
+
+We walked out bruised, annoyed, and much happier than people who had just lost should have been.
+
+Rellan handed me water.
+
+"You hit limit."
+
+"Yes."
+
+"Can you raise it?"
+
+"Probably."
+
+Mari said, "How?"
+
+"Work."
+
+Hessa nodded solemnly.
+
+"Excellent. He has rediscovered employment."
+
+"I hate you."
+
+"Horny, you barely know me."
+
+The nickname followed me into the evening.
+
+The welt followed me home.
+
+The team did not.
+
+That matters.
+
+We were temporary.
+
+We had met that morning.
+
+By sunset I trusted Mari to give ground before I asked.
+
+Rellan trusted me enough to leave an opening unused.
+
+Hessa trusted all of us enough to shorten a spear line she could have made prettier alone.
+
+Then the tournament ended and technically we owed each other nothing.
+
+I liked that structure immediately.
+
+Ithar said, "Temporary belonging."
+
+I looked at him.
+
+"That is a phrase designed to become annoying."
+
+"Is it inaccurate?"
+
+"No."
+
+"Then continue."
+
+After prizes, somebody bought beer.
+
+Not us.
+
+We had not won enough.
+
+Rellan knew people.
+
+Field people.
+
+Escort crews.
+
+Survey teams.
+
+The kind of workers who spent three months together, knew exactly how the person beside them snored, bled, lied, packed, fought, and panicked, then separated at the contract boundary and might not meet again for a year.
+
+I understood them immediately.
+
+That should have worried me.
+
+It did not.
+
+Mari found me near the registration tent while I was collecting my deposit.
+
+She held a folded work notice.
+
+"We leave in nine days."
+
+"Who is we?"
+
+"Not today’s team. Mostly. Rellan is in. Hessa has another contract."
+
+"Tragic."
+
+"She said you would say that."
+
+"Where?"
+
+"North road. Survey escort past Iven. Old quarry route, then two ruin sites if the weather holds."
+
+"How long?"
+
+"Three months."
+
+That was long enough to matter.
+
+Short enough to end.
+
+Perfect, apparently.
+
+"Pay?"
+
+"Good."
+
+"Define good."
+
+She told me.
+
+It was good.
+
+"Beds?"
+
+"Sometimes."
+
+"Food?"
+
+"Usually."
+
+"Red-banner skewers?"
+
+"Never again."
+
+I looked at the work notice.
+
+Support requested.
+
+C-class minimum.
+
+Field capable.
+
+Travel required.
+
+Temporary party attachment.
+
+There it was.
+
+Not destiny.
+
+Not recruitment into some legendary company.
+
+Work.
+
+Three months.
+
+People who had seen me fail and still wanted me there.
+
+"Where do I sign?"
