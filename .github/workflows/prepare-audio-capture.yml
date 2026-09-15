@@ -20,7 +20,8 @@ jobs:
       - name: Generate validated route plans for 011-020
         run: |
           set -euo pipefail
-          for n in $(seq -w 11 20); do
+          for i in $(seq 11 20); do
+            n=$(printf '%03d' "$i")
             mkdir -p "audio/production/record-${n}"
             python scripts/audio_route.py \
               "manuscript/records/${n}/current.md" \
