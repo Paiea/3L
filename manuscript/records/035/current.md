@@ -1,563 +1,1609 @@
 ## RECORD 035
 
-## THE ADVOCATE
+## THE SILENCE
 
-People liked my maintenance opinions better before they appeared on bills.
+That was where I stopped.
 
-That seems obvious now.
+Not because anything ended there.
 
-At thirty-three, I found it disappointing.
+Because the next sentence would not come.
 
-The district assessment had passed.
+I had been talking about Tomas's copper.
 
-Barely.
+The one under the chair leg.
 
-Two additional maintenance positions were hired.
+Mira beside me on the floor.
 
-Legacy monitoring stabilized.
+Nessa at the table with the ledger open.
 
-Records improved.
+Blue ribbon tied around a wooden horse because apparently hair was too temporary for decoration.
 
-Nobody celebrated.
+I could see all of it.
 
-Correct response to infrastructure.
+Not imagine.
 
-Then East Market's temporary problem stopped being temporary.
+Remember.
 
-The branch supports under East Two had survived restricted operation, repair, monitoring, and our increasingly elaborate attempts to understand old bronze work without touching anything important.
+The scrape under my palm where the floorboard had lifted near the table leg.
 
-The modern support structure around them had not improved through observation.
+The little dark line of dust against the wall.
 
-Tova's measurements showed slow movement.
+The way Tomas checked both sides of the coin after I found it, as though one side might have been damaged by being lost.
 
-Not emergency movement.
+I remembered Nessa's left thumb resting in the fold of the ledger.
 
-Millimeters over seasons.
+Ink on the side of it.
 
-Enough.
+I remembered Mira saying I had sworn.
 
-The repair options were unpleasant.
+I remembered the spoon on the table.
 
-Option one.
+Wood.
 
-Patch and reinforce the modern support again.
+Crack near the handle.
 
-Cheap.
+I remembered all of that.
 
-Fast.
+Then I tried to say what happened next.
 
-Probably bought five years.
+Nothing.
 
-Maybe ten.
+Ithar watched me.
 
-Option two.
+That was not new.
 
-Open the foundation across two buildings, replace the support frame, reroute part of the market branch, and install independent monitoring access so the next inspection did not require archaeology.
+The dragon had turned watching into an occupation.
 
-Expensive.
+I looked down at my hands.
 
-Disruptive.
+Then at him.
 
-Probably solved the modern support problem for decades.
+"After that..."
 
-Did not solve the ancient Line mystery below it.
+The sentence waited.
 
-Important distinction.
+So did Ithar.
 
-District could not pay option two from ordinary maintenance funds.
+"After that the district..."
 
-City offered half.
+No.
 
-Buildings on the branch would cover the rest through a temporary repair levy.
+I could have chosen a district event.
 
-There it was again.
+There were plenty.
 
-Money.
+Work continued.
 
-The levy was much larger than three copper.
+Of course it did.
 
-Residential share varied by building.
+Stations do not stop because a man's children turn five.
 
-Commercial more.
+People needed things.
 
-Six monthly payments.
+Forms arrived.
 
-Enough that people noticed before the first bill existed.
+Weather happened.
 
-Halden asked me to sign the technical recommendation.
+Something broke somewhere because civilization is mostly objects becoming tired in public.
 
-Tova already had.
+I knew that.
 
-I read hers.
+I could not make any of it become next.
 
-FULL MODERN SUPPORT REPLACEMENT RECOMMENDED.
+I tried again.
 
-Clear.
+"Mira and Tomas..."
 
-No drama.
+Stopped.
 
-“Why me too?”
+That was worse.
 
-“Because your restricted-operation plan kept the branch open long enough for us to collect the data.”
+Ithar's nostril moved.
 
-“That sounds like blame.”
+"Do not."
 
-“It is continuity.”
+He had not spoken.
 
-“Worse.”
+"Whatever you are about to do, don't."
 
-He pointed at the signature line.
-
-I signed.
-
-That was easy now.
-
-Not emotionally.
-
-Procedurally.
-
-The hard part came at the building meeting.
-
-District held it at the market hall because the public bath refused to host another infrastructure argument without charging us.
-
-Fair.
-
-Senn sat front row.
-
-Mina sat two rows behind him.
-
-The butcher from Record Nineteen.
-
-Laundry guild.
-
-Apartment tenants.
-
-Shop owners.
-
-Two landlords I knew from private work.
-
-That was when I realized professional worlds collide hardest when everyone has your home address.
-
-Halden explained the repair.
-
-Tova explained the movement.
-
-A city clerk explained the levy.
-
-People remained calm until the clerk said numbers.
-
-Then civilization began.
-
-“How much?”
-
-“For six months?”
-
-“Per unit?”
-
-“Why is commercial double?”
-
-“My building barely uses the branch.”
-
-“You have a bathhouse.”
-
-“Bathing is public health.”
-
-“You charge admission.”
-
-“Can we not do this again?”
-
-The clerk lost control.
-
-Halden tried.
-
-Worse.
-
-Then someone shouted, “Patch it.”
-
-Simple.
-
-The room quieted around the word.
-
-Patch.
-
-Cheaper.
-
-Known.
-
-We had patched supports before.
-
-The district's own report said patching remained technically possible.
-
-That mattered.
-
-This was not safe versus unsafe.
-
-It was cheaper temporary versus expensive durable under uncertainty.
-
-Much harder argument.
-
-Senn raised his hand.
-
-He had learned hearings.
-
-“Expected life of patch?”
-
-Tova said, “We cannot guarantee.”
-
-“Estimate.”
-
-“Five to ten years before major intervention, assuming movement remains in current range.”
-
-“And replacement?”
-
-“Modern support frame, thirty-plus under normal conditions.”
-
-“Ancient structure?”
-
-“Still monitored.”
-
-“So we spend all this and still do not know what's under it.”
-
-“Yes.”
-
-The room did not like honesty.
-
-I understood.
-
-Someone asked which option was safe.
-
-Tova answered, “Both can be operated safely if maintained within their limits.”
-
-That made patching stronger.
-
-Then Halden looked at me.
-
-I hated him.
-
-“What?”
-
-“You signed replacement.”
-
-“I know.”
-
-“Explain.”
-
-“To you?”
-
-“To them.”
-
-There are moments you discover your private opinion has become public property.
-
-I stood.
-
-Bad choice physically.
-
-People pay more attention when you stand.
-
-“I signed replacement because the patch spends less money now by asking future crews to keep paying attention to a support we already know is moving.”
-
-A landlord said, “That is their job.”
-
-“Yes.”
-
-“So why is that bad?”
-
-“It isn't automatically.”
-
-“Then patch.”
-
-I looked at the room.
-
-Fair question.
-
-“The branch serves forty-three buildings. Some can absorb an outage better than others.”
-
-The Rope Street woman was there again.
-
-North rear rooms.
-
-I saw her.
-
-“Every temporary repair keeps the same dependency. Monitoring. Restricted conditions. Future closure window. Another repair later. Those costs don't land evenly.”
-
-A shop owner said, “This cost isn't landing evenly either.”
-
-“Yes.”
+The nostril stopped.
 
 Good.
 
-No escape.
+I looked toward the passage.
 
-“Replacement is expensive now. Patch is cheaper now and more expensive later if the support keeps moving. The reason I signed replacement is not that patching is unsafe. It is that we already used temporary operation to learn enough to stop calling the condition temporary.”
+Dark.
 
-That sentence felt right.
+Still there.
 
-The room remained angry.
+I had become less interested in it over the course of the account.
 
-Right sentences do not produce coins.
+That bothered me now.
 
-Mina stood.
+An exit should remain emotionally useful even when you do not intend to use it.
 
-“How much do you make inspecting this?”
+"I lost the thread."
 
-Oh.
+Ithar's eye remained on me.
 
-I looked at her.
+"It happens."
 
-“District rate.”
+Nothing.
 
-“How much?”
+"People lose threads."
 
-I told her.
+Still nothing.
 
-Someone whistled.
+"You could help by being less fucking dramatic about it."
 
-Not because it was enormous.
+His head lowered perhaps half an inch.
 
-Because public numbers always sound different out loud.
+"I have done nothing."
 
-Mina asked, “You get more work if we rebuild?”
+"Exactly."
 
-There it was.
+"You object to my silence."
 
-Conflict.
+"Currently, yes."
 
-I had not thought about it.
+"You have relied on it for several days."
 
-That was embarrassing.
+I frowned.
 
-“Possibly.”
+"Several?"
 
-“Possibly?”
+"Four."
 
-“District survey would inspect during work. I could be assigned.”
+I looked toward the cave mouth again.
 
-“Then you recommend the expensive repair and might get paid from it.”
+Light there had changed enough times that four should not have surprised me.
 
-“Yes.”
+It did.
 
-The room shifted.
+The mountain had a poor relationship with clocks.
 
-I could feel trust move.
+So did dragons.
 
-Not disappear.
-
-Move.
-
-Halden started to speak.
-
-I stopped him.
-
-“She is right.”
-
-Mina looked surprised.
-
-“I should not be the paid field inspector if the replacement goes forward.”
-
-Tova turned toward me.
-
-Halden frowned.
-
-I continued.
-
-“Technical recommendation stands. Assign another lead inspector.”
-
-A landlord said, “Convenient after you got caught.”
-
-That irritated me.
-
-Good.
-
-I used the irritation carefully.
-
-“Yes.”
-
-He stopped.
-
-What else could I say?
-
-I had missed the conflict until somebody whose rent depended on my recommendations pointed at it.
-
-That did not make the recommendation false.
-
-It made my role messy.
-
-We separated it.
-
-Tova remained technical lead.
-
-Mara Vel took field inspection if replacement won.
-
-I stayed available for legacy comparison only if requested and without extra contract fee beyond district salary.
-
-Cleaner.
-
-Not pure.
-
-Nothing is.
-
-The vote was advisory.
-
-City still had final approval because they held half the money.
-
-Building representatives split.
-
-Commercial owners leaned patch.
-
-Tenant representatives split by how the levy was passed through.
-
-Public buildings wanted replacement because city paid their share.
-
-Convenient morality.
-
-The city approved replacement with one change.
-
-Residential levy stretched to twelve months instead of six.
-
-Commercial stayed six.
-
-Total cost same.
-
-Pain moved in time.
-
-Work began summer.
-
-I did not lead inspection.
-
-Mara did.
-
-She was good.
-
-Her handwriting had improved slightly.
+I had slept.
 
 Not enough.
 
-Private consequences arrived faster.
+Eaten.
 
-One landlord canceled a scheduled inspection with me.
+Less than enough.
 
-Reason: CONFLICT WITH DISTRICT LEVY ADVOCACY.
+Talked.
 
-He actually wrote that.
+Far too much.
 
-Professional.
+Apparently four days.
 
-A shop owner hired Harven Works instead of us for a regulator service.
+"You counted?"
 
-Another client asked whether my recommendation would become “another tax.”
+"The sun is visible from the eastern shelf."
 
-I said I did not have taxing authority.
+"That is not the same as counting."
 
-He did not laugh.
+"It is when the sun behaves reliably."
 
-Lorn was angry.
+"Show-off."
 
-“We lost eleven silver this month.”
+Ithar said nothing.
 
-“I know.”
+Fine.
 
-“For what?”
+I tried the sentence again.
 
-“A support frame.”
+"After they turned five..."
 
-“We are not building it.”
+Nothing.
 
-“I know.”
+Not blankness.
 
-“That was not what I meant.”
+That would have been easier.
 
-He sat at our work desk.
+Blankness is absence.
 
-“I agree with replacement.”
+You can point to it.
 
-“Good.”
+This was crowding.
 
-“I still hate this.”
+Too much arrived at once.
 
-“Also good.”
+Rooms.
 
-Nessa looked up from her schedule.
+Weather.
 
-“You want advocacy to pay better?”
+Arguments.
 
-Lorn said, “I want people to separate his district work from ours.”
+Work.
 
-“They don't.”
+Hands.
 
-“That is stupid.”
+Food.
 
-“People hire trust.”
+Illness.
+
+Schedules.
+
+Shoes.
+
+Doors.
+
+People I could name.
+
+People I could not.
+
+Years that had not been empty and would not stand in line.
+
+The memories did not disappear when I reached for them.
+
+They came closer.
+
+All of them.
+
+That was the problem.
+
+I pressed the heel of my hand against my forehead.
+
+"Fuck."
+
+Ithar waited.
+
+"Say something."
+
+"You stopped."
+
+"Excellent work."
+
+"You asked me to say something."
+
+"Something useful."
+
+"Useful to which problem?"
+
+I looked at him.
+
+"This one."
+
+"Name it."
+
+I opened my mouth.
+
+Nothing came out.
+
+His eye narrowed slightly.
+
+Bastard.
+
+"I cannot decide what comes next."
+
+"That is different from not remembering."
+
+"I know."
+
+"Do you?"
+
+"Yes."
+
+"Then why did you call it losing the thread?"
+
+Because that sounded temporary.
+
+Because threads can be found.
+
+Because people who lose threads are still people telling stories.
+
+I did not say any of that.
+
+"Convenient phrase."
+
+"Mm."
+
+I hated that sound.
+
+I had hated it for four days.
+
+Possibly longer.
+
+"Ask me something."
+
+Ithar considered.
+
+"Did Mira keep the ribbon?"
+
+The answer arrived before he finished the question.
+
+"For months. Not in her hair. She hated keeping things tied in her hair. She put it on the horse, then a basket handle, then around a jar she claimed was hers even though it held onions. Nessa took it off the jar because the ribbon smelled like onion for a week. Mira blamed the onions."
+
+I stopped.
+
+Ithar watched me.
+
+"What?"
+
+"Did Tomas spend the copper?"
+
+"Eventually."
+
+"On the wheel?"
+
+"No."
+
+I frowned.
+
+The memory shifted into place.
+
+"A whistle. Terrible thing. Two copper. He blew it inside once. Nessa confiscated it. He argued that confiscation should return the purchase price."
+
+Ithar's mouth moved.
+
+"He was five."
+
+"His argument was coherent."
+
+"Do not encourage him retroactively."
+
+The mouth moved again.
+
+Almost a smile.
+
+Then nothing.
+
+I felt the shape of the trap before he closed it.
+
+"Your memory functions."
+
+"Apparently."
+
+"Your language functions."
+
+"Less apparently."
+
+"You just described a ribbon's migration through three household objects and a child's theory of property seizure."
+
+"Important history."
+
+"Mm."
+
+There it was again.
+
+I shifted on the stone.
+
+My left leg had begun hurting two positions ago.
+
+I changed positions.
+
+It hurt differently.
+
+Progress.
+
+Ithar's gaze followed the movement.
+
+"Do not start on the leg."
+
+"I did not."
+
+"You looked."
+
+"You moved."
+
+"People do that."
+
+"Poorly, in your case."
+
+"Fuck you."
+
+The dragon settled one claw deeper into the gold.
+
+Coins slid around it with the soft sound of rain on a roof.
+
+I had heard that sound enough that I no longer looked every time.
+
+A kingdom's worth of money had become background noise.
+
+Humans adapt badly to wealth too.
+
+"What happened next?" Ithar asked.
 
 There it was.
 
-Private work had always been more than technical skill.
+The question landed harder because it was small.
 
-Neighbors opened doors because they knew me.
+I looked at the floor.
 
-Now some knew me as the man who recommended a levy.
+"I don't know how to say it."
 
-Same reputation.
+The cave stayed quiet.
 
-Different use.
+I waited for correction.
 
-The lost work came back slowly.
+None came.
 
-Not all.
+"That is not the same as not knowing."
 
-New clients replaced some.
+"No."
 
-Senn hired us again, which I considered evidence of either maturity or cheap pricing.
+"And not the same as refusing."
 
-He said both.
+I looked at him.
 
-Mina never stopped using us.
+"I can refuse if you'd prefer."
 
-She did charge me full price for bread for a month after the meeting.
+"You have. I recognize the sound."
 
-I had not realized we were receiving a discount.
+That irritated me.
 
-Economic education continued.
+Accurately.
 
-The replacement finished before winter.
+"This is different," he said.
 
-Mara signed the inspection.
+I looked away.
 
-Tova signed technical acceptance.
+That irritated me more.
 
-I signed nothing.
+Because it was true.
 
-East Market ran full load through the new frame.
+I had refused him before.
 
-No movement in the modern support.
+I had lied by category.
 
-Old bronze still did whatever old bronze did beneath it.
+Compressed things until compression became a form of hiding.
 
-Unknown did not disappear.
+Changed subjects.
 
-We had simply stopped asking one known weak structure to carry the mystery for us.
+Answered technical questions instead of human ones.
 
-The bills continued eleven more months.
+Made jokes.
 
-People complained until the final one.
+Offered logistics.
 
-Then stopped.
+Found a sentence sharp enough to cut around whatever I did not want to touch.
 
-Not gratitude.
+That was still language.
 
-Bill ended.
+This was not.
 
-Correct response.
+"You've been waiting to say that."
 
-I kept the canceled-client notice in the private-work ledger.
+"No."
 
-Not as martyrdom.
+"Really?"
 
-As cost.
+"I do not experience waiting as aggressively as you do."
 
-If taking a public position never costs you anything, you may only be describing weather.
+"That sounds unbearable."
 
-That one cost eleven silver, several arguments, discounted bread, and a few people thinking less of me.
+"It appears to be unbearable for you."
 
-The support held.
+Good.
 
-Both facts belonged in the record.
+At least somebody was enjoying himself.
+
+I reached for my water.
+
+The skin was nearly empty.
+
+I drank anyway.
+
+Warm.
+
+Leather taste.
+
+Wonderful.
+
+Ithar's eye moved to the pack.
+
+"You have food left."
+
+"That was a statement."
+
+"Yes."
+
+"I'm proud of you."
+
+"Eat."
+
+"That sounded like an order."
+
+"Then consider whether obeying it would improve your condition."
+
+I opened the pack.
+
+Half a heel of hard bread.
+
+Dried meat that had crossed the mountain better than I had.
+
+One apple which had become mostly bruise.
+
+I held it up.
+
+"Dinner."
+
+Ithar stared at the apple.
+
+Then at me.
+
+"No."
+
+"You don't get a vote."
+
+"That is not food sufficient for your size."
+
+"My size?"
+
+His eye moved over me.
+
+"You are unexpectedly tall for how little food you carry."
+
+"Unexpectedly?"
+
+"Most humans of your height understand volume."
+
+"I had more four days ago."
+
+"You arrived with too little."
+
+"We covered this. Planning prioritized arrival. Very suspicious."
+
+"It remains suspicious."
+
+I bit the apple.
+
+Soft.
+
+Not rotten.
+
+Low standard.
+
+Ithar watched me chew.
+
+"This is uncomfortable."
+
+"For you?"
+
+"Yes. Stop watching me eat."
+
+His eye closed.
+
+That was somehow worse.
+
+"Now you're making a point."
+
+"I am resting the eye."
+
+"You have another one."
+
+The other eye remained open.
+
+Bastard.
+
+I finished the apple.
+
+The bread took longer.
+
+My jaw hurt.
+
+That felt insulting.
+
+I had fought things with too many teeth and was losing to bread.
+
+Eventually Ithar spoke.
+
+"The eastern face still has animals."
+
+"You already told me."
+
+"You have not hunted them."
+
+"I've been busy."
+
+His eye moved to my leg.
+
+"Also that."
+
+"I can hunt."
+
+"Poorly."
+
+"You enjoy that word."
+
+"It remains accurate."
+
+I chewed the last piece of bread for an unreasonable amount of time.
+
+"What do you suggest?"
+
+Ithar stood.
+
+That changed the cave.
+
+Not metaphorically.
+
+Air moved.
+
+Gold collapsed off one shoulder in a glittering slide. His body unfolded through spaces I had stopped noticing were occupied by him. One foreleg planted farther down the chamber. The floor vibrated under my boots.
+
+I looked up.
+
+And up.
+
+"Where are you going?"
+
+"Food."
+
+"For me?"
+
+No answer.
+
+He moved toward a passage large enough for him and disappeared into darkness.
+
+I sat alone in a dragon's hoard.
+
+That was a strange sentence even by then.
+
+For several minutes I considered theft.
+
+Not seriously.
+
+Mostly professionally.
+
+There were coins within reach older than the kingdom.
+
+A silver cup half buried near my boot.
+
+A jeweled knife whose handle probably cost more than my parents' building.
+
+Three gold rings hooked around what I had assumed was a broken spear and now suspected had once been ceremonial.
+
+I touched none of it.
+
+Not because I had become virtuous.
+
+Because I had seen Ithar flick a copper into stone hard enough to bury it.
+
+Ownership law becomes intuitive around dragons.
+
+The silence changed without him.
+
+Smaller.
+
+That surprised me.
+
+The cave water became louder.
+
+Wind moved somewhere high above.
+
+A few coins continued sliding after his departure, settling into the space his body had occupied.
+
+I tried again.
+
+"After they turned five..."
+
+Nothing.
+
+I swore at an empty cave.
+
+It did not help.
+
+I tried work.
+
+Names.
+
+Dates.
+
+Stations.
+
+No.
+
+I tried Nessa.
+
+Worse.
+
+I could see her.
+
+That was never the problem.
+
+I could see the ledger.
+
+Her district coat.
+
+The way she pushed loose hair behind one ear when reading something she expected to dislike.
+
+The little line between her eyebrows when she was doing arithmetic.
+
+I could hear her say Greg in six different tones and knew what five of them meant immediately.
+
+I knew all of that.
+
+I could not make it into after.
+
+The pressure behind my ribs became physical enough that I stood.
+
+Bad decision.
+
+My leg reminded me.
+
+I walked anyway.
+
+Ten steps.
+
+Back.
+
+Eight the other direction.
+
+The cave offered limited pacing routes unless I wanted to walk across coins and die because I slipped on the gross domestic product of a dead empire.
+
+I sat again.
+
+Ithar returned before I improved.
+
+I heard him first.
+
+Stone.
+
+Then weight.
+
+Then something scraping.
+
+He emerged carrying an animal in one foreclaw.
+
+Not carrying.
+
+Pinching.
+
+It might once have been a mountain goat.
+
+Large one.
+
+Hard to judge scale while a dragon held it like a dropped glove.
+
+He set it on the stone well away from the gold.
+
+The animal was very dead.
+
+"That is too much."
+
+Ithar looked at the carcass.
+
+Then at me.
+
+"It is one."
+
+"One animal."
+
+"Yes."
+
+"I am one person."
+
+"Yes."
+
+"This is several days of food."
+
+"Good."
+
+I stared at him.
+
+"Dragon portioning is fucking stupid."
+
+"Human hunting appears worse."
+
+Fair.
+
+I had a knife.
+
+I also had a shoulder that disliked butchering on the ground.
+
+I dragged the animal toward the second shelf where the stone was flatter.
+
+Ithar watched me struggle for perhaps three seconds.
+
+Then one claw moved it the remaining distance.
+
+"I had it."
+
+"Mm."
+
+"I did."
+
+He withdrew the claw.
+
+I worked.
+
+Not elegantly.
+
+Field dressing came back through the hands even when the hands were slower than the memory controlling them.
+
+That had become a theme.
+
+Ithar observed until I looked up.
+
+"If you comment on technique, I will starve out of spite."
+
+"Your cut is too shallow."
+
+"Fuck you."
+
+I corrected it.
+
+He was right.
+
+Worse.
+
+I built a small fire from the wood in my pack and dry material near the cave mouth.
+
+The tinder refused.
+
+Wind.
+
+Damp.
+
+Bad angle.
+
+I tried again.
+
+Ithar watched.
+
+"No."
+
+"I haven't asked."
+
+"You are going to."
+
+"I was not."
+
+The tinder smoked and died.
+
+I looked at him.
+
+One eye narrowed.
+
+"Tiny fire."
+
+"Define tiny."
+
+That should have concerned me more.
+
+I pointed at the tinder.
+
+"That. Only that."
+
+Ithar lowered his head.
+
+I moved back.
+
+"Why are you moving?"
+
+"Experience."
+
+He exhaled.
+
+Not flame exactly.
+
+Heat first.
+
+Then a brief orange tongue crossed the tinder.
+
+The wood caught.
+
+The stone behind it blackened six feet wide.
+
+I looked at the scorch.
+
+Then at him.
+
+"Tiny."
+
+"It is lit."
+
+"You are impossible."
+
+"You climbed here."
+
+I cooked meat on a flat piece of metal from my kit.
+
+Salt would have helped.
+
+So would pepper.
+
+So would Nessa making it instead.
+
+That thought arrived normally.
+
+I waited to see if the rest followed.
+
+It did not.
+
+I ate.
+
+Ithar rested his head on the stone shelf again.
+
+We were quiet long enough that chewing stopped feeling like an interruption.
+
+Eventually I said, "Do dragons sleep?"
+
+"Yes."
+
+"How much?"
+
+"Enough."
+
+"That is not an answer."
+
+"You have used it repeatedly."
+
+"Different jurisdiction."
+
+"Mm."
+
+"Do you dream?"
+
+A pause.
+
+"Sometimes."
+
+That was more answer than I expected.
+
+"About what?"
+
+His eye opened.
+
+"No."
+
+I laughed.
+
+"Fair."
+
+I cut another piece of meat.
+
+"How old are you?"
+
+"Older than your current calendar."
+
+"Annoying answer."
+
+"Accurate."
+
+"Were you ever young?"
+
+He looked at me long enough that I regretted the question.
+
+Then:
+
+"Yes."
+
+I waited.
+
+Nothing else.
+
+"You are terrible at stories."
+
+"You came for mine?"
+
+"No."
+
+"Then efficient."
+
+I hated that enough to smile.
+
+The food helped.
+
+Not the problem.
+
+Everything around it.
+
+My hands stopped shaking slightly.
+
+I had not noticed they were shaking until they stopped.
+
+Ithar had.
+
+Of course.
+
+"You are tired," he said.
+
+"Brilliant."
+
+"Sleep."
+
+"We are in the middle of something."
+
+"You are not."
+
+That landed.
+
+I looked at the fire.
+
+"I hate you."
+
+"Temporarily."
+
+"Confident."
+
+"You require my help."
+
+"That is not the same as affection."
+
+"I did not say affection."
+
+Good.
+
+I spread my blanket near the second shelf.
+
+Not close to the gold.
+
+Not close to Ithar either.
+
+There is caution and there is theater.
+
+A dragon that wanted me dead did not need me within arm's reach.
+
+His arm's reach was most of the cave.
+
+I took off my outer coat and rolled it beneath my head.
+
+My left leg needed arranging.
+
+Then rearranging.
+
+Then insulting.
+
+Eventually it accepted a position.
+
+Ithar watched.
+
+"Stop."
+
+"I am not doing anything."
+
+"Again, exactly."
+
+The fire snapped.
+
+Water moved behind the shelf.
+
+I closed my eyes.
+
+Opened them again.
+
+Ithar was still there.
+
+Of course he was.
+
+"If you eat me while I sleep, I'm going to be very annoyed."
+
+"Briefly."
+
+"That was a joke."
+
+"Yes."
+
+I opened my eyes wider.
+
+His had closed.
+
+Bastard.
+
+I lay there longer than I expected.
+
+Not afraid exactly.
+
+That would have been sensible.
+
+My body was past sensible.
+
+Four days of talking had done something strange to the dragon.
+
+Not made him safe.
+
+I knew better than that.
+
+Made him present.
+
+There is a difference between sleeping near danger and sleeping near a thing that has been there every time you opened your eyes for four days.
+
+Humans can make habit out of almost anything.
+
+Apparently dragons too.
+
+The last thing I remember before sleep was Ithar breathing.
+
+Slow.
+
+Large enough that each breath changed the air near the fire.
+
+I slept.
+
+Properly.
+
+Not mountain sleep.
+
+Not one hand near the knife, wake at every stone, count the exits sleep.
+
+I went away.
+
+When I woke, the fire was ash.
+
+The cave was gray with early light from the passage.
+
+My mouth tasted terrible.
+
+My shoulder had found a new complaint.
+
+My leg was numb from the knee down.
+
+Normal morning.
+
+Ithar was in almost exactly the same position.
+
+Almost.
+
+One claw had moved.
+
+Possibly six feet.
+
+Progress.
+
+I sat up.
+
+The dragon's eye opened.
+
+"How long?"
+
+"Seven hours."
+
+"You counted that too?"
+
+"The sun remains reliable."
+
+"Show-off."
+
+I drank water.
+
+Cold this time from behind the shelf.
+
+Better.
+
+There was meat left.
+
+A lot.
+
+Dragon portioning.
+
+I ate some cold because morning standards were lower.
+
+Neither of us spoke until I finished.
+
+Then Ithar asked, "What happened next?"
+
+I stared at him.
+
+"Fuck you."
+
+His nostril moved.
+
+I tried anyway.
+
+Nothing.
+
+Sleep had not fixed it.
+
+That was the first moment I became afraid.
+
+Not visibly.
+
+I hoped.
+
+Ithar's eye shifted.
+
+Fine.
+
+Probably visibly.
+
+"I can remember."
+
+"Yes."
+
+"I can answer questions."
+
+"Yes."
+
+"I cannot..."
+
+The word would not come.
+
+Of course.
+
+I laughed once.
+
+Bad sound.
+
+"Package it."
+
+Ithar waited.
+
+"There. That's the word. I cannot package it."
+
+"You have packaged nearly everything else."
+
+"I know."
+
+"Eleven years at East Four became Tuesdays, wages, meals, shoes, and one woman stealing a potato."
+
+I looked at him.
+
+He continued.
+
+"A brother who no longer knew you became one conversation in a room. A marriage you insist on describing through ledgers became bread, work, disagreement, and signatures. Two children became sleep, cloth, cups, pencils, coins, and arguments over trousers."
+
+His head lowered slightly.
+
+"You compress aggressively. Often badly. Sometimes dishonestly. But you compress."
+
+"Thank you."
+
+"That was not praise."
+
+"Everyone has learned that sentence."
+
+"Now you cannot choose the container."
+
+I looked at the dead fire.
+
+That was close enough to hurt.
+
+"Maybe there isn't one."
+
+"Perhaps."
+
+"Helpful."
+
+"You have spent four days attempting to demonstrate that experience has structure. Cause. Choice. consequence. Revision. You select what belongs together and call the selection an account."
+
+"That is what people do."
+
+"Yes."
+
+"So?"
+
+"So perhaps the failure is information."
+
+I frowned.
+
+"About what?"
+
+"You."
+
+Of course.
+
+Dragons.
+
+Give them one silence and they turn it into a theory.
+
+I got up.
+
+Too quickly.
+
+My leg protested.
+
+I walked toward the cave mouth anyway.
+
+Morning wind came through cold enough to clean the last sleep from my head.
+
+Cloud below.
+
+Mountain above.
+
+The world had continued while I was talking.
+
+The western Line was still failing somewhere under it.
+
+That urgency had not disappeared because I had spent a night eating badly cooked goat with a dragon.
+
+I hated the relief of remembering that.
+
+Problems I could name were easier.
+
+Pressure.
+
+Stations.
+
+People.
+
+Failure.
+
+Repair.
+
+Ithar spoke behind me.
+
+"You have used the other life as a measuring instrument since you arrived."
+
+I turned.
+
+"What?"
+
+"When this body disappoints you, you compare it to the first. When your choices surprise you, you compare them to the first. When a person differs from your memory, the first life becomes evidence. When your knowledge exceeds this life's experience, the first life becomes explanation."
+
+I stayed by the cave mouth.
+
+"It is explanation."
+
+"Sometimes."
+
+"I was there."
+
+"That is your claim."
+
+I laughed.
+
+"We are still on that?"
+
+"We are on everything."
+
+Terrible answer.
+
+Accurate.
+
+Ithar shifted his head.
+
+"You call the man S-class. You call him support. You say he never married. You say he never had children. You say he kept leaving. You say he knew Nhal. You say this body remembers what his could do."
+
+His eye held mine.
+
+"You have used him to explain this life repeatedly."
+
+I waited.
+
+The next sentence arrived before he said it.
+
+I did not like that.
+
+"You have not told me what he thought he was doing."
+
+There.
+
+I looked out at the mountain again.
+
+The answer was not simple.
+
+But answers appeared.
+
+Immediately.
+
+Work.
+
+Freedom.
+
+Usefulness.
+
+Money sometimes.
+
+Women sometimes.
+
+Curiosity more than I admitted then.
+
+The next road because there was a next road.
+
+The next person who needed something I could do.
+
+The pleasure of being the person who could do it.
+
+The relief of leaving before anything else became my responsibility.
+
+I did not say the last one.
+
+Not yet.
+
+But it had language.
+
+I noticed.
+
+So did Ithar.
+
+Fuck.
+
+"That is cheap," I said.
+
+"What is?"
+
+"Changing the subject until I can talk."
+
+"I changed the direction."
+
+"Same thing."
+
+"No."
+
+"Feels the same."
+
+"Also not the same."
+
+I walked back toward the fire.
+
+Ash now.
+
+I crouched and moved one blackened stick with another.
+
+No reason.
+
+Hands wanted a job.
+
+"You think because I can talk about First Life, that's where we should go."
+
+"I think language returned."
+
+That stopped me.
+
+I looked at him.
+
+He waited.
+
+No victory.
+
+No clever dragon smile.
+
+Just observation.
+
+Worse.
+
+"You noticed."
+
+"Yes."
+
+"Immediately."
+
+"Yes."
+
+"Fuck you."
+
+"That phrase also remains available."
+
+I laughed.
+
+Actually laughed.
+
+That helped more than I wanted it to.
+
+I sat again.
+
+The stone had not become more comfortable overnight.
+
+Some institutions resist reform.
+
+"Fine."
+
+Ithar waited.
+
+"Not fine. Temporary."
+
+Still waited.
+
+"We go backward until I can figure out why forward stopped working."
+
+His eye narrowed.
+
+"You assume the reason is behind you."
+
+"I assume talking is better than staring at each other until one of us dies."
+
+"That outcome favors me."
+
+"Exactly."
+
+The dragon's mouth shifted.
+
+I had him there.
+
+Probably not.
+
+I looked at my hands.
+
+Old hands now.
+
+Scarred.
+
+One finger still did not close properly.
+
+The first hands had been different.
+
+Not at nineteen.
+
+At nineteen they had been ordinary too.
+
+That was the part people forget when they hear S-class.
+
+Nobody begins as the thing people later use to summarize them.
+
+Ithar watched the thought arrive without hearing it.
+
+"Where?" he asked.
+
+"Where what?"
+
+"If we go backward, where do you begin?"
+
+I almost said the Guild.
+
+Wrong.
+
+I almost said my first field contract.
+
+Also wrong.
+
+Could have said the first time I realized reinforcement could be more than reinforcement.
+
+Too impressive.
+
+Could have said the first person I saved.
+
+That would have sounded good.
+
+It would also have been bullshit.
+
+The beginning was smaller.
+
+Embarrassingly smaller.
+
+Ithar's nostril moved.
+
+"Do not."
+
+He had not said anything.
+
+"You are doing the face."
+
+"I have one face."
+
+"Untrue."
+
+"Begin."
+
+I rubbed both hands over my face.
+
+Then let them fall.
+
+"Barrier."
+
+Ithar waited.
+
+"Cheap utility spell. Everybody knew somebody who knew it. Dust. Rain. Splashes. Wound covers. Keeping things on one side of a boundary."
+
+His eye sharpened slightly.
+
+Good.
+
+Technical language.
+
+Easy.
+
+"It wasn't impressive. Half the reason people learned it had nothing to do with combat."
+
+"Why did you?"
+
+There it was.
+
+I looked at the dragon.
+
+At the mountain of gold.
+
+At the ancient creature waiting for the origin of the only human support specialist who would eventually reach S-class.
+
+Forty years of work.
+
+Seven living S-class at the height of it.
+
+Nhal beneath the salt.
+
+Kings.
+
+Cities.
+
+People who would later use my name in reports.
+
+There were several ways to answer that question with dignity.
+
+None were true.
+
+I sighed.
+
+"I learned Barrier because I didn't want to get anyone pregnant."
