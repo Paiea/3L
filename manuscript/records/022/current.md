@@ -30,21 +30,23 @@ The chair was not heavy.
 
 That mattered to my pride and nothing else.
 
-I lifted it one-handed because the other hand held a bag of groceries.
+I had a bag of groceries in my right hand, so I took the chair with my left.
 
-The left shoulder clicked.
+The shoulder clicked.
 
-It had clicked before rain since East Four's transfer disaster.
-
-Usually one hard little movement under the joint.
+It had clicked before rain since East Four's transfer failure. Usually one hard little movement under the joint.
 
 Annoying.
 
 Familiar.
 
-This time the click became a hot line down my arm.
+This time the click became heat.
 
-My hand opened.
+Not pain at first.
+
+Heat.
+
+Then a bright line ran from the top of my shoulder to my wrist and my hand opened by itself.
 
 The chair hit the pavement.
 
@@ -52,7 +54,9 @@ The groceries followed.
 
 Three apples escaped downhill.
 
-I remember the apples because one rolled under a tram bench and a child caught it.
+One rolled under a tram bench.
+
+A boy caught it.
 
 He looked at me.
 
@@ -72,7 +76,7 @@ People think pain makes you move.
 
 Some pain does.
 
-The useful kind can make you stop so completely that breathing feels like a negotiation.
+The useful kind can make you stop so completely that breathing starts feeling like a negotiation.
 
 I knew the difference.
 
@@ -88,31 +92,31 @@ Different mechanism.
 
 Different body.
 
-Memory offered several techniques immediately.
+Memory still offered instructions immediately.
 
 Rotate inward.
 
-Drop the scapula.
+Set the scapula.
 
-Set reinforcement around the joint.
+Reinforce around the joint.
 
-Pull through the lat.
+Pull through the back instead of the arm.
 
-Old body advice.
+Old-body advice.
 
 Bad advice.
 
-I tried the smallest movement anyway.
+I tried the smallest part of it anyway.
 
 White light went through my teeth.
 
-“Fuck.”
+"Fuck."
 
 A woman passing with a basket stopped.
 
-“You all right?”
+"You all right?"
 
-“Yes.”
+"Yes."
 
 My left arm hung six inches away from my side.
 
@@ -120,13 +124,13 @@ The chair lay in the road.
 
 Two apples were gone.
 
-She looked at me.
+She looked at all of that.
 
-“No.”
+"No."
 
-“Fair.”
+"Fair."
 
-She helped move the chair to the wall.
+She helped me get the chair against a wall.
 
 I used my right hand.
 
@@ -142,21 +146,15 @@ I nearly ruined it by deciding home meant I could fix the shoulder myself.
 
 Nessa was not there.
 
-She had taken the regional transfer qualification Greg had once pretended not to know about and turned it into actual work.
+Three days each week she covered district transfer coordination now. Not a promotion, according to the station, because institutions prefer words that do not imply money.
 
-Three days each week she covered district coordination now.
+It meant six crews could all want the same pressure window and Nessa got paid to tell five of them no.
 
-Not promotion exactly.
-
-More like the station had discovered she was good at telling six crews they could not all have the same pressure window.
-
-People pay for rare skills.
-
-Especially unpleasant ones.
+She was good at it.
 
 I put the groceries on the table.
 
-One apple left.
+One apple remained.
 
 Bad survival rate.
 
@@ -164,11 +162,13 @@ Then I found the broom.
 
 Do not ask.
 
-I had used a broom handle once after the transfer injury.
+I had tried a broom handle after the original transfer injury years before.
 
-It had not worked.
+It had not worked then either.
 
-Nessa remembered that event more accurately than I did because apparently screaming improves witnesses.
+This was available evidence.
+
+I ignored it.
 
 I wedged the handle under my left arm and tried to lift the shoulder from below.
 
@@ -184,7 +184,7 @@ Then the door opened.
 
 Of course.
 
-Nessa walked in carrying two work slates and stopped.
+Nessa came in carrying two work slates and stopped.
 
 She looked at me.
 
@@ -198,69 +198,69 @@ One apple.
 
 Her face went through several emotions and chose murder.
 
-“No.”
+"No."
 
-“I haven't said anything.”
+"I haven't said anything."
 
-“You are doing the broom.”
+"You are doing the broom."
 
-“It almost worked.”
+"It almost worked."
 
-“You said that last time.”
+"You said that last time."
 
-“It moved.”
+"It moved."
 
-“You screamed.”
+"You screamed."
 
-“Quietly.”
+"Quietly."
 
 She put the slates down.
 
-“Can you move your fingers?”
+"Can you move your fingers?"
 
-“Yes.”
+"Yes."
 
-“Hand numb?”
+"Hand numb?"
 
-“No.”
+"No."
 
-“Neck?”
+"Neck?"
 
-“Fine.”
+"Fine."
 
-“Chest?”
+"Chest?"
 
-“Fine.”
+"Fine."
 
-“Shoulder?”
+"Shoulder?"
 
-“Bad.”
+"Bad."
 
-“That one I had.”
+"That one I had."
 
 She crouched in front of me.
 
-“Did it dislocate?”
+"Did it come out?"
 
-“No.”
+"No."
 
-“You sure?”
+"You sure?"
 
-“Yes.”
+"Yes."
 
-“Based on?”
+"Based on?"
 
-“I know what dislocation feels like.”
+"I know what a dislocation feels like."
 
-Nessa's eyes narrowed.
+Nessa narrowed her eyes.
 
-“Which body?”
+"Which body?"
 
 Asshole.
 
-“This one has done it too.”
+"This one has done it too."
 
-“Good. Current evidence.”
+"Good. Current evidence."
 
 I hated that our rules had become conversational weapons.
 
@@ -268,55 +268,55 @@ She touched the top of the shoulder.
 
 I flinched before she pressed.
 
-“That's not good.”
+"That's not good."
 
-“I know.”
+"I know."
 
-“Healer.”
+"Healer."
 
-“No.”
+"No."
 
-“Greg.”
+"Greg."
 
-“It will settle.”
+"It will settle."
 
-“Current evidence?”
+"Current evidence?"
 
 I looked at her.
 
 She waited.
 
-I had none.
+Nothing.
 
-“It usually settles.”
+"It usually settles."
 
-“Historical evidence.”
+"Historical evidence."
 
-“Still evidence.”
+"Still evidence."
 
-“From the shoulder that currently cannot carry an apple?”
+"From the shoulder that currently cannot carry an apple?"
 
-“That child stole one.”
+"That child stole one."
 
-“What?”
+"What?"
 
-“Nothing.”
+"Nothing."
 
 She stood.
 
-“We're going.”
+"We're going."
 
-“No.”
+"No."
 
 Then I tried to stand.
 
-My shoulder moved.
+My shoulder shifted.
 
 I sat again.
 
 Nessa nodded.
 
-“Compelling argument.”
+"Compelling."
 
 The healer said tendon inflammation, scar adhesion, and probable joint irritation.
 
@@ -324,13 +324,13 @@ None of those words sounded heroic.
 
 I was disappointed.
 
-He was an older man with very clean hands and no patience for Rankers.
+He was older, had very clean hands, and apparently disliked Rankers.
 
-I knew this because he looked at my badge and said, “Take that off.”
+I knew this because he looked at my badge and said, "Take that off."
 
-“Why?”
+"Why?"
 
-“Because you keep glancing at it before arguing.”
+"Because you keep glancing at it before arguing."
 
 I looked at Nessa.
 
@@ -358,101 +358,155 @@ I lied.
 
 Nessa corrected me.
 
-“Three times this winter.”
+"Three times this winter."
 
 I looked at her.
 
-“It did not flare three times.”
+"It did not flare three times."
 
-“You slept sitting up twice.”
+"You slept sitting up twice."
 
-“That was because of the pillow.”
+"That was the pillow."
 
-“We have had the same pillow four years.”
+"We have had the same pillow four years."
 
 The healer wrote something.
 
-“What did you write?”
+"What did you write?"
 
-“Patient minimizes recurring symptoms.”
+"Patient minimizes recurring symptoms."
 
-“That is not medical.”
+"That is not medical."
 
-“It is today.”
+"It is today."
 
 I disliked competent healers for the same reason I disliked competent clerks.
 
-Anger became inefficient around them.
+Anger becomes inefficient around people who keep records.
 
 He told me no lifting with the left arm for ten days.
 
 No reinforcement through the shoulder for two weeks.
 
-No climbing ladders.
+No ladders.
 
-No field crawl spaces.
+No crawl spaces.
 
-No carrying tools on that side.
+No tool bag on that side.
 
 Heat twice daily.
 
 Gentle movement.
 
-Return if numbness, weakness, or swelling worsened.
+Return if numbness or weakness appeared.
 
 I heard ten days.
 
-Nessa heard everything else.
+Nessa heard everything.
 
-“Work?” I asked.
+"Work?" I asked.
 
-“Desk.”
+"Desk."
 
-“I do inspections.”
+"I inspect stations."
 
-“Then inspect paper.”
+"Then inspect paper."
 
-“That is not the same job.”
+"That is not the same job."
 
-“Correct.”
+"Correct."
 
-“I have East Three tomorrow.”
+"I have East Three tomorrow."
 
-“No.”
+"No."
 
-“You do not know East Three.”
+"You do not know East Three."
 
-“I know you cannot crawl.”
+"I know you cannot crawl."
 
-“I can crawl.”
+"I can crawl."
 
-Nessa said, “No.”
+Nessa said, "No."
 
 The healer pointed at her.
 
-“She is doing very well.”
+"She is doing very well."
 
-“Do not encourage her.”
+"Do not encourage her."
 
-He wrote me a restriction slate.
+He wrote a restriction slate.
 
 Official.
 
-I hated it more than the pain.
+On the walk home, Nessa carried the groceries.
+
+I carried nothing.
+
+That was intolerable for almost half a block.
+
+"Give me the bag."
+
+"No."
+
+"My right arm works."
+
+"Good."
+
+"Then give me the bag."
+
+"No."
+
+"Why?"
+
+"Because you will forget which arm works the second something slips."
+
+"I know left from right."
+
+"You knew eight minutes ago too."
+
+I considered taking it from her.
+
+She shifted the bag to the side away from me without looking.
+
+There are moments in a marriage when violence becomes technically possible and socially unwise.
+
+I walked beside her.
+
+At home she heated a folded cloth over the kettle and put it across the shoulder.
+
+I could have done that myself.
+
+I did not.
+
+That was worse somehow.
+
+Not because I disliked her hands.
+
+Because needing them felt too close to failing at something I had not known was a test.
+
+Nessa must have seen some part of that.
+
+She did not say it.
+
+She just replaced the cloth when it cooled.
+
+That helped more.
+
+I hated the restriction slate more than the pain.
 
 That surprised me.
 
-The pain was sharp.
+Pain was pain.
 
-The slate was humiliating.
+The slate meant somebody else got to decide what I was allowed to carry.
 
-Not publicly.
+Not forever.
 
-Nobody cared.
+Ten days.
 
-That was the problem.
+Still.
 
-I had spent most of my life treating accommodation as something given to other people.
+I had spent most of my working life making accommodations for other people without thinking of them as humiliating.
 
 Injured workers.
 
@@ -462,7 +516,7 @@ My father.
 
 Tenants during heat reductions.
 
-People recovering from accidents.
+People recovering after accidents.
 
 You changed the schedule.
 
@@ -482,27 +536,27 @@ Then the restricted person became me and every practical change felt like an acc
 
 Halden read the slate the next morning.
 
-“Ten days.”
+"Ten days."
 
-“Yes.”
+"Yes."
 
-“No field.”
+"No field."
 
-“I can do field.”
+"I can do field."
 
 He looked at the slate.
 
 Then at me.
 
-“No field.”
+"No field."
 
-“Tova needs a second inspector at East Three.”
+"Tova needs a second inspector at East Three."
 
-“Tova requested Pell.”
+"Tova requested Pell."
 
-“When?”
+"When?"
 
-“Before you arrived.”
+"Before you arrived."
 
 That hurt.
 
@@ -510,19 +564,19 @@ Not the shoulder.
 
 Something stupider.
 
-“She replaced me already.”
+"She replaced me already."
 
-Halden stared.
+Halden stared at me.
 
-“Greg.”
+"Greg."
 
-“I know how that sounded.”
+"I know how that sounded."
 
-“Do you?”
+"Do you?"
 
-“Yes.”
+"Yes."
 
-“Good.”
+"Good."
 
 He gave me a stack of station books.
 
@@ -534,19 +588,19 @@ East Two.
 
 Six months of copied operator notes.
 
-“Review drift entries. Mark anything recurring across stations.”
+"Review drift entries. Mark anything recurring across stations."
 
-“You have clerks.”
+"You have clerks."
 
-“They do not know what matters.”
+"They do not know what matters."
 
-“Neither do I.”
+"Neither do I."
 
-“You know more than they do.”
+"You know more than they do."
 
-“That is not the same as field work.”
+"That is not field work."
 
-“No.”
+"No."
 
 He went back to his desk.
 
@@ -562,17 +616,15 @@ For about an hour.
 
 Then Kel Arno's handwriting appeared in the South Three margins.
 
-Third bell pressure lag.
+THIRD BELL PRESSURE LAG.
 
-Warm foundation after load drop.
+WARM FOUNDATION AFTER LOAD DROP.
 
-Noise under east floor only after heavy rain.
+NOISE UNDER EAST FLOOR ONLY AFTER HEAVY RAIN.
 
 NORMAL GAUGE.
 
 NOT NORMAL SOUND.
-
-That was useful.
 
 Market Five had a similar rain note from another operator.
 
@@ -580,117 +632,189 @@ Different floor.
 
 Different year.
 
-I marked both.
-
-East Two showed no matching event.
+East Two had nothing matching it.
 
 Good.
 
 Patterns are more honest when something refuses to join them.
 
-By lunch I had six notes copied onto one page.
+I copied the entries onto one page.
 
-My shoulder still hurt.
+Then two more.
+
+One common load anomaly had been blamed on separate equipment at three stations.
+
+Another appeared only after heavy rain.
+
+A third disappeared if you shifted the comparison by one bell.
+
+Not revelation.
+
+Not even a theory.
+
+But useful.
+
+By lunch my shoulder still hurt.
 
 My pride slightly less.
 
-Then Lorn came in.
+Midafternoon, the office bell rang twice.
 
-He put a bag on the desk.
+Not evacuation.
 
-“Food.”
+Priority dispatch.
 
-“I can feed myself.”
+A runner came in wet from the street with a slate from Market district. A flood gate north of the tram branch had failed under runoff. Three residential feeds were losing heat while crews tried to isolate the damaged channel.
 
-“Nessa said you would say that.”
+Everybody stood.
 
-“What is it?”
+So did I.
 
-“Bread.”
+Halden looked at me.
 
-“Mina?”
+"No."
 
-“Yes.”
+"I can read a map standing."
 
-“Why?”
+"Sit."
 
-“Because you live upstairs.”
+"I can help."
 
-“That has never qualified me for free bread.”
+"You are helping."
+
+That was difficult to hear while everyone else was putting on coats.
+
+Tova came through for a route sheet, saw me, and pointed at the station books.
+
+"Find me anything on Market Five reserve behavior after heavy rain."
+
+I already had the page open.
+
+That felt better than it should have.
+
+I gave her the copied notes.
+
+She read them while walking.
+
+"Third bell lag?"
+
+"Twice in six months. Maybe weather. Maybe feed competition."
+
+"Useful."
+
+Then she was gone.
+
+The flood gate held the district's attention for the rest of the day.
+
+Nobody died.
+
+Three neighborhoods lost heat for half a day.
+
+An A-class Ranker attached to the emergency crew broke the damaged gate completely because sometimes the fastest repair begins by admitting the old thing is already dead.
+
+That made the evening sheets.
+
+It was the kind of event I would once have remembered as the day's important thing.
+
+I remembered sitting at a desk while Tova used a note I found.
+
+Both happened.
+
+Lorn came in near lunch the next day and dropped a paper bag on the desk.
+
+"Food."
+
+"I can feed myself."
+
+"Nessa said you would say that."
+
+"What is it?"
+
+"Bread."
+
+"Mina?"
+
+"Yes."
+
+"Why?"
+
+"Because you live upstairs."
+
+"That has never qualified me for free bread."
 
 Lorn looked at the restriction slate.
 
-“Apparently disability benefits.”
+"Apparently disability benefits."
 
-“Fuck you.”
+"Fuck you."
 
 He smiled.
 
-Then put three private work sheets beside the food.
+Then put three private work sheets beside the bag.
 
-“What are those?”
+"What are those?"
 
-“Jobs.”
+"Jobs."
 
-“I know what work sheets are.”
+"I know what work sheets are."
 
-“Then why ask?”
+"Then why ask?"
 
-“Why are they here?”
+"Why are they here?"
 
-“You're not field.”
+"You're not field."
 
-“I am still contractor.”
+"I am still contractor."
 
-“Yes.”
+"Yes."
 
-“So?”
+"So?"
 
-“So price them.”
+"So price them."
 
 That stopped me.
 
-The first was a bathhouse return fault.
+Bathhouse return fault.
 
-Second, apartment heat imbalance.
+Apartment heat imbalance.
 
-Third, workshop pressure knock.
+Workshop pressure knock.
 
-Ordinary.
+Ordinary work.
 
-I could read scope.
+I could read the scope.
 
-Set fee.
+Set the fee.
 
-Choose whether Lorn needed another worker.
+Choose workers.
 
 Write stop authority.
 
-Schedule.
+Schedule access.
 
 Work without touching a pipe.
 
 I did not like how possible it was.
 
-“Who does the bathhouse?”
+"Who does the bathhouse?"
 
-“Me and Rell.”
+"Me and Rell."
 
-“Rell who?”
+"Rell who?"
 
-“Rell Marn. East Two fitter.”
+"Rell Marn. East Two fitter."
 
-“I know her.”
+"I know her."
 
-“You met twice.”
+"You met twice."
 
-“That counts.”
+"That counts."
 
 Lorn nodded solemnly.
 
-“Progress.”
+"Progress."
 
-I threw a piece of bread at him.
+I threw bread at him.
 
 Right hand.
 
@@ -698,7 +822,7 @@ No shoulder movement.
 
 Adaptation.
 
-Over the next week everyone became unbearably competent around my injury.
+The next week everyone became unbearably competent around my injury.
 
 Nessa moved the heavy pot to the lower shelf.
 
@@ -706,59 +830,89 @@ I moved it back.
 
 She moved it lower again.
 
-Then threatened my life.
+I moved it back again.
 
-I left it.
+She asked whether I wanted her to break the other shoulder so the kitchen could finally settle.
 
-Lorn took two private calls and brought me notes afterward.
+The pot remained low.
 
-Tova completed East Three with Pell and sent me measurements because apparently partnership did not require my physical presence.
+Tova finished East Three with Pell and sent me measurements because apparently partnership did not require my physical presence.
 
-Halden made me compare station books.
+Lorn took two private calls and returned with notes detailed enough that I could tell where he had ignored my preferred sequence.
 
-I found three repeated load anomalies nobody had placed beside each other before.
+He had still fixed both problems.
 
-Not revelation.
+Annoying.
 
-One turned out to be weather.
+Halden kept feeding me station books.
 
-One schedule artifact.
+One repeated anomaly turned out to be weather.
+
+Another was a scheduling artifact.
 
 One stayed interesting.
+
+I marked it and did not call it anything yet.
+
+This was growth.
 
 My father heard about the shoulder and arrived with advice.
 
 That was revenge for every healer visit I had forced on him.
 
-“Rest,” he said.
+"Rest," he said.
 
-“Fuck you.”
+"Fuck you."
 
-“Good. You're healing.”
+"Good. You're healing."
 
 He sat at our table and ate Mina's bread.
 
-I realized we had become the same kind of annoying.
+Nessa told him I had tried the broom.
 
-That was unpleasant.
+I looked at her.
 
-On day eight I tried to carry the tool bag with my left hand.
+"Why would you tell him that?"
+
+"Community safety."
+
+My father laughed until he coughed.
+
+Then his right hand trembled when he reached for the cup.
+
+Small.
+
+Almost nothing.
+
+I saw it anyway.
+
+He saw me see it.
+
+Neither of us said anything.
+
+That was family too.
+
+On day eight I picked up the tool bag with my left hand.
+
+Not far.
+
+Maybe six inches.
 
 Nessa saw.
 
-“Why?”
+"Why?"
 
-“Testing.”
+"Testing."
 
-“What did the healer say?”
+"What did the healer say?"
 
-“Ten days.”
+"Ten days."
 
-“What day is it?”
+"What day is it?"
 
-“Eight.”
+"Eight."
 
-“Then your test result is that eight is smaller than ten.”
+"Then your test result is that eight is smaller than ten."
 
 I put the bag down.
 
@@ -780,17 +934,17 @@ I accepted the restriction without arguing.
 
 He looked suspicious.
 
-“What?”
+"What?"
 
-“Nothing.”
+"Nothing."
 
-“You expected an argument.”
+"You expected an argument."
 
-“Yes.”
+"Yes."
 
-“I learned.”
+"I learned."
 
-“From what?”
+"From what?"
 
 I thought about it.
 
@@ -802,17 +956,19 @@ Lorn's jobs.
 
 Tova's measurements.
 
-My father's stupid face at the table.
+My father's stupid face at our table.
 
 Nessa moving a pot.
 
-“Being useless badly.”
+The fact that the district had continued operating while I sat in a chair and complained.
+
+"Being useless badly."
 
 The healer smiled.
 
-“You were not useless.”
+"You were not useless."
 
-“I know.”
+"I know."
 
 That answer surprised me.
 
@@ -840,19 +996,49 @@ Pride is chronic too.
 
 But more often.
 
-Present Greg had much worse injuries by the time I reached Ithar.
+Years later, when I told Ithar about the shoulder, I tried to skip most of that.
 
-The ruined leg tended to win attention.
+I told him the district had started collecting cross-station operator notes around then.
 
-The fingers were more annoying.
+True.
 
-The ribs complained when I laughed too hard.
+I told him western maintenance policy changed the following winter.
 
-The shoulder was old news.
+Also true.
 
-That did not make it unimportant.
+I told him an A-class Ranker broke a flood gate north of Market and three neighborhoods lost heat for half a day.
 
-It was the first injury in Life Two that taught me a body did not have to be destroyed before other people were allowed to help it.
+Ithar waited.
+
+Dragons are excellent at waiting when they know you are wasting time.
+
+Finally he said, "And your shoulder?"
+
+"It improved."
+
+"You have spent longer describing a flood gate."
+
+"The flood gate affected three neighborhoods."
+
+"And the shoulder affected you."
+
+"Less important."
+
+"To whom?"
+
+I disliked the question.
+
+So I answered a different one.
+
+"Nobody died."
+
+Ithar's eye narrowed.
+
+Not angry.
+
+Interested.
+
+That was worse.
 
 I had once been S-class.
 
@@ -860,4 +1046,6 @@ At thirty-two, I needed Nessa to move a pot.
 
 Both facts were true.
 
-Neither canceled the other.
+I had spent a long time believing only one of them belonged in a story.
+
+Ithar apparently disagreed.
