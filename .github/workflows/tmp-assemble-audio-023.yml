@@ -18,6 +18,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
       - name: Verify frozen capture manifest
         run: |
           python - <<'PY'
@@ -36,7 +40,7 @@ jobs:
           assert all(s['speaker'] == 'greg' and s['voice_id'] == 'deep' for s in plan['segments'])
           for route, cap in zip(plan['segments'], caps['segments']):
               assert route['index'] == cap['index']
-              assert route['pause_after_ms'] == cap['pause_after_ms']
+              assert int(route['pause_after_ms']) == int(cap['pause_after_ms'])
               assert cap['preview_url'].startswith('https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/')
           assert caps['segments'][-1]['pause_after_ms'] == 220
           print('verified source sha', source_sha)
@@ -45,63 +49,71 @@ jobs:
       - name: Deterministically assemble preview takes
         run: |
           set -euo pipefail
-          mkdir -p audio/assets .tmp-audio-023
+          mkdir -p audio/assets
           python - <<'PY'
-          import hashlib, json, subprocess, urllib.request, wave
+          import hashlib, json, subprocess, urllib.request
           from pathlib import Path
 
-          root = Path('.')
-          tmp = root/'.tmp-audio-023'
-          caps = json.loads((root/'audio/production/record-023/captures.json').read_text())
-          combined = tmp/'combined.wav'
+          source = Path('manuscript/records/023/current.md')
+          prod = Path('audio/production/record-023')
+          route = json.loads((prod/'route-plan.json').read_text(encoding='utf-8'))
+          captures = json.loads((prod/'captures.json').read_text(encoding='utf-8'))
+          source_hash = hashlib.sha256(source.read_bytes()).hexdigest()
+          assert source_hash == route['source_sha256'] == captures['source_sha256']
+          assert len(route['segments']) == len(captures['segments']) == 35
+          for r, c in zip(route['segments'], captures['segments']):
+              assert r['index'] == c['index']
+              assert int(r['pause_after_ms']) == int(c['pause_after_ms'])
 
-          with wave.open(str(combined), 'wb') as out:
-              out.setnchannels(1)
-              out.setsampwidth(2)
-              out.setframerate(24000)
-              for cap in caps['segments']:
-                  i = cap['index']
-                  mp3 = tmp/f'{i:03d}.mp3'
-                  wav = tmp/f'{i:03d}.wav'
-                  urllib.request.urlretrieve(cap['preview_url'], mp3)
+          work = Path('/tmp/record-023')
+          work.mkdir(parents=True, exist_ok=True)
+          concat = []
+          for item in captures['segments']:
+              i = item['index']
+              mp3 = work/f'{i:03d}.mp3'
+              wav = work/f'{i:03d}.wav'
+              urllib.request.urlretrieve(item['preview_url'], mp3)
+              subprocess.run([
+                  'ffmpeg','-y','-loglevel','error','-i',str(mp3),
+                  '-ar','24000','-ac','1','-c:a','pcm_s16le',str(wav)
+              ], check=True)
+              concat.append(wav)
+              ms = int(item['pause_after_ms'])
+              if ms:
+                  silence = work/f'{i:03d}-silence.wav'
                   subprocess.run([
-                      'ffmpeg','-y','-loglevel','error','-i',str(mp3),
-                      '-ar','24000','-ac','1','-c:a','pcm_s16le',str(wav)
+                      'ffmpeg','-y','-loglevel','error','-f','lavfi','-i',
+                      'anullsrc=r=24000:cl=mono','-t',f'{ms/1000:.3f}',
+                      '-c:a','pcm_s16le',str(silence)
                   ], check=True)
-                  with wave.open(str(wav), 'rb') as take:
-                      assert take.getnchannels() == 1
-                      assert take.getsampwidth() == 2
-                      assert take.getframerate() == 24000
-                      out.writeframes(take.readframes(take.getnframes()))
-                  samples = round(24000 * cap['pause_after_ms'] / 1000)
-                  out.writeframes(b'\x00\x00' * samples)
+                  concat.append(silence)
 
-          asset = root/'audio/assets/record-023-quote-locked-v2.mp3'
+          list_file = work/'concat.txt'
+          list_file.write_text(''.join(f"file '{p}'\n" for p in concat), encoding='utf-8')
+          asset = Path('audio/assets/record-023-quote-locked-v2.mp3')
           subprocess.run([
-              'ffmpeg','-y','-loglevel','error','-i',str(combined),
-              '-c:a','libmp3lame','-b:a','128k',str(asset)
+              'ffmpeg','-y','-loglevel','error','-f','concat','-safe','0',
+              '-i',str(list_file),'-c:a','libmp3lame','-b:a','128k',str(asset)
           ], check=True)
           duration = float(subprocess.check_output([
               'ffprobe','-v','error','-show_entries','format=duration',
               '-of','default=noprint_wrappers=1:nokey=1',str(asset)
           ], text=True).strip())
-          audio_sha = hashlib.sha256(asset.read_bytes()).hexdigest()
-          source_sha = hashlib.sha256((root/'manuscript/records/023/current.md').read_bytes()).hexdigest()
+          digest = hashlib.sha256(asset.read_bytes()).hexdigest()
           verification = {
               'record': '023',
               'status': 'assembled_unlistened',
               'routing_mode': 'exact_quote_locked',
               'uses_timestamps_for_speaker_assignment': False,
-              'source_sha256': source_sha,
+              'source_sha256': source_hash,
               'segment_count': 35,
               'ithar_segment_indices': [],
               'duration_seconds': round(duration, 3),
-              'sha256': audio_sha,
-              'asset': 'audio/assets/record-023-quote-locked-v2.mp3',
-              'note': 'Deterministic route/pause assembly passed; auditory listen-back remains pending.'
+              'sha256': digest,
+              'asset': str(asset),
+              'note': 'Deterministically assembled from structurally verified candidate takes; auditory listen-back and public release remain pending.'
           }
-          path = root/'audio/production/record-023/verification-v2.json'
-          path.write_text(json.dumps(verification, indent=2) + '\n')
+          (prod/'verification-v2.json').write_text(json.dumps(verification, indent=2)+'\n', encoding='utf-8')
           print(json.dumps(verification, indent=2))
           PY
       - name: Verify assembled asset metadata
