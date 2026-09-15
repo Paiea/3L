@@ -1,0 +1,21 @@
+{
+  "record": "022",
+  "source_sha256": "94c9b836c7bb97a0646ac606c563a0c9fcd7ce5b5a65b98dcd533cfbd8ae1076",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 41,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"To whom?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 42,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI disliked the question.\n\nSo I answered a different one.\n\n\"Nobody died.\"\n\nIthar's eye narrowed.\n\nNot angry.\n\nInterested.\n\nThat was worse.\n\nI had once been S-class.\n\nAt thirty-two, I needed Nessa to move a pot.\n\nBoth facts were true.\n\nI had spent a long time believing only one of them belonged in a story.\n\nIthar apparently disagreed.",
+      "pause_after_ms": 220
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "record": "022",
+  "source_sha256": "94c9b836c7bb97a0646ac606c563a0c9fcd7ce5b5a65b98dcd533cfbd8ae1076",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "None of those words sounded heroic.\n\nI was disappointed.\n\nHe was older, had very clean hands, and apparently disliked Rankers.\n\nI knew this because he looked at my badge and said, \"Take that off.\"\n\n\"Why?\"\n\n\"Because you keep glancing at it before arguing.\"\n\nI looked at Nessa.\n\nShe turned away so I could not see her smile.\n\nTraitor.\n\nThe healer moved my arm until I stopped him.\n\nThen moved it slightly less.\n\nTested strength.\n\nSensation.\n\nHeat.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 12,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Asked when the original injury happened.\n\nI told him.\n\nAsked how often it flared.\n\nI lied.\n\nNessa corrected me.\n\n\"Three times this winter.\"\n\nI looked at her.\n\n\"It did not flare three times.\"\n\n\"You slept sitting up twice.\"\n\n\"That was the pillow.\"\n\n\"We have had the same pillow four years.\"\n\nThe healer wrote something.\n\n\"What did you write?\"\n\n\"Patient minimizes recurring symptoms.\"\n\n\"That is not medical.\"\n\n\"It is today.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I disliked competent healers for the same reason I disliked competent clerks.\n\nAnger becomes inefficient around people who keep records.\n\nHe told me no lifting with the left arm for ten days.\n\nNo reinforcement through the shoulder for two weeks.\n\nNo ladders.\n\nNo crawl spaces.\n\nNo tool bag on that side.\n\nHeat twice daily.\n\nGentle movement.\n\nReturn if numbness or weakness appeared.\n\nI heard ten days.\n\nNessa heard everything.\n\n\"Work?\" I asked.\n\n\"Desk.\"\n\n\"I inspect stations.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 14,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Then inspect paper.\"\n\n\"That is not the same job.\"\n\n\"Correct.\"\n\n\"I have East Three tomorrow.\"\n\n\"No.\"\n\n\"You do not know East Three.\"\n\n\"I know you cannot crawl.\"\n\n\"I can crawl.\"\n\nNessa said, \"No.\"\n\nThe healer pointed at her.\n\n\"She is doing very well.\"\n\n\"Do not encourage her.\"\n\nHe wrote a restriction slate.\n\nOfficial.\n\nOn the walk home, Nessa carried the groceries.\n\nI carried nothing.\n\nThat was intolerable for almost half a block.\n\n\"Give me the bag.\"\n\n\"No.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"My right arm works.\"\n\n\"Good.\"\n\n\"Then give me the bag.\"\n\n\"No.\"\n\n\"Why?\"\n\n\"Because you will forget which arm works the second something slips.\"\n\n\"I know left from right.\"\n\n\"You knew eight minutes ago too.\"\n\nI considered taking it from her.\n\nShe shifted the bag to the side away from me without looking.\n\nThere are moments in a marriage when violence becomes technically possible and socially unwise.\n\nI walked beside her.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 16,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "At home she heated a folded cloth over the kettle and put it across the shoulder.\n\nI could have done that myself.\n\nI did not.\n\nThat was worse somehow.\n\nNot because I disliked her hands.\n\nBecause needing them felt too close to failing at something I had not known was a test.\n\nNessa must have seen some part of that.\n\nShe did not say it.\n\nShe just replaced the cloth when it cooled.\n\nThat helped more.\n\nI hated the restriction slate more than the pain.\n\nThat surprised me.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 17,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Pain was pain.\n\nThe slate meant somebody else got to decide what I was allowed to carry.\n\nNot forever.\n\nTen days.\n\nStill.\n\nI had spent most of my working life making accommodations for other people without thinking of them as humiliating.\n\nInjured workers.\n\nTrainees.\n\nMy father.\n\nTenants during heat reductions.\n\nPeople recovering after accidents.\n\nYou changed the schedule.\n\nMoved the heavy tools.\n\nGave them the closer chair.\n\nMade somebody else climb.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 18,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Wrote restrictions into the procedure.\n\nPractical.\n\nObvious.\n\nThen the restricted person became me and every practical change felt like an accusation.\n\nHalden read the slate the next morning.\n\n\"Ten days.\"\n\n\"Yes.\"\n\n\"No field.\"\n\n\"I can do field.\"\n\nHe looked at the slate.\n\nThen at me.\n\n\"No field.\"\n\n\"Tova needs a second inspector at East Three.\"\n\n\"Tova requested Pell.\"\n\n\"When?\"\n\n\"Before you arrived.\"\n\nThat hurt.\n\nNot the shoulder.\n\nSomething stupider.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 19,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"She replaced me already.\"\n\nHalden stared at me.\n\n\"Greg.\"\n\n\"I know how that sounded.\"\n\n\"Do you?\"\n\n\"Yes.\"\n\n\"Good.\"\n\nHe gave me a stack of station books.\n\nSouth Three.\n\nMarket Five.\n\nEast Two.\n\nSix months of copied operator notes.\n\n\"Review drift entries. Mark anything recurring across stations.\"\n\n\"You have clerks.\"\n\n\"They do not know what matters.\"\n\n\"Neither do I.\"\n\n\"You know more than they do.\"\n\n\"That is not field work.\"\n\n\"No.\"\n\nHe went back to his desk.\n\nConversation over.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 20,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I sat.\n\nRead.\n\nHated him.\n\nFor about an hour.\n\nThen Kel Arno's handwriting appeared in the South Three margins.\n\nTHIRD BELL PRESSURE LAG.\n\nWARM FOUNDATION AFTER LOAD DROP.\n\nNOISE UNDER EAST FLOOR ONLY AFTER HEAVY RAIN.\n\nNORMAL GAUGE.\n\nNOT NORMAL SOUND.\n\nMarket Five had a similar rain note from another operator.\n\nDifferent floor.\n\nDifferent year.\n\nEast Two had nothing matching it.\n\nGood.\n\nPatterns are more honest when something refuses to join them.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
