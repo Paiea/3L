@@ -20,6 +20,18 @@ The exact final mechanism remains open. Do not force a literal third reincarnati
 
 Peg-Leg Greg is a Life-Two Authority-assigned named Ranker identity that occurs later. Present-frame Greg is publicly accomplished but only low B-class, with a ruined leg, far below his First-Life apex.
 
+## Rank, credential, and Ranker status
+
+These are separate systems. Do not treat them as one progression ladder.
+
+- **Capability class** uses letter ranks such as C, B, A, and S. It describes practical personal capability. First-Life Greg eventually reached S-class; present-frame Greg is low B-class.
+- **Guild or professional credential** uses material tiers such as Bronze and Silver. It describes certification, training, work authority, or professional standing. It does not convert directly into capability class.
+- **Ranker** is an Authority-recognized titled identity, not a capability class and not a Guild credential tier. A person becomes a Ranker when the Authority formally recognizes and names them as publicly significant. Peg-Leg Greg is a named Ranker even while his present capability is only low B-class.
+
+A person may be high in one system and low, unrated, or differently placed in another. Avoid language that implies direct promotion from a material credential into a letter class unless the prose is explicitly contrasting the two systems.
+
+Going forward, use **rank/class** for capability context, **credential/tier** for professional Guild context, and **Ranker** for the formal titled status.
+
 ## Nhal
 
 Nhal is ancient and nonhuman. Greg met Nhal in First Life around age forty-eight or forty-nine beneath salt flats north of Vey. Nhal gave Greg Ithar's hidden name and route. Exact Nhal details remain open.
