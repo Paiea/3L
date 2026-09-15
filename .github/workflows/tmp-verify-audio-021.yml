@@ -1,0 +1,24 @@
+name: Temporary verify audio 021
+
+on:
+  push:
+    branches: [audio/capture-021]
+    paths:
+      - .github/workflows/tmp-verify-audio-021.yml
+      - scripts/tmp_verify_audio_021.py
+      - audio/production/record-021/captures.json
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/capture-021
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify capture manifest
+        run: python scripts/tmp_verify_audio_021.py
+      - name: Run routing tests
+        run: python -m unittest -v tests.test_audio_routing
