@@ -102,6 +102,30 @@ class AudioRoutingTests(unittest.TestCase):
         self.assertIn("“Hi.”\n\n“Yes.”", greg)
         self.assertFalse(plan["uses_timestamps_for_speaker_assignment"])
 
+    def test_straight_quotes_can_be_locked_to_ithar(self):
+        from scripts.audio_route import build_plan
+
+        source = '## RECORD 999\n\n## TEST\n\nI waited.\n\n"And your shoulder?"\n\n"It improved."\n'
+        config = {
+            "record": "999",
+            "routing_mode": "exact_quote_locked",
+            "voices": {"greg": "deep", "ithar": "normal"},
+            "max_chars": 480,
+            "pause_ms": {"speaker_handoff": 1100},
+            "dragon_quotes": [
+                {"text": '"And your shoulder?"', "occurrence": 1}
+            ],
+        }
+
+        plan = build_plan(source, config)
+        routed = [(s["speaker"], s["transcript"]) for s in plan["segments"]]
+        dragon = "".join(text for speaker, text in routed if speaker == "ithar")
+        greg = "".join(text for speaker, text in routed if speaker == "greg")
+
+        self.assertEqual(dragon, '"And your shoulder?"')
+        self.assertIn('"It improved."', greg)
+        self.assertFalse(plan["uses_timestamps_for_speaker_assignment"])
+
     def test_record_without_ithar_routes_entire_body_to_greg(self):
         from scripts.audio_route import build_plan
 
