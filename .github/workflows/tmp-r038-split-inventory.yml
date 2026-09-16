@@ -1,0 +1,42 @@
+name: Temporary Record 038 Split Quote Inventory
+
+on:
+  push:
+    branches: [audio/record-038-production]
+    paths:
+      - .github/workflows/tmp-r038-split-inventory.yml
+
+permissions:
+  contents: write
+
+jobs:
+  split:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-038-production
+      - name: Split quote inventory for review
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          src=Path('audio/production/record-038/quote-inventory.json')
+          d=json.loads(src.read_text(encoding='utf-8'))
+          outdir=src.parent/'review-chunks'
+          outdir.mkdir(parents=True,exist_ok=True)
+          ranges=[(1,50),(51,100),(101,142)]
+          for a,b in ranges:
+              rows=[r for r in d['quotes'] if a <= r['quote_index'] <= b]
+              p=outdir/f'quotes-{a:03d}-{b:03d}.json'
+              p.write_text(json.dumps({'record':'038','quote_count':d['quote_count'],'range':[a,b],'quotes':rows},indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          PY
+      - name: Commit review chunks
+        run: |
+          set -euo pipefail
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio/production/record-038/review-chunks
+          git commit -m 'Split Record 038 quote inventory for review'
+          git push origin HEAD:audio/record-038-production
