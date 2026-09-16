@@ -2,7 +2,7 @@
 
 ## THE TEMPER
 
-Aren Vale fought better angry.
+Aren Dray fought better angry.
 
 Not furious.
 
