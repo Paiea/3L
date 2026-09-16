@@ -1,0 +1,42 @@
+{
+  "record": "037",
+  "source_sha256": "87721e79c7560190a7e02fb6cd16f5c85a6a2118e26486a434362ed6e81ae6f5",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I said nothing.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 12,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You have become very expressive.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 13,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Continue.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 14,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nDay three started before the crowd.\n\nThe stone rings were wet from overnight rain.\n\nWorkers pushed water toward drains with broad wooden squeegees while barrier crews checked the main boundary.\n\nVendors lit cookfires.\n\nSomebody burned onions before sunrise.\n\nI remember that because the smell followed me through the entire morning.\n\nThe Guild tent had seven new injury reports waiting.\n\nOne from sleep.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "A competitor rolled out of a temporary cot and dislocated two fingers catching himself.\n\nHe was scheduled for the open bracket.\n\nA-class.\n\nHuman dignity survives classification poorly.\n\nWe reduced the fingers.\n\nWrapped them.\n\nTold him he could compete if the senior healer cleared him.\n\nHe asked whether we could leave the report informal.\n\nWe could not.\n\nHe called us bureaucrats.\n\nHe was correct.\n\nThen the gallery started filling.\n\nI did not look for Arcrutus.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

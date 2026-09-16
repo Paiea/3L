@@ -1,0 +1,42 @@
+{
+  "record": "037",
+  "source_sha256": "87721e79c7560190a7e02fb6cd16f5c85a6a2118e26486a434362ed6e81ae6f5",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 26,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Small things. Eating. Tapping your finger. Looking where everyone else looks. You change when something matters.\"\n\n\"To me.\"\n\n\"Yes.\"\n\n\"You assume that means it matters.\"\n\nI opened my mouth.\n\nClosed it.\n\n\"More likely than when the entire crowd starts screaming.\"\n\nThat got something.\n\nNot a smile.\n\nAlmost the decision before one.\n\nThen gone.\n\n\"Why did the saber fighter win?\" he asked.\n\nI answered too quickly.\n\n\"His support stabilized the rear leg after the fourth entry.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 27,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"No.\"\n\nThe answer hit harder than expected.\n\n\"You looked at the support.\"\n\n\"Yes.\"\n\n\"You leaned forward after he adjusted the calf barrier.\"\n\n\"Yes.\"\n\n\"Then what was it?\"\n\n\"You tell me.\"\n\nAnnoying old bastard.\n\nI thought.\n\nThe saber fighter had been losing distance.\n\nSupport corrected the calf.\n\nMovement improved.\n\nBut that was not why he won.\n\n\"He stopped giving ground.\"\n\n\"No.\"\n\n\"The other fighter got impatient.\"\n\n\"Closer.\"\n\nI replayed the exchanges.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 28,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Empty-hand fighter had gotten inside repeatedly.\n\nAfter the supported recovery, saber fighter regained distance once.\n\nThen deliberately gave some of it back.\n\nThe empty-hand fighter followed.\n\nToo eagerly.\n\nSame entry as before.\n\nExpected success.\n\nSaber changed grip.\n\nCut on exit.\n\n\"He made him believe the inside was still available.\"\n\nArcrutus's gaze stayed on me.\n\n\"Better.\"\n\nThat felt absurdly good.\n\nI disliked that immediately.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 29,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Then why were you watching the support?\"\n\n\"I was not.\"\n\n\"You were looking directly at him.\"\n\n\"I was looking at the fighter through him.\"\n\nI frowned.\n\nArcrutus pointed one finger toward the ring without looking away from me.\n\n\"You see the thing in front of your eyes and decide it is the thing being measured.\"\n\n\"Usually a good starting assumption.\"\n\n\"Starting.\"\n\nHe let the word sit there.\n\nThat was irritating.\n\n\"You do this often?\" I asked.\n\n\"What?\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 30,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Make people answer questions until they discover you think they are wrong.\"\n\n\"Only when they stare at me for three days.\"\n\nFair.\n\nSomeone behind him said, \"Lord Arcrutus, the south delegation is waiting.\"\n\nHe looked over his shoulder.\n\nThe attention left me.\n\nIt was almost physical.\n\n\"I have work,\" he said.\n\n\"So do I.\"\n\nI lifted the dirty wraps.\n\nArcrutus looked at them.\n\n\"You are carrying laundry.\"\n\n\"Professional laundry.\"\n\n\"Important distinction.\"\n\n\"Very.\"\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

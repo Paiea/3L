@@ -1,0 +1,42 @@
+{
+  "record": "037",
+  "source_sha256": "87721e79c7560190a7e02fb6cd16f5c85a6a2118e26486a434362ed6e81ae6f5",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 36,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Interesting.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 37,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You are both very irritating.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 38,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You sought him out.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 39,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I did not seek him out.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 40,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You arrived an hour early.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}
