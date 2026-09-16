@@ -2,7 +2,7 @@
 
 ## THE SUBSTITUTE
 
-Noll got sick from soup.
+Corin got sick from soup.
 
 This was disappointing because the soup had been good.
 
@@ -14,7 +14,7 @@ The stew on Secondday had goat, roots, barley, and enough pepper to make Sella s
 
 Six people ate it.
 
-Only Noll spent the night becoming acquainted with a bucket.
+Only Corin spent the night becoming acquainted with a bucket.
 
 Bad luck.
 
@@ -24,7 +24,7 @@ The healer called it food sickness anyway.
 
 "Bodies are individual," the healer said.
 
-I looked at Greg's notebook.
+I looked at my notebook.
 
 Jessa saw me.
 
@@ -36,7 +36,7 @@ Jessa saw me.
 
 Everyone had learned the face.
 
-Noll missed the next day.
+Corin missed the next day.
 
 Then the next.
 
@@ -62,7 +62,7 @@ Varo Tess arrived the next afternoon.
 
 Of course.
 
-The fighter I had rejected for Noll.
+The fighter I had rejected for Corin.
 
 Not personally.
 
@@ -74,7 +74,7 @@ Varo was thirty-six.
 
 High-B combat, very close to A depending on evaluator and whether the evaluation involved movement.
 
-Faster than Noll.
+Faster than Corin.
 
 Harder forward pressure.
 
@@ -108,7 +108,7 @@ Varo looked at him.
 
 "Excellent. Greg, problem solved."
 
-I missed Noll already.
+I missed Corin already.
 
 Varo had worked with conventional B supports most of his career.
 
@@ -438,7 +438,7 @@ Then looked at me.
 
 Third drill improved.
 
-Not because Varo copied Noll.
+Not because Varo copied Corin.
 
 Good.
 
@@ -458,7 +458,7 @@ Sella rotated earlier after Varo's deepest entries.
 
 Jessa moved her strongest cast later because Varo could create the opening Aren used to create.
 
-I stopped trying to find Noll-shaped availability inside him.
+I stopped trying to find Corin-shaped availability inside him.
 
 Different person.
 
@@ -644,7 +644,7 @@ Aren said, "You finally invented caution."
 
 "Science."
 
-By day five Varo had stopped asking what Noll would do.
+By day five Varo had stopped asking what Corin would do.
 
 Good.
 
@@ -662,7 +662,7 @@ You can make room for it.
 
 Not command arrival.
 
-Noll returned on day eleven looking thinner and furious at soup as a category.
+Corin returned on day eleven looking thinner and furious at soup as a category.
 
 He expected Varo to leave.
 
@@ -694,7 +694,7 @@ I tried to track everyone.
 
 Failed.
 
-Draw from Noll when Varo had a better window.
+Draw from Corin when Varo had a better window.
 
 Barrier to Sella when Aren had already covered the lane.
 
@@ -722,7 +722,7 @@ All of them.
 
 "Helpful."
 
-Noll said, "You don't need to remember my old rhythm. I'm standing here."
+Corin said, "You don't need to remember my old rhythm. I'm standing here."
 
 That stopped me.
 
@@ -746,7 +746,7 @@ Current priorities.
 
 Varo wanted first forward pressure.
 
-Noll wanted to remain flexible.
+Corin wanted to remain flexible.
 
 Aren wanted to test a delayed second entry.
 
@@ -784,7 +784,7 @@ Then looked at me.
 
 He left.
 
-Noll watched him go.
+Corin watched him go.
 
 "Did I lose my job to soup?"
 
@@ -794,7 +794,7 @@ Noll watched him go.
 
 "We found another person."
 
-Noll frowned.
+Corin frowned.
 
 "For what?"
 
@@ -826,13 +826,13 @@ One partial collapse.
 
 Jessa exhausted herself once and complained professionally.
 
-Aren fought irritated because Noll had improved his tea.
+Aren fought irritated because Corin had improved his tea.
 
 Apparently good tea made Aren suspicious.
 
 Sella told me not to reassure her.
 
-Noll gave three clean availability windows.
+Corin gave three clean availability windows.
 
 I opened twice.
 
@@ -858,7 +858,7 @@ Aren had taught Varo before I did.
 
 Sella had called the open window.
 
-Noll had corrected my stale model of him.
+Corin had corrected my stale model of him.
 
 Jessa had taught everyone to leave her six breaths alone.
 
