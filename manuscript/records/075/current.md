@@ -1,430 +1,623 @@
 ## RECORD 075
 
-## THE REVISER
+## THE BOUND ONE
 
-Changing a procedure turned out to be more work than writing the wrong one.
+We waited eleven minutes.
 
-That felt unfair.
+Mael timed it.
 
-The shared-return correction should have been simple.
+Not because eleven mattered.
 
-Old sequence wrong in one condition.
+Because waiting without a reason becomes fear very quickly.
 
-New sequence better.
+During those eleven minutes the healer touched nothing else.
 
-Replace card.
+Pava watched the blue paths.
 
-Continue civilization.
+The survey lead reset every instrument in the lower throat.
 
-No.
+Arcrutus stood with his hands empty.
 
-The old sequence lived in seven districts.
+That was the strangest thing in the room.
 
-Four contractor manuals.
+Then Mael said, "We continue."
 
-Two licensing packets.
+No one argued.
 
-At least one station had copied it onto a wall in paint.
+The throat descended another hundred feet before opening into a chamber with no floor.
 
-I found that one personally.
+Not literally.
 
-East Bell pump hall.
+There was a surface beneath us.
 
-STOP.
+It simply did not behave like one.
 
-LOOK.
+Our lamps found a wide black plane forty feet down, crossed by blue lines that moved too slowly to be light and too cleanly to be mineral.
 
-ASK.
+The lines converged near the center.
 
-MEASURE.
+Something was there.
 
-Then my obsolete isolation order in letters six inches high.
+At first I thought it was another instrument.
 
-I stared at it.
+Then a restraint.
 
-The operator beside me said, “You wrote that.”
+Then I stopped naming things.
 
-“I know.”
+Good habit.
 
-“Want me to paint over it?”
+The descent platform had been built into the wall centuries before us.
 
-“Yes.”
+Maybe millennia.
 
-“Maintenance request.”
+It still held.
 
-“What?”
+The survey lead hated that.
 
-“Wall paint is facilities.”
+"Do not trust age as proof," she said.
 
-I hated institutions.
+"Nobody is," Mael answered.
 
-Correctly, in this case.
+We added our own anchors anyway.
 
-We filed the request.
+Two.
 
-The wall remained wrong for nine days.
+Not three.
 
-So we hung paper over it.
+The remaining expedition pressure anchor stayed packed.
 
-The paper fell twice.
+One sacrificial band was already gone because of me.
 
-Knowledge management.
+That fact followed me everywhere now.
 
-The revision committee met at South Fen because nobody trusted the capital to understand what an isolation valve looked like anymore.
-
-That was unfair to the capital.
-
-Probably.
-
-Tova chaired.
-
-Tomas attended.
-
-Hali.
-
-Three district operators.
-
-Two licensing officers.
-
-A union representative.
-
-One contractor besides us.
-
-And an engineer named Bel who had the unsettling habit of asking what evidence would falsify every confident statement.
-
-I liked her immediately.
-
-Then less.
-
-Then more.
-
-The first argument was not technical.
-
-It was about scope.
-
-“Do we revise only shared-return isolation?” one licensing officer asked.
-
-“Yes,” I said.
-
-Bel said, “Why?”
-
-“Because that is the identified failure.”
-
-“Your near miss also involved outdated site records.”
-
-Different problem.
-
-“Already addressed elsewhere.”
-
-“Is it?”
-
-She had three reports.
+Mael descended first.
 
 Of course.
 
-Two sites still using obsolete diagrams after field modifications.
+Not because he was strongest.
 
-One where the correct revision existed but had not reached the contractor copy.
+Because he was leading.
 
-The union representative said, “If we open the whole procedure set, this takes six months.”
+There is a difference.
 
-Tova nodded.
+Pava followed.
 
-“And during six months, shared-return hazard remains.”
+Then the survey lead.
 
-There it was.
+The healer.
 
-Improvement has sequencing too.
+Arcrutus.
 
-We narrowed scope.
+Me last among the primary descent group.
 
-Shared returns now.
+Insurance.
 
-Record control later.
-
-Not because records mattered less.
-
-Because trying to repair everything at once would delay the thing already shown to hurt someone.
-
-That lesson repeated in life often enough to become annoying.
-
-The technical revision took two days.
-
-The deployment took eleven weeks.
-
-First we had to identify every current copy.
-
-Impossible.
-
-So we identified every official copy.
-
-Different sentence.
-
-Then every licensed contractor required to use it.
-
-Then every training provider.
-
-Then active apprentices.
-
-Then inspectors.
-
-Then station leads.
-
-Then somebody asked about translated versions in the border districts.
-
-Of course.
-
-There were two.
-
-One translated badly.
-
-The phrase return pressure became backward pressure, which sounded reasonable until an operator interpreted it as directional flow rather than pressure source.
-
-We fixed that too.
-
-The old procedure had traveled farther than I knew.
-
-That was flattering for about four seconds.
-
-Then terrifying.
-
-Influence becomes responsibility after distribution.
-
-Nobody puts that on the first publication page.
-
-We issued three things.
-
-A revised pocket card.
-
-A technical note explaining why.
-
-A withdrawal notice listing obsolete versions.
-
-I wanted the technical note long.
-
-Everyone stopped me.
-
-Tomas wrote the first draft.
-
-Two pages.
-
-Hali cut it to one.
-
-Bel added one diagram.
-
-Tova removed my historical paragraph.
-
-“It explains provenance.”
-
-“It explains your feelings.”
-
-“History matters.”
-
-“Put it in the archive.”
-
-Cruel woman.
-
-She was right.
-
-The field note read:
-
-OBSERVED CONDITION:
-shared or uncertain return connections may rebuild pressure after local branch closure.
-
-RISK:
-downstream zero reading can become invalid before access begins.
-
-REVISED ACTION:
-measure return condition before closure; isolate or monitor shared return as site requires; verify both sides after closure.
-
-EVIDENCE:
-six observed sites; one near miss; no injuries.
-
-LIMIT:
-not validated for all legacy return geometries.
-
-That last line mattered most to me.
-
-Not validated for all.
-
-No pretending the new thing was final because it corrected the old thing.
-
-We sent it.
-
-Then discovered sending was not adoption.
-
-One district replaced cards immediately.
-
-Another waited for monthly training.
-
-A contractor acknowledged receipt and changed nothing because the supervisor put the notice in a drawer.
-
-One station lead crossed out the old line by hand and wrote SEE NEW CARD in red.
-
-Good enough.
-
-Another station kept both cards on the wall.
-
-Not good enough.
-
-We built a receipt system.
-
-Of course we did.
-
-NOTIFY.
-
-ACKNOWLEDGE.
-
-REMOVE OLD.
-
-TRAIN IF NEEDED.
-
-CONFIRM FIELD USE.
-
-Five steps.
-
-Too many.
-
-Necessary.
-
-The union representative insisted training time be paid.
-
-Correct.
-
-One district objected to cost.
-
-Also correct.
-
-Workers reading revised safety procedures are working.
-
-That sentence took a meeting.
-
-We won.
-
-Not morally.
-
-Contractually.
-
-Better.
-
-The most useful failure happened at Market Five.
-
-Supervisor acknowledged the revision.
-
-Removed old cards.
-
-Briefed crew.
-
-Perfect.
-
-Three weeks later a night contractor arrived with his own laminated copy of the old procedure.
-
-Personal copy.
-
-Not official.
-
-Nobody had thought about personal copies.
-
-He followed it until a station hand stopped him.
-
-No incident.
-
-The station hand was twenty-three.
-
-Name I did not know.
-
-She had learned the revision in shift briefing.
-
-That was the system working.
-
-Not because every document vanished.
-
-Because knowledge existed in more than one person.
-
-We added obsolete version numbers to the top of future withdrawal notices.
-
-People could identify bad copies without trusting memory.
-
-Bel looked pleased.
-
-I asked why.
-
-“Error produced design.”
-
-“Do not sound happy about errors.”
-
-“I am happy about learning.”
-
-“Same face.”
-
-She smiled.
-
-Months later the licensing board updated the practical exam.
-
-Candidates now received one drawing and one revision notice.
-
-They had to reconcile them before work.
-
-Dalen Marr heard about that and sent me a note.
-
-YOU'RE WELCOME.
-
-Asshole.
-
-I kept it.
-
-The shared-return revision eventually became normal.
-
-That is the strange part.
-
-At first everyone talked about it.
-
-Greg's old rule.
-
-Tomas's objection.
-
-South Fen review.
-
-Near miss.
-
-Then new workers arrived who had never known the previous sequence.
-
-For them the revised order was simply how the job was done.
-
-No drama.
-
-No story.
-
-Just normal work.
-
-That is one of the best things a correction can become.
-
-Boring.
-
-Years later I saw a trainee teach the sequence at a station I had never visited.
-
-She got one phrase wrong.
-
-Not dangerously.
-
-I almost corrected her.
-
-Her instructor did first.
+Still.
 
 Good.
 
-I kept walking.
+When my boots touched the black plane, I felt the load through my teeth.
 
-The system no longer required me to hear every mistake.
+Not pressure exactly.
 
-That was the point.
+Relationship.
 
-Hard point.
+The whole chamber was held inside one enormous condition.
 
-Still the point.
+That is the best language I have.
 
-Old Greg liked being necessary.
+Every surface pressed against every other surface through something we could not see.
 
-Second-life Greg spent decades building things that proved necessity was often a design defect.
+Not directly.
 
-I did not always enjoy the proof.
+Through rules.
+
+Allowed movement.
+
+Forbidden movement.
+
+Compensated movement.
+
+I lowered my aura a little and immediately regretted it.
+
+The chamber became louder.
+
+Again, not sound.
+
+My channels picked up boundary after boundary after boundary.
+
+Thousands.
+
+I put my aura back up.
+
+Mael looked at me.
+
+"Problem?"
+
+"Too much."
+
+He nodded like that was useful.
+
+Maybe it was.
+
+We approached the center.
+
+The thing there was surrounded by six vertical black structures rising from the floor like narrow pillars.
+
+Blue paths ran between them.
+
+Not random.
+
+Paired.
+
+Balanced.
+
+Each pillar carried a different pressure signature.
+
+Pava checked one.
+
+Then another.
+
+"These are not equal."
+
+The survey lead said, "Different capacities?"
+
+"Different functions."
+
+"Evidence?"
+
+Pava pointed at the slates.
+
+"One tracks deep compression. One tracks lateral shift. One tracks thermal expansion."
+
+The fourth slate jumped before she finished.
+
+Pava stopped.
+
+"That one just moved with the upper shaft."
+
+The survey lead checked the timing.
+
+"Yes."
+
+Mael said, "Keep mapping. No direct contact."
+
+Arcrutus looked at the center.
+
+"Direct contact with what?"
+
+Nobody answered him.
+
+Because now the lamps had adjusted.
+
+Because now we could see.
+
+There was someone between the pillars.
+
+Not standing.
+
+Not lying down.
+
+Held.
+
+The black structures did not surround a machine.
+
+They surrounded a body.
+
+For a few seconds my mind rejected scale and position.
+
+The figure was upright at an angle, suspended several feet above the floor by bands that entered the surrounding stone and returned through the body in ways I did not understand.
+
+Not ropes.
+
+Not chains.
+
+Connections.
+
+Some crossed the chest.
+
+Some the shoulders.
+
+Some disappeared behind the spine.
+
+Several entered nothing visible and still carried measurable load.
+
+Blue paths converged around the figure so densely that the body seemed submerged in them.
+
+The healer made a small sound.
+
+Mael held up one hand.
+
+Nobody moved closer.
+
+The figure did not move either.
+
+I could not tell age.
+
+I could not tell species confidently.
+
+Human-shaped was as far as I was willing to go.
+
+Too thin in some places.
+
+Too still everywhere.
+
+Skin visible between black bands.
+
+Not preserved like a corpse.
+
+Not healthy like sleep.
+
+Something else.
+
+Pava whispered, "Alive?"
+
+The healer stared for a long time.
+
+"I don't know."
+
+Good sentence.
+
+The survey lead looked at the nearest pillar.
+
+"The load paths terminate here."
+
+Mael said, "No."
+
+She looked at him.
+
+He pointed to the figure.
+
+"They terminate there."
+
+The room changed.
+
+Not physically.
+
+We did.
+
+Once you see a person, engineering becomes harder to discuss casually.
+
+The black pillars were not just anchors anymore.
+
+The blue lattice was not just control architecture.
+
+The thing we had been following downward had a body in it.
+
+Arcrutus took one step forward.
+
+Mael said, "Stop."
+
+Arcrutus stopped.
+
+"She's bound."
+
+The healer said, "We do not know that."
+
+Arcrutus looked at her.
+
+"Look at her."
+
+"I am."
+
+"Then use a different word if you like."
+
+Mael said, "No intervention until we understand function."
+
+Arcrutus's face went flat.
+
+Not angry.
+
+Worse.
+
+"Function."
+
+Mael met his eyes.
+
+"Yes."
+
+I understood both of them.
+
+That was unpleasant.
+
+If the figure was a prisoner, every minute mattered differently.
+
+If the figure was part of the stabilization system, touching anything could kill all of us.
+
+Both could be true.
+
+That was worse.
+
+Pava moved to the first pillar and began passive readings.
+
+The survey lead did the same on the opposite side.
+
+The healer stayed where she was.
+
+"I need closer range."
+
+Mael said, "How close?"
+
+"Ten feet for useful life signs. Five for anything diagnostic."
+
+"No contact."
+
+"I know."
+
+He nodded.
+
+She advanced slowly.
+
+At fifteen feet, one blue path changed.
+
+The healer stopped.
+
+It settled.
+
+At twelve feet, three paths shifted.
+
+Not away from her this time.
+
+Toward the figure.
+
+Pava watched the slates.
+
+"Load redistribution."
+
+The survey lead said, "Magnitude?"
+
+"Small."
+
+The healer took one more step.
+
+The figure's chest moved.
+
+Barely.
+
+One breath.
+
+Maybe.
+
+The healer froze.
+
+We all did.
+
+Then another.
+
+Long interval.
+
+Shallow.
+
+Real.
+
+"Alive," the healer said.
+
+Nobody spoke for several seconds.
+
+Arcrutus said, "Then we get her out."
+
+Mael said, "No."
+
+Immediate.
+
+Arcrutus turned.
+
+"No?"
+
+"Not until we know what happens when those connections break."
+
+"She's alive."
+
+"Yes."
+
+"She's restrained."
+
+"Yes."
+
+"You need more?"
+
+"Yes."
+
+Arcrutus took a breath.
+
+I watched his hands.
+
+Not because I thought he would attack Mael.
+
+Because when Arcrutus decided something should move, reality usually became less consulted.
+
+Pava said, "Mael is right."
+
+Arcrutus looked at her.
+
+"You too?"
+
+She pointed at the slates.
+
+"Every load path we followed ends in this chamber. Not at the pillars. Through them."
+
+The survey lead added, "Upper structures compensate through these relationships. If we alter them, we change the entire system."
+
+"So we leave her?"
+
+"No one said that," Mael said.
+
+"You said no."
+
+"I said not yet."
+
+Arcrutus hated those two words.
+
+So did I.
+
+The healer moved closer to the figure.
+
+Eight feet.
+
+Six.
+
+The blue lattice shifted each time.
+
+At five feet she stopped.
+
+Her diagnostic charm stayed dark in her palm.
+
+"I cannot read her cleanly."
+
+Mael said, "Why?"
+
+"The system is inside every signal."
+
+I looked at the body again.
+
+Not attached to the system.
+
+Inside it.
+
+That distinction landed badly.
+
+Pava said, "Her channels may be part of the control paths."
+
+The healer said, "May be?"
+
+"I am trying not to say something worse without proof."
+
+The survey lead looked at me.
+
+Not because I had authority.
+
+Because the problem had become suspiciously close to my profession.
+
+I did not like that either.
+
+"Greg?"
+
+I walked closer.
+
+Mael did not stop me.
+
+That was new.
+
+I stopped outside the healer's position.
+
+Lowered my aura a fraction.
+
+The chamber opened against my senses.
+
+Too much.
+
+I narrowed.
+
+One boundary.
+
+One crossing.
+
+One relationship at a time.
+
+The nearest blue path carried pressure from somewhere above.
+
+Not into the pillar.
+
+Through it.
+
+Into a maintained condition around the figure's left side.
+
+A second path took something else back out.
+
+Not equal.
+
+Not reciprocal.
+
+Compensating.
+
+I followed another.
+
+Then another.
+
+My head started hurting.
+
+Mael said, "Enough."
+
+"One more."
+
+"No."
+
+I raised my aura.
+
+He was right.
+
+Annoying man.
+
+I looked at the figure.
+
+"She's carrying it."
+
+Pava said, "Define it."
+
+"I can't."
+
+"Then don't say it."
+
+"Fair."
+
+I tried again.
+
+"The system isn't just routed through her. It uses her to decide where load goes."
+
+The survey lead said, "Evidence?"
+
+"The blue paths behave like maintained support relations. They don't only transmit force. They preserve conditions between different parts of the structure. A lot of those conditions pass through whatever she is doing."
+
+"Doing?" the healer asked.
+
+"Or being made to do. I don't know."
+
+Arcrutus looked at the black bands across the body.
+
+"Then cut the restraints and find out."
+
+Pava swore.
+
+Mael said, "No."
+
+Arcrutus looked at me.
+
+That was unfair.
+
+He had brought me here against everyone else's judgment and now expected the universe to reward him with agreement.
+
+I looked at the figure.
+
+Then the pillars.
+
+Then the blue paths disappearing upward into miles of old structure.
+
+The broken ribs.
+
+The dead branch.
+
+The walls that survived because burden went somewhere else.
+
+I thought about Pava's hand.
+
+About the pressure anchor.
+
+About every person I had ever supported by deciding where a cost could be paid better.
+
+And for the first time since we entered the chamber, I stopped seeing a prison first.
+
+That did not make it less of one.
+
+It made it worse.
+
+I said, "If we free her, where does it go?"
+
+Arcrutus frowned.
+
+"What?"
+
+"The load."
+
+No one answered.
+
+Behind the black bands, the figure's eyes opened.
