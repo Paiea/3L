@@ -8,39 +8,41 @@ The raw story still exists through Record 079. Preserved later records are devel
 
 - Story/raw frontier: Record 079.
 - Prose-quality reference: Records 001-010.
-- Public/main prose frontier: Record 060.
-- Working-branch restored prose frontier: Record 070.
-- Next rehearsal target: Record 071.
+- Public/main prose frontier: Record 070.
+- Working-branch restored prose frontier: Record 075.
+- Next rehearsal target: Record 076.
 - Published audio frontier remains separate and must not be inferred from prose publication.
 
 ## Present-frame contract
 
 Greg is about fifty-nine in Life Two when he reaches Ithar because the western Line is failing. Greg also has private reasons to seek Ithar. Ithar is interested because Greg possesses impossible knowledge with missing causal paths. Life Two is the lived spine; First Life supplies pressure and evidence. Ithar owns the examination and is no longer only a framing device.
 
-Records 066-068 return fully to the cave. Greg tries to drag the conversation back to the failing western Line. Ithar instead notices a physical contradiction between the First-Life support system Greg has described and the body standing in front of him now.
+Record 002 already establishes the first Nhal pressure. Greg names Nhal, Ithar recognizes the name, knows that in the history available to him Nhal has not spoken to a human in one hundred and twelve years, asks when and where Greg met her, and reacts when Greg says she was trapped. Later Nhal material must deepen the technical meaning for Ithar, not replay a first-time surprise.
+
+Records 066-068 returned fully to the cave. Greg tried to drag the conversation back to the failing western Line. Ithar instead noticed a physical contradiction between the First-Life support system Greg described and the body standing in front of him now.
 
 Present Greg remains low-B execution despite retaining S-class knowledge. His current channels are not merely injured. They contain heavily practiced inward reinforcement/anchoring returns that fight the outward Draw/link architecture he developed in First Life. Some routes are damaged; some terminate; some were deliberately trained inward later. The ruined leg did not create that direction. The exact Life-Two revenge mechanics remain for later.
 
-Ithar finds Greg's specialization genuinely interesting. To Ithar, Barrier and Draw/siphoning are not unrelated spell schools. Both ask the same boundary grammar: what crosses, what does not, in which direction, under whose load, and at what cost. Greg turned an invasive ward-drain technique into consensual movement, redistribution, and eventually multi-person support architecture.
+Ithar finds Greg's specialization genuinely interesting. To Ithar, Barrier and Draw/siphoning are not unrelated spell schools. Both ask the same boundary grammar: what crosses, what does not, in which direction, under whose load, and at what cost. Greg turned an invasive ward-drain technique into consensual movement, redistribution, linking, and eventually multi-person support architecture.
 
 ## Name authority
 
 Keep important spoken names acoustically distinct. This is an audio-first book.
 
 - Nessa Vale: Greg's Life-Two partner and later spouse. Keep **Vale** attached to Nessa's line.
-- Nhal: ancient trapped figure tied to the First-Life S-class expedition and present-frame foundational mystery. Do not introduce major names that sound close to Nhal.
-- Arcrutus Dray: First-Life veteran and hostile practical tester. By the Nhal expedition he is one of the older recognized Seven. Catalyst, not conventional mentor.
+- Nhal: ancient nonhuman being trapped in both lives, tied to the First-Life S-class expedition and the present foundational mystery. Ithar knows Nhal. Do not introduce major names that sound close to Nhal.
+- Arcrutus Dray: First-Life veteran, older S-class human, hostile practical tester, catalyst rather than conventional mentor.
 - Aren Dray: Arcrutus's eldest son. Forty-two when introduced in Record 056, seven years older than Greg, A-class combat, spear and reinforcement.
 - Corin Hart: ranged/utility fighter introduced in Record 054, later B-class. Replaces the earlier Noll Aris / Noll Hart drift and avoids collision with Nhal.
 - Sel Aven: conventional B-class support whose breadth, static work, emergency stabilization, and unfamiliar-team competence expose Greg's professional holes. She remains better than Greg at broad civilian/disaster support after Record 065.
 - Hara Venn: fen-clearing contractor who pays for Greg's deliberate six-person roster during Records 062-063.
 - Dace: B-class pressure/shaping caster temporarily replacing Jessa during Record 063. Uses one name only in prose.
 - Mael Dorn: one of the older Seven and operational leader of the northern salt-flat expedition. Controlled, experienced, unimpressed by rank theater.
-- Pava Kett: newer member of the Seven on the northern expedition. Uses long pressure instruments/rods; immense capability but her body/channel limits still matter.
+- Pava Kett: newer member of the Seven on the northern expedition. Uses pressure rods/instruments; immense capability but her body/channel limits still matter.
 
 Do not use Vale as the Dray family surname. Earlier Aren Vale / Arcrutus Vale wording was a local naming collision and has been corrected.
 
-## First-Life progression through Record 070
+## First-Life progression through Record 075
 
 ### 045 · THE POCKET
 Greg learns why conventional support favors self-aura, stable protected positioning, predictable target priority, and reserve. He begins asking how maintained Barriers are actually defeated.
@@ -106,19 +108,34 @@ Greg pays Sel Aven to train the conventional areas that defeated him. Across mon
 Eleven months after the first failure, Greg passes B-class support. His emergency breadth remains below B median, but his baseline is now safe and portable enough that contractors do not need to build a private ecosystem before his specialty has value. Requests begin arriving for **Greg Vane**, sometimes without class specified.
 
 ### 066 · THE CHANNELS
-Back in the present cave, Greg tries to return to the western Line. Ithar gives the dragon equivalent of a sigh and instead digs into Draw/siphoning. Ithar recognizes Barrier and Draw as opposite uses of the same boundary/crossing grammar and finds Greg's support use genuinely fascinating. Ithar prepares a small charged coin and makes present Greg demonstrate Draw. Greg can still do it, but badly: the path catches, folds inward, and irritates old damage. Ithar observes that current Greg's channels are arranged into practiced inward returns and anchoring loops rather than the increasingly outward architecture Greg has described. Some damage is injury; some direction was trained. Greg admits the old First-Life version of him could do this vastly better.
+Back in the present cave, Greg tries to return to the western Line. Ithar gives the dragon equivalent of a sigh and digs into Draw/siphoning instead. Ithar recognizes Barrier and Draw as opposite uses of the same boundary/crossing grammar. Present Greg demonstrates Draw badly; the path catches, folds inward, and irritates old damage. Ithar observes that current Greg's channels are arranged into practiced inward returns and anchoring loops rather than the increasingly outward architecture Greg has described.
 
 ### 067 · THE SUMMARY
-Greg insists on skipping about eleven years between B-class and Nhal. In compressed conversation he establishes the broad career progression: switching cost moved from decision to connection; human handoffs and cheap reacquisition aids came first; then persistence after release; then true two-person linking; then three-person relations and routing not only mana but recoil, reinforcement strain, stabilization, pressure, recovery burden, channel stress, and structural load. By roughly forty-two Greg was A-class support. By the later A years stronger parties finally became more useful rather than merely noisier because Greg's resolution/latency/concurrency had caught up enough to exploit their additional margin. Ithar is amused that humans never gave this boundary-transfer school a clean name. Ithar also distinguishes present Greg's later inward training from mere injury. Greg says that came much later. Ithar stops the career summary and asks for the actual path to Nhal.
+Greg skips roughly eleven years between B-class and Nhal. The broad career progression becomes canon: human handoffs and cheap reacquisition aids, persistence after release, true two-person linking, then multi-person relations and routing not only mana but recoil, reinforcement strain, stabilization, pressure, recovery burden, channel stress, and structural load. Greg reaches A-class around forty-two. By the later A years stronger parties become more useful rather than merely noisier because his resolution/latency/concurrency catch up enough to exploit their additional margin.
 
 ### 068 · THE UNINVITED
-Greg explains that the northern salt-flat expedition was **not looking for Nhal**. Old buried infrastructure showed unexplained load movement and stabilization, enough to justify an extreme expedition. Three of the Seven were assigned: Arcrutus Dray, old veteran Mael Dorn, and newer S Pava Kett, plus technical specialists, survey, and healer. Greg was A-class and rationally denied because the expedition already had enormous independent capability and strict supply/evacuation limits. Arcrutus disagreed. The deep route imposed one sealed expanded expedition carrier per person. Arcrutus used most of his own allowance on Greg, sacrificing serious redundancy. Two days before departure he asked whether Greg still wanted north, knocked him unconscious safely, and smuggled him past the last cheap turnaround point.
+Greg explains that the northern salt-flat expedition was **not looking for Nhal**. Old buried infrastructure showed unexplained load movement and stabilization. Three of the Seven were assigned: Arcrutus Dray, old veteran Mael Dorn, and newer S Pava Kett, plus technical specialists, survey, and healer. A-class Greg is rationally denied. Arcrutus uses most of his one-bag expedition allowance to smuggle Greg north, sacrificing serious redundancy.
 
 ### 069 · THE BAG
-Greg wakes inside Arcrutus's premium living-rated carrier beside food, water, his notebook, basic gear, and Arcrutus's socks. The expedition is already beyond the safe turnaround window. Mael is furious but refuses to waste the entire season or endanger a return team solely to remove Greg. Greg remains as **insurance**, not primary operating roster, with explicit restrictions against experimental links/Draw. Inventory reveals Arcrutus gave up a second pressure anchor, condenser, repair plates, and other S-class redundancy to make room for Greg. The joke has a real cost. Greg is not a rookie: he recognizes exactly how good he is and therefore how disproportionate the three S-class humans around him are. Deep pressure moves under the salt, and Greg notices something below is carrying enormous load.
+Greg wakes inside Arcrutus's premium living-rated carrier beside food, water, his notebook, basic gear, and Arcrutus's socks. The expedition is already beyond the safe turnaround window. Mael keeps Greg as **insurance**, not primary operating roster, with explicit restrictions against experimental links/Draw. Inventory reveals Arcrutus gave up serious S-class redundancy to bring him.
 
 ### 070 · THE EXPEDITION
-The expedition begins under strict procedure. Greg remains insurance and may use ordinary support without altering mapped deep pressure behavior. A route instability lets him watch Pava probe the salt with a pressure rod. Pava retains enormous reserve after the technique, but forearm/channel strain limits repetition. Later Mael can move a massive fitted wall but the crew spends hours opening it carefully because power is not the objective. Greg sees the S-class support problem clearly: these people already possess absurd capability; the useful bottlenecks are hands, channels, footing, recoil, transition, attention, and the body/system that must survive doing the impossible thing again. Arcrutus's missing equipment continues to cost the expedition. The crew opens an ancient descending passage where pressure/load behavior bypasses visible structure. Greg understands why Arcrutus thought his specialty belonged there: they have enough power, but they do not know where the cost is going.
+The expedition begins under strict procedure. Greg sees the S-class support problem clearly: these people already possess absurd capability; the useful bottlenecks are hands, channels, footing, recoil, transition, attention, and the body/system that must survive doing the impossible thing again. The crew opens an ancient descending passage where pressure/load behavior bypasses visible structure. They have enough power, but they do not know where the cost is going.
+
+### 071 · THE LOAD
+The expedition descends through enormous visible ribs and braces. Greg notices that deep pressure changes begin before the visible ribs flex. The survey lead proves the timing with instruments and correctly frames the structures as possible secondary restraints rather than primary supports. Broken ribs have not collapsed the shaft. Greg's question begins shifting from what is strong enough to hold the place toward what is actually paying for stability.
+
+### 072 · THE ANCHOR
+The team maps pressure/load behavior across branching galleries. Local structures accept load only to thresholds, after which additional burden disappears from visible geometry and reappears remotely. Greg suggests mapping transfers rather than supports. The survey team improves that idea into interface mapping. Functioning paths trend inward and downward toward the central shaft. The expedition now has a direction but still no identified primary carrier.
+
+### 073 · THE RELIEF
+Pava needs a stronger pressure pulse while forearm/channel return, not mana reserve, is her limiting factor. Greg proposes a narrow established use of Draw/load routing: preserve the instrument's useful pulse and redirect part of the post-action return into the expedition's remaining pressure anchor. Mael requires bench proof and a low live test first. The medium pulse succeeds, Pava's hand opens cleanly, one sacrificial anchor band is spent, and the resulting trace gives a cleaner downward direction. Greg proves why he belongs without gaining command authority; he remains insurance.
+
+### 074 · THE CARRIER
+Deeper infrastructure contains not only load paths but standing blue relationships that behave like maintained constraints between distant parts of the system. The lattice shifts load before visible failure, preserves some routes while spending others, and adapts around diagnostic contact. Greg recognizes behavior analogous to high-level support architecture but does not claim intelligence from that alone. Pava and the survey team provide much of the evidence. By the lower throat, whatever carries the system demonstrably notices interference and adjusts around it.
+
+### 075 · THE BOUND ONE
+The expedition reaches the convergence chamber and finds Nhal, an ancient nonhuman being, alive and suspended within six major pillars and an immense control/load lattice. The load paths do not merely terminate at the chamber; many maintained relationships run through Nhal. Arcrutus wants immediate rescue, while Mael and Pava insist that altering the connections without understanding function could destabilize the entire buried system. Greg recognizes the central horror: Nhal is both captive and part of what is carrying the load. His first question is **If we free her, where does it go?** Nhal's eyes open at the end, but she has not spoken yet.
 
 ## Compressed First-Life authority between Records 065 and 068
 
@@ -143,7 +160,7 @@ Important constraints:
 - experts can be completely right about Greg's current implementation;
 - Greg's advantage is fast feedback/iteration, not infallibility;
 - Barrier and Draw/siphoning are conceptually linked through boundary and crossing even if human institutions classify them separately;
-- Draw remains invasive magic whose moral status depends on use, consent, timing, and what is moved; changing its use case does not make the mechanism morally pure;
+- Draw remains invasive magic whose moral status depends on use, consent, timing, and what is moved;
 - personal aura/self-reinforcement materially conflicts with outward Draw-routing;
 - First-Life Greg's strongest architecture becomes increasingly outward and relational;
 - present Life-Two Greg is physically and magically configured much more inward; this later direction is trained, not merely scar tissue;
@@ -158,26 +175,30 @@ Important constraints:
 - the Nhal expedition contains exactly three recognized S humans at opening: Arcrutus Dray, Mael Dorn, Pava Kett;
 - the expedition was investigating ancient buried load behavior, not intentionally searching for Nhal;
 - one-bag rule is real logistics. Arcrutus's decision to smuggle Greg costs him serious expedition redundancy;
-- Greg remains insurance at expedition opening. He must not immediately become the smartest/most important person in every room simply because the story follows him;
+- Greg remains insurance at expedition opening and through Record 075. He contributes narrow, high-value support but does not take over command;
 - one S-class human will eventually die during the Nhal operation. Do not trivialize this or spend it before the operation earns it;
-- Nhal is trapped/anchored in a foundational load-bearing system. Freeing her is not equivalent to breaking a prison because the containment carries a larger load;
+- Nhal's containment predates the divergence and exists in both lives;
+- Nhal is not merely attached to the buried system. By Record 075 many maintained load/control relationships demonstrably run through her;
+- freeing Nhal is not equivalent to breaking a prison because the containment carries a larger load;
 - Nhal becomes interested in Greg because boundaries, flow, load, and stability are exactly the questions his specialization has trained him to ask;
+- Greg remains A-class at Record 075. His eventual S recognition must come from keeping the expedition functional under S-grade failure after the operation becomes catastrophic;
 - First-Life relational architecture later inverts during Life-Two revenge into closed loops, self-reinforcement, hostile stabilization, terrain anchoring, and inward routing.
 
-## Pressure for Record 071
+## Pressure for Record 076
 
-Continue the northern expedition. Do not jump directly to Nhal speaking just because she is now close.
+The expedition has found Nhal alive and bound into the foundational system. Do not turn the next record into an instant exposition dump or simple rescue.
 
 Useful next pressure:
-- descend through ancient infrastructure and make scale legible through operation rather than lore dumps;
-- keep Greg in the insurance role long enough that S-class competence remains genuinely impressive;
-- let Greg contribute narrow, high-value observations rather than command the expedition;
-- show Mael/Pava/Arcrutus having different S-class capability shapes and different bottlenecks;
-- deepen evidence that visible structures are not carrying the full load;
-- make Greg's question evolve from **what is strong?** toward **what is paying for stability?**;
-- let ordinary expedition costs remain present: water, sleep, gear, missing Arcrutus redundancy, route windows, recovery;
-- when Nhal is discovered, the trap must read first as an engineering/load problem and only second as a person in captivity;
-- do not grant Greg S-class immediately. His S recognition must come from keeping the expedition functional under S-grade conditions after the operation becomes catastrophic.
+- Nhal has just opened her eyes but has not yet established ordinary conversation;
+- Ithar already knows in the present frame that Nhal later spoke to Greg, so the interest is how communication became possible and what she revealed technically;
+- establish whether Nhal is voluntarily compensating, being forced, or some mixture without reducing the answer to a simple binary too quickly;
+- map which loads/constraints actually depend on Nhal before anyone attempts release;
+- let Mael remain operational leader and let Pava, survey, and healer expertise matter;
+- Greg's specialty gives him a useful language for boundaries and transfer, not automatic authority over Nhal or the ancient system;
+- Arcrutus's rescue impulse can create pressure, but he is not stupid and should respond to evidence;
+- keep the remaining pressure anchor, spent sacrificial band, route window, sleep, water, and other expedition costs alive;
+- do not spend the S-class death casually. The operation has not earned it yet;
+- Greg remains A-class. His eventual S proof comes later when the expedition becomes catastrophic and he keeps S-class-scale capability functioning under failure.
 
 ## Prose lock
 
@@ -194,6 +215,6 @@ Useful next pressure:
 
 ## Do not force
 
-Do not force preserved 071-079 developmental material into its old numbered position. Salvage concepts when useful, but current prose and approved authority win.
+Do not force preserved 076-079 developmental material into its old numbered position. Salvage concepts when useful, but current prose and approved authority win.
 
-Do not write Record 071 without a new bounded approval gate.
+Do not write Record 076 without a new bounded approval gate.
