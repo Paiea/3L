@@ -38,6 +38,11 @@ class DarkHeroPresentationTests(unittest.TestCase):
         self.assertIn('The first thing Ithar calls him is food.', self.html)
         self.assertNotIn('This version is built to listen first', self.html)
 
+    def test_hero_identifies_greg_as_peg_leg_greg(self):
+        self.assertIn('B-Class Named Ranker', self.html)
+        self.assertIn('Designation: Peg-Leg Greg', self.html)
+        self.assertIn('class="hero-identity"', self.html)
+
     def test_mobile_band_stacks_without_covering_the_art(self):
         self.assertIn('@media(max-width:760px)', self.html)
         self.assertIn('.story-hero-copy{grid-template-columns:1fr;', self.html)
