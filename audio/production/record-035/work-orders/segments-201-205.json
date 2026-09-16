@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 201,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at the dead fire.\n\nThat was close enough to hurt.\n\n\"Maybe there isn't one.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 202,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Perhaps.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 203,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Helpful.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 204,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have spent four days attempting to demonstrate that experience has structure. Cause. Choice. consequence. Revision. You select what belongs together and call the selection an account.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 205,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That is what people do.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

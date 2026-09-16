@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 101,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Also that.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 102,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I can hunt.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 103,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Poorly.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 104,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You enjoy that word.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 105,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"It remains accurate.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You asked me to say something.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 22,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Something useful.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 23,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Useful to which problem?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 24,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at him.\n\n\"This one.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 25,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Name it.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

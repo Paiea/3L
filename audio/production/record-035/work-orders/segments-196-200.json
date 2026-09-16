@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 196,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You compress aggressively. Often badly. Sometimes dishonestly. But you compress.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 197,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Thank you.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 198,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That was not praise.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 199,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Everyone has learned that sentence.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 200,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Now you cannot choose the container.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

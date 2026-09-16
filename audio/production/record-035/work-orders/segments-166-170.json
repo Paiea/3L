@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 166,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Temporarily.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 167,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Confident.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 168,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You require my help.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 169,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That is not the same as affection.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 170,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I did not say affection.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

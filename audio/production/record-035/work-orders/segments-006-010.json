@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 6,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I have done nothing.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Exactly.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 8,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You object to my silence.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Currently, yes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 10,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have relied on it for several days.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 116,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 117,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I am one person.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 118,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 119,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"This is several days of food.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 120,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Good.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

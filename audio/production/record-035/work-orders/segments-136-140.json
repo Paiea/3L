@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 136,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You climbed here.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 137,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI cooked meat on a flat piece of metal from my kit.\n\nSalt would have helped.\n\nSo would pepper.\n\nSo would Nessa making it instead.\n\nThat thought arrived normally.\n\nI waited to see if the rest followed.\n\nIt did not.\n\nI ate.\n\nIthar rested his head on the stone shelf again.\n\nWe were quiet long enough that chewing stopped feeling like an interruption.\n\nEventually I said, \"Do dragons sleep?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 138,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 139,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"How much?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 140,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Enough.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

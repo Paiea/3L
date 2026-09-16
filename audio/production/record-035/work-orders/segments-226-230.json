@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 226,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI waited.\n\nThe next sentence arrived before he said it.\n\nI did not like that.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 227,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have not told me what he thought he was doing.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 228,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThere.\n\nI looked out at the mountain again.\n\nThe answer was not simple.\n\nBut answers appeared.\n\nImmediately.\n\nWork.\n\nFreedom.\n\nUsefulness.\n\nMoney sometimes.\n\nWomen sometimes.\n\nCuriosity more than I admitted then.\n\nThe next road because there was a next road.\n\nThe next person who needed something I could do.\n\nThe pleasure of being the person who could do it.\n\nThe relief of leaving before anything else became my responsibility.\n\nI did not say the last one.\n\nNot yet.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 229,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "But it had language.\n\nI noticed.\n\nSo did Ithar.\n\nFuck.\n\n\"That is cheap,\" I said.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 230,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"What is?\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}
