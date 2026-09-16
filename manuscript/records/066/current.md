@@ -1,453 +1,595 @@
 ## RECORD 066
 
-## THE VISITOR
+## THE CHANNELS
 
-The capital smelled cleaner than it was.
+I got as far as the second B-class badge before I remembered why I was in the cave.
 
-That was my first professional impression.
+That sounds worse than it was.
 
-My personal impression involved pigeons.
+The western Line was still failing while I explained my professional development to a dragon.
 
-Too many.
+People were still working.
 
-Nessa liked the city more than I did.
+Stations were still full.
 
-Not enough to move.
+The ninth was still bleeding pressure into a sink that could not take much more.
 
-Enough to admit it had better food.
+Ithar had listened through all of it.
 
-We were there for different reasons.
+The tournament.
 
-That mattered.
+The pocket.
 
-Halden had invited me to a central review workshop on legacy infrastructure reporting.
+Barrier.
 
-Nessa's regional office sent her to a scheduling conference about winter reserve coordination across city districts.
+Draw.
 
-Same week.
+A bad ankle that was not mine.
 
-Same city.
+A worse evaluation that was.
 
-Different rooms.
+Aren.
 
-We took the tram north together and spent most of the ride discussing whether shared travel counted against our protected half-day.
+The second evaluation.
 
-Nessa said no.
+Years of my life reduced to things that fit inside a conversation.
 
-I said maybe if we avoided work.
+I shifted against the warm stone.
 
-We both worked for three hours.
+My left leg had gone numb below the knee.
 
-Rule clarified.
+That was preferable to pain until I needed to stand.
 
-The capital's main Line station was beautiful.
+I looked toward the cave mouth.
 
-Polished brass.
+Still dark from where I sat.
 
-Stone cleaned enough that old repairs looked intentional.
+Mountain dark.
 
-Public viewing gallery.
+Not night.
 
-Glass pressure indicators large enough for citizens to admire systems they did not understand.
+I had no idea how long I had been talking.
 
-A plaque listed the engineers who designed the last modernization.
+Long enough that the food I brought had become a different category of object.
 
-No operators.
+“Ithar.”
 
-No maintenance crews.
+One black eye remained on me.
 
-No one who cleaned the grit traps.
+“The Line.”
 
-I noticed because I had become professionally annoying.
+The dragon exhaled.
 
-Nessa noticed first.
+Dragons do not sigh the way people do.
 
-“Where are the station hands?”
+People do not have enough lungs.
 
-She pointed at the plaque.
+Hot air moved across the cave in one long controlled push. Coins near his foreclaw shifted. A silver cup rolled three feet, struck a helmet, and stopped.
 
-“Probably downstairs.”
+I had learned enough by then to recognize irritation at scale.
 
-“No. Names.”
-
-There were none.
-
-Halden met us near the east entrance.
-
-Older.
-
-Thinner.
-
-Mustache finally giving up.
-
-“You made it.”
-
-“Barely. Pigeons.”
-
-He looked at Nessa.
-
-“Still married to him?”
-
-“For administrative convenience.”
-
-“Reasonable.”
-
-Traitors.
-
-Then we split.
-
-My workshop occupied a ministry building with ceilings high enough to suggest paperwork required airspace.
-
-Engineers from eleven regions.
-
-Two historians.
-
-One procurement officer.
-
-Three district administrators.
-
-Me.
-
-I looked underdressed.
-
-Good.
-
-The first presentation showed national Line investment over twenty years.
-
-Graphs.
-
-Maps.
-
-Capital upgrades.
-
-Major trunk repairs.
-
-New stations.
-
-Emergency reserves.
-
-Impressive numbers.
-
-Then regional maintenance appeared as one category.
-
-MAINTENANCE - LOCAL.
-
-One thin bar.
-
-I leaned toward Halden.
-
-“That bar contains half my adult life.”
-
-“Yes.”
-
-“Rude.”
-
-The presenter was not wrong.
-
-That was important.
-
-At national scale, hundreds of local repairs became aggregate spending.
-
-You could not put Mina's bakery on a kingdom budget slide.
-
-Probably.
-
-The problem was what aggregation hid when decisions followed it.
-
-A capital planner said, “Local maintenance demand has remained broadly stable.”
-
-I raised my hand.
-
-Halden closed his eyes.
-
-Coward.
-
-“Stable spending or stable need?”
-
-The planner looked at the chart.
-
-“Spending.”
-
-“Then say spending.”
-
-Silence.
-
-Not hostile.
-
-Professional recalibration.
-
-He nodded.
-
-“Fair.”
-
-Changed the wording in his notes.
-
-Good institution.
-
-Later he found me at lunch.
-
-“What distinction are you worried about?”
-
-Not defensive.
-
-Good.
-
-I explained deferred work.
-
-Local crews absorbing problems without formal capital requests.
-
-Temporary fixes becoming normal.
-
-Unreported operator labor.
-
-Shop networks repairing things cheaply enough that central budgets never saw the avoided replacement.
-
-He listened.
-
-Then said, “Can you quantify any of that?”
-
-There it was.
-
-The capital question.
-
-Not prove it exists.
-
-Make it legible at scale.
-
-“Some.”
-
-“Send me what you have.”
-
-I did not hate him.
-
-Progress.
-
-Nessa's conference produced a different version of the same problem.
-
-We met for dinner that night near the civic river.
-
-Better noodles than home.
-
-I admitted this once.
-
-Never again.
-
-“What did they hide?” I asked.
-
-Nessa looked up.
-
-“Who?”
-
-“Your conference.”
-
-She smiled.
-
-“Night workers.”
-
-“Of course.”
-
-“Reserve models assume residential demand peaks morning and evening.”
-
-“Mostly true.”
-
-“Capital residential.”
-
-“There it is.”
-
-In industrial districts, shift housing created different demand.
-
-In river districts, wash cycles followed market schedules.
-
-In cold inland towns, people preheated buildings earlier.
-
-National model was not wrong.
-
-It was average.
-
-Average becomes dangerous when applied as identity.
-
-Nessa had spent the day saying versions of that more politely.
-
-“Did they listen?”
-
-“Some.”
+“Yes,” Ithar said. “The Line continues to exist despite your biography.”
 
 “Good.”
 
-“One man asked if local exceptions were worth modeling.”
+“That was not reassurance.”
 
-“What did you say?”
+“Still useful.”
 
-“That depends whether you live inside one.”
+His claw moved once through the gold.
 
-I loved her.
+“You have repeated the consequence several times.”
 
-Professionally.
+“Because it keeps being consequential.”
 
-Also otherwise.
+“The ninth station fails. The eastern sink follows. Surface repair accelerates pressure movement into a lower system your keepers no longer understand. Millions of humans become inconveniently dead.”
 
-The capital gave us three evenings together.
+“Close enough.”
 
-Actual evenings.
+“I listened the first time.”
 
-No family errands.
+“Then help.”
 
-No shop drawer to fix.
+“No.”
 
-No East Four runner.
+Still no.
 
-Work still followed us in paper.
+Better informed no.
 
-We ignored it one night.
+I hated it more.
 
-Protected half-day upgraded temporarily.
+I pushed my good foot against the floor and started straightening the bad leg by hand.
 
-We walked.
+Ithar watched.
 
-Saw the royal square.
+Of course.
 
-Did not meet royalty.
+The knee unlocked with a small ugly shift.
 
-Excellent.
+I breathed through it.
 
-Visited a museum because Pellin had insisted.
+Then the dragon said, “Draw.”
 
-Half the exhibits were old infrastructure removed from context and labeled RITUAL OBJECT because historians enjoy confidence too.
+I looked up.
 
-Nessa pointed at a bronze fitting.
+“What?”
 
-“That is a valve seat.”
+“The human technique you keep calling Draw.”
 
-Museum label:
+“Yeah.”
 
-CEREMONIAL RING, FUNCTION UNKNOWN.
+“You learned it as an attack on maintained wards.”
 
-We laughed too loudly.
+“Mostly.”
 
-A guard asked us to leave that gallery.
+“You then used it to remove pressure from allies.”
 
-Worth it.
+“With permission eventually.”
 
-The next day I met a ministry maintenance director named Sol Ven.
+“Eventually.”
 
-He had started as a station mechanic.
+I ignored that.
 
-You could tell because he looked at every polished office valve with distrust.
-
-He showed me the central maintenance allocation process.
-
-Not glamorous.
-
-District submits request.
-
-Region ranks.
-
-Central office compares safety, service population, cost, and political commitments.
-
-Budget finite.
-
-Some work waits.
-
-Reasonable.
-
-Then I saw the visibility problem.
-
-A district with repeated failures had excellent evidence of need.
-
-A district whose crews prevented failures through ugly local repairs looked stable.
-
-Success reduced urgency.
-
-“Good maintenance punishes itself,” I said.
-
-Sol nodded.
+“You moved what you removed into your own Barrier work.”
 
 “Sometimes.”
 
-“What do you do?”
+“Then later between people.”
 
-“Try to measure condition, not only incidents.”
+I paused.
 
-“Try?”
+“We have not gotten there yet.”
 
-“Welcome to government.”
+“I am aware.”
 
-I liked him.
+That was annoying.
 
-He showed me inspection backlog data.
+Ithar lowered his head slightly.
 
-Not enough inspectors.
+Not toward me.
 
-Not enough consistent condition ratings.
+Toward the idea.
 
-Different standards by region.
+I could tell the difference now.
 
-Our archive suddenly looked relevant.
+“Humans still teach it as siphoning?”
 
-Not as answer.
+“Some schools call it that.”
 
-As one possible source of condition evidence.
+“You dislike the word.”
 
-Halden wanted to pilot it.
+“It sounds like stealing.”
 
-I objected to centralizing originals.
+“It was stealing.”
 
-He agreed immediately.
+“Originally.”
 
-Surprised me.
+“The technique does not contain morality because you changed employers.”
 
-“Copies,” he said. “Local authority retains source.”
+“Neither does a knife.”
 
-“Why so reasonable?”
+“Correct.”
 
-“I've been here three years. It is exhausting.”
+That shut me up for a second.
 
-Good.
+Ithar continued.
 
-We returned home after six days.
+“Your ward-breakers found a way to cross a maintained magical boundary and alter the direction of sustaining flow. They classified the useful result as removal.”
 
-The capital had not corrupted us.
+“Yeah.”
 
-Disappointing story.
+“You classified the useful result as movement.”
 
-It did something subtler.
+I looked at him.
 
-It showed me why peripheral work disappears when translated upward.
+That was closer than most people got in the first conversation.
 
-Not conspiracy.
+“Yes.”
 
-Compression.
+“Interesting.”
 
-Forty-three buildings become load zone.
+The word landed differently from a dragon.
 
-Six operators become staffing unit.
+Not praise.
 
-A bad valve becomes maintenance incident.
+Selection.
 
-A family becomes residential demand.
+He picked up a coin between two claws.
 
-Compression is necessary.
+Gold.
 
-You cannot govern a kingdom at the level of one kitchen drawer.
+Old.
 
-But every layer of compression creates things you can no longer see.
+Small enough in his grip to disappear if he closed it.
 
-The trick is building ways for detail to climb back up when it matters.
+“Barrier says this does not cross.”
 
-I spent the trip home thinking about that.
+“Approximately.”
 
-Nessa slept against the tram window.
+“Draw says it does.”
 
-I covered her with my coat.
+“Approximately.”
 
-Then opened a notebook.
+“And you spent decades becoming difficult because you noticed both statements concern the same question.”
 
-She woke enough to say, “Protected travel.”
+I thought about it.
 
-“It is not a half-day.”
+“That's rude.”
 
-“Close notebook.”
+“Is it inaccurate?”
 
-I closed it.
+“No.”
 
-Governance deferred.
+He set the coin down.
+
+Not dropped.
+
+Placed.
+
+“Humans are fond of schools named after visible outcomes. Shield. Flame. Restoration. Binding. You appear to have specialized in a grammatical problem.”
+
+I stared.
+
+“A what?”
+
+“What crosses. What does not. In which direction. Under whose load. At what cost.”
+
+The dragon's pupil narrowed slightly.
+
+“You began with a cheap boundary spell used to keep dust from soup and children from happening.”
+
+I pointed at him.
+
+“That is an unnecessarily broad description of Barrier.”
+
+“It is an accurate description of your use history.”
+
+“Fair.”
+
+“And then you paired it with a predatory transfer technique.”
+
+“Supportively.”
+
+“That word is doing ambitious work.”
+
+I laughed before I meant to.
+
+The cave gave some of it back.
+
+Then Ithar's eye moved from my face to my chest.
+
+Not my badge.
+
+Lower.
+
+I felt the change before I understood it.
+
+His attention had been on my story.
+
+Now it was on my body.
+
+Specifically the magic inside it.
+
+I stopped smiling.
+
+“What?”
+
+“Do it.”
+
+“Do what?”
+
+“Draw.”
+
+“From what?”
+
+His claw touched the gold coin again.
+
+For an instant the coin changed.
+
+No light.
+
+Nothing dramatic.
+
+It just became present in a way it had not been before.
+
+Pressure settled into it.
+
+Small.
+
+Contained.
+
+Enough that every support instinct I had left noticed.
+
+I looked at the coin.
+
+Then at Ithar.
+
+“You put magic in money.”
+
+“I put magic in metal.”
+
+“That's less funny.”
+
+“Greg.”
+
+Right.
+
+I shifted upright.
+
+My hand opened.
+
+Not all the way.
+
+Two fingers on the right still stopped early.
+
+The old habit wanted proximity.
+
+I reached toward the coin.
+
+Not touching.
+
+A foot away.
+
+Then I opened the path.
+
+Draw used to feel like making a hole in a thing that believed it was closed.
+
+That was how I learned it.
+
+Later it felt different.
+
+Less hole.
+
+More invitation with teeth.
+
+Now it hurt.
+
+Not badly.
+
+Badly would have been simpler.
+
+The path formed crooked.
+
+My right shoulder tightened.
+
+The pressure in the coin touched the edge of my channel and hesitated.
+
+I adjusted.
+
+Pulled.
+
+A thread crossed.
+
+Thin.
+
+Too thin for the effort.
+
+It entered me high in the forearm, climbed wrong, caught at the shoulder, then folded inward toward the reinforcement loops I had built there years later.
+
+I released immediately.
+
+The coin went ordinary again.
+
+My hand shook once.
+
+I closed it until the bad fingers stopped.
+
+Ithar said nothing.
+
+That was worse than commentary.
+
+“Well?”
+
+“Again.”
+
+“No.”
+
+His eye shifted to mine.
+
+“I know what it looks like when I irritate old damage.”
+
+“You know what pain feels like. Those are not identical statements.”
+
+“I've had practice.”
+
+“So have I.”
+
+I looked at the dragon.
+
+Very old.
+
+Very large.
+
+Almost certainly carrying damage I could not see because scales the size of tables make scars less conversational.
+
+Fair.
+
+Still no.
+
+I lowered my hand.
+
+Ithar did not insist.
+
+Instead he asked, “Could the man you have been describing do that better?”
+
+I looked at the coin.
+
+“Yes.”
+
+“How much?”
+
+“A lot.”
+
+“Human measurement remains inspiring.”
+
+“I could have pulled that amount without thinking about it.”
+
+“From a prepared object.”
+
+“Yes.”
+
+“From a person?”
+
+“Depends on the person.”
+
+“From several?”
+
+I looked at him.
+
+There it was.
+
+He already knew where the story was going.
+
+“Eventually.”
+
+Ithar's head rose a little.
+
+“And sent it elsewhere.”
+
+“Eventually.”
+
+“While maintaining boundaries.”
+
+“Eventually.”
+
+“While moving.”
+
+“Mostly.”
+
+“Without placing all transferred force through your own reservoir.”
+
+That took me longer.
+
+“Yes.”
+
+The pupil narrowed.
+
+Interesting again.
+
+Not impressed.
+
+Interested.
+
+I had met scholars who reacted that way.
+
+Usually right before ruining a month of my life with questions.
+
+Ithar looked at my chest again.
+
+Then shoulder.
+
+Then leg.
+
+His gaze moved slowly enough that I felt inspected in pieces.
+
+Finally he said, “That is not what you are built to do now.”
+
+The sentence stayed between us.
+
+I looked down at myself.
+
+Coat.
+
+Badge.
+
+Old hand.
+
+Bad leg.
+
+None of those were what he meant.
+
+“No.”
+
+“Your channels turn inward.”
+
+“Mostly.”
+
+“Not mostly.”
+
+I looked back up.
+
+Ithar's claw moved toward me and stopped several feet away.
+
+Still too close.
+
+He traced nothing in the air.
+
+“Here. Here. Across the shoulder. Down the trunk. Into the left side. Repeated returns. Reinforcement loops. Anchoring habits. Several paths terminate rather than release outward.”
+
+He paused.
+
+“Some because they are damaged.”
+
+Another pause.
+
+“Some because you trained them that way.”
+
+I did not answer.
+
+He had found the distinction too quickly.
+
+The cave was suddenly warmer than necessary.
+
+Ithar looked at me for a long time.
+
+Then the dragon gave another slow exhale.
+
+Coins moved.
+
+The cup hit the helmet again.
+
+Apparently it had a difficult evening too.
+
+“You have spent a very long time describing a man who became increasingly good at opening himself toward other people.”
+
+I said nothing.
+
+“You stand in front of me arranged to return force to yourself.”
+
+Still nothing.
+
+“The Line,” I said eventually.
+
+Ithar closed one eye.
+
+Not both.
+
+Somehow more insulting.
+
+“The Line will survive another question.”
+
+“You don't know that.”
+
+“I know more about the Line than you do.”
+
+I hated that possibility because it was probably true.
+
+His eye opened again.
+
+“How did we get from that man to this one?”
+
+There were several answers.
+
+Most were long.
+
+Some were dead.
+
+One had my last name.
+
+I rubbed my bad hand against my knee.
+
+“Slowly.”
+
+Ithar waited.
+
+I had learned what that meant.
+
+I sighed because humans were allowed to.
+
+“Fine.”
+
+I looked at the coin he had prepared for me.
+
+Then at the dragon.
+
+“But I'm skipping some years.”

@@ -1,359 +1,519 @@
 ## RECORD 068
 
-## THE IMPROVISER
+## THE UNINVITED
 
-The missing one hundred ninety silver became smaller when we stopped calling it one hundred ninety silver.
+Ithar stared at me.
 
-Not less expensive.
+Not because being put in a bag was unbelievable.
 
-Smaller.
+That would have been comforting.
 
-The grant had cut six things.
+He seemed to be deciding what kind of bag could contain me without killing me.
 
-Two mattered immediately.
-
-Bellwater access remained wet, cramped, and difficult to instrument safely.
-
-The archive clerk disappeared after year one.
-
-The rest could wait better.
-
-That was the first useful distinction.
-
-I had spent two weeks looking at the whole shortfall and feeling offended by arithmetic.
-
-Nessa asked, “What breaks if you do nothing?”
-
-“Nothing immediately.”
-
-“Then what gets worse?”
-
-Better.
-
-Bellwater inspections stayed slow and hazardous.
-
-Archive backlog grew until records arrived faster than Minae could index them.
-
-Two delayed stations remained delayed.
-
-No apocalypse.
-
-Specific degradation.
-
-We chose Bellwater first because physical access limited evidence gathering and because the archive could be scaled temporarily instead of structurally rebuilt.
-
-Cost to complete Bellwater properly: forty-seven silver.
-
-Much less frightening than one hundred ninety.
-
-Still money.
-
-Bellwater district could contribute twelve.
-
-Our home district offered six because shared sleeve behavior made Bellwater data regionally useful.
-
-Hillcross offered no money but loaned two portable gauges for six months.
-
-Useful.
-
-Hema said she could fabricate ventilation brackets below quoted supplier cost if we accepted a slower schedule.
-
-Jori knew a used extraction fan from a closed dye plant.
-
-“Safe?”
+“Expanded carrier?”
 
 “Yes.”
 
-“Efficient?”
+“Pressure-balanced?”
+
+“Yes.”
+
+“Living transit rated?”
+
+I looked at him.
+
+“You know the model?”
 
 “No.”
 
-“Price?”
+“Then how did you get there?”
 
-“Beautiful.”
+“Because otherwise the story ends with you as a corpse in luggage.”
 
-Good.
+Fair.
 
-The regional maintenance guild offered labor hours from its training program if the work could count toward confined-access certification.
+Ithar settled again.
 
-That one worried me.
+“Start before the bag.”
 
-Cheap trainee labor can become exploitation wearing education clothes.
+“The Line?”
 
-We set terms.
+His eye narrowed.
 
-Trainees paid normal training wage.
+“Different Line.”
 
-Guild covered part.
+“Still counts.”
 
-Project covered part.
+“No.”
 
-Qualified supervisor required.
+I gave up.
 
-No critical task assigned solely for cost reduction.
+“The salt flats north of Vey had been wrong for years.”
 
-Lorn read the terms.
+That was the simplest version.
 
-“Who are you and what happened to the man who charged Mina three silver?”
+Not visibly wrong.
 
-“He learned overhead.”
+Salt still formed.
 
-“Tragic.”
+Caravans still crossed the southern routes.
 
-The final gap was eleven silver.
+People still built sheds where they should not and then complained when weather remembered geography.
 
-Esset & Vale could cover it.
+The problem was deeper.
 
-I wanted to.
+Pressure readings under the northern shelf had begun disagreeing with surface behavior.
 
-Lorn said no.
+Old survey marks showed load moving where no maintained human system should have been able to move it.
+
+A sink opened once and closed again without taking the road above it.
+
+That was unusual enough to attract specialists.
+
+Then two expedition crews found old work below the salt.
+
+Not modern Line construction.
+
+Older.
+
+Much older.
+
+Neither went deep enough to explain it.
+
+The second crew lost three instruments to pressure distortion and one man to a fall that had nothing magical about it.
+
+Magic does not deserve credit for every bad staircase.
+
+By then the Authority cared.
+
+“So did you,” Ithar said.
+
+“Yes.”
 
 “Why?”
 
-“Because then every district learns Greg pays when government doesn't.”
+“Because the reports described load moving across boundaries nobody could see.”
 
-“Not every district.”
+“Of course.”
 
-“Enough.”
+I ignored that.
 
-He was right.
+“The measurements were ugly. Reserve bleeding into dead structures. Stabilization that happened without obvious source. Pressure moving laterally, then down. Some chambers held when they should have failed. Others failed without carrying much visible load.”
 
-Private generosity creates public pricing expectations quickly.
+“Your kind of problem.”
 
-We needed another source.
+“Yes.”
 
-Bellwater merchants depended on the pump court.
+“Was Nhal known to be there?”
 
-Not all directly.
+“No.”
 
-The fish market did.
+That mattered.
 
-Two washhouses.
+Nobody assembled an expedition to find Nhal.
 
-Three grain stores.
+Nobody knew a Nhal was involved.
 
-A cold room.
+If they had, the roster would have looked different.
 
-We asked the merchant association for eleven.
+Or the expedition would never have happened.
 
-They offered five.
+Ithar absorbed that quietly.
 
-Then asked for naming rights on the ventilation improvement.
+“Who went?”
 
-I thought they were joking.
+“Three of the Seven.”
 
-They were not.
+His pupil narrowed.
 
-“What would you name it?”
+“Names.”
 
-“Bellwater Trade Safety Ventilation.”
+“Arcrutus Dray.”
 
-“It is a fan.”
+No reaction.
 
-“Public recognition matters.”
+“Mael Dorn.”
 
-I looked at Nessa.
+That got a tiny shift.
 
-She looked away because laughing during negotiation was apparently unprofessional.
+“You know him?”
 
-We accepted five without naming rights.
+“I knew of him.”
 
-They accepted because their alternative was zero recognition and wet inspectors.
+Past tense.
 
-Six remained.
+I noticed.
 
-Mara Seln, our shop landlord, heard about it from Hema.
+I did not ask yet.
 
-Information moved through yards faster than ministries.
+“Pava Kett.”
 
-She offered six as a loan to Bellwater district.
+The dragon made a low sound.
 
-Interest one silver over eighteen months.
+“Newer.”
 
-Why?
+“At the time, yes.”
 
-Her brother operated a grain shop there.
+“So Dray and Dorn were the old pair.”
 
-Of course.
+“Very.”
 
-Causal paths everywhere.
+I had called Arcrutus old exactly once where he could hear me.
 
-Bellwater accepted.
+He made me carry a stone uphill for reasons that remained scientifically unverified.
 
-Project funded.
+“Three recognized S-class humans,” Ithar said. “For an unknown buried system.”
 
-No miracle.
+“Yes.”
 
-No donor gala.
+“That is not routine investigation.”
 
-No heroic check.
+“No.”
 
-Twelve district.
+“The Authority expected something capable of killing lesser crews.”
 
-Six neighbor district.
+“Yes.”
 
-Loaned instruments.
+“And still denied you.”
 
-Reduced fabrication cost.
+I looked at him.
 
-Paid training labor.
+“I was A.”
 
-Five merchants.
+“You say that as though A-class humans are commonly considered disposable.”
 
-Six private loan.
+“They aren’t.”
 
-Forty-seven total value once in-kind contributions were priced honestly.
+“Then why?”
 
-That last part mattered.
+Because institutions can be rational without making you happy.
 
-Free-looking labor is still cost carried by someone.
+I had learned that eventually.
 
-We wrote all of it down.
+“The expedition was already overpowered by normal standards. Three S. Two technical specialists. One deep-route surveyor. One healer who had done pressure inversion work. Limited load. Limited evacuation. Nobody wanted another body just because the body had an interesting theory.”
 
-Construction took seven weeks.
+“Your specialty matched the anomaly.”
 
-Not smooth.
+“I mentioned that.”
 
-Used fan needed new bearings.
+“How many times?”
 
-Vent route hit an old beam.
+“Professionally?”
 
-One trainee failed confined-space assessment and had to be reassigned without punishment.
+Ithar waited.
 
-Hema's slower fabrication became two days slower than planned.
+“Four.”
 
-Bellwater complained.
+“Unprofessionally?”
 
-Hema told them they were receiving cheap and should not also demand fast.
+“More.”
 
-Economic education.
+His nostril moved.
 
-The final access was ugly.
+I was sure now.
 
-New steel stair.
+That was laughter.
 
-Guardrail.
+Tiny dragon laughter.
 
-Vent duct routed around old stone because nobody wanted to cut the chamber wall.
+Still enough to annoy me.
 
-Lighting.
+“The review board said the same thing my B evaluators used to say, only at a higher level. My value depended on having a system to read. Unknown deep infrastructure did not guarantee there would be anything safe to link or redistribute. The three S already carried enormous independent capability. Every extra person increased supply, evacuation, and protection burden.”
 
-Drain pump separate from the unknown legacy sleeve.
+Ithar nodded once.
 
-Instrument shelf above flood line.
+That was unsettling.
 
-No monument.
+“Correct.”
 
-Inspectors could enter without wading.
+“I know.”
 
-Good.
+“You sound disappointed.”
 
-The project attracted attention after completion.
+“I was forty-eight and better at losing arguments than thirty-five-year-old me.”
 
-Regional office asked whether the coalition model could be formalized for other grant gaps.
+“Not the same as liking it.”
 
-I said no.
+“No.”
 
-Too fast.
+I had applied anyway.
 
-Dera asked why.
+Submitted field history.
 
-“Because half of this worked because specific people had specific reasons.”
+North Mason.
 
-“That's how institutions start.”
+Red Basin.
 
-“Yes. Also how bad templates start.”
+Linked support reports.
 
-Mara's loan worked because she knew Bellwater.
+Two A-class operations where I had redistributed load across four people without injury.
 
-Merchant contribution worked because local businesses benefited.
+One disaster response where an unstable tower stayed standing because we let three cheaper structures fail in the correct order.
 
-Training labor worked because the tasks actually matched certification needs.
+The board read all of it.
 
-Hema discounted fabrication because schedule allowed it.
+Still no.
 
-Turn that into a standard formula and somebody would eventually force a poor district to find merchants, trainees, and private lenders before receiving basic safety work.
+Not insult.
 
-No.
+Risk decision.
 
-We documented mechanisms.
+Reasonable.
 
-Not required recipe.
+I hated reasonable decisions when they excluded me.
 
-Possible sources.
+“What did Arcrutus think?” Ithar asked.
 
-Conditions.
+“He did not participate in the review.”
 
-Risks.
+“That was not my question.”
 
-Use when fit.
+“He thought I should go.”
 
-Do not substitute coalition funding for statutory maintenance obligation.
+“Why?”
 
-That sentence was mine.
+I smiled.
 
-Long.
+“Arcrutus did not explain himself enough to be useful.”
 
-Important.
+“Yet you learned from him.”
 
-Halden wrote from the capital:
+“Mostly by surviving questions he expressed physically.”
 
-YOU HAVE BECOME POLITICAL.
+Ithar looked at my leg.
 
-I replied:
+“Not that one.”
 
-I BUILT A STAIR.
+“Good.”
 
-He sent:
+“He’d seen my work. Not just the reports. He understood the anomaly was about load before the survey people had language for it.”
 
-SAME THING EVENTUALLY.
+“Because he was S-class.”
 
-Annoying man.
+“Because he was Arcrutus.”
 
-The archive problem remained.
+The dragon accepted that distinction more easily than most humans did.
 
-We solved it differently.
+Then he asked, “What was the one-bag rule?”
 
-Not permanent clerk.
+I blinked.
 
-Regional offices each committed one half-day monthly from existing records staff to process local submissions before sending copies.
+“How do you know there was one?”
 
-Minae trained them.
+“You said his choice cost him.”
 
-Quality varied.
+I had not.
 
-Better than one underfunded central pile.
+Not yet.
 
-The archive became distributed because money forced it.
+I looked at the dragon for a while.
 
-Accidentally useful.
+He looked back.
 
-One office eventually became better at indexing than ours.
+Right.
 
-I was offended.
+Ancient creature.
 
-Then copied their method.
+Annoyingly competent inference.
 
-Growth.
+“The deep route could not support a normal supply train. Past the northern staging shelf, every person carried one sealed expedition carrier and whatever was on their body.”
 
-The grant shortfall did not disappear.
+“Expanded space.”
 
-Two stations still waited.
+“Modest expansion. Not warehouse nonsense.”
 
-Some ventilation remained temporary.
+“Pressure isolation.”
 
-Instrumentation pool required scheduling fights.
+“Yes.”
 
-The central money had been insufficient for the original design.
+“Load equalization.”
 
-The local coalition had been insufficient to replace central money generally.
+“Yes.”
 
-Both things were true.
+“External dimensions fixed for narrow passages.”
 
-Improvisation is attractive because it produces movement where formal systems stop.
+“Yes.”
 
-It is dangerous when movement becomes proof the formal system was unnecessary.
+“Expensive.”
 
-We built Bellwater because the pieces happened to fit.
+“Extremely.”
 
-Then we went back to asking the ministry for the rest.
+“Good.”
+
+There was that word again.
+
+The bags were beautiful in the way very expensive equipment often is after enough engineers have been yelled at.
+
+Reinforced shell.
+
+Pressure-stable seams.
+
+Internal anchor loops.
+
+Moisture control.
+
+Emergency breathing membrane for collapsed tunnels.
+
+Enough spatial expansion to carry food, water, tools, shelter, and specialized equipment without turning every person into a cart.
+
+One per person.
+
+No exceptions.
+
+The rule existed because if someone could not move their own carrier through the route, the expedition had already failed its evacuation test.
+
+Arcrutus had the same allowance as everyone else.
+
+“He used it on you,” Ithar said.
+
+“Most of it.”
+
+That was the part people miss when the story becomes funny.
+
+Arcrutus did not put me in a sack and stroll north with all his normal gear somewhere else.
+
+He chose me instead of equipment.
+
+He kept food.
+
+Water.
+
+A weapon kit.
+
+Basic shelter.
+
+The minimum he considered survivable.
+
+Everything else he gave up to make room for a forty-eight-year-old support specialist who had been told no.
+
+I did not know that when he hit me.
+
+Ithar's eye narrowed.
+
+“He struck you unconscious.”
+
+“Yes.”
+
+“Safely.”
+
+“I object to the category.”
+
+“You survived.”
+
+“That is a low standard.”
+
+“For unconsciousness caused by Arcrutus Dray, perhaps not.”
+
+I stared at him.
+
+“You did know him.”
+
+“I said I knew of Mael Dorn.”
+
+“That is not a denial.”
+
+“It is not an answer either.”
+
+Dragon.
+
+Fine.
+
+I continued.
+
+Arcrutus had asked me to meet him two days before departure.
+
+Not at expedition staging.
+
+At a warehouse near the north road.
+
+That should have warned me.
+
+Instead I assumed he wanted another argument.
+
+I had prepared one.
+
+Charts.
+
+Two field reports.
+
+A handwritten comparison of old load behavior across three unrelated sites.
+
+Arcrutus looked at none of it.
+
+He asked one question.
+
+“You still want north?”
+
+“Yes.”
+
+Then he hit me.
+
+Ithar's claw stopped moving.
+
+“With what?”
+
+“Hand.”
+
+“Where?”
+
+“Side of the neck.”
+
+“Duration?”
+
+“I do not know. I was unconscious.”
+
+“How disappointing.”
+
+“When I woke up, I was in the bag.”
+
+There.
+
+That was the point where the story stopped being a summary.
+
+Even now I remembered the smell first.
+
+Canvas.
+
+Oil.
+
+Dried meat.
+
+Expensive ward lacquer.
+
+Arcrutus's spare socks.
+
+Ithar watched my face change.
+
+The cave receded a little.
+
+Not gone.
+
+Memory simply became louder.
+
+“You were already past the staging inspection,” Ithar said.
+
+“Yes.”
+
+“Public reveal impossible without forcing the expedition to decide whether to turn back.”
+
+“Yes.”
+
+“Manipulative.”
+
+“Very.”
+
+“Effective.”
+
+“Unfortunately.”
+
+“And you stayed.”
+
+I looked at him.
+
+“Wouldn’t you?”
+
+The dragon considered that longer than expected.
+
+Then one nostril moved.
+
+“Continue.”

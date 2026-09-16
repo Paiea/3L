@@ -1,457 +1,847 @@
 ## RECORD 069
 
-## THE COMPROMISER
+## THE BAG
 
-The first repair plan I approved while knowing it left a dangerous thing in place was forty-one pages long.
+I woke up with Arcrutus's sock against my face.
 
-The dangerous thing fit in one sentence.
+Not wearing it.
 
-RIVER FOUR WEST SUPPORT REMAINS IN SERVICE UNDER MONITORING.
+That would have been easier to understand.
 
-I hated that sentence.
+The sock was clean.
 
-It was still the plan I signed.
+Probably.
 
-The regional access program had done what access programs do.
+It smelled like soap and leather oil instead of feet.
 
-It found problems.
+Still his.
 
-This surprised finance less than it surprised everyone else.
+I opened my eyes.
 
-Once crews could safely enter old galleries, we discovered four structural conditions needing work before winter.
+Dark.
 
-Market Seven: cracked modern lintel above legacy chamber access.
+Close dark.
 
-Hillcross: corroded support frame beside a public pump branch.
+Fabric six inches from my nose.
 
-North Cut: drainage failure undermining one monitoring platform.
+My left shoulder was pinned against something hard.
 
-River Four: west support showing seasonal movement beneath a mixed residential and workshop branch.
+My right knee had gone numb.
 
-None immediate collapse.
+My mouth tasted like old copper.
 
-All real.
+For three excellent seconds I had no idea where I was.
 
-Available repair budget covered roughly three.
+Then my neck hurt.
 
-Not four.
+Arcrutus.
+
+Warehouse.
+
+Hand.
+
+Bag.
+
+I said several things that did not improve the situation.
+
+The carrier absorbed most of the sound.
+
+Of course it did.
+
+Premium expedition equipment did not let every dropped tool, argument, or terrified animal transmit through pressure-isolated fabric.
+
+Apparently that included me.
+
+I pushed against the wall.
+
+It gave half an inch.
+
+Expanded interior.
+
+Reinforced shell.
+
+The bag was bigger inside than outside, but not enough to make forty-eight-year-old knees grateful.
+
+Arcrutus had packed around me.
+
+Efficiently.
+
+Very Arcrutus.
+
+Water bladder behind my back.
+
+Food packets at my feet.
+
+Rolled shelter cloth along one side.
+
+Weapon maintenance kit near my hip.
+
+Two coils of line.
+
+Spare layers.
+
+My satchel.
+
+Notebook inside.
+
+Good.
+
+His socks.
+
+Less good.
+
+I found the emergency breathing membrane above my head by touch.
+
+Active.
+
+Air moved slowly through it.
+
+I was not suffocating.
+
+Thoughtful kidnapping.
+
+I hated him more.
+
+I tried to sit.
+
+Failed.
+
+The bag had enough room for a person only if the person cooperated with geometry.
+
+I was not feeling cooperative.
+
+I found the inner release.
+
+Locked from outside.
 
 Of course.
 
-We could split money across all four and perform weaker temporary work everywhere.
+“Arcrutus.”
 
-Tova opposed.
+Nothing.
 
-“Then we buy four kinds of delay.”
+I kicked once.
 
-She was right.
+Pain shot up my cramped leg.
 
-We could fully repair two and heavily stabilize two.
+Bad plan.
 
-Better.
+I kicked again because anger is educational slowly.
 
-Still not enough.
+The bag moved.
 
-Or complete three and leave one under monitoring until next cycle.
+Not from me.
 
-Nobody wanted to choose the one.
+Someone carrying it shifted.
 
-Therefore committee.
+Then a voice came through the shell.
 
-Dera chaired.
+“Awake.”
 
-Halden attended by correspondence because capital had stolen his body.
+Arcrutus.
 
-Tova represented structure.
+I pressed my forehead into the fabric.
 
-Nessa represented service coordination.
+“You hit me.”
 
-I represented field review.
+“Yes.”
 
-Finance sent a man named Eren Pol who wore excellent boots and understood more engineering than I expected.
+“You put me in luggage.”
 
-Unfair stereotype corrected.
+“Yes.”
 
-River Four sent its station forewoman, Dal Venn.
+“Open it.”
 
-Dal was forty-something, practical, and immediately aware her site was the likely loser.
+“No.”
 
-Not because we said so.
+I breathed.
 
-Because everyone knew the numbers.
+Counted.
 
-Market Seven lintel movement accelerated under summer heat.
+Failed to improve.
 
-Hillcross support had visible section loss near minimum allowed thickness.
+“Where are we?”
 
-North Cut drainage was actively carrying foundation material after storms.
+“North.”
 
-River Four moved two millimeters seasonally and returned close to baseline.
+“Specific.”
 
-Known risk.
-
-Lower apparent urgency.
-
-Also poorer district.
+“Past inspection.”
 
 There it was.
 
-Dal put the issue on the table before anyone could pretend not to see it.
+I stopped moving.
 
-“You're going to leave ours.”
+“How far?”
 
-Dera said, “We haven't decided.”
+“Enough.”
 
-“Yes, you have. You just haven't signed it.”
+Arcrutus believed distance came in two units.
 
-No one answered.
+Here.
 
-Because she was probably right.
+Enough.
 
-I hated meetings where honesty arrived before procedure.
+I looked around the dark interior as though it might produce legal counsel.
 
-Eren showed costs.
+Nothing.
 
-Market Seven thirty-eight.
+“How long was I out?”
 
-Hillcross forty-four.
+“Five hours.”
 
-North Cut twenty-nine.
+That was longer than I liked.
 
-River Four thirty-three.
-
-Budget one hundred seventeen.
-
-Exactly enough for first three plus small contingency.
-
-Not enough for River.
-
-That looked suspiciously convenient.
-
-It was not.
-
-Numbers sometimes form stories without intent.
-
-Dal pointed at the service map.
-
-“River Four serves nine apartment blocks.”
-
-Nessa said, “And six workshops.”
-
-“Twenty-three hundred residents.”
+“Did you check me?”
 
 “Yes.”
 
-“North Cut serves fewer.”
+“Before or after putting me in the bag?”
 
 “Yes.”
 
-“Then why them?”
+I hated him with professional intensity.
 
-Tova answered.
+The carrier shifted again.
 
-“Active soil loss.”
+Footsteps.
 
-“River support moves.”
+Crunch beneath them.
 
-“Seasonally. Returns within monitoring band.”
+Salt.
 
-“Until it doesn't.”
+I could hear it faintly through the shell now that I knew what I was listening for.
 
-Tova nodded.
+Not road gravel.
+
+Dry granular scrape.
+
+We were already on the northern shelf.
+
+“Open the bag.”
+
+“When camp.”
+
+“I can walk.”
 
 “Yes.”
 
-No dismissal.
+“Then why am I still in here?”
 
-Good.
+“Because Mael has not seen you yet.”
 
-Dal looked at me.
-
-“You signed East Two restricted operation years ago because service mattered.”
-
-I remembered.
-
-Tova's dissent.
-
-Sena's chalk mark.
-
-Market cold.
-
-“Yeah.”
-
-“So service matters when your district is cold and structure matters when ours asks for repair?”
-
-There are accusations that are unfair and still identify a real risk in your thinking.
-
-I did not answer fast.
-
-Good.
-
-Nessa watched me.
-
-Memory.
-
-Current evidence.
-
-Inference.
-
-Current evidence: River Four lower measured structural urgency.
-
-Also current evidence: residents had less political leverage and lower reserve capacity during outages than Market Seven.
-
-Inference: lower technical urgency could still become higher social harm if failure occurred.
-
-Both.
-
-“We need to price consequence better,” I said.
-
-Eren looked interested.
-
-Dal looked unimpressed.
-
-“Price.”
-
-“Not money only.”
-
-“Then use another word.”
+I closed my eyes.
 
 Fair.
 
-We added consequence.
+Not enough to forgive him.
 
-Not as afterthought.
+Mael Dorn had led S-class operations before I learned Barrier for sex.
 
-Service redundancy.
+People told stories about him badly because most people who saw him work were too far away to understand what happened.
 
-Alternate heat.
+The useful reports were less dramatic.
 
-Evacuation access.
+He was old for active field work.
 
-Building condition.
+Not elderly.
 
-Household income proxy, which I disliked but finance had data.
+Old in the way a bridge was old after surviving wars, floods, repairs, and three governments.
 
-Critical services.
+Still carrying load.
 
-Repair response time.
+Still inspected carefully.
 
-River Four scored worse on consequence than North Cut.
+He had chaired the expedition roster review.
 
-That narrowed the gap.
+He had personally signed the denial beneath my name.
 
-Still did not reverse structural urgency.
+Arcrutus had apparently decided surprise would improve the appeal process.
 
-North Cut active soil loss could become rapid.
+“How angry?” I asked.
 
-River Four had months of stable monitored movement.
+“Unknown.”
 
-Tova said, “If I am forced to pick one to wait, River still waits.”
-
-Dal looked at me.
-
-“And you?”
-
-I wanted to say no.
-
-Wanted to protect fairness with disagreement.
-
-The evidence did not support me strongly enough.
-
-“River waits.”
-
-Her face closed.
-
-There it was.
-
-Cost of being the person in the room who had asked for consequence and still reached the same ugly answer.
-
-“But not unchanged,” I said.
-
-Dal folded her arms.
-
-“Meaning?”
-
-“Monitoring upgraded now. Twice weekly during stable weather. Daily after heavy rain or cold snap. Immediate service reduction threshold lowered.”
-
-“Paid by?”
-
-“Program.”
-
-Eren opened his mouth.
-
-I looked at him.
-
-He closed it.
-
-Good boots.
-
-“Alternate heat plan for apartments before winter,” Nessa added.
-
-“District has no spare boilers,” Dal said.
-
-“Regional pool does.”
-
-“Market gets them first.”
-
-Nessa's face changed.
-
-She knew.
-
-“Then reserve allocation changes.”
-
-That became another fight.
-
-Useful.
-
-We also wrote a hard funding priority.
-
-River Four first structural repair in next cycle unless monitoring changed enough to trigger immediate work.
-
-Not recommendation.
-
-Queue position.
-
-Finance resisted binding future allocation.
-
-Dera compromised language until it held enough.
-
-PRIORITY ONE DEFERRED CONDITION.
-
-Not perfect.
-
-Documented.
-
-Dal read the final plan.
-
-“You want me to tell residents they're safe?”
-
-“No,” I said.
-
-“Good.”
-
-“Tell them what we know.”
-
-She looked at me.
-
-“What do we know?”
-
-I answered carefully.
-
-“The support moves under seasonal condition. Movement has remained within observed return range. We believe immediate failure risk is lower than three other conditions being repaired now. We are increasing monitoring and lowering shutdown threshold because consequence is high. Repair is deferred, not canceled.”
-
-Dal nodded slowly.
-
-“That is worse public language.”
+“You planned this.”
 
 “Yes.”
 
-“Better truth.”
+“You did not plan that?”
+
+“No.”
+
+Somehow worse.
+
+I spent another hour in the carrier.
+
+Maybe less.
+
+Time inside expensive luggage develops opinions.
+
+I ate one of Arcrutus's dried meat packets because kidnapping had consequences.
+
+Then another because I was hungry.
+
+The water was cold.
+
+Good bag.
+
+Terrible owner.
+
+Eventually the movement stopped.
+
+Voices outside.
+
+Several.
+
+The carrier lowered carefully.
+
+Not dropped.
+
+I appreciated this privately.
+
+A clasp released.
+
+Light entered around the seam.
+
+White.
+
+Painfully white.
+
+The bag opened.
+
+Cold air hit my face.
+
+Arcrutus looked down at me.
+
+He wore salt goggles pushed onto his forehead and exactly the expression of a man unpacking equipment he expected to find intact.
+
+I pointed at him from the floor of the bag.
+
+“You.”
 
 “Yes.”
 
-She signed acknowledgment.
+My leg did not work when I tried to stand.
 
-Not approval.
+Arcrutus reached in.
 
-Important distinction.
+I slapped his hand away.
 
-The three repairs proceeded.
+Then accepted the second hand because principles have knees.
 
-Market Seven lintel turned out worse than scans suggested.
+I emerged badly.
 
-Good choice.
+The northern salt flats spread in every direction.
 
-Hillcross frame cracked during removal.
+White crust.
 
-Good choice.
+Gray ridges in the distance.
 
-North Cut excavation revealed twice the expected soil loss.
+Wind carrying needles of salt low across the ground.
 
-Very good choice.
+The sun had already dropped behind the western shelf, leaving the surface bright enough to hurt anyway.
 
-Evidence afterward made the decision look obvious.
+Camp occupied a shallow cut protected by black screens anchored into the crust.
 
-It had not been obvious before.
+Seven people stood around it.
 
-That distinction matters because hindsight turns triage into morality play.
-
-River Four stayed stable that winter.
-
-Also good.
-
-Monitoring showed one three-millimeter movement after a cold snap.
-
-Below new shutdown threshold by half a millimeter.
-
-Dal reduced service anyway for four hours because the vibration pattern changed.
-
-Her call.
-
-Not required.
-
-We reviewed.
-
-She had been right to be conservative.
-
-No damage.
-
-Residents complained about heat loss.
-
-Understandably.
-
-River Four received structural repair the next spring.
-
-Not from miracle money.
-
-Next budget cycle.
-
-Thirty-five silver after material prices rose.
-
-The support came out in one piece.
-
-Tova inspected it.
-
-“Could have lasted five years.”
-
-Dal said, “Could have failed next winter.”
-
-Tova nodded.
-
-“Yes.”
-
-No one got certainty afterward either.
+Every one of them was staring at me.
 
 Good.
 
-I kept the deferred-condition page in the archive.
+Public humiliation complete.
 
-Not because the compromise worked.
+Mael Dorn was easiest to identify.
 
-Because it remained ugly even after working.
+Not because he looked impressive.
 
-There is a temptation to judge decisions only by outcomes.
+Because everyone else had unconsciously left space around him.
 
-River Four did not fail, therefore correct.
+Tall.
 
-Wrong.
+Broad without being enormous.
 
-We accepted risk because resources were finite and evidence ranked other risks higher.
+Hair almost entirely white.
 
-Then we tried to prevent that acceptance from becoming invisible.
+Dark field coat with no decoration except an Authority mark worn smooth at the edge.
 
-Monitoring.
+He looked at me.
 
-Contingency.
+Then the bag.
 
-Priority.
+Then Arcrutus.
 
-Public language.
+“Explain.”
 
-Named responsibility.
+Arcrutus said, “Greg.”
 
-That was compromise at its best.
+Mael's eyes closed.
 
-Not making everyone happy.
+Pava Kett laughed once.
 
-Making the thing you refused to fix impossible to forget.
+That was my introduction to the newest of the Seven.
+
+She was younger than the stories made S-class people feel.
+
+Late thirties maybe.
+
+Short hair.
+
+Heavy gloves clipped at the belt.
+
+Two narrow metal rods strapped along her back instead of a conventional weapon.
+
+She looked at me with the delighted expression of someone whose expedition had just become another person's disciplinary hearing.
+
+Mael opened his eyes.
+
+“I know who he is.”
+
+Arcrutus nodded.
+
+Good conversation.
+
+The expedition healer came toward me.
+
+I knew enough to hold still.
+
+She checked my pupils.
+
+Neck.
+
+Balance.
+
+Asked the date.
+
+I answered.
+
+Asked where I was.
+
+“Inside a bad decision.”
+
+“Geographically.”
+
+“Northern shelf.”
+
+“Good.”
+
+She looked at Arcrutus.
+
+“How did you put him out?”
+
+“Hand.”
+
+“Of course.”
+
+She finished checking me.
+
+“No obvious injury beyond bruising. Headache?”
+
+“Yes.”
+
+“Nausea?”
+
+“No.”
+
+“Vision?”
+
+“Normal.”
+
+“Memory gap?”
+
+“Five hours according to the criminal.”
+
+Pava laughed again.
+
+Mael did not.
+
+He looked at me instead.
+
+“Did you consent to this?”
+
+“No.”
+
+Arcrutus said nothing.
+
+Good.
+
+Mael's jaw moved once.
+
+“Then we have two problems.”
+
+“Only two?” I asked.
+
+“Do not help.”
+
+I stopped helping.
+
+He turned to Arcrutus.
+
+“You violated roster authority.”
+
+“Yes.”
+
+“You brought an unmanifested person through a restricted staging line.”
+
+“Yes.”
+
+“You used a living-rated carrier to conceal him.”
+
+“Yes.”
+
+“You assaulted an A-class Authority member.”
+
+Arcrutus looked at me.
+
+“Friend.”
+
+“That is not a legal defense,” I said.
+
+“Noted.”
+
+Mael stared at both of us.
+
+I had seen administrators angry.
+
+Contractors angry.
+
+Fighters angry.
+
+Mael's version was worse because nothing escaped.
+
+Every piece stayed available for later use.
+
+“Turnaround window closed forty minutes ago,” the route surveyor said quietly.
+
+Mael did not look away from Arcrutus.
+
+“I know.”
+
+There it was.
+
+The actual trap.
+
+The northern shelf crossing was safe only inside a pressure lull tied to the salt basin's daily thermal shift.
+
+Not impossible outside it.
+
+Just stupid.
+
+We had passed the last stable return window.
+
+Sending me back alone was not an option.
+
+Sending two people with me weakened the expedition and exposed three people to a crossing no longer inside planned conditions.
+
+Turning everyone back wasted the window and likely the season.
+
+Arcrutus had not merely smuggled me past a clerk.
+
+He had smuggled me past the point where undoing him became cheap.
+
+I understood immediately.
+
+That made me angrier.
+
+“You absolute bastard.”
+
+Arcrutus nodded.
+
+“Effective.”
+
+“Do not say that like it's a defense.”
+
+“It is explanation.”
+
+Mael looked at me.
+
+“Would you return if I ordered the expedition back?”
+
+That was not the question I wanted.
+
+I wanted him to ask whether I deserved to stay.
+
+I had answers for that.
+
+He asked whether I would accept everyone paying the cost of removing me.
+
+“No.”
+
+“Would you attempt the return alone?”
+
+“No.”
+
+Good.
+
+I was angry, not stupid.
+
+“Then you remain until the next safe route opportunity or the expedition turns for another reason.”
+
+Pava raised a hand.
+
+“Can we officially call him contraband?”
+
+“No,” Mael said.
+
+“Unofficially?”
+
+“No.”
+
+“Shame.”
+
+Mael returned his attention to me.
+
+“You are not on the primary operating roster.”
+
+“I assumed.”
+
+“You do not insert yourself into S-class action because you notice something interesting.”
+
+“I know how support works.”
+
+“Good. Demonstrate restraint.”
+
+That stung because it was fair.
+
+“You are insurance,” he continued. “If we lose a technical specialist, if someone is injured, if we need support beyond the planned model, you may become useful.”
+
+May.
+
+A-class support.
+
+Twenty-nine years of work.
+
+May become useful.
+
+I did not argue.
+
+That surprised younger me somewhere inside my head.
+
+Mael noticed.
+
+Maybe that helped.
+
+Then he turned to Arcrutus.
+
+“Inventory.”
+
+Arcrutus opened the carrier fully.
+
+That was when I understood the cost.
+
+The bag was not full.
+
+Not anymore.
+
+Because I had been most of the contents.
+
+One shelter roll.
+
+Food.
+
+Water.
+
+Weapon maintenance.
+
+Two spare layers.
+
+Line.
+
+Basic medical packet.
+
+My satchel.
+
+Almost nothing else.
+
+No secondary pressure anchor.
+
+No spare reinforcement plates.
+
+No field heat sink.
+
+No auxiliary water condenser.
+
+No deep-route tool kit beyond what he wore.
+
+No redundancy.
+
+Mael's expression changed by less than a finger width.
+
+“You left the second anchor.”
+
+“Yes.”
+
+“The condenser.”
+
+“Yes.”
+
+“The repair plates.”
+
+“Yes.”
+
+“For him.”
+
+“Yes.”
+
+I looked at Arcrutus.
+
+He did not look back.
+
+The story had always become funnier later.
+
+Arcrutus put Greg in a bag.
+
+People liked that part.
+
+The less funny part was that he had used most of his expedition allowance on me.
+
+An S-class fighter had chosen an A-class support specialist over redundancy meant to keep him alive underground.
+
+Not because he loved me.
+
+Not because he was reckless.
+
+Arcrutus was reckless in very specific ways and almost offensively practical in others.
+
+He thought I belonged there.
+
+Enough to pay for the opinion.
+
+I did not know what to do with that.
+
+So I got angry at the method instead.
+
+“You could have asked.”
+
+“No.”
+
+“You could have tried.”
+
+“You were denied.”
+
+“I meant me.”
+
+Arcrutus finally looked at me.
+
+“You would say yes.”
+
+“Probably.”
+
+“Then unnecessary.”
+
+Pava covered her mouth with one gloved hand.
+
+Mael looked toward the horizon as if checking whether another expedition was available.
+
+I rubbed my neck.
+
+“I hate you.”
+
+“Temporary.”
+
+“Confident.”
+
+“Yes.”
+
+The argument ended because the wind changed.
+
+Everyone noticed except me.
+
+That bothered me.
+
+The route surveyor turned first.
+
+Mael next.
+
+Pava's hand went to one of the metal rods on her back.
+
+Arcrutus looked north.
+
+Nothing visible happened.
+
+Then I felt it.
+
+Pressure beneath the salt.
+
+Very deep.
+
+A slow movement that did not match the wind.
+
+Not stronger than things I had worked around before.
+
+Different.
+
+Wide.
+
+The whole basin seemed to take weight on one side.
+
+Then settle.
+
+Mael said, “Camp sealed in twelve.”
+
+Everyone moved.
+
+No discussion.
+
+No wasted confirmation.
+
+I stood in the middle of it holding my bruised neck and realized I had just become the least necessary person in a camp containing three of the most dangerous humans alive.
+
+Not helpless.
+
+Not a rookie.
+
+That distinction mattered.
+
+I knew exactly how good I was.
+
+Good enough to know what I was looking at.
+
+Pava checked six anchor points in the time I would have checked two.
+
+Mael lifted a loaded equipment frame one-handed because moving it was cheaper than reorganizing the tie-downs.
+
+Arcrutus drove a salt spike through crust hard enough to fracture three feet around it, then adjusted the angle by looking at the crack.
+
+The technical crew moved like people who had survived being near that kind of competence before.
+
+I found the only job not already done.
+
+Secondary wind screen.
+
+Normal Barrier.
+
+Cheap.
+
+Useful.
+
+I raised it along the east edge before blowing salt reached the cook area.
+
+Nobody praised me.
+
+Good.
+
+Pava looked once.
+
+Adjusted her own position because the screen changed airflow.
+
+That was all.
+
+The camp sealed.
+
+Pressure moved beneath us again.
+
+Deeper this time.
+
+I felt my old professional instincts wake up.
+
+Not excitement.
+
+Recognition.
+
+Something under the salt was carrying load.
+
+A lot of it.
+
+And the three S-class people around me were not the part I found most interesting.
