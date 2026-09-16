@@ -1,0 +1,86 @@
+name: Temporary Record 035 Prepare
+
+on:
+  push:
+    branches: [audio/record-035-production]
+    paths:
+      - .github/workflows/tmp-r035-prepare.yml
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-035-production
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build exact quote locks from reviewed quote positions
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          reviewed = [10,12,14,16,18,20,25,27,29,31,33,35,37,39,41,44,46,50,52,54,56,58,60,62,64,66,68,70,72,73,75,77,79,80,82,84,86,88,90,92,94,96,98,100,103,105,107,109,111,113,116,120,122,124,126,128,130,133,137,140,142,145,147,149,151,153,155,157,159,162,164,166,168,170,171,173,175,177,179,181,183,186,188,190,192,194,197,199,203,205,206,207,209,211,213,215,217,219,221,222,224,226,228,230,231,232,233,235,237,239,241,243,245,247,249,253,255,257,259,262,264,268]
+          rows=json.loads(Path('audio/production/record-035/quote-inventory.json').read_text(encoding='utf-8'))
+          by_index={r['quote_index']:r for r in rows}
+          assert set(reviewed) <= set(by_index)
+          locks=[{'text':by_index[i]['text'],'occurrence':by_index[i]['occurrence']} for i in reviewed]
+          config={
+            'record':'035','routing_mode':'exact_quote_locked',
+            'voices':{'greg':'deep','ithar':'normal'},'max_chars':480,
+            'pause_ms':{'continuation':220,'paragraph':450,'action':700,'speaker_handoff':1100,'major_beat':1400},
+            'dragon_quotes':locks,
+          }
+          Path('audio/routing/record-035.json').write_text(json.dumps(config,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          Path('audio/production/record-035/reviewed-ithar-quote-indices.json').write_text(json.dumps(reviewed,indent=2)+'\n',encoding='utf-8')
+          print(f'Locked {len(locks)} explicitly reviewed Ithar quotes')
+          PY
+      - name: Build and verify exact quote-locked route
+        run: |
+          set -euo pipefail
+          mkdir -p audio/production/record-035/work-orders
+          python scripts/audio_route.py manuscript/records/035/current.md audio/routing/record-035.json audio/production/record-035/route-plan.json
+          python - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          record='035'
+          source_path=Path(f'manuscript/records/{record}/current.md')
+          route_path=Path(f'audio/production/record-{record}/route-plan.json')
+          route=json.loads(route_path.read_text(encoding='utf-8'))
+          source=source_path.read_text(encoding='utf-8')
+          source_hash=hashlib.sha256(source.encode('utf-8')).hexdigest()
+          assert route['record']==record
+          assert route['routing_mode']=='exact_quote_locked'
+          assert route['uses_timestamps_for_speaker_assignment'] is False
+          assert route['source_sha256']==source_hash
+          assert ''.join(s['transcript'] for s in route['segments'])==route['audio_body']
+          assert all(len(s['transcript'])<=480 for s in route['segments'])
+          assert all((s['speaker']=='greg' and s['voice_id']=='deep') or (s['speaker']=='ithar' and s['voice_id']=='normal') for s in route['segments'])
+          assert any(s['speaker']=='ithar' for s in route['segments'])
+          assert [s['index'] for s in route['segments']]==list(range(1,len(route['segments'])+1))
+          root=Path(f'audio/production/record-{record}/work-orders')
+          for p in root.glob('segments-*.json'): p.unlink()
+          segs=route['segments']
+          for start in range(0,len(segs),5):
+              batch=segs[start:start+5]
+              name=f'segments-{batch[0]["index"]:03d}-{batch[-1]["index"]:03d}.json'
+              payload={'record':record,'source_sha256':source_hash,'routing_mode':'exact_quote_locked','segments':batch}
+              (root/name).write_text(json.dumps(payload,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          print(f'Record 035 exact round-trip passed: {len(segs)} segments, {sum(s["speaker"]=="ithar" for s in segs)} Ithar segments, source {source_hash}')
+          PY
+      - name: Run repository checks
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit prepared production work orders
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio/routing/record-035.json audio/production/record-035/route-plan.json audio/production/record-035/work-orders audio/production/record-035/reviewed-ithar-quote-indices.json
+          git commit -m 'Prepare Record 035 production work orders'
+          git push origin HEAD:audio/record-035-production
