@@ -9,7 +9,7 @@ class SitePresentationTests(unittest.TestCase):
         self.html = (ROOT / "index.html").read_text(encoding="utf-8")
 
     def test_hero_is_cinematic_editorial_not_split_card(self):
-        self.assertIn(".story-hero-art{aspect-ratio:16/7", self.html)
+        self.assertIn(".story-hero-art{aspect-ratio:3/1", self.html)
         self.assertIn("grid-template-areas", self.html)
         self.assertNotIn("grid-template-columns:minmax(0,1.18fr)", self.html)
 
@@ -21,6 +21,7 @@ class SitePresentationTests(unittest.TestCase):
     def test_nhal_is_an_inset_visual_with_only_the_approved_caption(self):
         self.assertIn(".nhal-card{max-width:34rem", self.html)
         self.assertIn("aspect-ratio:3/2", self.html)
+        self.assertIn("object-fit:contain", self.html)
         self.assertIn("<figcaption>Nhal · The Bound One</figcaption>", self.html)
         self.assertNotIn("Deeper in the record", self.html)
         self.assertIn("visual/3l2.webp", self.html)
