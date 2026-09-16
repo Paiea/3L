@@ -236,7 +236,11 @@ I could not tell age.
 
 I could not tell species confidently.
 
-Human-shaped was as far as I was willing to go.
+Human-shaped was the stupid first label my brain offered.
+
+I did not trust it.
+
+Too much of the body vanished behind blue lattice and black restraint for the silhouette to mean anything.
 
 Too thin in some places.
 
