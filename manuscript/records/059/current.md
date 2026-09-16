@@ -26,7 +26,7 @@ They had tails.
 
 Evolution had apparently looked at teeth and wanted a second opinion.
 
-Aren and Noll were inside the main room.
+Aren and Corin were inside the main room.
 
 Sella held the stair mouth.
 
@@ -42,7 +42,7 @@ I reinforced her rear leg.
 
 Release.
 
-Noll spent hard driving another away from Aren's flank.
+Corin spent hard driving another away from Aren's flank.
 
 Aren had reserve.
 
@@ -218,7 +218,7 @@ Sella looked up.
 
 "More transfers. More switching. Longer operation. Stronger people. If every exchange loses half, then the method only works when we don't need it much."
 
-Noll nodded.
+Corin nodded.
 
 Of course he did.
 
@@ -296,7 +296,7 @@ One second aura down while standing.
 
 Then walking.
 
-Then with a tiny Draw from Noll.
+Then with a tiny Draw from Corin.
 
 Then turning.
 
@@ -384,7 +384,7 @@ Not protecting me continuously.
 
 Only when it mattered.
 
-Noll learned to delay crossing behind me until aura returned.
+Corin learned to delay crossing behind me until aura returned.
 
 Aren adjusted one spear recovery so his retreat line closed my exposed side for less than a second.
 
@@ -398,7 +398,7 @@ Warning everyone else.
 
 The first live use went clean.
 
-Two fingers from Noll.
+Two fingers from Corin.
 
 Aura down.
 
@@ -452,7 +452,7 @@ Aren center.
 
 Jessa behind me.
 
-Noll at the rear.
+Corin at the rear.
 
 First scavenger hit Aren.
 
@@ -470,7 +470,7 @@ Third came from below.
 
 I heard claws on timber before I saw it.
 
-Noll spent hard knocking it off the underside.
+Corin spent hard knocking it off the underside.
 
 His reserve dropped.
 
@@ -492,7 +492,7 @@ The bridge kicked.
 
 Not magic.
 
-Noll landed badly after the underside strike.
+Corin landed badly after the underside strike.
 
 One plank cracked.
 
@@ -552,7 +552,7 @@ Instead Sella shouted, "Stay!"
 
 Aren stayed.
 
-Noll stepped into my open side.
+Corin stepped into my open side.
 
 Not heroic.
 
@@ -576,7 +576,7 @@ Sella crossed the last surveyor.
 
 Aren backed out.
 
-Noll kept me moving.
+Corin kept me moving.
 
 We reached stone.
 
@@ -628,7 +628,7 @@ Hollen pointed at my arm.
 
 "Also yes."
 
-Noll said, "If he had tried to preserve the transfer, Sella would have received late support and Greg might have held foreign flow during impact. He released immediately."
+Corin said, "If he had tried to preserve the transfer, Sella would have received late support and Greg might have held foreign flow during impact. He released immediately."
 
 Jessa said, "I was loud."
 
@@ -712,7 +712,7 @@ Then we got better.
 
 Aren began shaping movement to create windows instead of merely covering them.
 
-Noll learned to offer reserve only when my footing was already settled.
+Corin learned to offer reserve only when my footing was already settled.
 
 Sella sometimes moved one step early so I could open behind her shield transition.
 
@@ -736,7 +736,7 @@ Near the end of Red Basin we cleared a long extraction cut with two simultaneous
 
 Aren and Sella forward.
 
-Noll right.
+Corin right.
 
 Jessa elevated on the old cart shelf.
 
