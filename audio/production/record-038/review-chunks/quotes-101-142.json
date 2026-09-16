@@ -1,0 +1,346 @@
+{
+  "record": "038",
+  "quote_count": 142,
+  "range": [
+    101,
+    142
+  ],
+  "quotes": [
+    {
+      "quote_index": 101,
+      "text": "\"Maybe long enough to win if one exchange changed.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10667,
+      "end": 10718
+    },
+    {
+      "quote_index": 102,
+      "text": "\"Yes.\"",
+      "occurrence": 8,
+      "total_occurrences": 10,
+      "start": 10720,
+      "end": 10726
+    },
+    {
+      "quote_index": 103,
+      "text": "\"He made failure arrive later.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10728,
+      "end": 10759
+    },
+    {
+      "quote_index": 104,
+      "text": "\"Sometimes that is the job.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10792,
+      "end": 10820
+    },
+    {
+      "quote_index": 105,
+      "text": "\"You learned this from Arcrutus.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11223,
+      "end": 11256
+    },
+    {
+      "quote_index": 106,
+      "text": "\"Some of it.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11258,
+      "end": 11271
+    },
+    {
+      "quote_index": 107,
+      "text": "\"Did he teach you?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11273,
+      "end": 11292
+    },
+    {
+      "quote_index": 108,
+      "text": "\"He asked questions.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11294,
+      "end": 11315
+    },
+    {
+      "quote_index": 109,
+      "text": "\"That is teaching.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11317,
+      "end": 11336
+    },
+    {
+      "quote_index": 110,
+      "text": "\"Do not encourage him retroactively.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11338,
+      "end": 11375
+    },
+    {
+      "quote_index": 111,
+      "text": "\"He is dead.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11377,
+      "end": 11390
+    },
+    {
+      "quote_index": 112,
+      "text": "\"Probably.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11417,
+      "end": 11428
+    },
+    {
+      "quote_index": 113,
+      "text": "\"You do not know?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11453,
+      "end": 11471
+    },
+    {
+      "quote_index": 114,
+      "text": "\"Different life. Different history. He was old when I was young. I have not exactly checked the current census of ancient violent clan heads.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11473,
+      "end": 11615
+    },
+    {
+      "quote_index": 115,
+      "text": "\"You remember him fondly.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11617,
+      "end": 11643
+    },
+    {
+      "quote_index": 116,
+      "text": "\"That sounds excessive.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11685,
+      "end": 11709
+    },
+    {
+      "quote_index": 117,
+      "text": "\"You threw food at him.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11711,
+      "end": 11735
+    },
+    {
+      "quote_index": 118,
+      "text": "\"That is not evidence of affection.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11737,
+      "end": 11773
+    },
+    {
+      "quote_index": 119,
+      "text": "\"You have unusual standards.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11775,
+      "end": 11804
+    },
+    {
+      "quote_index": 120,
+      "text": "\"You noticed.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11806,
+      "end": 11820
+    },
+    {
+      "quote_index": 121,
+      "text": "\"Did you keep separating observation from interpretation?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11851,
+      "end": 11909
+    },
+    {
+      "quote_index": 122,
+      "text": "\"Yes.\"",
+      "occurrence": 9,
+      "total_occurrences": 10,
+      "start": 11911,
+      "end": 11917
+    },
+    {
+      "quote_index": 123,
+      "text": "\"Sometimes.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11997,
+      "end": 12009
+    },
+    {
+      "quote_index": 124,
+      "text": "\"When I remembered.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12027,
+      "end": 12047
+    },
+    {
+      "quote_index": 125,
+      "text": "\"And when you did not?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12079,
+      "end": 12102
+    },
+    {
+      "quote_index": 126,
+      "text": "\"I concluded aggressively.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12336,
+      "end": 12363
+    },
+    {
+      "quote_index": 127,
+      "text": "\"Frequently?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12365,
+      "end": 12378
+    },
+    {
+      "quote_index": 128,
+      "text": "\"Fuck you.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12380,
+      "end": 12391
+    },
+    {
+      "quote_index": 129,
+      "text": "\"Available.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12393,
+      "end": 12405
+    },
+    {
+      "quote_index": 130,
+      "text": "\"You work tomorrow?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12832,
+      "end": 12852
+    },
+    {
+      "quote_index": 131,
+      "text": "\"Here?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12864,
+      "end": 12871
+    },
+    {
+      "quote_index": 132,
+      "text": "\"Yes.\"",
+      "occurrence": 10,
+      "total_occurrences": 10,
+      "start": 12873,
+      "end": 12879
+    },
+    {
+      "quote_index": 133,
+      "text": "\"Morning shift.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12881,
+      "end": 12897
+    },
+    {
+      "quote_index": 134,
+      "text": "\"After.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12899,
+      "end": 12907
+    },
+    {
+      "quote_index": 135,
+      "text": "\"After what?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12942,
+      "end": 12955
+    },
+    {
+      "quote_index": 136,
+      "text": "\"Work.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12957,
+      "end": 12964
+    },
+    {
+      "quote_index": 137,
+      "text": "\"What happens after work?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12966,
+      "end": 12992
+    },
+    {
+      "quote_index": 138,
+      "text": "\"You find me.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12994,
+      "end": 13008
+    },
+    {
+      "quote_index": 139,
+      "text": "\"Why?\"",
+      "occurrence": 2,
+      "total_occurrences": 2,
+      "start": 13028,
+      "end": 13034
+    },
+    {
+      "quote_index": 140,
+      "text": "\"You ask too many questions.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 13092,
+      "end": 13121
+    },
+    {
+      "quote_index": 141,
+      "text": "\"That is not an answer.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 13123,
+      "end": 13147
+    },
+    {
+      "quote_index": 142,
+      "text": "\"I know.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 13149,
+      "end": 13158
+    }
+  ]
+}

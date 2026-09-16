@@ -1,0 +1,410 @@
+{
+  "record": "038",
+  "quote_count": 142,
+  "range": [
+    51,
+    100
+  ],
+  "quotes": [
+    {
+      "quote_index": 51,
+      "text": "\"So the support saw deterioration and spent more to hide it.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2554,
+      "end": 2615
+    },
+    {
+      "quote_index": 52,
+      "text": "\"Maybe.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2694,
+      "end": 2702
+    },
+    {
+      "quote_index": 53,
+      "text": "\"You just made me spend ten minutes being precise so you could say maybe.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2715,
+      "end": 2789
+    },
+    {
+      "quote_index": 54,
+      "text": "\"Precision does not create certainty.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2791,
+      "end": 2829
+    },
+    {
+      "quote_index": 55,
+      "text": "\"You remember the sentence.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2908,
+      "end": 2936
+    },
+    {
+      "quote_index": 56,
+      "text": "\"Obviously.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2938,
+      "end": 2950
+    },
+    {
+      "quote_index": 57,
+      "text": "\"You remember many things Arcrutus said.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2952,
+      "end": 2993
+    },
+    {
+      "quote_index": 58,
+      "text": "\"He didn't say much.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2995,
+      "end": 3016
+    },
+    {
+      "quote_index": 59,
+      "text": "\"That may have helped.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 3018,
+      "end": 3041
+    },
+    {
+      "quote_index": 60,
+      "text": "\"Are you making a point?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 3138,
+      "end": 3163
+    },
+    {
+      "quote_index": 61,
+      "text": "\"Not yet.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 3165,
+      "end": 3175
+    },
+    {
+      "quote_index": 62,
+      "text": "\"Good.\"",
+      "occurrence": 4,
+      "total_occurrences": 6,
+      "start": 3177,
+      "end": 3184
+    },
+    {
+      "quote_index": 63,
+      "text": "\"Continue.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 3186,
+      "end": 3197
+    },
+    {
+      "quote_index": 64,
+      "text": "\"Who loses?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7373,
+      "end": 7385
+    },
+    {
+      "quote_index": 65,
+      "text": "\"Sword.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7424,
+      "end": 7432
+    },
+    {
+      "quote_index": 66,
+      "text": "\"Why?\"",
+      "occurrence": 1,
+      "total_occurrences": 2,
+      "start": 7434,
+      "end": 7440
+    },
+    {
+      "quote_index": 67,
+      "text": "\"His support is compensating harder every exchange.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7442,
+      "end": 7494
+    },
+    {
+      "quote_index": 68,
+      "text": "\"Meaning.\"",
+      "occurrence": 3,
+      "total_occurrences": 3,
+      "start": 7496,
+      "end": 7506
+    },
+    {
+      "quote_index": 69,
+      "text": "\"He keeps moving closer.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7508,
+      "end": 7533
+    },
+    {
+      "quote_index": 70,
+      "text": "\"Observation.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7535,
+      "end": 7549
+    },
+    {
+      "quote_index": 71,
+      "text": "\"His jaw is tight. Thumb into palm. He stopped blinking during the last sustained exchange.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7551,
+      "end": 7643
+    },
+    {
+      "quote_index": 72,
+      "text": "\"Good.\"",
+      "occurrence": 5,
+      "total_occurrences": 6,
+      "start": 7645,
+      "end": 7652
+    },
+    {
+      "quote_index": 73,
+      "text": "\"Sword's left heel is wider on landing. His guard is still sharp. His speed looks the same.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7654,
+      "end": 7746
+    },
+    {
+      "quote_index": 74,
+      "text": "\"Looks.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7748,
+      "end": 7756
+    },
+    {
+      "quote_index": 75,
+      "text": "\"Yes.\"",
+      "occurrence": 4,
+      "total_occurrences": 10,
+      "start": 7758,
+      "end": 7764
+    },
+    {
+      "quote_index": 76,
+      "text": "\"So why sword?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7794,
+      "end": 7809
+    },
+    {
+      "quote_index": 77,
+      "text": "\"Because he isn't fine,\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8046,
+      "end": 8070
+    },
+    {
+      "quote_index": 78,
+      "text": "\"He looks fine because the support is spending more and more to keep him looking fine.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8104,
+      "end": 8191
+    },
+    {
+      "quote_index": 79,
+      "text": "\"He isn't holding together,\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8413,
+      "end": 8441
+    },
+    {
+      "quote_index": 80,
+      "text": "\"No.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8496,
+      "end": 8501
+    },
+    {
+      "quote_index": 81,
+      "text": "\"Someone is holding him together.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8550,
+      "end": 8584
+    },
+    {
+      "quote_index": 82,
+      "text": "\"When did he lose?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 9902,
+      "end": 9921
+    },
+    {
+      "quote_index": 83,
+      "text": "\"Before that.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10060,
+      "end": 10074
+    },
+    {
+      "quote_index": 84,
+      "text": "\"When?\"",
+      "occurrence": 2,
+      "total_occurrences": 2,
+      "start": 10076,
+      "end": 10083
+    },
+    {
+      "quote_index": 85,
+      "text": "\"I don't know.\"",
+      "occurrence": 2,
+      "total_occurrences": 2,
+      "start": 10085,
+      "end": 10100
+    },
+    {
+      "quote_index": 86,
+      "text": "\"Good.\"",
+      "occurrence": 6,
+      "total_occurrences": 6,
+      "start": 10140,
+      "end": 10147
+    },
+    {
+      "quote_index": 87,
+      "text": "\"Good?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10149,
+      "end": 10156
+    },
+    {
+      "quote_index": 88,
+      "text": "\"You do not know.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10158,
+      "end": 10176
+    },
+    {
+      "quote_index": 89,
+      "text": "\"Usually people prefer answers.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10178,
+      "end": 10210
+    },
+    {
+      "quote_index": 90,
+      "text": "\"People prefer closure.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10212,
+      "end": 10236
+    },
+    {
+      "quote_index": 91,
+      "text": "\"Different?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10238,
+      "end": 10250
+    },
+    {
+      "quote_index": 92,
+      "text": "\"Often.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10252,
+      "end": 10260
+    },
+    {
+      "quote_index": 93,
+      "text": "\"He did his job.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10362,
+      "end": 10379
+    },
+    {
+      "quote_index": 94,
+      "text": "\"Yes.\"",
+      "occurrence": 5,
+      "total_occurrences": 10,
+      "start": 10381,
+      "end": 10387
+    },
+    {
+      "quote_index": 95,
+      "text": "\"And they still lost.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10389,
+      "end": 10411
+    },
+    {
+      "quote_index": 96,
+      "text": "\"Yes.\"",
+      "occurrence": 6,
+      "total_occurrences": 10,
+      "start": 10413,
+      "end": 10419
+    },
+    {
+      "quote_index": 97,
+      "text": "\"So what was the point?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10421,
+      "end": 10445
+    },
+    {
+      "quote_index": 98,
+      "text": "\"You tell me.\"",
+      "occurrence": 2,
+      "total_occurrences": 2,
+      "start": 10494,
+      "end": 10508
+    },
+    {
+      "quote_index": 99,
+      "text": "\"He kept his fighter dangerous longer.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 10618,
+      "end": 10657
+    },
+    {
+      "quote_index": 100,
+      "text": "\"Yes.\"",
+      "occurrence": 7,
+      "total_occurrences": 10,
+      "start": 10659,
+      "end": 10665
+    }
+  ]
+}

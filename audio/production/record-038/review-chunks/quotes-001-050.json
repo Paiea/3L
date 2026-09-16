@@ -1,0 +1,410 @@
+{
+  "record": "038",
+  "quote_count": 142,
+  "range": [
+    1,
+    50
+  ],
+  "quotes": [
+    {
+      "quote_index": 1,
+      "text": "\"Blue opened with distance control.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 149,
+      "end": 185
+    },
+    {
+      "quote_index": 2,
+      "text": "\"Meaning.\"",
+      "occurrence": 1,
+      "total_occurrences": 3,
+      "start": 187,
+      "end": 197
+    },
+    {
+      "quote_index": 3,
+      "text": "\"He took center.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 199,
+      "end": 216
+    },
+    {
+      "quote_index": 4,
+      "text": "\"Meaning.\"",
+      "occurrence": 2,
+      "total_occurrences": 3,
+      "start": 218,
+      "end": 228
+    },
+    {
+      "quote_index": 5,
+      "text": "\"He stood two feet closer to the west boundary than his opponent.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 230,
+      "end": 296
+    },
+    {
+      "quote_index": 6,
+      "text": "\"Better.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 298,
+      "end": 307
+    },
+    {
+      "quote_index": 7,
+      "text": "\"This is going to be annoying, isn't it?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 327,
+      "end": 368
+    },
+    {
+      "quote_index": 8,
+      "text": "\"Yes.\"",
+      "occurrence": 1,
+      "total_occurrences": 10,
+      "start": 370,
+      "end": 376
+    },
+    {
+      "quote_index": 9,
+      "text": "\"Again,\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 781,
+      "end": 789
+    },
+    {
+      "quote_index": 10,
+      "text": "\"Blue's rear foot was wider in the second minute.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 817,
+      "end": 867
+    },
+    {
+      "quote_index": 11,
+      "text": "\"How much?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 869,
+      "end": 880
+    },
+    {
+      "quote_index": 12,
+      "text": "\"I don't know.\"",
+      "occurrence": 1,
+      "total_occurrences": 2,
+      "start": 882,
+      "end": 897
+    },
+    {
+      "quote_index": 13,
+      "text": "\"Then say wider.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 899,
+      "end": 916
+    },
+    {
+      "quote_index": 14,
+      "text": "\"His left hand opened twice between exchanges.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 918,
+      "end": 965
+    },
+    {
+      "quote_index": 15,
+      "text": "\"Good.\"",
+      "occurrence": 1,
+      "total_occurrences": 6,
+      "start": 967,
+      "end": 974
+    },
+    {
+      "quote_index": 16,
+      "text": "\"His support moved closer after the ninth exchange.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 976,
+      "end": 1028
+    },
+    {
+      "quote_index": 17,
+      "text": "\"How much closer?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1030,
+      "end": 1048
+    },
+    {
+      "quote_index": 18,
+      "text": "\"One step. Maybe two.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1050,
+      "end": 1072
+    },
+    {
+      "quote_index": 19,
+      "text": "\"One or two?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1074,
+      "end": 1087
+    },
+    {
+      "quote_index": 20,
+      "text": "\"One.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1089,
+      "end": 1095
+    },
+    {
+      "quote_index": 21,
+      "text": "\"You changed that quickly.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1097,
+      "end": 1124
+    },
+    {
+      "quote_index": 22,
+      "text": "\"Fine. I don't know. Closer.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1126,
+      "end": 1155
+    },
+    {
+      "quote_index": 23,
+      "text": "\"Good.\"",
+      "occurrence": 2,
+      "total_occurrences": 6,
+      "start": 1157,
+      "end": 1164
+    },
+    {
+      "quote_index": 24,
+      "text": "\"Blue breathed through his mouth after the long clinch.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1261,
+      "end": 1317
+    },
+    {
+      "quote_index": 25,
+      "text": "\"Before?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1319,
+      "end": 1328
+    },
+    {
+      "quote_index": 26,
+      "text": "\"Nose mostly.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1330,
+      "end": 1344
+    },
+    {
+      "quote_index": 27,
+      "text": "\"Mostly.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1346,
+      "end": 1355
+    },
+    {
+      "quote_index": 28,
+      "text": "\"I wasn't counting nostrils.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1357,
+      "end": 1386
+    },
+    {
+      "quote_index": 29,
+      "text": "\"You were counting my chestnuts.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1388,
+      "end": 1421
+    },
+    {
+      "quote_index": 30,
+      "text": "\"His guard started coming up before his rear foot settled.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1430,
+      "end": 1489
+    },
+    {
+      "quote_index": 31,
+      "text": "\"That one you said before.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1514,
+      "end": 1541
+    },
+    {
+      "quote_index": 32,
+      "text": "\"Because it mattered.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1543,
+      "end": 1565
+    },
+    {
+      "quote_index": 33,
+      "text": "\"You are doing it again.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1567,
+      "end": 1592
+    },
+    {
+      "quote_index": 34,
+      "text": "\"His guard came up before the rear foot settled,\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1713,
+      "end": 1762
+    },
+    {
+      "quote_index": 35,
+      "text": "\"Good.\"",
+      "occurrence": 3,
+      "total_occurrences": 6,
+      "start": 1776,
+      "end": 1783
+    },
+    {
+      "quote_index": 36,
+      "text": "\"That is all?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1785,
+      "end": 1799
+    },
+    {
+      "quote_index": 37,
+      "text": "\"That is what you saw.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1801,
+      "end": 1824
+    },
+    {
+      "quote_index": 38,
+      "text": "\"And then I interpret it.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1826,
+      "end": 1852
+    },
+    {
+      "quote_index": 39,
+      "text": "\"Eventually.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1854,
+      "end": 1867
+    },
+    {
+      "quote_index": 40,
+      "text": "\"When?\"",
+      "occurrence": 1,
+      "total_occurrences": 2,
+      "start": 1869,
+      "end": 1876
+    },
+    {
+      "quote_index": 41,
+      "text": "\"After you stop changing the observation to fit the interpretation.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 1878,
+      "end": 1946
+    },
+    {
+      "quote_index": 42,
+      "text": "\"So what actually happened?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2145,
+      "end": 2173
+    },
+    {
+      "quote_index": 43,
+      "text": "\"You tell me.\"",
+      "occurrence": 1,
+      "total_occurrences": 2,
+      "start": 2184,
+      "end": 2198
+    },
+    {
+      "quote_index": 44,
+      "text": "\"Blue accumulated load.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2200,
+      "end": 2224
+    },
+    {
+      "quote_index": 45,
+      "text": "\"Everyone accumulates load.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2226,
+      "end": 2254
+    },
+    {
+      "quote_index": 46,
+      "text": "\"His recovery changed.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2256,
+      "end": 2279
+    },
+    {
+      "quote_index": 47,
+      "text": "\"Yes.\"",
+      "occurrence": 2,
+      "total_occurrences": 10,
+      "start": 2281,
+      "end": 2287
+    },
+    {
+      "quote_index": 48,
+      "text": "\"His support was compensating.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2289,
+      "end": 2320
+    },
+    {
+      "quote_index": 49,
+      "text": "\"The support moved closer. Blue started showing readiness before he was actually ready. His breathing changed. His stance widened.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 2413,
+      "end": 2544
+    },
+    {
+      "quote_index": 50,
+      "text": "\"Yes.\"",
+      "occurrence": 3,
+      "total_occurrences": 10,
+      "start": 2546,
+      "end": 2552
+    }
+  ]
+}
