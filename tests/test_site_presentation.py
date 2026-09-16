@@ -18,9 +18,9 @@ class SitePresentationTests(unittest.TestCase):
         self.assertNotIn("dragon-bargain.png", self.html)
         self.assertTrue((ROOT / "visual" / "3l1.webp").exists())
 
-    def test_nhal_is_an_inset_visual_with_only_the_approved_caption(self):
-        self.assertIn(".nhal-card{max-width:34rem", self.html)
-        self.assertIn("aspect-ratio:3/2", self.html)
+    def test_nhal_is_a_portrait_plate_with_only_the_approved_caption(self):
+        self.assertIn(".nhal-card{max-width:27rem", self.html)
+        self.assertIn("aspect-ratio:4/5", self.html)
         self.assertIn("object-fit:contain", self.html)
         self.assertIn("<figcaption>Nhal · The Bound One</figcaption>", self.html)
         self.assertNotIn("Deeper in the record", self.html)
