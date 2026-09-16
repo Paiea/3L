@@ -1,511 +1,535 @@
 ## RECORD 053
 
-## THE CAREGIVER
+## THE FULL CUP
 
-My parents did not become old all at once.
+I learned about wasted recovery because Veda was bored.
 
-That would have been easier to schedule.
+This is not a joke.
 
-They became old in pieces.
+Bored people have damaged civilization in worse ways.
 
-My father's grip first.
+Her ankle kept her out of hard field work through the first cold rain.
 
-My mother's knees.
+By the time she could jog cleanly, harvest carts were already coming in from the west road and the mornings had that thin gray light that makes every building look guilty.
 
-Then hearing.
+She trained anyway.
 
-Then balance.
+Not combat.
 
-Then the distance between the market and their house becoming longer without either place moving.
+Recovery.
 
-No single event changed the family.
+Foot placement.
 
-The errands did.
+Balance.
 
-Medicine every other Thursday.
+Short bursts.
 
-Coal before rain.
+Stop.
 
-Heavy groceries.
+Reset.
 
-Healer appointments.
+Again.
 
-Roof checks.
+I was not allowed to use live ally Draw under contract conditions.
 
-Mill pension forms because Grigor remained more administratively durable than my father's actual name.
+Training was permitted if supervised and documented.
 
-My mother could still do most things.
+Civilization loves danger once it has a form.
 
-That sentence hid too much.
+Edda Marr supervised twice a week.
 
-She could cook.
+She was a transfer healer, which meant she found both my technique and my personality offensive in professionally useful ways.
 
-Clean.
+"Again," she said.
 
-Shop if she went slowly.
+Veda held out her arm.
 
-Climb the stairs if she used both rails.
+I established the connection.
 
-Walk to Lena's if somebody did not mind waiting.
+Aura low.
 
-The problem was that every task now cost more body than it used to.
+Tiny Draw.
 
-My father had the opposite problem.
+Release.
 
-His body still offered strength in bursts and then charged interest.
+No routing.
 
-He would carry something stupid on Monday and spend Tuesday pretending his back hurt for unrelated reasons.
+No cleverness.
 
-I recognized the strategy.
+Just timing.
 
-Bad sign.
+Veda shifted weight during the pull.
 
-At first I handled whatever appeared in front of me.
-
-That was my preferred method for most of life.
-
-Mother needs medicine.
-
-Go.
-
-Father needs shed roof patched.
-
-Go.
-
-Healer wants somebody present for instructions because both parents claim they remember everything and prove otherwise immediately.
-
-Go.
-
-Lena needs help moving a chair downstairs because Mother has decided upstairs is an optional country.
-
-Go.
-
-The problem with solving every visible task is that invisible tasks keep belonging to somebody else.
-
-Usually Lena.
-
-I noticed this badly.
-
-She told me.
-
-We were at my parents' house after dinner.
-
-Mother had gone upstairs early.
-
-Father was asleep in his chair with a book open on his chest.
-
-Lena and I stood in the kitchen arguing about next week's healer visit.
-
-“I can take him,” I said.
-
-“You took him last time.”
-
-“Yes.”
-
-“I know.”
-
-“Then what's the problem?”
-
-Lena put down the towel she was folding.
-
-“You think appointments are the job.”
-
-I stopped.
-
-“They are part.”
-
-“Who schedules them?”
-
-“The healer.”
-
-“No.”
-
-Apparently wrong.
-
-“Who keeps track of when Mother's medicine runs out?”
-
-I looked toward the cupboard.
-
-“Mother?”
-
-Lena laughed once.
-
-Not happily.
-
-“Who checks whether the pension came?”
-
-I knew this one.
-
-“You.”
-
-“Yes.”
-
-“Why?”
-
-“Because when it doesn't, Father waits three weeks before telling anyone.”
-
-Fair.
-
-“Who talks to the healer when they change a dose?”
-
-“You.”
-
-“Who tells you?”
-
-“You.”
-
-“Who tells Mother what Father forgot?”
-
-“You.”
-
-“Who tells Father what Mother refused to mention?”
-
-I looked at her.
-
-“You.”
-
-Lena crossed her arms.
-
-“There you go.”
-
-I did not like the direction.
-
-“I do repairs.”
-
-“Yes.”
-
-“Money.”
-
-“Yes.”
-
-“Appointments.”
-
-“Yes.”
-
-“I am helping.”
-
-“I didn't say you weren't.”
-
-That removed my defense.
-
-Rude.
-
-“What are you saying?”
-
-“That you do tasks. I manage the fact they keep having tasks.”
-
-There it was.
-
-Different work.
-
-I knew that distinction professionally.
-
-A station hand changes a valve.
-
-A foreman knows which six valves are becoming problems at once.
-
-A transfer planner knows the shutdown touches three other places before anybody moves a wrench.
-
-Apparently family had operations too.
-
-I hated this immediately.
-
-Not because Lena was wrong.
-
-Because she was right using a framework I should have recognized.
-
-“What do you want me to take?” I asked.
-
-“Not take.”
-
-“Then?”
-
-“Know.”
-
-That answer was worse.
-
-She wanted shared context.
-
-Not another heroic errand.
-
-Of course.
-
-We made a family book.
-
-I wish I could say we invented something elegant.
-
-We used an old ledger with PRIVATE WORK crossed out on the cover because the binding was still good.
-
-Nessa objected.
-
-“Do not reuse accounting books for medicine.”
-
-“Why?”
-
-“Because you will write an invoice in the wrong place.”
-
-“I am not stupid.”
-
-She stared.
-
-We bought a new ledger.
-
-FAMILY CARE.
-
-Lena wrote the heading.
-
-I disliked it.
-
-Sounded official.
-
-That was the point.
-
-Pages for medicine.
-
-Appointments.
-
-Money.
-
-House repairs.
-
-Who had keys.
-
-Who could go on which days.
-
-Not every detail.
-
-Enough that Lena could leave town for a week without taking my parents' entire operating state inside her head.
-
-That was the first test.
-
-Her printer sent her to Bellwater for six days.
-
-Normally she would have arranged everything before leaving and still sent three messages home.
-
-This time she handed me the book.
-
-“Don't improve it.”
-
-“I wasn't going to.”
-
-“You have the face.”
-
-Apparently genetic.
-
-She left.
-
-Day one went well.
-
-Day two my father forgot his midday medicine.
-
-Not dangerous.
-
-Annoying.
-
-I found the note in the book showing he tended to forget after mill-advisory mornings.
-
-Pattern.
-
-Lena had known.
-
-I had not.
-
-Day three my mother canceled a healer visit because rain made her knees hurt.
-
-I was about to accept this.
-
-The ledger contained:
-
-IF MOTHER CANCELS FOR WEATHER, RESCHEDULE WITHIN TWO DAYS OR SHE WILL WAIT A MONTH.
-
-Written by Lena.
-
-Under it, in Nessa's handwriting:
-
-TRUE.
-
-Conspiracy.
-
-I rescheduled.
-
-Day four the pension came short by one silver.
-
-My father said ignore it.
-
-The ledger had the clerk's name.
-
-Window number.
-
-Previous error reference.
-
-It took twenty minutes instead of three weeks.
-
-Information is leverage even when the enemy is arithmetic.
-
-Day five nothing happened.
-
-I checked the book twice anyway.
-
-That was when I understood what Lena had been carrying.
-
-Not constant labor.
-
-Constant readiness.
-
-The knowledge that if nobody remembered, some small thing would become a larger thing quietly.
-
-She came home on day six.
-
-I handed the ledger back.
-
-“Well?”
-
-“Your job sucks.”
-
-She smiled.
-
-“Thank you.”
-
-“I am taking pension and appointments.”
-
-“Both?”
-
-“Yes.”
-
-“That is too much with travel.”
-
-“I can delegate appointments to Nessa when...”
-
-From the doorway Nessa said, “Interesting.”
-
-I turned.
-
-She had been listening.
-
-“I meant coordination.”
-
-“You meant my calendar.”
-
-“Same thing.”
-
-“No.”
-
-Lena laughed.
-
-Traitors everywhere.
-
-We settled differently.
-
-I handled pension and house maintenance.
-
-Lena handled medicine and healer records.
-
-Appointments went to whoever was available, but the next one had to be named before the current visit ended.
-
-Nessa volunteered for one monthly market run because she already passed my parents' street after regional office days.
-
-My mother hated the system.
-
-“I'm not a station.”
-
-“No,” I said.
-
-“Then stop writing me in a book.”
-
-“Take your medicine on time and we'll reduce documentation.”
-
-My father laughed.
-
-Mother glared at both of us.
-
-The system stayed.
-
-Then it changed.
-
-Of course.
-
-My father stopped going to the mill three mornings a week.
-
-Then two.
-
-Then only Saturdays.
-
-Mother started using the downstairs room as a bedroom during winter because stairs were worse in cold weather.
-
-We moved a dresser.
-
-Then another chair.
-
-Then enough things that the room stopped being temporary.
-
-No family meeting declared it.
-
-Objects voted.
-
-Lena's son Eli began doing market runs with her.
-
-At ten he could carry bread and complain professionally.
-
-My parents paid him one copper.
-
-I objected to child labor.
-
-Eli raised his price.
-
-Nessa said I had been out-negotiated by a ten-year-old.
-
-True.
-
-The family book accumulated years.
-
-New handwriting.
-
-Crossed-out medicines.
-
-Old appointments.
-
-A page where Father wrote I'M FINE beside three separate instructions.
-
-Mother wrote NO under each one.
-
-I kept that page.
-
-Not because it was profound.
-
-Because it was them.
-
-Caregiving never became my identity.
-
-That matters.
-
-I still traveled.
-
-Worked.
-
-Took contracts.
-
-Missed things.
-
-Lena still did more emotional translation between our parents than I ever became good at.
-
-Nessa still noticed needs before I did sometimes.
-
-My parents still made choices I disliked.
-
-Nobody became a patient-shaped object at the center of the family.
-
-They remained annoying adults.
+I released.
 
 Good.
 
-The achievement was smaller.
+Again.
 
-No single person had to remember everything anymore.
+She changed grip.
 
-I had spent years learning that systems become safer when knowledge stops living in one worker's head.
+Release.
 
-Apparently families were not exempt.
+Again.
 
-Ithar would later call that obvious.
+She pretended to change grip and did not.
 
-Dragons have the advantage of arriving after the lesson.
+I released anyway.
+
+Edda clicked her tongue.
+
+"You anticipated."
+
+"Correctly."
+
+"Still anticipated."
+
+"Isn't that the point?"
+
+"Not in this drill."
+
+Annoying distinction.
+
+We were training revocation.
+
+Not reading.
+
+Veda's offered state had to remain offered right up until transfer.
+
+If I sensed a change, stop.
+
+If I suspected a change, stop.
+
+If I became uncertain whether I had sensed a change, stop.
+
+This made the technique almost useless under live timing.
+
+Good.
+
+That was the point too.
+
+Edda wanted safety before utility.
+
+I wanted utility eventually.
+
+Neither of us was wrong.
+
+That made arguments take longer.
+
+The training yard charged by the half bell.
+
+Also useful.
+
+We got efficient.
+
+One afternoon Veda finished a set and sat on the low wall drinking water.
+
+I was writing times.
+
+Not mana amounts exactly.
+
+We had no instrument precise enough for the small draws.
+
+Recovery notes.
+
+How quickly the pull stopped feeling foreign.
+
+How long before her aura felt settled again.
+
+Whether the ankle changed anything.
+
+Veda said, "I'm full."
+
+I kept writing.
+
+"Congratulations."
+
+"So we're done?"
+
+Edda looked over.
+
+"For draw sets, yes."
+
+Veda groaned.
+
+"We paid for another half bell."
+
+"Then stretch."
+
+"Cruel."
+
+I looked at Veda.
+
+Then at Edda.
+
+"How long has she been full?"
+
+Edda frowned.
+
+"Why?"
+
+"She recovered between sets."
+
+"Yes."
+
+"How much recovery happens while she's full?"
+
+Edda's face changed in the particular way experts do when a beginner has asked a question that is not entirely stupid.
+
+She hated giving me that expression.
+
+"Less."
+
+"Less or none?"
+
+"Depends on the body."
+
+"Why?"
+
+"Because reserve is not a bucket."
+
+Veda said, "I liked bucket."
+
+Edda ignored her.
+
+"Mana recovery involves channel pressure, tissue state, breathing, food, heat, endocrine response, whatever theory your school likes this decade. Full reserve changes the gradient. Recovery slows."
+
+"So she could recover more if she weren't full."
+
+"Yes."
+
+"Then full is wasteful."
+
+Edda closed her eyes.
+
+"No."
+
+"You just said..."
+
+"I said recovery slows. I did not say full reserve is a mistake."
+
+There it was again.
+
+My favorite professional pattern.
+
+A door opening directly into somebody telling me not to walk through it.
+
+"Why keep full?"
+
+"Because reserve is useful."
+
+"Obviously."
+
+"Because some techniques require high starting pressure. Because low reserve changes control. Because people get hurt. Because fights are not designed around your accounting preferences."
+
+Veda raised her cup.
+
+"I support the last one."
+
+I looked back at my notes.
+
+Veda had completed four small Draw sets.
+
+Recovered each time.
+
+Then sat full for eleven minutes while we argued.
+
+Eleven minutes of reduced recovery capacity.
+
+Not lost mana exactly.
+
+Lost opportunity.
+
+Maybe.
+
+I wrote:
+
+FULL != UNUSED.
+
+Then underneath:
+
+BUT FULL CAN STOP RECOVERY.
+
+Edda leaned over my shoulder.
+
+"Write 'sometimes.'"
+
+I added SOMETIMES.
+
+She nodded.
+
+Progress.
+
+For the next three months I became unbearable about recovery.
+
+Not Draw.
+
+Could not use it live anyway.
+
+Recovery.
+
+I asked Calder how long his reserve returned after hard exchanges.
+
+He did not know.
+
+I asked Orla.
+
+She knew roughly because shield work made depletion obvious.
+
+Veda knew almost nothing and lied confidently until Edda tested her.
+
+We used controlled drills.
+
+Run.
+
+Cast.
+
+Rest.
+
+Measure sensation.
+
+Not numbers floating in the air.
+
+Breath.
+
+Heat.
+
+Channel pressure.
+
+When aura stopped feeling thin.
+
+When fine control returned.
+
+When a second burst felt available.
+
+Different people recovered differently.
+
+Of course.
+
+Calder's reserve came back slowly after large output, but he could function well at middling levels.
+
+Orla recovered steadily and hated dropping low.
+
+Her control degraded before raw reserve did.
+
+Veda recovered quickly after shallow use and poorly after deep bursts.
+
+The shape changed with sleep.
+
+Food.
+
+Cold.
+
+Injury.
+
+Menstrual cycle, in Veda's case, which she told me only after I spent two weeks trying to explain a repeating recovery difference with weather.
+
+"You could have told me."
+
+"Watching you blame humidity was educational."
+
+"I hate you."
+
+"Recovery stable."
+
+I wrote it down.
+
+Time passed in notebooks.
+
+Winter became real.
+
+Then began to loosen.
+
+I ran through rain.
+
+Then cold.
+
+Then mud from thaw.
+
+My third pair of boots in two years died at the heel.
+
+The cobbler knew me by name.
+
+Sera came back through Vey for six days and laughed at the wall beside my bed because I had pinned recovery notes where a painting might reasonably go.
+
+"Romantic."
+
+"Data."
+
+"Exactly."
+
+She stayed four nights.
+
+Then left again.
+
+I did not ask her to stay.
+
+She did not ask me to follow.
+
+The toothbrush returned briefly.
+
+Then vanished north.
+
+Spring work picked up.
+
+Roads reopened.
+
+My restriction remained.
+
+Not punishment.
+
+Condition.
+
+Demonstrate safer revocation and controlled transfer behavior before live approval.
+
+Edda eventually signed the training log.
+
+Mara signed reluctantly.
+
+Veda signed with a drawing of a foot.
+
+The Guild reviewer did not smile.
+
+He read everything.
+
+Then said, "You understand that permission to resume does not mean endorsement."
+
+"Yes."
+
+"You understand the source must signal current availability at the point of draw."
+
+"Yes."
+
+"And any change during establishment cancels the transfer."
+
+"Yes."
+
+"And no use on unfamiliar teammates without prior controlled practice."
+
+"Yes."
+
+He looked disappointed by my cooperation.
+
+"Good."
+
+The first live use after reinstatement happened on a warehouse-clearance contract.
+
+Nothing dramatic.
+
+Orla held a doorway while workers moved volatile alchemical stock from a damaged room.
+
+Calder had finished carrying a collapsed beam section out and stood recovering near me.
+
+Two fingers.
+
+I checked.
+
+Still available.
+
+Draw.
+
+Small.
+
+Barrier along Orla's shield edge against falling glass.
+
+Release.
+
+Done.
+
+No injury.
+
+No revelation.
+
+Good.
+
+Calder's reserve dipped slightly.
+
+Then began climbing again.
+
+I felt it on the next controlled check twelve minutes later.
+
+That was the part I kept thinking about.
+
+The mana I had borrowed had done work on Orla.
+
+Calder had then replaced some of it while mostly resting.
+
+If I had left him full, that recovery would have had nowhere useful to go.
+
+Maybe.
+
+Sometimes.
+
+Edda's word mattered.
+
+The next week I tried the same thing in training with Veda.
+
+Not to feed someone else.
+
+Just to test recovery.
+
+Draw her slightly below full.
+
+Wait.
+
+She recovered.
+
+Draw again.
+
+Wait.
+
+Recovered.
+
+Third time she said, "Stop."
+
+I stopped.
+
+"Why?"
+
+"Because now I feel like I'm spending even though I'm standing still."
+
+Important.
+
+Full was not waste.
+
+Empty space was not free.
+
+The body noticed cycling.
+
+Another cost.
+
+Good.
+
+I wrote that too.
+
+By then the notebook had stopped looking like a theory and started looking like evidence of illness.
+
+Arrows.
+
+Names.
+
+Weather.
+
+Food.
+
+Sleep.
+
+Recovery curves drawn badly by hand.
+
+One page just said:
+
+DO NOT DRAIN PEOPLE BECAUSE YOU ARE BORED.
+
+Veda had written that.
+
+Underneath, I wrote:
+
+AGREED.
+
+Then, after a while:
+
+BUT SOMETIMES FULL IS A CLOSED DOOR.
+
+I did not know yet what to do with that.
+
+That was probably why it was useful.

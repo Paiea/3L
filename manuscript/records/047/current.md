@@ -1,505 +1,681 @@
 ## RECORD 047
 
-## THE APPRENTICE
+## THE DRAIN
 
-At thirty-six I became an apprentice to a woman who called me Tall Problem for six months.
+Three-month contracts end stupidly.
 
-My name was available.
+You spend ninety-two days learning where somebody keeps the salt.
 
-She preferred accuracy.
+Then one morning everyone packs.
 
-Her name was Osa Mer.
+That is the ceremony.
 
-Sixty-three.
+Senn signed the completion sheets on the hood of the survey cart because the district clerk had forgotten to send a table.
 
-Pressure architect.
+Taris checked the same inventory three times.
 
-Not engineer in the district sense.
+The route hand left first.
 
-Older trade.
+No speech.
 
-She designed and rebuilt pressure paths inside stations, factories, mines, and any place where people discovered too late that flow had opinions.
+No handshake with me.
 
-Tova knew her.
+He lifted two fingers, shouldered his pack, and walked south before the ink on his pay receipt dried.
 
-Of course.
+I still do not remember his name.
 
-Everyone useful existed inside Tova's private map.
+I remember the patch on his left boot.
 
-I met Osa after a consulting job in Bellwater embarrassed me.
+Memory is rude.
 
-Not failed.
+Calder had another contract beginning in eleven days.
 
-Worse.
+West ridge escort.
 
-Succeeded for the wrong reason.
+Better pay.
 
-A return branch kept overheating one support.
+He asked if I was interested.
 
-I recommended a larger bypass.
+I said no before thinking hard enough to make the answer complicated.
 
-Temperature improved.
+"You have something?" he asked.
 
-Client happy.
+"Not exactly."
 
-Osa visited two months later for unrelated work and asked why anyone had increased bypass diameter without recalculating downstream velocity.
+"Then why no?"
 
-Nobody had.
+I held up Mara's ward-breaking pamphlet.
 
-I heard about this through Tova.
+Calder looked at the cover.
 
-She enjoyed telling me.
+"You declined money for homework."
 
-“Did it fail?”
+"Apparently."
 
-“No.”
+"You know they pay people to break wards."
 
-“Then?”
+"I know."
 
-“Osa says you moved the problem into the next branch.”
+"And you are support."
 
-“Did I?”
+"Still."
 
-“Yes.”
+He considered me.
 
-That was irritatingly specific.
+"This feels like a phase."
 
-The downstream valve was wearing faster.
+"Everything is a phase if you wait long enough."
 
-Not dangerous yet.
+"That was terrible."
 
-My repair had treated pressure like quantity instead of system behavior.
+"I have been packing since dawn."
 
-I knew enough pressure work to be useful.
+Orla was staying in Vey for a month.
 
-Not enough to know where the edges of useful ended.
+Knee treatment.
 
-That became expensive.
+Nothing dramatic.
 
-I asked Osa to teach me.
+Old inflammation.
 
-She said no.
+The kind of injury competent people accumulate by not dying.
 
-Simple.
+She handed me a folded address.
 
-“Why?”
+"Mara works out of Stone Yard when she's in the city."
 
-“Busy.”
+I looked at it.
 
-“I can pay.”
+"You asked?"
 
-“Not enough.”
+"You were going to."
 
-“You don't know how much.”
+"I could have."
 
-“Yes.”
+"Eventually."
 
-I disliked her immediately.
+"Thank you."
 
-Tova said, “Offer work.”
+She nodded.
 
-“What?”
+Then pointed at my pack.
 
-“She needs hands.”
+"You still have both clamps?"
 
-“I have hands.”
+"Taris stole one."
 
-“Debatable shoulder.”
+Taris looked offended.
 
-“Fuck you.”
+"It was assigned operationally."
 
-I went back.
+"You put it in your bag."
 
-“I can work.”
+"Operational bag."
 
-Osa looked at me.
+I let him keep it.
 
-“Rank?”
+That was how the north-road party ended.
 
-“C.”
+Not with revelation.
 
-“Do not care.”
+One clamp missing.
 
-“Good.”
+Four separate directions.
 
-“Tools?”
+Pay in my pocket.
 
-“Yes.”
+My legs stronger than when I arrived.
 
-“Can you calculate dynamic head?”
+My left hand less stupid under sustained work.
 
-“Yes.”
+A ward-breaking pamphlet folded against my chest.
 
-“Without notes?”
+And the strange absence of people I had not known three months earlier.
 
-“Yes.”
+For the first week back in Vey I kept waking before dawn.
 
-“Can you size a relief path from first principles?”
+Nothing required it.
 
-“Yes.”
+My room had walls.
 
-“Can you tell me when the formula is lying?”
+A roof.
 
-I stopped.
+A bed that did not need to be rolled.
 
-Osa smiled.
+The floor was level enough to make me suspicious.
 
-“Tall Problem.”
+I still woke when the sky changed color.
 
-There it was.
+Field time leaves before the body agrees.
 
-She agreed to one day a week if schedule allowed.
+I worked two short support contracts that month.
 
-Not student fee.
+One warehouse move.
 
-I worked her jobs at junior trade rate.
+One canal gate inspection.
 
-She taught while we worked if teaching did not slow the client too much.
+Nothing worth a record.
 
-If it did, she taught afterward and charged me dinner.
+That matters.
 
-Unfair.
+Most improvement happens during things nobody would keep.
 
-Effective.
+I went to Stone Yard on the second Tuesday.
 
-My first day I carried tools.
+Mara was there.
 
-Only tools.
+The yard occupied half an old brickworks behind a freight lane.
 
-Mining pump house south of Cask.
+Three breaker crews shared it.
 
-Osa inspected a surge tank and made me hold three bags while she talked to the mechanic.
+Rows of test frames.
 
-I knew the system.
+Practice anchors.
 
-At least thought I did.
+Charged plates.
 
-I started offering theories.
+Broken ward stones stacked like roofing tile.
 
-She said, “Bag.”
+A sign on the wall read:
 
-“What?”
+DO NOT DRAIN ACTIVE STORAGE WITHOUT CHECKING THE TAG.
 
-“Hold.”
+Below it somebody had written:
 
-“I can help.”
+THIS MEANS YOU, KELL.
 
-“You are helping.”
+Professional culture.
 
-“With bags.”
+Mara saw me at the gate.
 
-“Yes.”
+"No."
 
-First-life S-class Greg had been given rooms when he arrived.
+"I haven't asked yet."
 
-Second-life apprentice Greg held bags.
+"Saving time."
 
-Character development is humiliating in practice.
+"I want to learn Draw."
 
-Osa taught pressure architecture from consequences backward.
+"No."
 
-Not equations first.
+"I can pay."
 
-“What does this room need to survive?”
+"Better answer. Still no."
 
-“Pressure.”
+"Why?"
 
-“Wrong.”
+"Because you want it for the wrong reason."
 
-“Equipment?”
+"You don't know my reason."
 
-“Wrong.”
+"Support guy with Barrier questions comes to breaker yard three weeks after watching me work. I have a theory."
 
-“Workers?”
+"Maybe I changed careers."
 
-“Closer.”
+"Did you?"
 
-She pointed at the pump house.
+"No."
 
-“Need failure somewhere safe.”
+"Then my theory survives."
 
-That was her philosophy.
+I hated competent people.
 
-Every pressure system eventually exceeded someone's expectation.
+They reduce available conversation.
 
-Design was partly deciding where excess could go without turning people into relief devices.
+Mara eventually agreed to let me train twice a week under one condition.
 
-Simple sentence.
+"You learn breaker Draw."
 
-Years to understand.
+"Fine."
 
-She made me draw systems by hand.
+"Not support Draw. Not clever Draw. Not whatever you're planning."
 
-No jurisdiction marks.
+"I am planning to understand it."
 
-No ownership.
-
-Source.
-
-Load.
-
-Restriction.
-
-Storage.
-
-Relief.
-
-Return.
-
-Then annotate human actions.
-
-Who opens what.
-
-Who notices.
-
-Who can shut down.
-
-Who lies because shutdown costs money.
-
-That last one was not formal notation.
-
-Osa used it anyway.
-
-“People are components.”
-
-“That sounds bad.”
-
-“They are not machines. Still components in operation.”
-
-“Different.”
-
-“Yes.”
-
-Good.
-
-She did not flatten the distinction.
-
-At a brewery in Cask she made me size a steam relief.
-
-I calculated.
-
-She looked.
-
-“Too small.”
-
-“No.”
-
-“Why?”
-
-I showed numbers.
-
-Maximum expected flow.
-
-Temperature.
-
-Valve capacity.
-
-She asked, “Festival.”
-
-“What?”
-
-“Festival week. Brewers bypass one heat stage to increase batch turnover.”
-
-“Not in operating plan.”
-
-“They do it.”
-
-“Then operating plan is wrong.”
-
-“Yes.”
-
-There it was.
-
-Formula was not lying.
-
-Input was.
-
-We sized for actual peak behavior plus margin.
-
-Brewery owner complained about cost.
-
-Osa told him to brew less.
-
-He paid.
-
-I loved her slightly.
-
-At Hillcross she did the opposite.
-
-I wanted a larger relief because operators sometimes ran both public pumps during demand spikes.
-
-Osa said no.
-
-“Why?”
-
-“Larger relief dumps too much heat into alley.”
-
-“Then route farther.”
-
-“Costs.”
-
-“Safety.”
-
-“Different safety.”
-
-People used the alley.
-
-Children.
-
-Carts.
-
-A relief sized to protect the pump could scald someone outside if routed badly.
-
-Again.
-
-System boundary depends on who remembers the alley.
-
-We changed control sequence instead.
-
-Cheaper.
-
-Safer.
-
-Less satisfying mechanically.
-
-Osa enjoyed my disappointment.
-
-“You like metal answers.”
-
-“They stay where installed.”
-
-“Until they don't.”
+"That sentence has injured people before."
 
 Fair.
 
-Months passed.
+My first task was to empty a ward plate into a sink.
 
-One day a week became two during slow inspection periods.
+Small plate.
 
-Then none for three weeks when district work surged.
+Hand-sized.
 
-Apprenticeship fit around adult life badly.
+Barely enough stored mana to keep rain off a pack.
 
-Nessa's schedule.
+I failed.
 
-Parents.
+Not dramatically.
 
-Private jobs.
+Nothing exploded.
 
-Travel.
+The plate stayed charged.
 
-Shoulder.
+I got a headache.
 
-I was not nineteen with nothing but ambition.
+Mara watched.
 
-That changed learning.
+"Again."
 
-I studied at our table after dinner and fell asleep over flow diagrams twice.
+Second attempt.
 
-Nessa drew mustaches on both.
+Same.
 
-I kept one.
+Third.
 
-My father asked why I was apprenticing when I already had a trade.
+The sink warmed slightly.
 
-“Different trade.”
+Victory.
 
-“Pays less.”
+Then the plate fed back and reclaimed half of what I had pulled.
 
-“Yes.”
+Mara tapped the edge.
 
-“Then why?”
+"You are fighting your own aura."
 
-“Because I keep finding things I don't know.”
+"My aura is not connected to the plate."
 
-He nodded immediately.
+"Everything you draw enters your control first. Your aura sees foreign flow and does what you trained it to do."
 
-No joke.
+"Stabilizes me."
 
-That surprised me.
+"Keeps you you."
 
-“Good,” he said.
+"Useful."
 
-Mill worker answer.
+"Usually."
 
-Tools change.
+I looked at the plate.
 
-Machines change.
+Then at my hands.
 
-You learn or become the man sitting by the wall complaining about young people tightening bolts.
+"So turn aura down."
 
-He was already that man, technically.
+Mara's expression sharpened.
 
-Difference was he knew.
+"For practice, yes."
 
-Osa eventually let me touch things without permission.
+I did.
 
-Promotion.
+Not off.
 
-She stopped calling me Tall Problem every day.
+Lower.
 
-Only when deserved.
+The next Draw moved twice as much mana.
 
-The apprenticeship had no ceremony.
+Also felt worse.
 
-No certificate at first.
+Cold pressure went up my right arm and sat behind my shoulder.
 
-One job in North Mason, she handed me the system sketch and said, “You lead.”
+I dumped it too slowly.
 
-I looked at her.
+My fingers spasmed.
 
-“Why?”
+Mara slapped the connection loose.
 
-“Want lunch.”
+"And now you know why the handbook doesn't tell supports to do this."
 
-“Professional.”
+I flexed my hand.
 
-“Yes.”
+"Because it's uncomfortable?"
 
-I led.
+"Because support doctrine likes the support alive."
+
+"Strong preference."
+
+"People get traditional around corpses."
+
+Two weeks later I could drain the plate cleanly.
+
+Three weeks after that I could do it while keeping half aura.
+
+A month later I learned that half aura was often worse than either choice because I was paying for protection that still disrupted the flow.
+
+Mara enjoyed this discovery too much.
+
+"You keep trying to negotiate with the rule."
+
+"Rules should be open to discussion."
+
+"Physics is bad at meetings."
+
+Winter came slowly.
+
+Vey rain got colder.
+
+The streets stayed wet for days instead of hours.
+
+I bought new boots because the north-road pair finally split at the heel.
+
+They had lasted fourteen months.
+
+Good boots.
+
+I kept them three weeks after they became useless because throwing away leather I had paid for offended me personally.
+
+Then water came through during a morning walk and settled the argument.
+
+I trained Draw through winter.
+
+Not every day.
+
+Adult life is inconvenient to obsession.
+
+I worked.
+
+Traveled.
+
+Took two support contracts with people I never saw again.
+
+Spent five weeks on a mill inspection team where the most dangerous event was spoiled stew.
+
+Sent a letter to Orla asking whether her knee had improved.
+
+She replied:
+
+YES.
+
+STOP ASKING IF I FEEL MY AURA DIFFERENTLY WHEN YOU ARE NOT HERE.
+
+I had asked twice.
+
+Apparently science has limits.
+
+Calder wrote from the west ridge because a client had misspelled my name on an old tournament recommendation and he thought I would find it funny.
+
+GREGORY VANE.
+
+I did.
+
+Taris sent nothing.
+
+Then sent twenty-two pages six months later because apparently silence had been storage.
+
+He had taken a permanent archive post.
+
+The clamp remained "operationally assigned."
+
+I stopped asking for it back.
+
+At Stone Yard, my Draw improved.
+
+The improvements were boring.
+
+Cleaner connection.
+
+Less feedback.
+
+Faster dump.
+
+Better distinction between anchor flow and surface reserve.
+
+I learned to feel when a ward was replenishing the section I drained.
+
+Not see.
+
+Feel is also wrong.
+
+There was pressure against the pull.
+
+Resistance with behavior.
+
+Mara made me stop naming it after one afternoon where I spent more time describing the sensation than using it.
+
+"Do the work first. Poetry later."
+
+"I am not writing poetry."
+
+"Good."
+
+Spring arrived.
+
+Mud everywhere.
+
+Then heat.
+
+Almost a year after Bell Cut, Mara gave me a live training ward instead of a plate.
+
+Full doorway.
+
+Active replenishment.
+
+Nothing behind it except a brick wall and one chair because breaker yards enjoy symbolism.
+
+"Take it down," she said.
+
+I set sinks.
+
+Ground line.
+
+Tested upper anchor.
+
+Lower.
+
+The ward fed fast on the left.
+
+Slow on right.
+
+I changed path.
+
+Pulled.
+
+Recovery.
+
+Pulled again.
+
+My aura interfered.
+
+I dropped it lower.
+
+The flow cleaned up.
+
+Also every draft in the yard suddenly felt like weather.
+
+Interesting how much of bodily confidence is magical background until you remove it.
+
+I kept working.
+
+Ten minutes.
+
+Fifteen.
+
+The ward weakened.
+
+Then I got greedy.
+
+Of course.
+
+I increased Draw before the lower anchor finished recovering.
+
+Flow surged.
+
+Too much foreign pressure entered my right arm.
+
+I tried to dump it into the sink.
+
+Sink path lagged.
+
+My aura flared automatically.
+
+Worst possible response.
+
+Foreign mana hit the self-reinforcement loop and stayed.
+
+My shoulder locked.
+
+I dropped the connection.
+
+The ward snapped back to full.
+
+I sat down hard.
+
+Mara said, "Excellent."
+
+I looked up.
+
+"You have a strange definition."
+
+"You finally failed the interesting way."
+
+My arm tingled from shoulder to thumb.
+
+"I dislike your teaching."
+
+"Good. What happened?"
+
+I told her.
+
+She corrected half of it.
+
+Not the big part.
+
+The big part I had right.
+
+My personal aura did not merely consume mana.
+
+It defined what belonged to me.
+
+Draw was asking something else to pass through.
+
+Those goals were compatible only up to a point.
+
+"This is why breaker crews don't run around with full combat aura while drawing," Mara said.
+
+"You still use some."
+
+"When I expect debris. When I move. When somebody stupid is nearby."
+
+"So most of the time."
+
+"Correct."
+
+"Can you flick it?"
+
+"What?"
+
+"Aura. Up when needed. Down during clean pull."
+
+Mara stared at me long enough to become annoying.
+
+"Yes."
+
+"Do you?"
+
+"Sometimes."
+
+"Why didn't you tell me?"
+
+"Because you could barely empty a plate three months ago."
+
+I had no answer.
+
+She nodded.
+
+"There. Learning."
+
+I wanted to argue.
+
+My shoulder hurt too much.
+
+That helped.
+
+Another four months passed before I became competent enough at Draw that Mara stopped standing within arm's reach every time I used it.
+
+Not good.
+
+Competent.
+
+Important distinction.
+
+I could break ordinary maintained wards.
 
 Slowly.
 
-Asked operators.
+I could empty small charged objects.
 
-Checked actual behavior.
+I could identify obvious feed asymmetry.
 
-Mapped relief.
+I could manage my aura without automatically trapping everything I pulled.
 
-Sized modification.
+I still lost too much mana in transfer.
 
-Found one downstream risk before Osa pointed at it.
+Still hated foreign flow.
 
-Missed another.
+Still got headaches after long sessions.
 
-She corrected me.
+Still asked questions Mara considered evidence of poor character.
 
-Good.
+One afternoon I asked, "What's the cleanest living transfer you've seen?"
 
-At the end she signed the trade log.
+She did not look up from repairing a sink.
 
-PRACTICAL PRESSURE ARCHITECTURE HOURS VERIFIED.
+"No."
 
-Not mastery.
+"That wasn't a proposal."
 
-Hours.
+"You are transparent."
 
-I liked that better.
+"Can be fixed with wardrobe."
 
-First-life Greg had been S-class and could force his body through pressure conditions most people could not survive.
+She finally looked at me.
 
-That had allowed me to ignore a lot of design.
+"There are transfer specialists. Healers. Ritual teams. Some bonded combat pairs. They build consent and compatibility first. They do not use Draw as a shortcut."
 
-If a system became dangerous, people called me after it had already failed.
+"Because Draw is dirty."
 
-Osa worked earlier.
+"Because Draw is aggressive."
 
-Before danger became Ranker-shaped.
+"Same mechanism?"
 
-Second life was pulling me backward into the causes.
+"Related mechanism. Stop flattening everything."
 
-Less power.
+"If the pressure is the problem, controlled removal can still help."
 
-More plumbing.
+"From a ward."
 
-I was beginning to think this was an improvement.
+"From anything maintained."
+
+"Greg."
+
+"I know."
+
+"Do you?"
+
+I thought about Orla's shoulder.
+
+Calder's rear foot.
+
+The brushback.
+
+The way aura tightened around my own ribs while I ran.
+
+"Not yet."
+
+That answer she accepted.
+
+Summer came back.
+
+I was thirty-two.
+
+The north-road contract had been over almost a year.
+
+Then Orla's handwriting arrived on a folded work notice.
+
+Six weeks.
+
+South quarry stabilization.
+
+Decent pay.
+
+Calder attached.
+
+Support requested.
+
+At the bottom she had added:
+
+DO NOT DRAIN ME.
+
+I read it twice.
+
+Then packed.
