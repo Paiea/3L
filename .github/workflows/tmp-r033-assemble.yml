@@ -1,0 +1,96 @@
+name: Temporary Record 033 Assemble
+
+on:
+  push:
+    branches: [audio/record-033-production]
+    paths:
+      - .github/workflows/tmp-r033-assemble.yml
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-033-production
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install ffmpeg explicitly
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version | head -n 1
+          ffprobe -version | head -n 1
+      - name: Structural verification
+        run: |
+          python scripts/audio_route.py manuscript/records/033/current.md audio/routing/record-033.json /tmp/route-regenerated.json
+          python - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          record='033'; expected='f657debce740fdb695a2a63d66ff29f69bd470ea4629002a0634316c5791c306'
+          manuscript=Path(f'manuscript/records/{record}/current.md')
+          route=json.loads(Path(f'audio/production/record-{record}/route-plan.json').read_text())
+          regenerated=json.loads(Path('/tmp/route-regenerated.json').read_text())
+          captures=json.loads(Path(f'audio/production/record-{record}/captures.json').read_text())
+          source=hashlib.sha256(manuscript.read_bytes()).hexdigest()
+          assert source==route['source_sha256']==regenerated['source_sha256']==captures['source_sha256']==expected
+          assert route['routing_mode']==regenerated['routing_mode']==captures['routing_mode']=='exact_quote_locked'
+          assert route['audio_body']==regenerated['audio_body'] and route['segments']==regenerated['segments']
+          segs=route['segments']; assert len(segs)==26
+          assert [s['index'] for s in segs]==list(range(1,27))
+          assert ''.join(s['transcript'] for s in segs)==route['audio_body']
+          assert all(s['speaker']=='greg' and s['voice_id']=='deep' for s in segs)
+          work=[]
+          for p in sorted(Path(f'audio/production/record-{record}/work-orders').glob('segments-*.json')):
+              d=json.loads(p.read_text()); assert d['source_sha256']==source and d['routing_mode']=='exact_quote_locked'; work.extend(d['segments'])
+          assert work==segs
+          caps=captures['segments']; assert len(caps)==26 and [c['index'] for c in caps]==list(range(1,27))
+          for c,s in zip(caps,segs):
+              assert c['pause_after_ms']==s['pause_after_ms'] and c['preview_url'].startswith('https://storage.googleapis.com/')
+          print('Record 033 structural verification passed')
+          PY
+      - name: Download takes and deterministically assemble
+        run: |
+          set -euo pipefail
+          assembly_dir=$(mktemp -d /tmp/r033-assemble.XXXXXX)
+          mkdir -p "$assembly_dir/takes" "$assembly_dir/wavs" "$assembly_dir/silence" audio/assets
+          python - "$assembly_dir" <<'PY'
+          import json,subprocess,sys
+          from pathlib import Path
+          root=Path(sys.argv[1]); caps=json.loads(Path('audio/production/record-033/captures.json').read_text())['segments']; concat=[]
+          for c in caps:
+              i=c['index']; mp3=root/'takes'/f'{i:03d}.mp3'; wav=root/'wavs'/f'{i:03d}.wav'; silence=root/'silence'/f'{i:03d}.wav'
+              subprocess.run(['curl','-fsSL','--retry','4','--retry-delay','2','-o',str(mp3),c['preview_url']],check=True)
+              subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-i',str(mp3),'-ar','24000','-ac','1','-c:a','pcm_s16le',str(wav)],check=True); concat.append(wav)
+              ms=int(c['pause_after_ms'])
+              if ms>0:
+                  subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-f','lavfi','-i','anullsrc=r=24000:cl=mono','-t',f'{ms/1000:.3f}','-c:a','pcm_s16le',str(silence)],check=True); concat.append(silence)
+          with (root/'concat.txt').open('w') as f:
+              for p in concat: f.write("file '"+str(p).replace("'","'\\''")+"'\n")
+          PY
+          ffmpeg -hide_banner -loglevel error -y -f concat -safe 0 -i "$assembly_dir/concat.txt" -ar 24000 -ac 1 -c:a pcm_s16le "$assembly_dir/record-033.wav"
+          ffmpeg -hide_banner -loglevel error -y -i "$assembly_dir/record-033.wav" -ar 24000 -ac 1 -c:a libmp3lame -b:a 128k audio/assets/record-033-quote-locked-v2.mp3
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 audio/assets/record-033-quote-locked-v2.mp3 > "$assembly_dir/duration.txt"
+          sha256sum audio/assets/record-033-quote-locked-v2.mp3 | awk '{print $1}' > "$assembly_dir/sha.txt"
+          python - "$assembly_dir" <<'PY'
+          import json,sys
+          from pathlib import Path
+          root=Path(sys.argv[1]); route=json.loads(Path('audio/production/record-033/route-plan.json').read_text()); duration=float((root/'duration.txt').read_text()); sha=(root/'sha.txt').read_text().strip()
+          d={'record':'033','status':'assembled_unlistened','routing_mode':'exact_quote_locked','uses_timestamps_for_speaker_assignment':False,'source_sha256':route['source_sha256'],'segment_count':len(route['segments']),'ithar_segment_indices':[],'duration_seconds':round(duration,3),'sha256':sha,'asset':'audio/assets/record-033-quote-locked-v2.mp3','note':'Deterministic route/pause verification passed; auditory listen-back remains pending.'}
+          Path('audio/production/record-033/verification-v2.json').write_text(json.dumps(d,indent=2)+'\n'); print(json.dumps(d,indent=2))
+          PY
+      - name: Run repository checks
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit assembled audio
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio/assets/record-033-quote-locked-v2.mp3 audio/production/record-033/verification-v2.json
+          git commit -m 'Assemble Record 033 production audio'
+          git push origin HEAD:audio/record-033-production
