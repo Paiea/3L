@@ -1,403 +1,563 @@
 ## RECORD 064
 
-## THE ARCHIVIST
+## THE GENERALIST
 
-Official reports became more accurate after I stopped trusting them.
+I asked Sel Aven to teach me everything she was better at.
 
-That sounds unfair.
+She said, "No."
 
-They were accurate before.
+Fair.
 
-Mostly.
+I asked again with money.
 
-That was the problem.
+She said, "How much?"
 
-A report could say VALVE FAILURE CAUSED SERVICE LOSS and be completely true while deleting every decision that made the failure useful to understand.
+Professional respect.
 
-Who heard the noise first.
+Sel had been one of the supports who made my first B-class evaluation humiliating in the useful way.
 
-Why the spare part was wrong.
+Not spectacular.
 
-Which shift delayed shutdown because the clinic was full.
+That had been the problem.
 
-Who improvised a temporary support.
+She did ordinary things correctly with people she had met fifteen minutes earlier.
 
-Why a warning stayed in a margin instead of becoming a work order.
+Static shield line.
 
-What everyone believed at the time.
+Emergency reinforcement.
 
-What turned out to be wrong.
+Basic wound stabilization.
 
-Facts survived.
+Formation support.
 
-Causality starved.
+Contamination barriers.
 
-The incident that finally annoyed me enough was small.
+Retreat cover.
 
-Market Five.
+Self-protection while supporting others.
 
-Pressure regulator stuck during morning load.
+No clever party architecture.
 
-No injuries.
+No Draw.
 
-Twenty-eight minutes reduced service.
+No notebook full of who became more decisive when annoyed.
 
-Two bakeries complained.
+She just worked.
 
-One school breakfast ran late.
+And when the evaluation changed problems, she changed with it.
 
-Official summary:
+I had spent years becoming unusual enough that competent normal work sometimes felt personally insulting.
 
-REGULATOR INTERNAL CORROSION. REPLACED. SERVICE RESTORED.
+That was stupid.
 
-True.
+Sel charged four silver per half-day.
 
-I had been there.
+Also insulting.
 
-Also incomplete enough to become false later.
+I paid.
 
-The regulator corroded because condensate collected in a section of line installed with almost no fall.
+Our first session lasted twenty-eight minutes.
 
-The line had almost no fall because a later renovation raised the floor around it without moving the support.
+Then she sent me home.
 
-The crew knew the low section collected water.
+"Why?"
 
-They drained it manually every month.
+"Because you're trying to improve the drill instead of doing the drill."
 
-That task disappeared during a staffing shortage because the maintenance checklist copied from a different station did not include it.
+"The drill has waste."
 
-The regulator failed six months later.
+"Yes."
 
-Internal corrosion was not explanation.
+"Then why preserve it?"
 
-It was the last visible event.
+"Because today I am testing whether you can hold a conventional four-person line with unfamiliar fighters and no custom preparation."
 
-I wrote a second report.
+"I can."
 
-Long.
+"You changed their positions twice."
 
-Minae read it at the shop.
+"They were inefficient."
 
-“This is not a report.”
+"You changed the shield order."
 
-“What is it?”
+"Also inefficient."
 
-“A grievance against chronology.”
+"You asked one of them about knee history."
 
-“Useful?”
+"He favors the right."
 
-“Yes.”
+Sel stared at me.
 
-Good.
+"Greg."
 
-We started a failure archive.
+I waited.
 
-Not district official at first.
+"Do the bad version safely."
 
-Shop archive.
+That sentence offended my entire career.
 
-Cheap cabinets along the west wall.
+Which was why I came back two days later.
 
-One drawer per site.
+We trained through summer.
 
-Paper wrapped in oil cloth where needed.
+Not continuously.
 
-Copies, not originals.
+I still worked.
 
-Official report.
+Contracts paid more than learning cost, if you selected them carefully and ignored food.
 
-Field notes.
+Aren joined three times.
 
-Sketches.
+Sella twice.
 
-Operator statements.
+Corin once, mostly to laugh.
 
-Material invoices.
+Most sessions used strangers Sel hired from Guild Hall.
 
-Failed parts if small enough.
+That was the point.
 
-Photographs when somebody could afford them.
+I could not pre-study them.
 
-Then one page I called DECISION PATH.
+Could not build complementary demand.
 
-Minae renamed it because mine sounded dramatic.
+Could not teach signals for three days.
 
-SEQUENCE.
+Could not ask them to reorganize their technique around me.
+
+Sometimes I got six questions before the drill.
+
+Sometimes three.
+
+Sometimes none.
+
+The first month was ugly.
+
+I kept looking for individual optimization when the correct answer was broad margin.
+
+A fighter's left shoulder rolled under impact.
+
+I wanted to adjust reinforcement specifically.
+
+Sel said, "Whole upper line."
+
+"Wasteful."
+
+"Safe."
+
+"I can do better."
+
+"Not if you don't know him."
+
+She was right.
+
+I hated repetition when other people used it against me.
+
+Static defense was worse.
+
+I had spent years training movement because reaching people mattered.
+
+Sel put me behind a waist-high line of stone and told me not to move for six minutes.
+
+"This is punishment."
+
+"This is a wall."
+
+"Same thing."
+
+The drill used three unfamiliar fighters and one marker target behind us.
+
+My job was simple.
+
+Maintain self-aura.
+
+Maintain broad reinforcement across the line.
+
+Catch impact that crossed the fighters.
+
+Do not chase local perfection.
+
+At two minutes I wanted to move left.
+
+Sel said, "No."
+
+At three I moved anyway.
+
+One fighter overextended because the support pocket moved with me.
+
+Sel stopped the drill.
+
+"Again."
+
+At four minutes my left calf cramped from standing stupidly.
+
+Sel looked pleased.
+
+I disliked her.
+
+By month three I could hold the line.
+
+Not beautifully.
+
+Safely.
+
+That mattered.
+
+Emergency stabilization took longer.
+
+I knew bodies through combat mechanics.
+
+That was not healing.
+
+Knowing a knee was collapsing inward did not mean I should repair a ligament.
+
+Knowing pressure was trapped in an aura did not make Draw appropriate.
+
+Sel made me practice the things support was expected to do before a healer arrived.
+
+Stop movement.
+
+Prevent magical reinforcement from worsening an injury.
+
+Isolate contamination.
+
+Support airway position.
+
+Brace without compressing the wrong structure.
+
+Keep a panicking person from spending into damaged channels.
+
+Call a healer early.
+
+That last one was difficult because it involved another professional.
+
+Sel noticed.
+
+"You are not becoming a healer."
+
+"I know."
+
+"Say it."
+
+"I am not becoming a healer."
+
+"Again."
+
+"This is unnecessary."
+
+"Again."
+
+I said it again.
+
+She smiled.
+
+Terrible woman.
+
+We practiced on weighted training bodies, then volunteers, then low-risk Guild exercises.
+
+No actual injury created for education.
+
+Important rule.
+
+One volunteer had an old wrist break that made his reinforcement flare strangely under pressure.
+
+I saw it immediately.
+
+Started asking questions.
+
+Sel said, "What is your job?"
+
+"Stabilize until healer."
+
+"Then?"
+
+I stabilized until healer.
+
+The healer later told me exactly what I had suspected about the wrist.
+
+I experienced no satisfaction.
+
+Some satisfaction.
 
 Fine.
 
-TIME.
+Self-protection was the most uncomfortable.
 
-OBSERVED.
+My open-aura work had become valuable enough that I increasingly thought of continuous self-reinforcement as an obstacle.
 
-BELIEVED THEN.
+Sel treated that idea like a man complaining pants restricted sprint speed.
 
-ACTION.
+"Then wear them until sprinting matters."
 
-RESULT.
+"That's not equivalent."
 
-BELIEVED AFTER.
+"It is in the important way."
 
-That last column mattered.
+She made me maintain ordinary aura through support tasks until dropping it became a deliberate event rather than my preferred default.
 
-People rewrite their old certainty after the result appears.
+This was harder than learning to drop it.
 
-Memory protects dignity aggressively.
+Open felt clean now.
 
-If the operator wrote BEFORE opening the wall: probably loose support, and afterward we found a cracked return sleeve, the archive kept both.
+More sensory room.
 
-No shame.
+Less internal interference.
 
-Different information at different times.
+Closed felt crowded.
 
-That became policy.
+Safe.
 
-Never erase the wrong idea just because the right one arrived.
+Slower.
 
-Rin loved the archive.
+Necessary more often than I wanted.
 
-Of course.
+The rule became simple.
 
-Suspicious handwriting finds purpose eventually.
+If I did not have a specific external reason to open, I stayed protected.
 
-She started indexing failures by symptom as well as site.
+Not because that was maximally efficient.
 
-KNOCK UNDER RISING LOAD.
+Because being alive between interesting moments remained professionally useful.
 
-DELAYED TEMPERATURE SHIFT.
+That autumn Sel put me on a one-day emergency roster without telling me who else would be there.
 
-VALVE STIFF ONLY HOT.
+I almost refused on principle.
 
-PRESSURE LOSS AFTER CLEANING CYCLE.
+Then remembered the point.
 
-The last one led us back to Mina's bakery problem from years earlier.
+A grain warehouse had partially collapsed during unloading.
 
-We added it.
+No monsters.
 
-Mina objected to being archived.
+No expedition.
 
-“You fixed it.”
+No elite fighters.
 
-“That's why it's useful.”
+Workers.
 
-“I don't want future people knowing I washed pans wrong.”
+Dust.
 
-“You did not wash pans wrong.”
+Broken timber.
 
-“Good. Write that.”
+Two minor fires from damaged heatstones.
 
-We did.
+Three injuries before we arrived.
 
-Lorn contributed Senn's wall-opening complaint.
+One support besides me.
 
-Not flattering.
+One healer.
+
+City labor crews.
+
+Nobody cared about my specialization.
 
 Good.
 
-The hearing finding too.
+I kept self-aura up because falling buildings did not respect professional innovation.
 
-North Cut's failed cascade theory got its own drawer.
+Used broad Barrier to keep dust off the healer's working area.
 
-Pellin sent copies of relevant translations.
+Reinforced a cracked stair long enough for six people to come down.
 
-Osa sent instrument notes with comments like BAD TEST and DO THIS AGAIN written large enough to survive history.
+Held a panicked worker's aura quiet while Sel splinted his leg physically.
 
-Tova sent measurements.
+Did not Draw.
 
-No commentary unless necessary.
+Did not optimize the crew.
 
-Tova trusted numbers more than handwriting.
+Did not ask the man with the broken leg whether anger improved performance.
 
-The archive became popular accidentally.
+Growth.
 
-A Hillcross crew asked whether we had seen a relief valve that chattered only after shutdown.
+At one point a beam shifted above the east loading door.
 
-Rin found two similar cases.
+I saw three possible interventions.
 
-Different causes.
+A precise Barrier under the weak corner.
 
-Still useful.
+Load transfer into the adjacent frame.
 
-One trapped condensate.
+Or broad reinforcement across the entire doorway.
 
-One bad spring seat.
+The broad version cost more.
 
-The question changed from what is it to what should we test first.
+I used it.
 
-Better question.
+Because I did not know the building.
 
-Then district engineering asked to copy part of the archive.
+The door held.
 
-I said yes.
+Workers exited.
 
-Minae said charge them.
+Later the city engineer said the left corner had hidden rot behind the facing board.
 
-She was right.
+My precise solution would have put more load into it.
 
-Not for knowledge.
+Sel did not say anything.
 
-For copying labor.
+She did not need to.
 
-Paper.
+I hated that most.
 
-Clerk time.
+Winter came.
 
-Indexing.
+My boots wore through at the heel.
 
-If institutions wanted good records, good records needed a budget.
+Again.
 
-Beautifully boring.
+I bought better ones this time.
 
-Halden found money.
+Fourteen silver.
+
+Aren said I had finally learned equipment economics.
+
+I told him his father once made me run from ridge-hounds in worse shoes.
+
+Aren said, "That sounds like him."
+
+No apology.
+
+Drays.
+
+The party scattered for contracts over winter.
+
+Not permanently.
+
+That was another thing I was learning.
+
+A party did not need to remain physically together to remain real.
+
+Letters moved.
+
+Rates moved.
+
+People took work.
+
+Sella sent one note complaining that a warehouse support had reinforced her shield every time she breathed too hard.
+
+Corin sent two pages about bridge food.
+
+Jessa sent nothing, then appeared in Vey and slept on my floor because her room had been rented out during a longer contract than expected.
+
+Aren sent a single line:
+
+VARO NOW THINKS HE INVENTED PATIENCE.
+
+I kept working with Sel.
+
+Less often.
+
+By late winter she stopped charging four silver.
+
+She charged six.
+
+"Why?"
+
+"You're harder to teach now."
+
+"That should lower the price."
+
+"No. You argue with evidence."
+
+Fair.
+
+Our final formal session used five strangers.
+
+No locator tabs.
+
+No custom signals beyond standard Guild calls.
+
+One static phase.
+
+One movement phase.
+
+One simulated casualty.
+
+One surprise replacement halfway through.
+
+I was not excellent.
+
+That felt important.
+
+Static line: Sel still better.
+
+Emergency stabilization: Sel much better.
+
+Unfamiliar movement: close enough that I stopped embarrassing myself.
+
+Self-protection: acceptable.
+
+Support allocation: mine.
+
+Even with strangers, I could now ask fewer questions and get more useful answers.
+
+Not because I knew them.
+
+Because I had learned which unknowns were dangerous.
+
+At the end Sel handed me the evaluation invitation I had kept folded for nearly a year.
+
+I stared at it.
+
+"How did you get this?"
+
+"Your desk is not secure."
+
+"You entered my room?"
+
+"Jessa let me in."
 
 Of course.
 
-Small archival stipend.
+The invitation had a crease through the Guild seal and a tea stain near the bottom.
 
-Enough to pay Minae one extra morning a week and buy cabinets that did not swell in rain.
+Sel tapped it.
 
-Progress.
+"You are still narrow."
 
-We created intake rules.
+"I know."
 
-Because once people hear archive, they send everything.
+"Your emergency healing is basic."
 
-We did not need every work order.
+"I know."
 
-We needed failures, near misses, unexpected conditions, theory changes, and repairs where actual mechanism differed from initial explanation.
+"I would still choose me over you for an unknown civilian disaster."
 
-Also ordinary successes that tested a feared condition and found nothing.
+"I would also choose you."
 
-Negative evidence.
+That surprised her.
 
-Harder to love.
+Good.
 
-Important.
+"But?" I asked.
 
-A file named NO LEGACY CONNECTION FOUND saved three future crews from excavating the same innocent wall.
+"But now I would not object if someone chose you."
 
-That might have been the archive's most profitable page that year.
+That was annoyingly meaningful.
 
-Pellin wanted scholarly references attached to legacy cases.
+I looked at the invitation again.
 
-Tova wanted instrument calibration records.
+Then at Sel.
 
-Nessa wanted schedule context.
+"If I fail twice, do they charge the full fee again?"
 
-“What schedule context?” I asked.
+"Yes."
 
-“Load.”
+"Corrupt institution."
 
-“We record load.”
+"Are you applying?"
 
-“Not human load. Market day. Night shift. School meal. Festival. Cold snap.”
+I folded the invitation along the existing crease.
 
-She was right.
+Put it in my coat.
 
-Of course.
+"Tomorrow."
 
-System conditions were social conditions too.
+Sel nodded.
 
-We added CONTEXT.
+Then held out her hand.
 
-The form became one page longer.
+"Six silver."
 
-Crews complained.
+I had forgotten the lesson fee.
 
-We shortened two other sections.
-
-Knowledge has to survive users.
-
-The archive taught me something uncomfortable about my own memory.
-
-I had treated First Life as a perfect archive because it lived inside me.
-
-It was not.
-
-First Life was a badly indexed box of vivid things.
-
-Deaths.
-
-Contracts.
-
-Pain.
-
-Faces.
-
-Arguments.
-
-A road closure remembered more clearly than fourteen people who died behind it.
-
-Outcome without paperwork.
-
-Emotion without sequence.
-
-Some memories were excellent field notes.
-
-Others were headlines written decades later by one biased witness.
-
-Me.
-
-That did not make them useless.
-
-It made them records requiring provenance.
-
-The same rule as everything else.
-
-The archive eventually moved out of our shop.
-
-Not yet.
-
-At first it lived beside the kettle and a shelf of failed regulators.
-
-Rin kept index cards in a wooden box.
-
-Minae chased missing dates.
-
-Lorn added notes when he remembered.
-
-I wrote too much.
-
-Good beginning.
-
-One afternoon a young station hand came in asking for an old East Two case.
-
-I found the drawer.
-
-He read Tova's original measurements.
-
-My recommendation.
-
-Her dissent.
-
-Sena Marr's monitoring log.
-
-The isolation event.
-
-Nobody hurt.
-
-Market cold.
-
-All of it.
-
-He looked up.
-
-“Who was right?”
-
-I laughed.
-
-He did not.
-
-Good question.
-
-“Read it again.”
-
-That was the archive working.
-
-Not giving him the answer.
-
-Refusing to delete the disagreement that produced the outcome.
-
-History becomes dangerous when it only keeps the winner's explanation.
-
-We kept the mess.
+B-class remained expensive.
