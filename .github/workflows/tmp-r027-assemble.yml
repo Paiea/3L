@@ -1,0 +1,49 @@
+name: Temporary Record 027 Assemble
+on:
+  push:
+    branches: [audio/record-027-production]
+    paths: [.github/workflows/tmp-r027-assemble.yml]
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: audio/record-027-production}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - name: Verify and assemble
+        run: |
+          python scripts/audio_route.py manuscript/records/027/current.md audio/routing/record-027.json /tmp/route.json
+          python - <<'PY'
+          import hashlib,json,subprocess
+          from pathlib import Path
+          r=json.loads(Path('audio/production/record-027/route-plan.json').read_text()); g=json.loads(Path('/tmp/route.json').read_text()); c=json.loads(Path('audio/production/record-027/captures.json').read_text())
+          sha=hashlib.sha256(Path('manuscript/records/027/current.md').read_bytes()).hexdigest(); assert sha==r['source_sha256']==g['source_sha256']==c['source_sha256']=='7c297a17bfd383558e5584c3ede01e4f39653d58276c27103715ddd9fa692519'; assert r['segments']==g['segments']; assert len(r['segments'])==31; assert all(s['speaker']=='greg' and s['voice_id']=='deep' for s in r['segments']); assert [x['index'] for x in c['segments']]==list(range(1,32)); assert all(x['pause_after_ms']==s['pause_after_ms'] for x,s in zip(c['segments'],r['segments']))
+          root=Path('/tmp/r027'); (root/'w').mkdir(parents=True); (root/'s').mkdir(); (root/'m').mkdir(); concat=[]
+          for x in c['segments']:
+            i=x['index']; m=root/'m'/f'{i:03}.mp3'; w=root/'w'/f'{i:03}.wav'; s=root/'s'/f'{i:03}.wav'; subprocess.run(['curl','-fsSL','--retry','4','-o',str(m),x['preview_url']],check=True); subprocess.run(['ffmpeg','-loglevel','error','-y','-i',str(m),'-ar','24000','-ac','1','-c:a','pcm_s16le',str(w)],check=True); concat.append(w); ms=x['pause_after_ms']; subprocess.run(['ffmpeg','-loglevel','error','-y','-f','lavfi','-i','anullsrc=r=24000:cl=mono','-t',f'{ms/1000:.3f}','-c:a','pcm_s16le',str(s)],check=True); concat.append(s)
+          (root/'concat.txt').write_text(''.join("file '"+str(p)+"'\n" for p in concat))
+          print('Record 027 structural verification passed')
+          PY
+          mkdir -p audio/assets
+          ffmpeg -loglevel error -y -f concat -safe 0 -i /tmp/r027/concat.txt -ar 24000 -ac 1 -c:a pcm_s16le /tmp/r027/out.wav
+          ffmpeg -loglevel error -y -i /tmp/r027/out.wav -ar 24000 -ac 1 -c:a libmp3lame -b:a 128k audio/assets/record-027-quote-locked-v2.mp3
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 audio/assets/record-027-quote-locked-v2.mp3 >/tmp/dur
+          sha256sum audio/assets/record-027-quote-locked-v2.mp3 | awk '{print $1}' >/tmp/sha
+          python - <<'PY'
+          import json; from pathlib import Path
+          r=json.loads(Path('audio/production/record-027/route-plan.json').read_text()); p={'record':'027','status':'assembled_unlistened','routing_mode':'exact_quote_locked','uses_timestamps_for_speaker_assignment':False,'source_sha256':r['source_sha256'],'segment_count':31,'ithar_segment_indices':[],'duration_seconds':round(float(Path('/tmp/dur').read_text()),3),'sha256':Path('/tmp/sha').read_text().strip(),'asset':'audio/assets/record-027-quote-locked-v2.mp3','note':'Deterministic route/pause verification passed; auditory listen-back remains pending.'}; Path('audio/production/record-027/verification-v2.json').write_text(json.dumps(p,indent=2)+'\n'); print(json.dumps(p,indent=2))
+          PY
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio/assets/record-027-quote-locked-v2.mp3 audio/production/record-027/verification-v2.json
+          git commit -m 'Assemble Record 027 production audio'
+          git push origin HEAD:audio/record-027-production
