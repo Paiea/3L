@@ -1,0 +1,1702 @@
+{
+  "record": "037",
+  "quote_count": 212,
+  "quotes": [
+    {
+      "quote_index": 1,
+      "text": "\"You wanted to know what he was seeing.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 0,
+      "end": 40
+    },
+    {
+      "quote_index": 2,
+      "text": "\"Yes.\"",
+      "occurrence": 1,
+      "total_occurrences": 13,
+      "start": 97,
+      "end": 103
+    },
+    {
+      "quote_index": 3,
+      "text": "\"So you returned.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 105,
+      "end": 123
+    },
+    {
+      "quote_index": 4,
+      "text": "\"I was employed there.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 125,
+      "end": 148
+    },
+    {
+      "quote_index": 5,
+      "text": "\"You returned early.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 150,
+      "end": 171
+    },
+    {
+      "quote_index": 6,
+      "text": "\"Support staff arrive early.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 191,
+      "end": 220
+    },
+    {
+      "quote_index": 7,
+      "text": "\"You said that already.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 222,
+      "end": 246
+    },
+    {
+      "quote_index": 8,
+      "text": "\"Still true.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 248,
+      "end": 261
+    },
+    {
+      "quote_index": 9,
+      "text": "\"How early?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 263,
+      "end": 275
+    },
+    {
+      "quote_index": 10,
+      "text": "\"An hour.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 314,
+      "end": 324
+    },
+    {
+      "quote_index": 11,
+      "text": "\"Fuck you.\"",
+      "occurrence": 1,
+      "total_occurrences": 2,
+      "start": 350,
+      "end": 361
+    },
+    {
+      "quote_index": 12,
+      "text": "\"I said nothing.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 363,
+      "end": 380
+    },
+    {
+      "quote_index": 13,
+      "text": "\"You have become very expressive.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 382,
+      "end": 416
+    },
+    {
+      "quote_index": 14,
+      "text": "\"Continue.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 418,
+      "end": 429
+    },
+    {
+      "quote_index": 15,
+      "text": "\"You know she could have actually done that.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 3808,
+      "end": 3853
+    },
+    {
+      "quote_index": 16,
+      "text": "\"Yes.\"",
+      "occurrence": 2,
+      "total_occurrences": 13,
+      "start": 3855,
+      "end": 3861
+    },
+    {
+      "quote_index": 17,
+      "text": "\"Then why stand there?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 3863,
+      "end": 3886
+    },
+    {
+      "quote_index": 18,
+      "text": "\"It worked.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 3888,
+      "end": 3900
+    },
+    {
+      "quote_index": 19,
+      "text": "\"Support.\"",
+      "occurrence": 1,
+      "total_occurrences": 3,
+      "start": 4358,
+      "end": 4368
+    },
+    {
+      "quote_index": 20,
+      "text": "\"The one staring at me.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 4411,
+      "end": 4435
+    },
+    {
+      "quote_index": 21,
+      "text": "\"You have been watching me,\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5120,
+      "end": 5148
+    },
+    {
+      "quote_index": 22,
+      "text": "\"Yes.\"",
+      "occurrence": 3,
+      "total_occurrences": 13,
+      "start": 5188,
+      "end": 5194
+    },
+    {
+      "quote_index": 23,
+      "text": "\"Why?\"",
+      "occurrence": 1,
+      "total_occurrences": 4,
+      "start": 5255,
+      "end": 5261
+    },
+    {
+      "quote_index": 24,
+      "text": "\"You react to different things than everyone else.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5263,
+      "end": 5314
+    },
+    {
+      "quote_index": 25,
+      "text": "\"Everyone reacts to different things.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5316,
+      "end": 5354
+    },
+    {
+      "quote_index": 26,
+      "text": "\"Not like you.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5356,
+      "end": 5371
+    },
+    {
+      "quote_index": 27,
+      "text": "\"How do I react?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5373,
+      "end": 5390
+    },
+    {
+      "quote_index": 28,
+      "text": "\"Mostly you eat chestnuts.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5490,
+      "end": 5517
+    },
+    {
+      "quote_index": 29,
+      "text": "\"Currently no chestnuts.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5655,
+      "end": 5680
+    },
+    {
+      "quote_index": 30,
+      "text": "\"I've noticed.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5682,
+      "end": 5697
+    },
+    {
+      "quote_index": 31,
+      "text": "\"Good.\"",
+      "occurrence": 1,
+      "total_occurrences": 3,
+      "start": 5699,
+      "end": 5706
+    },
+    {
+      "quote_index": 32,
+      "text": "\"You stop,\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5793,
+      "end": 5804
+    },
+    {
+      "quote_index": 33,
+      "text": "\"Doing what?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5814,
+      "end": 5827
+    },
+    {
+      "quote_index": 34,
+      "text": "\"Small things. Eating. Tapping your finger. Looking where everyone else looks. You change when something matters.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5829,
+      "end": 5943
+    },
+    {
+      "quote_index": 35,
+      "text": "\"To me.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5945,
+      "end": 5953
+    },
+    {
+      "quote_index": 36,
+      "text": "\"Yes.\"",
+      "occurrence": 4,
+      "total_occurrences": 13,
+      "start": 5955,
+      "end": 5961
+    },
+    {
+      "quote_index": 37,
+      "text": "\"You assume that means it matters.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 5963,
+      "end": 5998
+    },
+    {
+      "quote_index": 38,
+      "text": "\"More likely than when the entire crowd starts screaming.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 6032,
+      "end": 6090
+    },
+    {
+      "quote_index": 39,
+      "text": "\"Why did the saber fighter win?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 6172,
+      "end": 6204
+    },
+    {
+      "quote_index": 40,
+      "text": "\"His support stabilized the rear leg after the fourth entry.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 6241,
+      "end": 6302
+    },
+    {
+      "quote_index": 41,
+      "text": "\"No.\"",
+      "occurrence": 1,
+      "total_occurrences": 11,
+      "start": 6304,
+      "end": 6309
+    },
+    {
+      "quote_index": 42,
+      "text": "\"You looked at the support.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 6349,
+      "end": 6377
+    },
+    {
+      "quote_index": 43,
+      "text": "\"Yes.\"",
+      "occurrence": 5,
+      "total_occurrences": 13,
+      "start": 6379,
+      "end": 6385
+    },
+    {
+      "quote_index": 44,
+      "text": "\"You leaned forward after he adjusted the calf barrier.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 6387,
+      "end": 6443
+    },
+    {
+      "quote_index": 45,
+      "text": "\"Yes.\"",
+      "occurrence": 6,
+      "total_occurrences": 13,
+      "start": 6445,
+      "end": 6451
+    },
+    {
+      "quote_index": 46,
+      "text": "\"Then what was it?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 6453,
+      "end": 6472
+    },
+    {
+      "quote_index": 47,
+      "text": "\"You tell me.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 6474,
+      "end": 6488
+    },
+    {
+      "quote_index": 48,
+      "text": "\"He stopped giving ground.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 6649,
+      "end": 6676
+    },
+    {
+      "quote_index": 49,
+      "text": "\"No.\"",
+      "occurrence": 2,
+      "total_occurrences": 11,
+      "start": 6678,
+      "end": 6683
+    },
+    {
+      "quote_index": 50,
+      "text": "\"The other fighter got impatient.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 6685,
+      "end": 6719
+    },
+    {
+      "quote_index": 51,
+      "text": "\"Closer.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 6721,
+      "end": 6730
+    },
+    {
+      "quote_index": 52,
+      "text": "\"He made him believe the inside was still available.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7044,
+      "end": 7097
+    },
+    {
+      "quote_index": 53,
+      "text": "\"Better.\"",
+      "occurrence": 1,
+      "total_occurrences": 2,
+      "start": 7130,
+      "end": 7139
+    },
+    {
+      "quote_index": 54,
+      "text": "\"Then why were you watching the support?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7197,
+      "end": 7238
+    },
+    {
+      "quote_index": 55,
+      "text": "\"I was not.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7240,
+      "end": 7252
+    },
+    {
+      "quote_index": 56,
+      "text": "\"You were looking directly at him.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7254,
+      "end": 7289
+    },
+    {
+      "quote_index": 57,
+      "text": "\"I was looking at the fighter through him.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7291,
+      "end": 7334
+    },
+    {
+      "quote_index": 58,
+      "text": "\"You see the thing in front of your eyes and decide it is the thing being measured.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7423,
+      "end": 7507
+    },
+    {
+      "quote_index": 59,
+      "text": "\"Usually a good starting assumption.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7509,
+      "end": 7546
+    },
+    {
+      "quote_index": 60,
+      "text": "\"Starting.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7548,
+      "end": 7559
+    },
+    {
+      "quote_index": 61,
+      "text": "\"You do this often?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7611,
+      "end": 7631
+    },
+    {
+      "quote_index": 62,
+      "text": "\"What?\"",
+      "occurrence": 1,
+      "total_occurrences": 2,
+      "start": 7642,
+      "end": 7649
+    },
+    {
+      "quote_index": 63,
+      "text": "\"Make people answer questions until they discover you think they are wrong.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7651,
+      "end": 7727
+    },
+    {
+      "quote_index": 64,
+      "text": "\"Only when they stare at me for three days.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7729,
+      "end": 7773
+    },
+    {
+      "quote_index": 65,
+      "text": "\"Lord Arcrutus, the south delegation is waiting.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7807,
+      "end": 7856
+    },
+    {
+      "quote_index": 66,
+      "text": "\"I have work,\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7937,
+      "end": 7951
+    },
+    {
+      "quote_index": 67,
+      "text": "\"So do I.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 7962,
+      "end": 7972
+    },
+    {
+      "quote_index": 68,
+      "text": "\"You are carrying laundry.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8027,
+      "end": 8054
+    },
+    {
+      "quote_index": 69,
+      "text": "\"Professional laundry.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8056,
+      "end": 8079
+    },
+    {
+      "quote_index": 70,
+      "text": "\"Important distinction.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8081,
+      "end": 8105
+    },
+    {
+      "quote_index": 71,
+      "text": "\"Very.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8107,
+      "end": 8114
+    },
+    {
+      "quote_index": 72,
+      "text": "\"Support.\"",
+      "occurrence": 2,
+      "total_occurrences": 3,
+      "start": 8156,
+      "end": 8166
+    },
+    {
+      "quote_index": 73,
+      "text": "\"You decide too quickly.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8184,
+      "end": 8209
+    },
+    {
+      "quote_index": 74,
+      "text": "\"About what?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8211,
+      "end": 8224
+    },
+    {
+      "quote_index": 75,
+      "text": "\"Everything.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8226,
+      "end": 8239
+    },
+    {
+      "quote_index": 76,
+      "text": "\"Did you?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8357,
+      "end": 8367
+    },
+    {
+      "quote_index": 77,
+      "text": "\"Did I what?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8369,
+      "end": 8382
+    },
+    {
+      "quote_index": 78,
+      "text": "\"Decide too quickly.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8384,
+      "end": 8405
+    },
+    {
+      "quote_index": 79,
+      "text": "\"No.\"",
+      "occurrence": 3,
+      "total_occurrences": 11,
+      "start": 8407,
+      "end": 8412
+    },
+    {
+      "quote_index": 80,
+      "text": "\"Fine. Yes. Sometimes.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8424,
+      "end": 8447
+    },
+    {
+      "quote_index": 81,
+      "text": "\"Frequently.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8464,
+      "end": 8477
+    },
+    {
+      "quote_index": 82,
+      "text": "\"Interesting.\"",
+      "occurrence": 1,
+      "total_occurrences": 2,
+      "start": 8532,
+      "end": 8546
+    },
+    {
+      "quote_index": 83,
+      "text": "\"You are both very irritating.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8548,
+      "end": 8579
+    },
+    {
+      "quote_index": 84,
+      "text": "\"You sought him out.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8581,
+      "end": 8602
+    },
+    {
+      "quote_index": 85,
+      "text": "\"I did not seek him out.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8604,
+      "end": 8629
+    },
+    {
+      "quote_index": 86,
+      "text": "\"You arrived an hour early.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8631,
+      "end": 8659
+    },
+    {
+      "quote_index": 87,
+      "text": "\"For work.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8661,
+      "end": 8672
+    },
+    {
+      "quote_index": 88,
+      "text": "\"And carried laundry beneath his seating section.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8674,
+      "end": 8724
+    },
+    {
+      "quote_index": 89,
+      "text": "\"There were wash barrels there.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8726,
+      "end": 8758
+    },
+    {
+      "quote_index": 90,
+      "text": "\"Convenient.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8760,
+      "end": 8773
+    },
+    {
+      "quote_index": 91,
+      "text": "\"Do you want the story or not?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8775,
+      "end": 8806
+    },
+    {
+      "quote_index": 92,
+      "text": "\"Yes.\"",
+      "occurrence": 7,
+      "total_occurrences": 13,
+      "start": 8808,
+      "end": 8814
+    },
+    {
+      "quote_index": 93,
+      "text": "\"Then stop helping.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 8816,
+      "end": 8836
+    },
+    {
+      "quote_index": 94,
+      "text": "\"He says this is becoming embarrassing.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11159,
+      "end": 11199
+    },
+    {
+      "quote_index": 95,
+      "text": "\"Hungry?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11423,
+      "end": 11432
+    },
+    {
+      "quote_index": 96,
+      "text": "\"No.\"",
+      "occurrence": 4,
+      "total_occurrences": 11,
+      "start": 11434,
+      "end": 11439
+    },
+    {
+      "quote_index": 97,
+      "text": "\"Then stop looking at my food.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11441,
+      "end": 11472
+    },
+    {
+      "quote_index": 98,
+      "text": "\"I'm testing something.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11474,
+      "end": 11498
+    },
+    {
+      "quote_index": 99,
+      "text": "\"Poorly.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11500,
+      "end": 11509
+    },
+    {
+      "quote_index": 100,
+      "text": "\"Do you always know when I'm watching you?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11511,
+      "end": 11554
+    },
+    {
+      "quote_index": 101,
+      "text": "\"No.\"",
+      "occurrence": 5,
+      "total_occurrences": 11,
+      "start": 11556,
+      "end": 11561
+    },
+    {
+      "quote_index": 102,
+      "text": "\"No?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11583,
+      "end": 11588
+    },
+    {
+      "quote_index": 103,
+      "text": "\"No.\"",
+      "occurrence": 6,
+      "total_occurrences": 11,
+      "start": 11590,
+      "end": 11595
+    },
+    {
+      "quote_index": 104,
+      "text": "\"Good.\"",
+      "occurrence": 2,
+      "total_occurrences": 3,
+      "start": 11597,
+      "end": 11604
+    },
+    {
+      "quote_index": 105,
+      "text": "\"Why good?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11606,
+      "end": 11617
+    },
+    {
+      "quote_index": 106,
+      "text": "\"Means there are openings.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11619,
+      "end": 11646
+    },
+    {
+      "quote_index": 107,
+      "text": "\"You are trying to surprise me.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11765,
+      "end": 11797
+    },
+    {
+      "quote_index": 108,
+      "text": "\"Not currently.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11799,
+      "end": 11815
+    },
+    {
+      "quote_index": 109,
+      "text": "\"That answer contains too much confidence.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11817,
+      "end": 11860
+    },
+    {
+      "quote_index": 110,
+      "text": "\"Can you be surprised?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11862,
+      "end": 11885
+    },
+    {
+      "quote_index": 111,
+      "text": "\"Yes.\"",
+      "occurrence": 8,
+      "total_occurrences": 13,
+      "start": 11887,
+      "end": 11893
+    },
+    {
+      "quote_index": 112,
+      "text": "\"By me?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11895,
+      "end": 11903
+    },
+    {
+      "quote_index": 113,
+      "text": "\"Almost certainly.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11905,
+      "end": 11924
+    },
+    {
+      "quote_index": 114,
+      "text": "\"That sounds encouraging.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11926,
+      "end": 11952
+    },
+    {
+      "quote_index": 115,
+      "text": "\"It was not.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 11954,
+      "end": 11967
+    },
+    {
+      "quote_index": 116,
+      "text": "\"If I threw something at you while you weren't looking, would you catch it?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12003,
+      "end": 12079
+    },
+    {
+      "quote_index": 117,
+      "text": "\"No.\"",
+      "occurrence": 7,
+      "total_occurrences": 11,
+      "start": 12189,
+      "end": 12194
+    },
+    {
+      "quote_index": 118,
+      "text": "\"Interesting.\"",
+      "occurrence": 2,
+      "total_occurrences": 2,
+      "start": 12196,
+      "end": 12210
+    },
+    {
+      "quote_index": 119,
+      "text": "\"Why?\"",
+      "occurrence": 2,
+      "total_occurrences": 4,
+      "start": 12212,
+      "end": 12218
+    },
+    {
+      "quote_index": 120,
+      "text": "\"I expected yes.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12220,
+      "end": 12237
+    },
+    {
+      "quote_index": 121,
+      "text": "\"You should improve your expectations.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12239,
+      "end": 12278
+    },
+    {
+      "quote_index": 122,
+      "text": "\"So it would hit you?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12280,
+      "end": 12302
+    },
+    {
+      "quote_index": 123,
+      "text": "\"No.\"",
+      "occurrence": 8,
+      "total_occurrences": 11,
+      "start": 12304,
+      "end": 12309
+    },
+    {
+      "quote_index": 124,
+      "text": "\"You just said you wouldn't catch it.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12323,
+      "end": 12361
+    },
+    {
+      "quote_index": 125,
+      "text": "\"Correct.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12363,
+      "end": 12373
+    },
+    {
+      "quote_index": 126,
+      "text": "\"Those are the available outcomes.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12375,
+      "end": 12410
+    },
+    {
+      "quote_index": 127,
+      "text": "\"To you.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12412,
+      "end": 12421
+    },
+    {
+      "quote_index": 128,
+      "text": "\"You'd still have to know it was coming.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12522,
+      "end": 12563
+    },
+    {
+      "quote_index": 129,
+      "text": "\"Would I?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12565,
+      "end": 12575
+    },
+    {
+      "quote_index": 130,
+      "text": "\"Yes.\"",
+      "occurrence": 9,
+      "total_occurrences": 13,
+      "start": 12577,
+      "end": 12583
+    },
+    {
+      "quote_index": 131,
+      "text": "\"Try.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12585,
+      "end": 12591
+    },
+    {
+      "quote_index": 132,
+      "text": "\"Seriously?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12695,
+      "end": 12707
+    },
+    {
+      "quote_index": 133,
+      "text": "\"No.\"",
+      "occurrence": 9,
+      "total_occurrences": 11,
+      "start": 12709,
+      "end": 12714
+    },
+    {
+      "quote_index": 134,
+      "text": "\"What?\"",
+      "occurrence": 2,
+      "total_occurrences": 2,
+      "start": 12716,
+      "end": 12723
+    },
+    {
+      "quote_index": 135,
+      "text": "\"Nothing about this conversation is serious.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 12725,
+      "end": 12770
+    },
+    {
+      "quote_index": 136,
+      "text": "\"Chestnut,\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14529,
+      "end": 14540
+    },
+    {
+      "quote_index": 137,
+      "text": "\"Yes.\"",
+      "occurrence": 10,
+      "total_occurrences": 13,
+      "start": 14551,
+      "end": 14557
+    },
+    {
+      "quote_index": 138,
+      "text": "\"Wasteful.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14559,
+      "end": 14570
+    },
+    {
+      "quote_index": 139,
+      "text": "\"What did you do?\"",
+      "occurrence": 1,
+      "total_occurrences": 2,
+      "start": 14572,
+      "end": 14590
+    },
+    {
+      "quote_index": 140,
+      "text": "\"You threw food at me.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14592,
+      "end": 14615
+    },
+    {
+      "quote_index": 141,
+      "text": "\"I know what I did.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14617,
+      "end": 14637
+    },
+    {
+      "quote_index": 142,
+      "text": "\"Good.\"",
+      "occurrence": 3,
+      "total_occurrences": 3,
+      "start": 14639,
+      "end": 14646
+    },
+    {
+      "quote_index": 143,
+      "text": "\"What did you do?\"",
+      "occurrence": 2,
+      "total_occurrences": 2,
+      "start": 14648,
+      "end": 14666
+    },
+    {
+      "quote_index": 144,
+      "text": "\"Stopped it.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14668,
+      "end": 14681
+    },
+    {
+      "quote_index": 145,
+      "text": "\"With what?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14683,
+      "end": 14695
+    },
+    {
+      "quote_index": 146,
+      "text": "\"Enough.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14697,
+      "end": 14706
+    },
+    {
+      "quote_index": 147,
+      "text": "\"That is not an answer.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14757,
+      "end": 14781
+    },
+    {
+      "quote_index": 148,
+      "text": "\"It answered the problem.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14783,
+      "end": 14809
+    },
+    {
+      "quote_index": 149,
+      "text": "\"I didn't see you move.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14811,
+      "end": 14835
+    },
+    {
+      "quote_index": 150,
+      "text": "\"You often do not see things.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14837,
+      "end": 14867
+    },
+    {
+      "quote_index": 151,
+      "text": "\"Did you move?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14869,
+      "end": 14884
+    },
+    {
+      "quote_index": 152,
+      "text": "\"Maybe.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 14952,
+      "end": 14960
+    },
+    {
+      "quote_index": 153,
+      "text": "\"Fuck you.\"",
+      "occurrence": 2,
+      "total_occurrences": 2,
+      "start": 14962,
+      "end": 14973
+    },
+    {
+      "quote_index": 154,
+      "text": "\"He is young.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15089,
+      "end": 15103
+    },
+    {
+      "quote_index": 155,
+      "text": "\"I noticed,\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15105,
+      "end": 15117
+    },
+    {
+      "quote_index": 156,
+      "text": "\"Again.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15193,
+      "end": 15201
+    },
+    {
+      "quote_index": 157,
+      "text": "\"No.\"",
+      "occurrence": 10,
+      "total_occurrences": 11,
+      "start": 15232,
+      "end": 15237
+    },
+    {
+      "quote_index": 158,
+      "text": "\"Why?\"",
+      "occurrence": 3,
+      "total_occurrences": 4,
+      "start": 15239,
+      "end": 15245
+    },
+    {
+      "quote_index": 159,
+      "text": "\"Chestnuts cost money.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15247,
+      "end": 15270
+    },
+    {
+      "quote_index": 160,
+      "text": "\"You threw food at one of the seven strongest humans alive.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15368,
+      "end": 15428
+    },
+    {
+      "quote_index": 161,
+      "text": "\"One of the seven S-class humans.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15430,
+      "end": 15464
+    },
+    {
+      "quote_index": 162,
+      "text": "\"Is that meaningfully different in this context?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15466,
+      "end": 15515
+    },
+    {
+      "quote_index": 163,
+      "text": "\"Classification matters.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15517,
+      "end": 15542
+    },
+    {
+      "quote_index": 164,
+      "text": "\"You threw food at him.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15544,
+      "end": 15568
+    },
+    {
+      "quote_index": 165,
+      "text": "\"He told me to try.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15570,
+      "end": 15590
+    },
+    {
+      "quote_index": 166,
+      "text": "\"He said the conversation was not serious.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15592,
+      "end": 15635
+    },
+    {
+      "quote_index": 167,
+      "text": "\"Before that.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15637,
+      "end": 15651
+    },
+    {
+      "quote_index": 168,
+      "text": "\"You selected the interpretation most convenient to your experiment.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15653,
+      "end": 15722
+    },
+    {
+      "quote_index": 169,
+      "text": "\"Yes.\"",
+      "occurrence": 11,
+      "total_occurrences": 13,
+      "start": 15724,
+      "end": 15730
+    },
+    {
+      "quote_index": 170,
+      "text": "\"Why?\"",
+      "occurrence": 4,
+      "total_occurrences": 4,
+      "start": 15755,
+      "end": 15761
+    },
+    {
+      "quote_index": 171,
+      "text": "\"Data.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15763,
+      "end": 15770
+    },
+    {
+      "quote_index": 172,
+      "text": "\"You could have asked.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15782,
+      "end": 15805
+    },
+    {
+      "quote_index": 173,
+      "text": "\"I did.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15807,
+      "end": 15815
+    },
+    {
+      "quote_index": 174,
+      "text": "\"You disliked the answer.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15817,
+      "end": 15843
+    },
+    {
+      "quote_index": 175,
+      "text": "\"It was incomplete.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15845,
+      "end": 15865
+    },
+    {
+      "quote_index": 176,
+      "text": "\"So you assaulted him with a chestnut.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15867,
+      "end": 15906
+    },
+    {
+      "quote_index": 177,
+      "text": "\"Assault is doing a lot of work there.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15908,
+      "end": 15947
+    },
+    {
+      "quote_index": 178,
+      "text": "\"What would your law call it?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15949,
+      "end": 15979
+    },
+    {
+      "quote_index": 179,
+      "text": "\"Depends who wrote the report.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 15981,
+      "end": 16012
+    },
+    {
+      "quote_index": 180,
+      "text": "\"And if Arcrutus wrote it?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 16014,
+      "end": 16041
+    },
+    {
+      "quote_index": 181,
+      "text": "\"Probably wasted food.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 16066,
+      "end": 16089
+    },
+    {
+      "quote_index": 182,
+      "text": "\"Your species remains difficult.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 16115,
+      "end": 16148
+    },
+    {
+      "quote_index": 183,
+      "text": "\"You ate an entire mountain goat because you did not understand portions.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 16150,
+      "end": 16224
+    },
+    {
+      "quote_index": 184,
+      "text": "\"It was one goat.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 16226,
+      "end": 16244
+    },
+    {
+      "quote_index": 185,
+      "text": "\"Exactly.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 16246,
+      "end": 16256
+    },
+    {
+      "quote_index": 186,
+      "text": "\"Support.\"",
+      "occurrence": 3,
+      "total_occurrences": 3,
+      "start": 17314,
+      "end": 17324
+    },
+    {
+      "quote_index": 187,
+      "text": "\"Why did blue lose?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17496,
+      "end": 17516
+    },
+    {
+      "quote_index": 188,
+      "text": "\"You know.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17536,
+      "end": 17547
+    },
+    {
+      "quote_index": 189,
+      "text": "\"Yes.\"",
+      "occurrence": 12,
+      "total_occurrences": 13,
+      "start": 17549,
+      "end": 17555
+    },
+    {
+      "quote_index": 190,
+      "text": "\"Then why ask me?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17557,
+      "end": 17575
+    },
+    {
+      "quote_index": 191,
+      "text": "\"You have spent three days looking at my face for answers.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17577,
+      "end": 17636
+    },
+    {
+      "quote_index": 192,
+      "text": "\"Fatigue.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17680,
+      "end": 17690
+    },
+    {
+      "quote_index": 193,
+      "text": "\"Everyone is fatigued.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17692,
+      "end": 17715
+    },
+    {
+      "quote_index": 194,
+      "text": "\"Accumulated reinforcement load.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17717,
+      "end": 17750
+    },
+    {
+      "quote_index": 195,
+      "text": "\"Everyone accumulates load.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17752,
+      "end": 17780
+    },
+    {
+      "quote_index": 196,
+      "text": "\"His support missed it.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17782,
+      "end": 17806
+    },
+    {
+      "quote_index": 197,
+      "text": "\"Did he?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17808,
+      "end": 17817
+    },
+    {
+      "quote_index": 198,
+      "text": "\"His recovery changed first,\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 17985,
+      "end": 18014
+    },
+    {
+      "quote_index": 199,
+      "text": "\"Not speed. Sequence. He used to settle the rear foot, breathe, then lift the guard. Later he lifted the guard before the foot was stable.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18048,
+      "end": 18187
+    },
+    {
+      "quote_index": 200,
+      "text": "\"He was protecting the appearance of readiness.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18205,
+      "end": 18253
+    },
+    {
+      "quote_index": 201,
+      "text": "\"Maybe the support saw the load. Maybe he was already compensating for it. If he hadn't, Blue would have failed sooner.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18322,
+      "end": 18442
+    },
+    {
+      "quote_index": 202,
+      "text": "\"Better.\"",
+      "occurrence": 2,
+      "total_occurrences": 2,
+      "start": 18477,
+      "end": 18486
+    },
+    {
+      "quote_index": 203,
+      "text": "\"What was actually wrong?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18521,
+      "end": 18547
+    },
+    {
+      "quote_index": 204,
+      "text": "\"No.\"",
+      "occurrence": 11,
+      "total_occurrences": 11,
+      "start": 18578,
+      "end": 18583
+    },
+    {
+      "quote_index": 205,
+      "text": "\"No what?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18585,
+      "end": 18595
+    },
+    {
+      "quote_index": 206,
+      "text": "\"You asked for answers for three days.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18597,
+      "end": 18636
+    },
+    {
+      "quote_index": 207,
+      "text": "\"Yes.\"",
+      "occurrence": 13,
+      "total_occurrences": 13,
+      "start": 18638,
+      "end": 18644
+    },
+    {
+      "quote_index": 208,
+      "text": "\"You have enough answers.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18646,
+      "end": 18672
+    },
+    {
+      "quote_index": 209,
+      "text": "\"I disagree.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18674,
+      "end": 18687
+    },
+    {
+      "quote_index": 210,
+      "text": "\"Expected.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18689,
+      "end": 18700
+    },
+    {
+      "quote_index": 211,
+      "text": "\"What did you see?\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18727,
+      "end": 18746
+    },
+    {
+      "quote_index": 212,
+      "text": "\"Not what it meant.\"",
+      "occurrence": 1,
+      "total_occurrences": 1,
+      "start": 18809,
+      "end": 18829
+    }
+  ]
+}
