@@ -1,0 +1,35 @@
+{
+  "record": "030",
+  "source_sha256": "2ae119cd7b2ca903e5ddc9c0843cc82fb105dec487d6bc9276fec072ec6d17e3",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I wrapped the bread in cloth.\n\nSeli looked at it.\n\n\"For later?\"\n\n\"Mira likes the crust.\"\n\nDera looked at me.\n\nI looked back.\n\n\"What?\"\n\n\"Nothing.\"\n\nI disliked her expression.\n\nI went home.\n\nMira was awake.\n\nTomas was not.\n\nOf course.\n\nMy mother sat at the table while Mira marched around the room carrying a cup with both hands like an unstable offering.\n\nShe saw me.\n\nStopped.\n\nThen walked directly past me toward the bread in my hand.\n\n\"Da,\" she said.\n\nI looked down at her.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then at the bread.\n\n\"You meant the bread.\"\n\nShe reached up.\n\nEvidence supported my theory.\n\nI gave her the crust.\n\nShe sat on the floor and became busy with it.\n\nMy mother said, \"She asked for you twice.\"\n\n\"Did she?\"\n\n\"Then you arrive and she chooses bread.\"\n\n\"Reasonable priorities.\"\n\nTomas woke in the other room.\n\nI heard the first small sound.\n\nNot crying yet.\n\nThe warning stage.\n\nI knew it immediately.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 33,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I had been called to East Four because I knew how a healthy station sounded.\n\nJori had solved the problem because he knew how a bad bearing sounded.\n\nAt home I knew the difference between Tomas waking and Tomas deciding the entire building had failed him.\n\nDifferent expertise.\n\nSame method, maybe.\n\nListen long enough that the ordinary becomes specific.\n\nThat sentence also tried to become profound.\n\nMira dropped bread on the floor.\n\nMy mother told me to pick it up.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Problem solved.\n\nMostly.",
+      "pause_after_ms": 220
+    }
+  ]
+}
