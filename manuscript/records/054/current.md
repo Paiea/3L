@@ -1,555 +1,701 @@
 ## RECORD 054
 
-## THE QUESTION
+## THE ROTATION
 
-Nessa asked whether I wanted children while Eli was asleep under our table.
+The first party I helped choose was worse on paper.
 
-Not literally under it.
+This was not an accident.
 
-Mostly.
+It was also not entirely my idea, which everyone forgot later because stories prefer one idiot at a time.
 
-He had started on the floor with a blanket because he insisted he was too old for the narrow spare bed.
+The contract came from North Mason at the beginning of summer.
 
-Then rolled during the night until one arm and most of his head disappeared beneath the table.
+Eight weeks.
 
-Children move strangely in sleep.
+Old aqueduct inspection and hazard clearance through the chalk cuts east of the city.
 
-Adults do too.
+The aqueduct itself still carried water.
 
-We are just more embarrassed about it.
+The maintenance galleries beside it carried mold, bad air, small predators, and several places where old reinforcement stone had become optimistic.
 
-Lena had asked us to keep him overnight because she had a printer deadline and her husband was out of town buying paper stock.
+The district wanted a five-person field team plus local labor.
 
-Eli was eleven.
+Shield.
 
-Old enough to claim he did not need watching.
+Two forward fighters.
 
-Young enough to leave wet boots in the middle of the room and almost kill me.
+One ranged caster or long weapon.
 
-He ate two dinners.
+Support.
 
-Beat Nessa at cards once.
+Normal enough.
 
-Lost six times after.
+Calder had the lead offer.
 
-Asked why my pressure maps used different lines than district maps.
+Orla was already named.
 
-I told him because the ground did not respect offices.
+I was requested specifically, which I pretended not to enjoy.
 
-He said that sounded stupid.
+Veda was available.
 
-I agreed.
+That left one slot.
 
-Then he fell asleep during a story he had asked for and insisted he was listening to.
+Two candidates.
 
-Nessa and I sat at the table afterward.
+Deren Holt and Noll Aris.
 
-Carefully.
+Deren was better.
 
-Eli's head was near one leg.
+Everybody agreed.
 
-The table still leaned toward the window.
+Including Noll.
 
-Less than before.
+Deren was a high C pressing B evaluation.
 
-Unproven maintenance.
+Fast blade work.
 
-Nessa looked down at him.
+Excellent aura.
 
-Then at me.
+Strong reserve.
 
-“Do you want children?”
+Had worked two seasons on tunnel suppression.
 
-I had been drinking tea.
+Noll was C.
 
-I stopped with the cup halfway to my mouth.
+Shortbow and utility casting.
 
-There are questions that deserve preparation.
+Good eyes.
 
-Apparently this one did not receive any.
+Average power.
 
-“Now?”
+No one described Noll as excellent without adding a noun after it.
 
-Nessa's face changed.
+Excellent route memory.
 
-“No, Greg. I would like you to produce one before morning.”
+Excellent patience.
 
-“That seems difficult.”
+Excellent at making coffee in wet conditions.
 
-“Answer the question.”
+Useful things.
 
-I put the cup down.
+Not the same reputation.
 
-“Why?”
+We trained with both before choosing.
 
-“That is not an answer either.”
+One day each.
 
-“Why are you asking?”
+Deren looked better immediately.
 
-She looked down at Eli.
+He and Calder could put pressure on the same target hard enough that Orla laughed once and then stopped because she needed both hands.
 
-“Because he is here.”
+Veda loved him.
 
-“That is Lena's fault.”
+"Again."
 
-“Because we've been doing this for years.”
+Deren grinned.
 
-“What?”
+Calder was breathing hard.
 
-“Building a life and pretending questions will become answers if we wait long enough.”
+"You say that because you are standing behind us."
 
-That was unfair.
+"Correct."
 
-Also accurate.
+They ran the exchange again.
 
-We had a five-year lease.
+Deren burst early.
 
-Shared money.
+Calder followed.
 
-Registered voices.
+Veda extended behind the opening.
 
-Two careers.
+Beautiful.
 
-Family care schedules.
+All three spent at once.
 
-Protected half-days.
+I felt the problem before I had language for it.
 
-A table with more authority than either of us wanted to admit.
+Not danger.
 
-We had not discussed marriage cleanly.
+After.
 
-Not because either of us opposed it.
+They reset.
 
-Because no immediate problem required it.
+Calder physically recovering.
 
-That had become our preferred way of avoiding important subjects.
+Deren reserve lower than expected.
 
-Children were less willing to wait for an administrative trigger.
+Veda had spent enough to need a shallow minute.
 
-“I don't know,” I said.
+Orla was fine.
 
-Nessa nodded.
+I was fine.
 
-Not disappointed.
+Three of the people who could create pressure had all chosen the same good moment.
 
-Not relieved.
+Why wouldn't they?
 
-“Okay.”
+It had been good.
 
-“That easy?”
+Then the next thirty seconds belonged to Orla.
 
-“No.”
+That was not automatically bad.
 
-Good.
+It was something.
 
-I looked at Eli.
+I wrote it down.
 
-He had one hand open near the table leg.
+Deren noticed.
 
-Eleven years old.
+"What?"
 
-I remembered him as a baby in Record Nine.
+"Nothing."
 
-Not clearly.
+"You have the face."
 
-A small hand gripping one finger.
+Security failure spreading across regions.
 
-My nephew.
+"Again," I said.
 
-Life Two firsts had accumulated until some of them became old memories.
+We did it six more times.
 
-That still surprised me.
+Same shape.
 
-“I think I do,” I said.
+Not exact.
 
-Nessa looked at me.
+Close.
 
-“Think?”
+Deren and Calder liked the same openings.
 
-“Yes.”
+Veda liked openings in general.
 
-“Why?”
+Their spending clustered.
 
-Terrible question.
+When pressure was available, they all wanted it.
+
+When recovery came, they all wanted that too.
+
+Noll trained the next day.
+
+Less impressive.
+
+Calder created an opening.
+
+Noll did not take it.
+
+Veda shouted, "Why?"
+
+Noll lowered the bow.
+
+"Bad angle."
+
+"It was open."
+
+"For you."
+
+Veda looked offended by perspective.
+
+Second exchange.
+
+Orla took pressure.
+
+Calder pressed right.
+
+Noll moved left instead of adding damage.
+
+Not much happened.
+
+Then Calder disengaged.
+
+Noll fired twice.
+
+Small utility cast under the second arrow.
+
+The target marker flashed.
+
+Good hit.
+
+Different time.
+
+Third exchange.
+
+Veda burst.
+
+Noll did nothing magical.
+
+Fourth.
+
+Veda recovering.
+
+Noll spent.
+
+I wrote more.
+
+By lunch I knew who I wanted.
+
+This irritated everyone.
+
+Calder read the notes.
+
+"Deren is stronger."
+
+"Yes."
+
+"More tunnel experience."
+
+"Yes."
+
+"Better aura."
+
+"Probably."
+
+"Then why Noll?"
+
+I pointed at the timing marks.
+
+Calder stared.
+
+"These are not words."
+
+"They are to me."
+
+"That is worse."
+
+Orla took the page.
+
+She understood first.
+
+Of course.
+
+"Deren spends when Calder spends."
+
+"And Veda."
+
+Veda leaned over her shoulder.
+
+"Because those are the good times to spend."
+
+"Yes."
+
+"So?"
+
+"So after the good time, I have three people recovering together."
+
+Deren was sitting close enough to hear.
 
 Important.
 
-I searched for an answer that was not borrowed from expectation.
+Do not imagine we discussed his career like livestock while he stood outside.
 
-Not because families should.
+He looked at the marks.
 
-Not because my parents wanted grandchildren.
+"You want somebody weaker because he attacks later."
 
-They already had Eli and somehow remained greedy.
+"Maybe."
 
-Not because Nessa might.
+"That's stupid."
 
-Her wanting could not substitute for mine.
+"Possibly."
 
-“I like this,” I said.
+Good start.
 
-She followed my eyes to Eli.
+"You can support the recovery."
 
-“Wet boots?”
+"Some."
 
-“No.”
+"Then do that."
 
-“Eating all our food?”
+"With what?"
 
-“No.”
+He frowned.
 
-“Losing your bed because an eleven-year-old thinks floors build character?”
+"Your mana."
 
-“That part is concerning.”
+"And when mine is low?"
 
-Nessa waited.
-
-“I like being part of somebody becoming a person.”
-
-The sentence embarrassed me after I said it.
-
-Too sincere.
-
-No cover.
-
-I continued before I could retreat.
-
-“Eli changes every time I see him. Perrin too. The trainees. Young workers. That's not the same thing, I know.”
-
-“No.”
-
-“But I like the part where they become more themselves and less what you expected.”
-
-Nessa's expression softened.
-
-“That sounds like a dangerous thing for you to enjoy.”
-
-“Because of the memory?”
-
-“Yes.”
+"Then why are you support?"
 
 There it was.
 
-The problem under the question.
+Not cruel.
 
-I had forty years of old experience living behind every current decision.
+Professional.
 
-Children would create the strongest temptation yet to confuse warning with ownership.
+A support who needed the roster to protect his reserve sounded like a bad support.
 
-I could imagine knowing too much.
+Maybe I was.
 
-Or believing I did.
+"That's a fair question," I said.
 
-First-life accidents.
+Deren looked more annoyed because I had not fought him.
 
-Diseases.
+Calder said, "Contract lead chooses."
 
-Cities.
+Then looked at me.
 
-Schools.
+"Recommendation?"
 
-People.
+"Noll."
 
-The urge to steer a child away from every road where old Greg remembered pain.
+Veda groaned.
 
-Record Twenty-Four had shown what that looked like with an adult stranger.
+Orla said nothing.
 
-A child would be easier to justify controlling.
+Calder chose Noll.
 
-That frightened me.
+Deren took another contract two days later for better money.
 
-“I'd be bad at parts of it,” I said.
+He sent Calder a note halfway through our job saying the team was excellent.
 
-“Obviously.”
+Good.
 
-I looked at her.
+This was not his villain origin.
 
-“Supportive.”
+North Mason started badly anyway.
 
-“You want me to lie?”
+First gallery, Noll missed a crawler because he waited for a cleaner shot that never came.
 
-“No.”
+Veda killed it and said, "Deren would have had that."
 
-“You'd overprepare.”
+Noll said, "Probably."
 
-“Yes.”
+Second day, Noll's utility cast failed in damp air.
 
-“Overreact.”
+Deren's blade would not have cared.
 
-“Maybe.”
+Third, he developed a cough from chalk dust and spent the evening miserable.
 
-“You'd teach a six-year-old emergency stop authority.”
+I began to question the experiment.
 
-“That seems useful.”
+Good.
 
-“Greg.”
+Then the gallery work lengthened.
 
-“Fine.”
+Not fights.
 
-She smiled.
+Hours.
 
-Then became serious again.
+Six hours underground.
 
-“You would also show up.”
+Seven.
 
-That landed harder.
+One day nine because a maintenance gate jammed after we passed and the return route changed.
 
-Not because it was praise.
+The party's rhythm became visible there.
 
-Because First Life contained too many people I had loved from far away.
+Calder burned hard when contact came.
 
-Showing up had become one of the quiet differences between the lives.
+Veda spent in bursts.
 
-I rubbed my thumb along the cup rim.
+Orla paid steadily.
 
-“What about you?”
+Noll spent in little pieces between them.
 
-Nessa looked at Eli.
+Mark route.
 
-“I think yes.”
+Dry footing.
 
-Faster answer.
+Arrow.
 
-Not easy.
+Small light.
 
-Settled longer.
+Wait.
 
-“You've thought about it.”
+Recover.
 
-“Yes.”
+His reserve rarely looked impressive.
 
-“How long?”
+It was almost always available when somebody else's was not.
 
-“Years.”
+That mattered more than I expected.
 
-I stared.
+We built a rotation without naming it.
 
-“Years?”
+At first.
 
-“Do not make that face.”
+Calder pressure.
 
-“What face?”
+Veda follows if angle good.
 
-“The one where you discover I have thoughts while you're not present.”
+Orla absorbs the counter.
 
-“I know you have thoughts.”
+Noll works during their recovery.
 
-“Apparently only professionally.”
+I support the current expensive point.
 
-“That is unfair.”
+Not fixed.
 
-“A little.”
+Not a sequence we obeyed when reality objected.
 
-I looked back at Eli.
+A tendency.
 
-“Why didn't you ask?”
+Then I started moving mana inside it.
 
-Nessa thought.
+Carefully.
 
-“Because for a long time I wasn't sure whether you were staying.”
+Small draws only.
 
-I stopped breathing for a second.
+Signals current.
 
-Not literally.
+No unfamiliar bodies.
 
-Probably.
+No draw during transition.
 
-“When?”
+Noll became the easiest source.
 
-“Early.”
+Not because he had the most reserve.
 
-“Before the western contract?”
+Because his spending was readable and his recovery was fast after shallow use.
 
-“Before and after.”
+He would give two fingers after a utility burst, recover while I spent a little elsewhere, then have enough again by the time his next window came.
 
-“I declined it.”
+The first time it worked for a full exchange, nobody noticed.
 
-“I know.”
+That was ideal.
 
-“Then?”
+Calder drove two tunnel crawlers backward.
 
-“One decline doesn't answer a life.”
+Veda finished one.
 
-Fair.
+Both came off the exchange hot.
 
-She continued.
+Noll had not spent.
 
-“Then you stayed. Then we moved in. Then you stayed. Then you told me the truth. Then you kept staying.”
+Two fingers.
 
-Record Nine echoed unpleasantly.
+Draw.
 
-I stayed.
+Barrier under Orla's shield edge while the second crawler hit.
 
-Then kept staying.
+Release.
 
-Apparently she had experienced the same sequence from the other side without knowing what I would later call it.
+Noll recovered the little I had taken while repositioning.
 
-“And now?” I asked.
+Calder returned.
 
-“Now I believe you live here.”
+Veda did not.
 
-I looked around the apartment.
+Palm down.
 
-“That took you this long?”
+She was holding a burst.
 
-“You still keep a field bag packed.”
+Noll fired instead.
 
-“Everyone should.”
+Crawler turned.
 
-“You keep two.”
+Veda's burst landed after.
 
-“One is pressure work.”
+Done.
 
-“Exactly.”
+No one empty.
 
-I laughed.
+No one full either.
 
-Eli moved under the table.
+Interesting.
 
-We froze.
+We began training the **loss** of support as much as receiving it.
 
-He settled again.
+That was Orla's contribution.
 
-Nessa lowered her voice.
+I had shifted off her in a drill and she stumbled because she had already leaned into support she expected to remain.
 
-“I don't need an answer tonight.”
+She threw the shield at my feet.
 
-“You asked tonight.”
+"Again."
 
-“Yes.”
+"You're angry."
 
-“Cruel.”
+"Yes. Again."
 
-“I need to know whether the question belongs to both of us.”
+We practiced handoffs.
 
-That was good language.
+Support on.
 
-Not decision.
+Support off.
 
-Ownership of the question.
+No warning sometimes.
 
-“Yes,” I said.
+Warning other times.
 
-Nessa nodded.
+Not Draw.
 
-Then, “Marriage?”
+Just reinforcement.
 
-“Fuck.”
+Calder learned not to use the last inch of stability I gave him unless the moment justified it.
 
-She laughed quietly.
+Veda learned to feel when my Barrier left her rear foot and shorten before the gap became error.
 
-“You thought you were done?”
+Noll was already cautious.
 
-“One crisis at a time.”
+Orla learned to hate all of us with improved precision.
 
-“This is not a crisis.”
+Weeks passed underground.
 
-“Feels organized.”
+Our clothes permanently smelled like chalk and lamp oil.
 
-“Marriage?”
+Noll's cough went away after he started wearing a damp scarf.
 
-I looked at her.
+Veda lost one glove.
 
-There are answers you can overcomplicate because complexity provides shelter.
+Calder found it three galleries back and demanded a retrieval fee.
 
-I had lived with Nessa for years.
+Orla's hair developed a white stripe every day from dust.
 
-Named her my voice.
+Mine did too.
 
-Combined money.
+Nobody told me until week five.
 
-Signed a five-year lease.
+At camp we looked older than we were.
 
-Built care schedules with her.
+Temporary belonging again.
 
-Protected time with her.
+Different contract.
 
-Loved her long enough that the word had stopped feeling like an event and become weather.
+Same trap.
 
-“I want to marry you,” I said.
+The best day came near the end.
 
-Nessa blinked.
+Not the biggest fight.
 
-Apparently directness could still surprise her.
+A gate room flooded unexpectedly when an old seal failed.
 
-Then she narrowed her eyes.
+Water came through knee-high and rising.
 
-“That was not a proposal.”
+Workers needed six minutes to close upstream isolation.
 
-“No.”
+Six minutes is a long time when a room is becoming a river.
 
-“Good.”
+Orla anchored a rope line.
 
-“Why good?”
+Calder and Veda moved workers across.
 
-“Because your nephew is under the table and you smell like onions.”
+Noll maintained lights and marked the submerged step edges.
 
-“Fair.”
+I moved among all of them.
 
-“You want marriage.”
+No single hero.
 
-“Yes.”
+No enemy.
 
-“I do too.”
+Just capacity changing hands in ugly little pieces.
 
-I nodded.
+Calder gave me mana after carrying a worker.
 
-We had apparently resolved something enormous without jewelry, witnesses, or administrative need.
+I spent it reinforcing Orla's footing.
 
-Suspicious.
+Noll gave me a little during a pause.
 
-“Children?” she asked again.
+I used it on a Barrier around the lamp pack when water hit waist height.
 
-“I think yes.”
+Veda gave nothing.
 
-“Me too.”
+She was carrying two workers through the current and needed every bit of herself.
 
-“When?”
+Good.
 
-Nessa looked around the apartment.
+Orla eventually offered.
 
-At Eli under the table.
+I refused.
 
-At our calendars on the wall.
+She looked at me.
 
-At the ledger shelf.
+"Why?"
 
-At two work bags near the door.
+"You're the anchor."
 
-“Not tonight.”
+"I know."
 
-“Good.”
+"Then keep it."
 
-That was the plan.
+She smiled once.
 
-Not tonight.
+Barely.
 
-Highly specific.
+We got everyone out.
 
-We did not become parents in Record Fifty-Four.
+The room filled to the ceiling after the last gate closed.
 
-Ithar would later complain about my tendency to organize memory into false thresholds.
+Noll's boots were ruined.
 
-He would have been right here too.
+Mine too.
 
-The question did not change our life the next morning.
+Again.
 
-Eli woke hungry.
+At contract end the North Mason supervisor wrote the field report.
 
-Nessa went to regional office.
+Five names.
 
-I had a Hillcross inspection.
+Calder lead.
 
-The wet boots remained lethal.
+Orla anchor.
 
-But the future contained something new.
+Veda forward spear.
 
-Not a remembered event.
+Noll ranged utility.
 
-Not prediction.
+Greg support.
 
-Intention.
+Under remarks:
 
-I had spent most of Life Two learning to distrust maps of what came next.
+UNUSUAL SUPPORT HANDOFF METHOD EFFECTIVE WITH TRAINED ROSTER.
 
-It took me longer to realize we were still allowed to make plans.
+Then:
+
+NOT RECOMMENDED FOR AD HOC CREWS WITHOUT PREPARATION.
+
+Both true.
+
+I liked the report.
+
+Veda did not.
+
+"They called Noll trained roster."
+
+"He is."
+
+"They should say I was excellent."
+
+"Wrong form."
+
+"Cowardly form."
+
+Noll folded his copy and put it in his pack.
+
+"Deren still would have killed more crawlers."
+
+Veda pointed at him.
+
+"Finally."
+
+Noll continued.
+
+"We didn't need more dead crawlers."
+
+That shut her up for nearly four seconds.
+
+A record.
+
+I looked at the five of us.
+
+Not my party.
+
+Not yet.
+
+Calder had the lead contract.
+
+Orla had chosen half the safety rules.
+
+Noll had changed the rhythm simply by being himself.
+
+Veda had taught us what happened when reserve meant something we did not understand.
+
+I had moved some mana around.
+
+Later people would simplify this.
+
+Greg built teams differently.
+
+True enough.
+
+What they usually left out was that the first time I picked the weaker man, I spent three days wondering if I had made everyone worse.
+
+That part mattered too.
