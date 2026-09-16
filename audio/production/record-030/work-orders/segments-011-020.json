@@ -1,0 +1,77 @@
+{
+  "record": "030",
+  "source_sha256": "2ae119cd7b2ca903e5ddc9c0843cc82fb105dec487d6bc9276fec072ec6d17e3",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Alarm bell clicked once but did not fully ring.\n\nI frowned.\n\nSeli said, \"There.\"\n\n\"Yes.\"\n\n\"Useful.\"\n\n\"Fuck you.\"\n\nShe smiled.\n\nDera handed me the log.\n\nTwenty-one events in two days.\n\nIntervals from thirty-three minutes to fifty-two.\n\nNot periodic enough for an automatic control cycle.\n\nToo regular for random demand.\n\nMost happened during daylight.\n\nTwo at night.\n\nTemperature unrelated.\n\nMarket draw unrelated according to current meters.\n\nRain unrelated.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 12,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The old me would have started with the buried chamber.\n\nThe slightly less old me did anyway.\n\nI went down.\n\nChecked the access plate.\n\nOld load marks.\n\nReference chalk.\n\nTemperature tabs.\n\nNothing.\n\nSeli followed.\n\n\"Thought district said chamber stable.\"\n\n\"It is.\"\n\n\"Then why are we here?\"\n\n\"Because stable things can change.\"\n\n\"Useful philosophy.\"\n\n\"Do you want help?\"\n\n\"Not particularly.\"\n\nGood.\n\nWe measured.\n\nListened.\n\nWaited through one cough.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "No corresponding movement below.\n\nNot old Line.\n\nProbably.\n\nI hated probability less by then.\n\nWe went back up.\n\nA mechanic named Jori Pell was lying under the return assembly.\n\nNot related to Inspector Pell as far as anyone knew.\n\nThe city reused names irresponsibly.\n\nJori was fifty-eight and had worked rotating equipment longer than I had been alive in the second life.\n\nHe held a metal rod against the housing with the other end touching his ear.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 14,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I had seen mechanics do that in my first life.\n\nI had also seen them get mocked by young Rankers with expensive sensing gear.\n\nThe mechanics usually kept working after the sensing gear broke.\n\n\"What do you hear?\" I asked.\n\nJori did not move.\n\n\"Nothing yet.\"\n\n\"That is encouraging.\"\n\n\"No.\"\n\n\"Why?\"\n\n\"Because it means I have to stay here.\"\n\nFair.\n\nWe waited.\n\nMaintenance contains a lot of waiting beside objects that refuse to perform when observed.\n\nHalf an hour.\n\nNo cough.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Seli checked the market board.\n\nNormal.\n\nDera did paperwork.\n\nI inspected the regulator again because doing nothing offended me.\n\nJori remained under the housing.\n\nThe station stayed hot.\n\nThe tram passed overhead twice.\n\nNobody needed anything from me.\n\nI sat on an overturned parts crate and nearly fell asleep.\n\nDera looked at me.\n\n\"You sick?\"\n\n\"No.\"\n\n\"Then why do you look dead?\"\n\n\"Children.\"\n\n\"Still?\"\n\n\"Apparently they remain.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 16,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Jori, without moving from under the housing, said, \"How old?\"\n\n\"Fourteen months.\"\n\n\"Twins?\"\n\nI looked down.\n\n\"How do you know?\"\n\n\"You look worse than one.\"\n\nSeli laughed.\n\nI disliked the station again.\n\nThen the cough came.\n\nKnock.\n\nKnock.\n\nDip.\n\nJori sat up so fast he hit his head.\n\n\"Fuck.\"\n\n\"What?\"\n\n\"Bearing.\"\n\nI looked at the return assembly.\n\n\"Bearing reads clean.\"\n\n\"Not that one.\"\n\nHe pointed upward.\n\nAt the tram viaduct.\n\nI stared.\n\n\"The tram.\"\n\n\"Maybe.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 17,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Dera came over.\n\n\"Explain.\"\n\nJori held out the listening rod.\n\n\"Second knock comes through the housing after the first. Not pressure hammer. Mechanical.\"\n\n\"From above?\"\n\n\"Feels like.\"\n\nI listened.\n\nNothing.\n\nOf course.\n\nSeli looked toward the ceiling.\n\n\"A tram passes every few minutes.\"\n\n\"Not every tram,\" Jori said.\n\nDera pulled the street schedule.\n\nEast freight line crossed the viaduct twice an hour during day.\n\nLess at night.\n\nHeavy cars.\n\nDifferent axle spacing.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 18,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Intervals roughly matched.\n\nNot exactly because freight ran late.\n\nI looked at the log.\n\nThirty-three.\n\nForty-one.\n\nFifty-two.\n\nTwo night events on late freight runs.\n\nThere it was.\n\nMaybe.\n\nWe went outside for the next freight.\n\nRain had stopped but the street still smelled wet.\n\nJori crouched beside the station wall with his rod against a support plate.\n\nI felt ridiculous.\n\nGood sign.\n\nThe freight tram came.\n\nHeavy cars over the viaduct.\n\nFirst axle.\n\nNothing.\n\nSecond.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 19,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Nothing.\n\nThird car crossed.\n\nKnock.\n\nInside the station, alarm clicked.\n\nDera swore.\n\nJori smiled.\n\n\"Bearing.\"\n\n\"Which bearing?\" I asked.\n\nHe pointed to the viaduct support directly above the station return anchor.\n\nNot Line bearing.\n\nTram bearing.\n\nTwo systems sharing masonry.\n\nModern tram support had been replaced four years earlier.\n\nThe new bearing plate sat slightly differently from the old one.\n\nUnder heavy freight, the viaduct shifted a fraction.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 20,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "That load traveled through the brick support.\n\nThe station return anchor moved with it.\n\nNot enough to damage the pipe.\n\nEnough to momentarily bind the regulator linkage mounted beside it.\n\nThree seconds.\n\nRelease.\n\nCough.\n\nI stood under the viaduct feeling stupid.\n\nSeli looked delighted.\n\n\"Old Line?\"\n\n\"No.\"\n\n\"Buried chamber?\"\n\n\"No.\"\n\n\"Ancient mystery?\"\n\n\"Fuck you.\"\n\nJori said, \"Could still be ancient.\"\n\nI looked at him.\n\nHe smiled.\n\nEveryone had become unbearable.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

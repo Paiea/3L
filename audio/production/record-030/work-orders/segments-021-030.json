@@ -1,0 +1,77 @@
+{
+  "record": "030",
+  "source_sha256": "2ae119cd7b2ca903e5ddc9c0843cc82fb105dec487d6bc9276fec072ec6d17e3",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Finding the cause did not fix it.\n\nThat took three days.\n\nNot three continuous days for me.\n\nThat distinction mattered now.\n\nI spent the first afternoon at East Four.\n\nThe next morning I stayed home while Nessa went to district.\n\nTomas had decided oatmeal was an insult.\n\nMira had discovered the lower shelf where I kept blank inspection paper and redistributed twenty-three sheets across the apartment.\n\nI recovered eighteen.\n\nThe other five entered history.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 22,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "After midday my mother arrived and I went back to East Four.\n\nThe third day Nessa worked from home until lunch, then we switched.\n\nThere had been a time when a difficult station problem consumed whatever hours it demanded.\n\nNow the problem had appointments.\n\nI expected this to bother me more than it did.\n\nThe station remained broken while I was home.\n\nOther people continued working on it.\n\nWhen I returned, they told me what had happened.\n\nCivilization survived.\n\nMostly.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 23,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Tram authority said the bearing was within tolerance.\n\nThey were right.\n\nDistrict Line said the return anchor was within tolerance.\n\nAlso right.\n\nTwo acceptable movements combined into one unacceptable interaction.\n\nI had seen that pattern before.\n\nNot the specific fault.\n\nThe institutional version.\n\nNo single part failed.\n\nThe boundary between them did.\n\nThat sentence tried to become profound.\n\nWe refused it.\n\nWe needed a bracket.\n\nJori designed the first one.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 24,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Simple slotted mount that let the regulator linkage float slightly relative to the masonry movement.\n\nI disliked it.\n\n\"Too much play.\"\n\n\"How much?\"\n\n\"Enough.\"\n\n\"That is not a measurement.\"\n\nTova had infected everyone.\n\nWe measured.\n\nI was wrong.\n\nThe play was small.\n\nSeli wanted a stiffer anchor instead.\n\nJori said stiffness would transfer tram movement into the return housing.\n\nShe disagreed.\n\nThey built both test setups on a spare bench.\n\nJori's worked better.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 25,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Seli accepted it without ceremony.\n\nGood Ranker.\n\nI did not contribute much to the bracket.\n\nThat sentence still irritated me when I first told the story.\n\nI had found nothing underground.\n\nJori heard the mechanical transfer.\n\nSeli challenged the anchor design.\n\nThe bench test settled the argument.\n\nMy primary contribution was knowing enough to stop insisting the answer should belong to the kind of problem I understood best.\n\nUseful.\n\nLess satisfying.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 26,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "We installed the slotted mount during a one-hour off-peak reduction.\n\nDera made me hold the lamp.\n\n\"I can fit the bracket.\"\n\n\"Jori designed it.\"\n\n\"I understand brackets.\"\n\n\"Hold the lamp.\"\n\n\"I used to work here.\"\n\n\"Yes.\"\n\n\"That is my point.\"\n\n\"No. That is mine.\"\n\nI held the lamp.\n\nJori fitted.\n\nSeli handled pressure isolation.\n\nA younger station hand tightened the final bolts.\n\nDera watched all of us.\n\nThen the freight tram came.\n\nHeavy cars.\n\nViaduct moved.\n\nNo knock.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 27,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Regulator steady.\n\nNo cough.\n\nEveryone looked at the gauge.\n\nNothing happened.\n\nExcellent.\n\nWe waited for the next freight.\n\nStill nothing.\n\nThe fault was gone.\n\nOr hidden.\n\nMaintenance teaches humility by making success indistinguishable from a machine simply choosing not to embarrass you yet.\n\nEast Four logged the modification.\n\nTRAM-INDUCED REGULATOR BINDING.\n\nFLOAT MOUNT INSTALLED.\n\nDESIGN: J. PELL.\n\nFIELD REVIEW: S. DORN / G. [my full name because paperwork hated me].\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 28,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Dera added:\n\nTOOK THREE DAYS BECAUSE INSPECTOR WENT LOOKING UNDERGROUND.\n\nI crossed it out.\n\nShe wrote it again.\n\nSome records resist revision.\n\nI stayed for lunch.\n\nOld habit.\n\nDifferent crew around the table.\n\nSeli had my old seat.\n\nNot assigned.\n\nJust happened.\n\nI noticed.\n\nThen did not care enough to move her.\n\nGrowth.\n\nJori ate slowly because two fingers on his right hand were stiff with age.\n\nLorn was not there.\n\nNessa was at district.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 29,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Dera still drank tea that looked like metal wash.\n\nThe station hummed.\n\nHealthy.\n\nI knew the sound.\n\nStill.\n\nThat mattered.\n\nThen I looked at the wall clock.\n\nThe twins usually woke from their midday sleep around then.\n\nNot exactly.\n\nNothing useful is exact when you first meet it.\n\nApparently children qualified.\n\nI pictured Mira standing in the crib because lying down had become beneath her.\n\nTomas would wake slower.\n\nOne eye first.\n\nThen the other.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 30,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then a complaint if nobody appeared quickly enough.\n\nI had spent the morning relieved nobody needed me every thirty seconds.\n\nNow I wanted to go home.\n\nAnnoying.\n\nDera saw me looking at the clock.\n\n\"Go.\"\n\n\"I am eating.\"\n\n\"You have been holding the same bread for five minutes.\"\n\nI looked at my hand.\n\nTrue.\n\n\"I can stay.\"\n\n\"Problem is fixed.\"\n\n\"Probably.\"\n\n\"Then go be useful somewhere else.\"\n\nThere were several ways to hear that.\n\nI chose the least insulting.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
