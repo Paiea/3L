@@ -3,6 +3,7 @@
   "project": "3L",
   "title": "The Third Leg",
   "authority": "manuscript current prose wins every story conflict",
+  "status_authority": "manuscript/manifest.json",
   "default_mode": "rehearsal",
   "frontiers": {
     "story": "r079",
@@ -10,6 +11,12 @@
     "restored_through": "r010",
     "rehearsal_target": "r011",
     "next_new": "r080"
+  },
+  "frontier_semantics": {
+    "restored_through": "highest contiguous seam-checked prose frontier from the beginning; later records may already be restored per manuscript/manifest.json",
+    "rehearsal_target": "first unresolved record to rehearse; do not infer all later records share its prose_status",
+    "story": "last preserved story record in manifest order",
+    "next_new": "next new-writing slot after the story frontier"
   },
   "manuscript_manifest": "manuscript/manifest.json",
   "audio_manifest": "audio/manifest.json",
