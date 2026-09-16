@@ -1,0 +1,146 @@
+name: Temporary Record 036 Assemble
+
+on:
+  push:
+    branches: [audio/record-036-production]
+    paths:
+      - .github/workflows/tmp-r036-assemble.yml
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-036-production
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+      - name: Consolidate and validate captures
+        run: |
+          set -euo pipefail
+          python scripts/audio_route.py manuscript/records/036/current.md audio/routing/record-036.json /tmp/route-036.json
+          python - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          record='036'
+          source_hash='6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa'
+          root=Path(f'audio/production/record-{record}')
+          route=json.loads((root/'route-plan.json').read_text(encoding='utf-8'))
+          reroute=json.loads(Path('/tmp/route-036.json').read_text(encoding='utf-8'))
+          assert reroute == route, 'regenerated route differs from prepared route plan'
+          source=Path(f'manuscript/records/{record}/current.md').read_text(encoding='utf-8')
+          assert hashlib.sha256(source.encode('utf-8')).hexdigest()==source_hash
+          assert route['source_sha256']==source_hash
+          assert route['routing_mode']=='exact_quote_locked'
+          assert route['uses_timestamps_for_speaker_assignment'] is False
+          assert ''.join(s['transcript'] for s in route['segments'])==route['audio_body']
+          assert [s['index'] for s in route['segments']]==list(range(1,103))
+          assert all(len(s['transcript'])<=480 for s in route['segments'])
+          assert all((s['speaker']=='greg' and s['voice_id']=='deep') or (s['speaker']=='ithar' and s['voice_id']=='normal') for s in route['segments'])
+
+          work=[]
+          for p in sorted((root/'work-orders').glob('segments-*.json')):
+              d=json.loads(p.read_text(encoding='utf-8'))
+              assert d['record']==record and d['source_sha256']==source_hash and d['routing_mode']=='exact_quote_locked'
+              work.extend(d['segments'])
+          assert work==route['segments'], 'work orders differ from route plan'
+
+          captures=[]
+          for p in sorted((root/'capture-parts').glob('segments-*.json')):
+              d=json.loads(p.read_text(encoding='utf-8'))
+              assert d['record']==record and d['source_sha256']==source_hash
+              captures.extend(d['segments'])
+          captures.sort(key=lambda x:x['index'])
+          assert [c['index'] for c in captures]==list(range(1,103)), f'capture indices invalid: {len(captures)} rows'
+          assert len({c['index'] for c in captures})==102
+          for c,s in zip(captures,route['segments']):
+              assert c['pause_after_ms']==s['pause_after_ms'], f'pause mismatch at {s["index"]}'
+              assert c['preview_url'].startswith('https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/')
+          payload={
+            'record':record,
+            'status':'candidate_unlistened',
+            'source_sha256':source_hash,
+            'routing_mode':'exact_quote_locked',
+            'notes':'Preview-safe candidate takes captured from validated work orders. Greg=deep; Ithar=normal. Pauses copied from the exact route plan. Auditory listen-back pending.',
+            'segments':captures,
+          }
+          (root/'captures.json').write_text(json.dumps(payload,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          print(f'Validated {len(captures)} captures; Ithar segments: {sum(s["speaker"]=="ithar" for s in route["segments"])}')
+          PY
+      - name: Download and assemble exact-pause audio
+        run: |
+          set -euo pipefail
+          rm -rf /tmp/r036-audio
+          mkdir -p /tmp/r036-audio/segments /tmp/r036-audio/silence
+          python - <<'PY' > /tmp/r036-download.tsv
+          import json
+          from pathlib import Path
+          d=json.loads(Path('audio/production/record-036/captures.json').read_text(encoding='utf-8'))
+          for s in d['segments']:
+              print(f"{s['index']}\t{s['preview_url']}\t{s['pause_after_ms']}")
+          PY
+          while IFS=$'\t' read -r idx url pause; do
+            printf -v n '%03d' "$idx"
+            curl -L --fail --retry 3 --retry-delay 1 "$url" -o "/tmp/r036-audio/segments/${n}.mp3"
+            ffmpeg -nostdin -hide_banner -loglevel error -y -i "/tmp/r036-audio/segments/${n}.mp3" -ar 24000 -ac 1 -c:a pcm_s16le "/tmp/r036-audio/segments/${n}.wav"
+            if [ ! -f "/tmp/r036-audio/silence/${pause}.wav" ]; then
+              seconds=$(python -c "print(${pause}/1000)")
+              ffmpeg -nostdin -hide_banner -loglevel error -y -f lavfi -i anullsrc=r=24000:cl=mono -t "$seconds" -c:a pcm_s16le "/tmp/r036-audio/silence/${pause}.wav"
+            fi
+          done < /tmp/r036-download.tsv
+          : > /tmp/r036-audio/concat.txt
+          while IFS=$'\t' read -r idx url pause; do
+            printf -v n '%03d' "$idx"
+            echo "file '/tmp/r036-audio/segments/${n}.wav'" >> /tmp/r036-audio/concat.txt
+            echo "file '/tmp/r036-audio/silence/${pause}.wav'" >> /tmp/r036-audio/concat.txt
+          done < /tmp/r036-download.tsv
+          ffmpeg -nostdin -hide_banner -loglevel error -y -f concat -safe 0 -i /tmp/r036-audio/concat.txt -c copy /tmp/r036-audio/assembled.wav
+          mkdir -p audio/assets
+          ffmpeg -nostdin -hide_banner -loglevel error -y -i /tmp/r036-audio/assembled.wav -c:a libmp3lame -b:a 128k audio/assets/record-036-quote-locked-v2.mp3
+      - name: Verify assembled asset and repository
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import hashlib,json,subprocess
+          from pathlib import Path
+          record='036'
+          root=Path(f'audio/production/record-{record}')
+          route=json.loads((root/'route-plan.json').read_text(encoding='utf-8'))
+          asset=Path('audio/assets/record-036-quote-locked-v2.mp3')
+          h=hashlib.sha256(asset.read_bytes()).hexdigest()
+          duration=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','default=noprint_wrappers=1:nokey=1',str(asset)],text=True).strip())
+          ithar=[s['index'] for s in route['segments'] if s['speaker']=='ithar']
+          verification={
+            'record':record,
+            'status':'assembled_unlistened',
+            'routing_mode':'exact_quote_locked',
+            'uses_timestamps_for_speaker_assignment':False,
+            'source_sha256':route['source_sha256'],
+            'segment_count':len(route['segments']),
+            'ithar_segment_indices':ithar,
+            'duration_seconds':round(duration,3),
+            'sha256':h,
+            'asset':str(asset),
+            'note':'Deterministic route/pause verification passed; auditory listen-back remains pending.'
+          }
+          (root/'verification-v2.json').write_text(json.dumps(verification,indent=2)+'\n',encoding='utf-8')
+          print(json.dumps(verification,indent=2))
+          PY
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit assembled Record 036
+        run: |
+          set -euo pipefail
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio/production/record-036/captures.json audio/production/record-036/verification-v2.json audio/assets/record-036-quote-locked-v2.mp3
+          git commit -m 'Assemble Record 036 production audio'
+          git push origin HEAD:audio/record-036-production
