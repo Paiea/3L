@@ -1,0 +1,77 @@
+{
+  "record": "029",
+  "source_sha256": "23ce651a38de101aee6838d9148df936697ae161231e76f6eb1655efb9d6f29b",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 71,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Which woke when placed down.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 72,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Tomas.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 73,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Which watched fire.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 74,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Mira.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 75,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Which watched you.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 76,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at him.\n\n\"Tomas.\"\n\nIthar said nothing.\n\nThat was worse than arguing.\n\n\"Sleep deprivation is bad,\" I said.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 77,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I believe you.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 78,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Two infants are inefficient.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 79,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Obviously.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 80,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Expensive.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}
