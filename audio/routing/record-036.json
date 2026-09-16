@@ -1,0 +1,166 @@
+{
+  "record": "036",
+  "routing_mode": "exact_quote_locked",
+  "voices": {
+    "greg": "deep",
+    "ithar": "normal"
+  },
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "dragon_quotes": [
+    {
+      "text": "\"Contraception.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You learned the foundation of your greatest discipline for contraception.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You later became one of seven humans your species considered exceptional.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Using the same principle.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"How?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"A tournament.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"For contraception.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I had not assumed that.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I have one face.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Continue.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Why?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Why did you notice his hand?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Many hands stopped that day.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You had known his name for less than an hour.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Changed.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Profound.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Correct.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have described a man pausing between bites.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You assign significance aggressively.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Sometimes.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"He was observing you.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 4
+    },
+    {
+      "text": "\"You said he looked directly at you.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"That is not eventually.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Are you good at observing others?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"That phrase remains available.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It remains accurate.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"How long had he been watching you?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Before you noticed.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"How much before?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You remember when his hand stopped eating.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You remember which competitors made him lean forward.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You remember where he looked during a spear match.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You do not remember when you became one of the things he was watching.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You were not inside Arcrutus.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You dislike that word.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Continue.\"",
+      "occurrence": 2
+    }
+  ]
+}

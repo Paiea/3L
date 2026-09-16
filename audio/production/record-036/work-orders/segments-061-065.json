@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 61,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "His opponent's barrier snapped into place at the ribs.\n\nToo late, I thought.\n\nIt was not.\n\nImpact dispersed.\n\nThe defending fighter gave ground but stayed aligned.\n\nThe support standing outside his corner raised two fingers.\n\nSmall motion.\n\nThe fighter's next step came cleaner.\n\nArcrutus looked at the support.\n\nNot the fighter.\n\nI noticed.\n\nThe support lowered his hand.\n\nArcrutus looked back to the ring.\n\nI stopped watching the fighters for three exchanges.\n\nThen five.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 62,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "That was how it started.\n\nI would watch the ring until something happened.\n\nThen look at Arcrutus.\n\nSometimes nothing.\n\nUsually nothing.\n\nThat became information.\n\nA spectacular throw put a B-class challenger through a boundary brace.\n\nCrowd screamed.\n\nArcrutus scratched the side of his thumb.\n\nAn A-class woman took a glancing strike to the shoulder and changed her breathing before anyone called time.\n\nArcrutus leaned forward half an inch.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 63,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "A famous spear fighter won cleanly.\n\nArcrutus spent most of the match looking at the spear fighter's support.\n\nI started doing the same.\n\nThe support barely moved.\n\nThat bothered me.\n\nPeople who do nothing are hard to study.\n\nLater I would understand that was often the point.\n\nAt twenty-three I assumed usefulness should be visible.\n\nI had spent years trying to become visibly useful.\n\nThe tournament put a man in front of me who seemed interested in the opposite.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 64,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "By midday I had developed a system.\n\nBad one.\n\nStill a system.\n\nIf the crowd reacted and Arcrutus did not, I asked what the crowd had missed.\n\nIf Arcrutus reacted and the crowd did not, I asked what I had missed.\n\nIf both reacted, I assumed something important had happened.\n\nIf neither reacted, I occasionally remembered I had a job.\n\nThe Guild woman caught me looking up during a wrist stabilization.\n\n\"You going to work or marry him?\"\n\n\"Work.\"\n\n\"Then look at the wrist.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 65,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Fair.\n\nI looked at the wrist.\n\nIt was swollen.\n\nThe fighter attached to it was annoyed.\n\n\"Can I go?\"\n\n\"No.\"\n\n\"Why?\"\n\n\"Because your wrist is shaped like a vegetable.\"\n\n\"Which one?\"\n\nI looked at it.\n\n\"Bad one.\"\n\nHe did not appreciate that.\n\nI held stabilization while the senior support checked movement.\n\nSmall fracture.\n\nDone for the day.\n\nHe argued.\n\nLost.\n\nWhen I looked up again, Arcrutus was looking at me.\n\nDirectly.\n\nI froze.\n\nNot physically.\n\nMostly.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

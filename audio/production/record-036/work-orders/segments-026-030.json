@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 26,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I spent the morning checking bruised ribs, two sprained wrists, one fractured hand, and a man who insisted his shoulder was fine while holding his arm six inches away from his body like it belonged to somebody else.\n\nIt was not fine.\n\nBy noon I had blood on one sleeve that belonged to three different people.\n\nProfessional growth.\n\nThe fights were good.\n\nAt twenty-three, good meant fast enough that I occasionally missed why somebody fell.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 27,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "A reinforced spear fighter took a shield user's legs out from under him with the butt of the weapon.\n\nA woman with twin short blades never seemed to block anything directly. She moved half a step, let attacks pass, and cut whatever became available.\n\nA heavy reinforcement fighter broke the west ring boundary with one shoulder.\n\nNobody died.\n\nGood tournament.\n\nI watched when I could.\n\nEveryone did.\n\nThen something changed in the stands.\n\nNot the fights.\n\nPeople.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 28,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "An official I had seen shouting at vendors ten minutes earlier stopped shouting.\n\nTwo men in clan colors moved from the center aisle without being asked.\n\nA B-class fighter who had been standing with one boot on the bench took his foot down.\n\nThree people stood.\n\nThen six.\n\nThen enough that I looked up because synchronized politeness is suspicious.\n\nAn old man was walking toward the upper gallery.\n\nThat was all.\n\nNo announcement.\n\nNo procession.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 29,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "He had four people with him.\n\nMaybe five.\n\nI remember four.\n\nThe old man wore dark clothes with no visible armor and carried no weapon.\n\nGray hair cut short.\n\nBroad shoulders still, but age had taken some of the shape from them.\n\nHe moved without hurry.\n\nThat was my first impression.\n\nSecond impression was everybody else.\n\nPeople made room too early.\n\nNot when he reached them.\n\nBefore.\n\nThe path appeared ahead of him.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 30,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "A tournament steward intercepted him with the expression of a man trying to remember every rule at once.\n\nThe old man said something.\n\nI could not hear it.\n\nThe steward pointed toward a covered section in the center of the upper gallery.\n\nThe old man looked there.\n\nThen pointed three sections left.\n\nThe steward froze.\n\nOne of the people beside the old man said something quietly.\n\nThe steward began moving chairs.\n\nNot one chair.\n\nThe entire arrangement.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

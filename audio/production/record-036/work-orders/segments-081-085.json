@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 81,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"How long had he been watching you?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 82,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": " Ithar asked.\n\n\"I don't know.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 83,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Before you noticed.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 84,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Obviously.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 85,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"How much before?\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

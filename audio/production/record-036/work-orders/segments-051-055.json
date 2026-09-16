@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 51,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"It was different.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 52,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have described a man pausing between bites.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 53,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"An S-class man.\"\n\nIthar's nostril moved.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 54,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You assign significance aggressively.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 55,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Sometimes correctly.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

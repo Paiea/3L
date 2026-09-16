@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "A minor lord lost his seat.\n\nHis wife lost hers.\n\nTwo officials traded places.\n\nAn aisle widened.\n\nA shade cloth shifted.\n\nOne vendor had to move a basket.\n\nThe old man waited through all of it without appearing impatient.\n\n\"What the fuck is happening?\" I asked.\n\nThe Guild woman beside me did not look up from the ankle she was wrapping.\n\n\"Sun.\"\n\n\"What?\"\n\n\"Arcrutus doesn't like it in his eyes.\"\n\nI looked back at the gallery.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"They're moving half the section because of sunlight?\"\n\nShe finally looked at me.\n\n\"Would you tell him not to?\"\n\n\"Who is he?\"\n\nShe stared.\n\nNot long.\n\nLong enough.\n\n\"Arcrutus.\"\n\n\"That did not answer the question.\"\n\n\"Yes, it did.\"\n\nApparently not for me.\n\nShe finished the wrap.\n\n\"Clan head. One of the Seven.\"\n\nOh.\n\nThat answered it.\n\nI looked again.\n\nArcrutus had sat.\n\nSomeone handed him a paper cone.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 33,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "He ate from it while six cities' worth of dangerous people reorganized themselves around his preference for shade.\n\n\"That one?\"\n\n\"Yes.\"\n\n\"He looks old.\"\n\nThe Guild woman stared again.\n\n\"Excellent observation.\"\n\nI had earned that.\n\n\"What does he do?\"\n\n\"Spear.\"\n\nI waited.\n\nShe went back to work.\n\n\"And?\"\n\n\"Reinforcement.\"\n\n\"Anything else?\"\n\n\"Survives.\"\n\nNot useful.\n\nAt least I thought so then.\n\nThe afternoon bracket started.\n\nMain ring.\n\nB-class preliminaries.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Different speed.\n\nThat was the first thing.\n\nNot dramatically different.\n\nYou could still see people move.\n\nMostly.\n\nBut C-class fighters looked fast because they produced speed.\n\nB-class fighters looked fast because time between decisions seemed missing.\n\nThey were already where their choices required them to be.\n\nA hammer fighter drove another man backward five steps without touching him directly.\n\nPressure through reinforced air.\n\nBarrier caught most of it.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 35,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The ring boundary shuddered anyway.\n\nCrowd stood.\n\nI stood too.\n\nThen I looked up at Arcrutus.\n\nHe was eating.\n\nNo change.\n\nNext match.\n\nA woman with a curved blade won in nine exchanges.\n\nThe last one cut through a reinforced shield hard enough that the broken half spun into the barrier wall and embedded there.\n\nPeople shouted.\n\nArcrutus took another piece of food from the cone.\n\nNo change.\n\nThird match.\n\nLonger.\n\nTwo reinforcement specialists.\n\nUgly fight.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

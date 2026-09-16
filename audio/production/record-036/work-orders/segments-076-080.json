@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 76,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThere it was.\n\nI leaned back against the stone.\n\n\"Yes.\"\n\nIthar waited.\n\n\"Usually.\"\n\nStill waiting.\n\n\"Better than average.\"\n\nThe dragon remained offensively patient.\n\n\"Fuck you.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 77,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That phrase remains available.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 78,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You really liked that one.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 79,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"It remains accurate.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 80,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked toward the cave mouth.\n\nMorning had become later morning while I talked.\n\nLight reached farther across the floor now.\n\nIthar had not moved.\n\nMuch.\n\nHis attention had.\n\nI knew that difference now.\n\nMaybe Arcrutus had helped.\n\nMaybe I had always been like that.\n\nHard to know.\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

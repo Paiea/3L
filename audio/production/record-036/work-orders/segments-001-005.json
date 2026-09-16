@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Ithar stared at me.\n\nNot unusual.\n\nThe subject made it worse.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 2,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Contraception.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 4,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You learned the foundation of your greatest discipline for contraception.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That is an unnecessarily grand way to describe Barrier.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

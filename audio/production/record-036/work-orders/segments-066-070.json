@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 66,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "His face had not changed.\n\nNo smile.\n\nNo frown.\n\nPaper cone in one hand.\n\nOther hand resting on his knee.\n\nHe looked away first.\n\nBack to the ring.\n\nI exhaled.\n\nThe Guild woman beside me said, \"What?\"\n\n\"Nothing.\"\n\nThat was true for another twenty years.\n\nAt least in the version I told myself.\n\nIthar interrupted again.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 67,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"He was observing you.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 68,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Eventually.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 69,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"No.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 70,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at him.\n\n\"What do you mean, no?\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

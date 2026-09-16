@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 71,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You said he looked directly at you.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 72,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 73,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That is not eventually.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 74,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That's when I noticed.\"\n\nThe dragon's pupil narrowed.\n\nI knew where this was going.\n\n\"Do not.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 75,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Are you good at observing others?\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

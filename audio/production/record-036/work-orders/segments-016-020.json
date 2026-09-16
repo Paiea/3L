@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 16,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I had not assumed that.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 17,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Your face did.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 18,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I have one face.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 19,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Still untrue.\"\n\nThe dragon settled his jaw more comfortably against the stone.\n\nGold shifted beneath him.\n\nThe sound took several seconds to finish.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 20,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Continue.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

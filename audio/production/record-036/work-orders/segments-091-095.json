@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 91,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You remember where he looked during a spear match.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 92,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 93,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You do not remember when you became one of the things he was watching.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 94,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at him.\n\n\"People are harder from inside.\"\n\nThe dragon's eye held mine.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 95,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You were not inside Arcrutus.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

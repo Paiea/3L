@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI was twenty-three.\n\nMaybe twenty-four.\n\nI could check if you gave me a calendar, three contracts, and the name of the woman I was sleeping with then.\n\nYou do not have any of those.\n\nTwenty-three is close enough.\n\nI was not competing.\n\nImportant.\n\nI had no reason to.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 22,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The tournament was regional in the way institutions use regional to mean six cities, twelve wealthy families, several Guild chapters, and enough prize money to make people permanently damage themselves for applause.\n\nThere were qualification brackets below C-class.\n\nMain brackets at C and B.\n\nAn open division that mostly meant A-class fighters, ambitious B-class fighters, and one idiot every few years who believed enthusiasm should count as durability.\n\nIt did not.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 23,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The tournament hired Guild support staff because competitors dislike being told they are injured by people who cannot prove it professionally.\n\nI was cheap.\n\nThat was my qualification.\n\nI knew Barrier well.\n\nI knew enough basic reinforcement to stop minor injuries from becoming worse while somebody more qualified arrived.\n\nI could identify obvious channel strain.\n\nI could wrap a joint.\n\nI could hold stabilization while a healer worked.\n\nI could carry water.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 24,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I did a lot of that last one.\n\nThere are careers built on being the least expensive person trusted not to make a bad situation worse.\n\nMine began there.\n\nThe tournament grounds sat outside Vey's south wall.\n\nStone ring in the center.\n\nTwo smaller rings east and west.\n\nTemporary stands.\n\nFood stalls.\n\nGuild tents.\n\nClan banners high enough that people argued over which one blocked whose view.\n\nThe city had reinforced the main ring three times.\n\nPeople told me this proudly.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 25,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "That seemed backwards.\n\nIf a building required three reinforcements because people kept punching each other inside it, perhaps the punching was the problem.\n\nNobody asked me.\n\nThe first day was qualification rounds.\n\nMostly C-class.\n\nA few B-class competitors waiting for later brackets wandered the grounds looking bored.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
