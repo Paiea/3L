@@ -88,11 +88,11 @@ One I did not know.
 
 The other I did.
 
-Aren Vale.
+Aren Dray.
 
 I stared at it.
 
-"That Vale?"
+"That Dray?"
 
 The clerk shrugged.
 
@@ -100,7 +100,7 @@ The clerk shrugged.
 
 Unfortunately, several.
 
-But only one Aren Vale had spent fifteen years being compared to Arcrutus Vale and survived with a personality.
+But only one Aren Dray had spent fifteen years being compared to Arcrutus Dray and survived with a personality.
 
 Arcrutus's eldest son was forty-two.
 
