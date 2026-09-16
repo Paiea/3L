@@ -195,7 +195,7 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
   function inline(text){
     let s=escapeHtml(text);
     s=s.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
-    s=s.replace(/\*([^*]+?)\*\/g,'<em>$1</em>');
+    s=s.replace(/\*([^*]+?)\*/g,'<em>$1</em>');
     return s;
   }
   function renderMarkdown(text){
