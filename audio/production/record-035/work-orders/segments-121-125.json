@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 121,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI stared at him.\n\n\"Dragon portioning is fucking stupid.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 122,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Human hunting appears worse.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 123,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nFair.\n\nI had a knife.\n\nI also had a shoulder that disliked butchering on the ground.\n\nI dragged the animal toward the second shelf where the stone was flatter.\n\nIthar watched me struggle for perhaps three seconds.\n\nThen one claw moved it the remaining distance.\n\n\"I had it.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 124,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Mm.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 125,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I did.\"\n\nHe withdrew the claw.\n\nI worked.\n\nNot elegantly.\n\nField dressing came back through the hands even when the hands were slower than the memory controlling them.\n\nThat had become a theme.\n\nIthar observed until I looked up.\n\n\"If you comment on technique, I will starve out of spite.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

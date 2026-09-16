@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI frowned.\n\n\"Several?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 12,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Four.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked toward the cave mouth again.\n\nLight there had changed enough times that four should not have surprised me.\n\nIt did.\n\nThe mountain had a poor relationship with clocks.\n\nSo did dragons.\n\nI had slept.\n\nNot enough.\n\nEaten.\n\nLess than enough.\n\nTalked.\n\nFar too much.\n\nApparently four days.\n\n\"You counted?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 14,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"The sun is visible from the eastern shelf.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That is not the same as counting.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

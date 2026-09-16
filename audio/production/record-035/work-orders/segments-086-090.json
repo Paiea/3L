@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 86,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Unexpectedly?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 87,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Most humans of your height understand volume.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 88,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I had more four days ago.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 89,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You arrived with too little.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 90,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"We covered this. Planning prioritized arrival. Very suspicious.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 41,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"His argument was coherent.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 42,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Do not encourage him retroactively.\"\n\nThe mouth moved again.\n\nAlmost a smile.\n\nThen nothing.\n\nI felt the shape of the trap before he closed it.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 43,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Your memory functions.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 44,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Apparently.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 45,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Your language functions.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

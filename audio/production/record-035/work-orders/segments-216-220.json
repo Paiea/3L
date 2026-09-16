@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 216,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI stayed by the cave mouth.\n\n\"It is explanation.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 217,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Sometimes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 218,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I was there.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 219,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That is your claim.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 220,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI laughed.\n\n\"We are still on that?\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 71,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"It appears to be unbearable for you.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 72,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nGood.\n\nAt least somebody was enjoying himself.\n\nI reached for my water.\n\nThe skin was nearly empty.\n\nI drank anyway.\n\nWarm.\n\nLeather taste.\n\nWonderful.\n\nIthar's eye moved to the pack.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 73,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have food left.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 74,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That was a statement.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 75,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

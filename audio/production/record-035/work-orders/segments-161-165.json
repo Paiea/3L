@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 161,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": " he said.\n\n\"Brilliant.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 162,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Sleep.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 163,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"We are in the middle of something.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 164,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You are not.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 165,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThat landed.\n\nI looked at the fire.\n\n\"I hate you.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

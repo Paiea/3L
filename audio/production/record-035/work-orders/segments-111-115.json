@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 111,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The little line between her eyebrows when she was doing arithmetic.\n\nI could hear her say Greg in six different tones and knew what five of them meant immediately.\n\nI knew all of that.\n\nI could not make it into after.\n\nThe pressure behind my ribs became physical enough that I stood.\n\nBad decision.\n\nMy leg reminded me.\n\nI walked anyway.\n\nTen steps.\n\nBack.\n\nEight the other direction.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 112,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The cave offered limited pacing routes unless I wanted to walk across coins and die because I slipped on the gross domestic product of a dead empire.\n\nI sat again.\n\nIthar returned before I improved.\n\nI heard him first.\n\nStone.\n\nThen weight.\n\nThen something scraping.\n\nHe emerged carrying an animal in one foreclaw.\n\nNot carrying.\n\nPinching.\n\nIt might once have been a mountain goat.\n\nLarge one.\n\nHard to judge scale while a dragon held it like a dropped glove.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 113,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "He set it on the stone well away from the gold.\n\nThe animal was very dead.\n\n\"That is too much.\"\n\nIthar looked at the carcass.\n\nThen at me.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 114,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"It is one.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 115,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"One animal.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

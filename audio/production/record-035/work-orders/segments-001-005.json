@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "That was where I stopped.\n\nNot because anything ended there.\n\nBecause the next sentence would not come.\n\nI had been talking about Tomas's copper.\n\nThe one under the chair leg.\n\nMira beside me on the floor.\n\nNessa at the table with the ledger open.\n\nBlue ribbon tied around a wooden horse because apparently hair was too temporary for decoration.\n\nI could see all of it.\n\nNot imagine.\n\nRemember.\n\nThe scrape under my palm where the floorboard had lifted near the table leg.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The little dark line of dust against the wall.\n\nThe way Tomas checked both sides of the coin after I found it, as though one side might have been damaged by being lost.\n\nI remembered Nessa's left thumb resting in the fold of the ledger.\n\nInk on the side of it.\n\nI remembered Mira saying I had sworn.\n\nI remembered the spoon on the table.\n\nWood.\n\nCrack near the handle.\n\nI remembered all of that.\n\nThen I tried to say what happened next.\n\nNothing.\n\nIthar watched me.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "That was not new.\n\nThe dragon had turned watching into an occupation.\n\nI looked down at my hands.\n\nThen at him.\n\n\"After that...\"\n\nThe sentence waited.\n\nSo did Ithar.\n\n\"After that the district...\"\n\nNo.\n\nI could have chosen a district event.\n\nThere were plenty.\n\nWork continued.\n\nOf course it did.\n\nStations do not stop because a man's children turn five.\n\nPeople needed things.\n\nForms arrived.\n\nWeather happened.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Something broke somewhere because civilization is mostly objects becoming tired in public.\n\nI knew that.\n\nI could not make any of it become next.\n\nI tried again.\n\n\"Mira and Tomas...\"\n\nStopped.\n\nThat was worse.\n\nIthar's nostril moved.\n\n\"Do not.\"\n\nHe had not spoken.\n\n\"Whatever you are about to do, don't.\"\n\nThe nostril stopped.\n\nGood.\n\nI looked toward the passage.\n\nDark.\n\nStill there.\n\nI had become less interested in it over the course of the account.\n\nThat bothered me now.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "An exit should remain emotionally useful even when you do not intend to use it.\n\n\"I lost the thread.\"\n\nIthar's eye remained on me.\n\n\"It happens.\"\n\nNothing.\n\n\"People lose threads.\"\n\nStill nothing.\n\n\"You could help by being less fucking dramatic about it.\"\n\nHis head lowered perhaps half an inch.\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}
