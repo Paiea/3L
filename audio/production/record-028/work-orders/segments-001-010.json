@@ -1,0 +1,77 @@
+{
+  "record": "028",
+  "source_sha256": "ac4e02e650c1403bdf7d67d035891d238729e5e4a6170c5198e4a1974aa1482e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I lost my first large contract to a man who owned twelve ladders.\n\nThat was not the only reason.\n\nIt was the one I complained about.\n\nThe contract covered winter maintenance for six public buildings and two market branches.\n\nNot stations.\n\nBuilding-side systems.\n\nHeat exchangers.\n\nPressure regulators.\n\nEmergency shutoffs.\n\nScheduled inspections before winter load.\n\nCall response if something failed after.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Ordinary work multiplied until it became money large enough to frighten me.\n\nThat mattered more than I wanted to admit.\n\nWe had just taken the second room.\n\nThe new rent was manageable.\n\nManageable is what adults call an expense after deciding they want the thing anyway.\n\nThere was also the doorway.\n\nShelves.\n\nAnother proper chair.\n\nA stove in the second room that Mina insisted technically worked because it had produced heat once during inspection.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "My shoulder still required healer visits when it became ambitious.\n\nNessa's district pay was steady.\n\nMy work was not.\n\nWe were not poor.\n\nWe were simply at the stage of life where every improvement arrived with a monthly opinion.\n\nThen Lorn found the contract notice at Guild Hall.\n\nHe brought it upstairs and put the sheet on Nessa's new desk.\n\nShe looked at him.\n\n\"Wrong desk.\"\n\nHe pointed at mine beside it.\n\n\"They are touching.\"\n\n\"That does not make his paper mine.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Household precedent says otherwise.\"\n\nI looked up from a box of old station records I had been pretending would organize themselves.\n\n\"What?\"\n\nLorn pointed at the notice.\n\n\"Bid.\"\n\nI read it.\n\nCity School Three.\n\nPublic bath east.\n\nTwo market halls.\n\nThree administrative buildings.\n\nEight sites total.\n\nFive-month service term.\n\nRoutine inspection plus emergency coverage.\n\nFixed base fee.\n\nMaterials separate above threshold.\n\nResponse within two bells for critical heat loss.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I read the total estimate twice.\n\nThen a third time because large numbers develop additional digits when observed.\n\nI looked at the new room.\n\nNot intentionally.\n\nNessa noticed anyway.\n\nOf course.\n\n\"We can do that,\" I said.\n\nShe leaned back in her chair.\n\n\"The work or the number?\"\n\n\"The work.\"\n\nLorn said, \"Also the number.\"\n\nTraitor.\n\n\"We can do both.\"\n\nNessa held out her hand.\n\nI gave her the notice.\n\nShe read the first page.\n\n\"You know eight buildings?\"\n\n\"I know four.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 6,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Half.\"\n\n\"Lorn knows the bath.\"\n\nLorn said, \"I know the bathhouse owner owes money to everyone.\"\n\n\"That counts.\"\n\nNessa kept reading.\n\n\"What is the call requirement?\"\n\n\"Two bells.\"\n\n\"Every day?\"\n\n\"Critical failures.\"\n\n\"That was not what I asked.\"\n\nI took the sheet back.\n\nRead the small line.\n\nService coverage continuous during contract term.\n\nThere it was.\n\n\"We rotate.\"\n\n\"With whom?\"\n\n\"Me. Lorn. Rell.\"\n\nLorn looked at me.\n\n\"Rell agreed?\"\n\n\"No.\"\n\nNessa nodded.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Excellent crew.\"\n\n\"She will.\"\n\n\"How do you know?\"\n\nI almost said because she usually did.\n\nThat sounded worse before it reached my mouth.\n\n\"I will ask.\"\n\n\"Growth,\" Nessa said.\n\n\"Shut up.\"\n\nThe bid packet was fourteen pages.\n\nI hated it before page three.\n\nGuild registration.\n\nWorker list.\n\nTrade authority.\n\nRank coverage.\n\nEmergency response plan.\n\nMaterial rates.\n\nWage schedule.\n\nSurety reserve.\n\nThat one stopped me.\n\n\"What is a surety reserve?\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 8,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Lorn looked over my shoulder.\n\n\"I don't know.\"\n\nGood.\n\nShared incompetence.\n\nWe went to Guild Hall.\n\nClerk Aven was not at the front desk.\n\nThank God.\n\nA younger clerk explained it.\n\nFor public maintenance contracts above fifty silver, the bidder had to prove they could finish or fail safely.\n\nCash reserve.\n\nBonded sponsor.\n\nOr Guild surety.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Enough to cover one month of wages plus emergency replacement labor if the contractor disappeared, died, became insolvent, or decided winter was spiritually optional.\n\n\"How much?\" I asked.\n\nHe calculated.\n\nForty-eight silver minimum.\n\nI laughed.\n\nThe clerk did not.\n\n\"That is not funny.\"\n\n\"I know.\"\n\n\"It is your workers' wages.\"\n\n\"I know.\"\n\n\"Then why laugh?\"\n\n\"Alternative to crying.\"\n\nWe had savings.\n\nHousehold savings.\n\nPrivate-work float.\n\nTool replacement.\n\nFamily reserve.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 10,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Not forty-eight silver we could freeze for five months without becoming stupid.\n\nI found myself doing subtraction anyway.\n\nNew rent.\n\nHealer.\n\nFood.\n\nWork float.\n\nWhat could move.\n\nWhat could not.\n\nNessa was not even there and I could already hear her objecting.\n\nAnnoying woman.\n\n\"Guild surety?\" I asked.\n\n\"Premium.\"\n\n\"How much?\"\n\nHe gave the number.\n\nAlso not funny.\n\n\"Who pays that?\"\n\n\"Contractors who do not have reserve.\"\n\n\"Then how do they get reserve?\"\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
