@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Then why did you call it losing the thread?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nBecause that sounded temporary.\n\nBecause threads can be found.\n\nBecause people who lose threads are still people telling stories.\n\nI did not say any of that.\n\n\"Convenient phrase.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 33,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Mm.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI hated that sound.\n\nI had hated it for four days.\n\nPossibly longer.\n\n\"Ask me something.\"\n\nIthar considered.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 35,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Did Mira keep the ribbon?\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

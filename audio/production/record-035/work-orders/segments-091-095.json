@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 91,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"It remains suspicious.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 92,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI bit the apple.\n\nSoft.\n\nNot rotten.\n\nLow standard.\n\nIthar watched me chew.\n\n\"This is uncomfortable.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 93,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"For you?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 94,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes. Stop watching me eat.\"\n\nHis eye closed.\n\nThat was somehow worse.\n\n\"Now you're making a point.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 95,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I am resting the eye.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

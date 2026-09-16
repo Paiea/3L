@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 221,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"We are on everything.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 222,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nTerrible answer.\n\nAccurate.\n\nIthar shifted his head.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 223,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You call the man S-class. You call him support. You say he never married. You say he never had children. You say he kept leaving. You say he knew Nhal. You say this body remembers what his could do.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 224,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nHis eye held mine.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 225,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have used him to explain this life repeatedly.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 126,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Your cut is too shallow.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 127,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Fuck you.\"\n\nI corrected it.\n\nHe was right.\n\nWorse.\n\nI built a small fire from the wood in my pack and dry material near the cave mouth.\n\nThe tinder refused.\n\nWind.\n\nDamp.\n\nBad angle.\n\nI tried again.\n\nIthar watched.\n\n\"No.\"\n\n\"I haven't asked.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 128,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You are going to.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 129,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I was not.\"\n\nThe tinder smoked and died.\n\nI looked at him.\n\nOne eye narrowed.\n\n\"Tiny fire.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 130,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Define tiny.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

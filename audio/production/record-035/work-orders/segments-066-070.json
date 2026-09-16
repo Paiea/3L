@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 66,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": " he said.\n\nI looked away.\n\nThat irritated me more.\n\nBecause it was true.\n\nI had refused him before.\n\nI had lied by category.\n\nCompressed things until compression became a form of hiding.\n\nChanged subjects.\n\nAnswered technical questions instead of human ones.\n\nMade jokes.\n\nOffered logistics.\n\nFound a sentence sharp enough to cut around whatever I did not want to touch.\n\nThat was still language.\n\nThis was not.\n\n\"You've been waiting to say that.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 67,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"No.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 68,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Really?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 69,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I do not experience waiting as aggressively as you do.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 70,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That sounds unbearable.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

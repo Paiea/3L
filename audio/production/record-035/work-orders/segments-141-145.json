@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 141,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That is not an answer.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 142,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have used it repeatedly.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 143,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Different jurisdiction.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 144,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Mm.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 145,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Do you dream?\"\n\nA pause.\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

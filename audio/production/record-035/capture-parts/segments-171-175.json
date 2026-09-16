@@ -1,0 +1,11 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "segments": [
+    {"index": 171, "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e2f9478f-61e1-45a1-8f89-c82424988a59.mp3", "pause_after_ms": 1100},
+    {"index": 172, "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4370306b-c5a3-450a-b78b-10117a73d495.mp3", "pause_after_ms": 1100},
+    {"index": 173, "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7489a9da-0c2f-494a-b754-55284218ce70.mp3", "pause_after_ms": 1100},
+    {"index": 174, "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/aee9e011-0ab2-4e89-b39e-0d314770a2ee.mp3", "pause_after_ms": 1100},
+    {"index": 175, "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b5eddb8a-42c9-4e1a-a05c-6f537345d936.mp3", "pause_after_ms": 1100}
+  ]
+}

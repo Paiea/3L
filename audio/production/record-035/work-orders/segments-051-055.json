@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 51,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I did not.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 52,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You looked.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 53,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You moved.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 54,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"People do that.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 55,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Poorly, in your case.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

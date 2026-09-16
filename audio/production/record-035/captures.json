@@ -1,0 +1,1309 @@
+{
+  "record": "035",
+  "status": "candidate_unlistened",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "notes": "Preview-safe candidate takes captured from validated work orders. Greg=deep; Ithar=normal. Pauses copied from the exact route plan. Auditory listen-back pending.",
+  "segments": [
+    {
+      "index": 1,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/9489a86d-9c63-4947-bf91-284a61d41b3a.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/38020882-50f9-4212-950f-8202ae2bacbd.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/0a5ce6e5-580f-4bde-abc4-94c4901831fa.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/53aecb70-bd69-462c-bbce-b98866513748.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/00f1e657-f339-476a-996d-6043c571ceca.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 6,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/42b2fc7b-752d-42f2-b13b-8db6c0cefc5c.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 7,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8d80afb6-ab16-404d-b535-6447d03fbb48.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 8,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/150d7278-c4f1-48c3-aba6-963c65f2ed7d.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 9,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b29ea8e6-582a-461c-b598-7045b0926107.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 10,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/9397344e-d7d7-426b-8964-7f838015bb36.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 11,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3a94ba0b-48e4-4f4d-9c8b-8658130c1cd9.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 12,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ea81718e-e987-429b-b5a5-7fa3954dc111.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 13,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d8885929-2d8b-4b13-b56e-7e35a284c5ed.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 14,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/acfd6e90-b6c3-44c8-8d7e-db83fe7c0cfc.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 15,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/be4b0b6e-47d7-4df4-bd7f-c6e9dd508fe6.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 16,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4030e09c-624e-47fa-a1fa-13d2dc3fe7f1.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 17,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/c72fa0c8-205d-4b8d-aeb1-7bc459596df8.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 18,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/da17af1d-a0c8-4dfa-8bed-47839630e16e.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 19,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/df82fa68-22a7-4e46-8308-7ba992da9bbe.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 20,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a2eceedc-f590-43d5-8cff-14a4adc4704b.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 21,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b83612f6-7be1-4ff7-a7e3-54dcc4b94873.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 22,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/26c83092-0c25-404d-bef1-8826ac904c18.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 23,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/532e352f-2381-4ff9-8d68-9b32c0400e6b.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 24,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/631027da-3205-4dfb-9a92-aad427d30a4b.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 25,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/58f71e82-efc5-49d8-971c-21dccbf3a67c.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 26,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/87238f3b-dfbf-4bfe-9457-108570dc99bc.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 27,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/88f4f19a-5d3d-4fed-918f-7a01dc1459cb.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 28,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a05c4cf7-3fa1-4c9e-b8dd-fcbfa073e5af.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 29,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/18645291-72a0-43ab-b180-df6a3fb37a32.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 30,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7a1bd8c3-d59e-4a9a-92ff-a01a3282717f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 31,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/fa5b2189-7204-4f67-b78e-32260cd8339f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 32,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f1640296-32a7-494c-84c1-073747310e80.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 33,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/9174cb15-878d-4df2-bd83-e4c9912f7e9b.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 34,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/742f457b-e556-4518-9a1c-c7a2c18366e0.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 35,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e81c6abd-3c9b-4819-bfc2-b171f38eb229.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 36,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8fcbe1d5-2aae-46d0-a04c-24f0c3728c90.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 37,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5a83abfa-6b7c-4766-8b0e-f6a66a3d4d4d.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 38,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/fa5166d5-a1de-424c-b8b2-778dc64fdea8.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 39,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e0ed7b54-9e02-41e9-9e30-01e6b3d01db9.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 40,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3354f27a-d237-4de3-8ac3-4ebc00ba0848.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 41,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d7d8b800-c73a-4218-82cd-12571c88ed3f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 42,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/fd2bb031-2862-4ab6-b5c7-966cc5723594.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 43,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/c8f5248d-d9fc-4df9-851f-f02c61490bc4.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 44,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/447b2eed-3123-4366-b4ae-9427d7fa7056.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 45,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/325ed10f-b848-4670-9381-b0d19bbda954.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 46,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/05d6b582-fb4e-424d-a787-53bdbd45fd98.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 47,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/1e784747-15e4-4ef3-86fd-a7c1421a4627.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 48,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/95f1ee11-fefb-4853-a412-1416dd75db81.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 49,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/333b721e-bb25-4693-81ae-273402efa0a7.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 50,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/40682e77-1716-4944-828d-4bd0f4a1f494.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 51,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/302c2229-cd06-46b2-85e7-e5ead2f6b7c1.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 52,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f730e0ee-f851-485b-9afa-5388c07fb6cd.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 53,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/879014b5-b1ad-4397-9dc7-1fff30e8bf71.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 54,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/0a2ecdb9-6dda-40fb-a38c-0e0ec92cee56.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 55,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f7ec2190-b357-42f6-b0b3-5005de0771d7.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 56,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/1da8f4eb-f0e5-4729-85d5-6a33f5243119.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 57,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/04e160f3-1360-46f3-ad8c-60f9d4da141d.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 58,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/aca3aeb7-f9a3-41f1-8984-ad85e03ede49.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 59,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/0f5747bb-c0a5-49cc-847d-fb39fa3f0307.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 60,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3505d3a3-962e-4012-ad40-f6c4d44dbecc.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 61,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ab0d069a-e550-4b9a-bbe2-dd53226abcc4.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 62,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e45c5e06-9797-4b46-bf40-63f4878227ce.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 63,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/33c417f0-66e7-4511-aa61-3b46e8369c0c.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 64,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4dea18a4-8af5-4e4d-86cf-4d98c7ae602c.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 65,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/39994f80-27e6-44aa-890b-fb235f9e983a.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 66,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/29aa198f-373d-49af-a6cb-e9e851bf6d78.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 67,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/91b986f6-60a0-4211-ad23-8e61245e7099.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 68,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e427c181-ee84-4501-addd-b2fab244481f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 69,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/afede127-4673-4a64-9ca2-ffb1e73548d2.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 70,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a1f3dca3-dc92-49af-baaf-e15518eafdfc.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 71,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4627488c-a335-40dc-a168-74056c759e37.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 72,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/73de40b0-94ec-4757-b9a0-13acb3323c2c.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 73,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ca3ee88b-2b0c-47bf-815a-d2846d93d3f7.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 74,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d1362689-65fe-487a-9196-5e2cf707ba37.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 75,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/271de24c-b923-4bde-9feb-9ebc1ff4eaa9.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 76,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/16a9373a-ea34-437a-827b-63298b4ec42e.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 77,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/78a4874e-55fb-4e79-8196-d6ae44504bbe.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 78,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7214a916-5d3b-49d6-87b0-c820de7d13d3.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 79,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ec90f78e-1227-48b4-98e7-d82ed0964410.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 80,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/09b09071-a2e2-4375-a81e-3ede392bd5ba.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 81,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7b209e78-cc73-4ed5-97a6-9b56fee35f5c.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 82,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/096b93d2-fd1f-4904-8272-4cf599dde695.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 83,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/011e6f57-b79b-450c-b3b5-865275e131da.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 84,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/82772447-b554-4b4f-b934-274fce2db212.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 85,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/9cf40c5a-86d2-46a2-a6dd-f78d3e16e8ed.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 86,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/6fc30a58-80a8-4a25-b61f-3838a8b3654f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 87,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/15cd48b3-4580-4424-bc0f-4ebf0dee8112.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 88,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8f67a1ae-3004-461b-bc45-d4f9e32a0573.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 89,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f3ee8c17-61db-4ad6-b068-6db1dacffb65.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 90,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b4b0d7a4-ab6a-438e-ba03-a51e47667e48.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 91,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/dea447ad-b3f0-4416-badd-cd85cf656a45.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 92,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d5627b3e-4624-4e18-8150-a77b8602923a.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 93,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2dd60e0e-0d64-4150-a002-f9c5ce9352ea.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 94,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/18bd8a85-5e84-4fcd-a02c-277158302472.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 95,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/33da9431-9aaf-4e97-a1e2-86efdfded893.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 96,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/df67e92a-e47d-4444-bd30-56c9d0959feb.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 97,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/45e77d14-d57f-4765-9732-04672ebe8a0f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 98,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/c8207aee-08bd-49eb-9e9e-2ffef8e94764.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 99,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2dad859f-52ac-4e55-860f-46d18304a9e8.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 100,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/532ed88b-f693-4052-a5c7-0a83c93cdf02.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 101,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/aad5ef04-c07a-4c41-bcb5-84c23ee1fb10.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 102,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/cfa2702b-8936-4274-9656-d9ef8e974582.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 103,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b021b35a-c482-47b9-b114-7f49ccf1226d.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 104,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/68374d65-1904-42d9-a9da-8f9b12f29145.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 105,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/93a7c599-51da-4ee7-91e9-5cd647185cdd.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 106,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ea100522-1c24-47b2-b64f-ee8b94c31714.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 107,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/fedeb165-f053-469d-a1b0-61fb77014c09.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 108,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/46297d92-2108-4cfd-9031-3036fa1abdbc.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 109,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/116d406d-d685-4530-88e4-6cf33f0ff486.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 110,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/34876744-02a9-461f-801e-51953eb83211.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 111,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/85bc3802-ab7b-499f-9e4e-f75efedfa0eb.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 112,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b61baef7-7e49-45a1-8612-ba2ab8789d0b.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 113,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5b40020e-1160-460d-b5dd-2c566349d054.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 114,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/20054e3f-3d82-48fc-acde-0050c18488a5.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 115,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5f35e452-d31d-4cdb-a0ac-22502e773b33.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 116,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f6bb75f0-f2f3-41b0-a219-e24cc8668d4c.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 117,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/72e047d4-87f9-491e-ba0f-5894686f7dbc.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 118,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/880bced9-7d7d-4cb7-b630-0ad88c6f5258.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 119,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/13eebc9d-2261-4f24-8b17-204f3ab8651b.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 120,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7e91c46a-12cc-413f-9f24-fbf111c3de27.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 121,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/acbcf08e-409c-4861-9871-da36aa263123.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 122,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/30f4c8ea-ea8f-4158-808f-296c6566f40d.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 123,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f6d499a9-1b8d-4f2d-a23a-9cdccdc2d574.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 124,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/06fe0479-535b-4ac1-aaf2-441ae6c5ef87.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 125,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5e87cd2b-093f-49eb-99bc-e3ad0c2d7e7e.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 126,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b926f283-2345-465a-8461-e0f47821f994.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 127,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d7275a3a-a1d5-42b6-913f-bb095cc5093a.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 128,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ac4ebc3a-b280-4e0e-becb-180f97a4b88d.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 129,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/473ffc53-d9a9-4433-bab3-f189ff5f93ef.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 130,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/acfc7a35-d857-4787-aa18-fca1aa4d2815.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 131,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2b379637-48f0-4579-9e55-0ddfaa46e633.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 132,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/fe29c16d-6707-4828-a069-3e96e873af54.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 133,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7f4b81c7-98ab-4f59-9ac9-b7e5a3e79830.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 134,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/dd74df0e-f2ec-495c-b7d5-f0997ece5842.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 135,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/08e33de4-2b60-4f8a-a09f-77ec09490fa0.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 136,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a242e5a5-e44b-47fe-b2de-1f0c0e5dcc8d.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 137,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/21e0fe76-51dd-4b7d-94a7-3b58dbfa2c08.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 138,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/226dd544-41ff-41b7-8020-1475231cec8e.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 139,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/0a210946-6a41-4d21-a0a8-f54fcb8e9e9a.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 140,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/51fe8f6d-61db-43ee-af27-9a9a246bb3be.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 141,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/638b316e-3cdc-4923-8ad3-508439be38ba.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 142,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4347f538-1bca-4e34-ad99-078bec203341.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 143,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/eb795c49-a807-444e-9325-ce2593aaa18b.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 144,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ebc4da61-fbbc-4411-b30b-cf5c6a731b1f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 145,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/707984fd-5bb1-463c-aeab-49e6661a2748.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 146,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/80015016-a8c2-4434-b936-a89be568eb51.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 147,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/95148de7-5f84-45df-b2b2-1725619e75f3.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 148,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/599dde46-4dc1-49e7-a7df-46c3032e4f19.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 149,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/684a2db7-8712-4c3f-8db7-a441f9b67476.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 150,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/9498593d-6a21-4bcd-a2d4-408e191a4e39.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 151,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8be98a3b-fdf7-40b6-b1cc-4850bf31ab8f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 152,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/35de31cb-e293-41c9-a23d-f9c239d1aaa9.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 153,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/c7b9f8f5-925b-4d6d-a4cb-f2a9e0efac17.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 154,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/0f7a493f-3204-4930-ab8d-566da8c021b9.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 155,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f2425787-c38c-4a2c-9d18-a5f2037d8b76.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 156,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/80efc627-8130-4745-96ac-fa18d201ed11.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 157,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3b0058f8-36c4-4197-a54a-e8cdf6916966.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 158,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/46d32652-9dca-4d19-9855-3e734d6ca0bd.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 159,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/154d2e6f-f123-470a-8d2e-69ba13a0c4f7.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 160,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8c69908c-0139-4695-86b2-8b20486e7edb.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 161,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2fc079bb-545a-41e1-bdd8-936ab49d2005.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 162,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5da9d7be-9808-4149-a0d9-9115912fa338.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 163,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ca2b6c53-f2b6-4223-b4b3-73f4d7956dfd.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 164,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/1d50c46a-2ddd-4bfb-8e25-c970fad5389f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 165,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a82e5866-918b-4bdc-8f0f-887ca0909852.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 166,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ae467196-b70d-4a91-9431-dcb6a060c91d.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 167,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/cb38e563-8266-4c54-ac5e-96d93458766b.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 168,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/29688a22-97ca-487b-ac09-74aaa2b27012.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 169,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a657ca79-4232-431b-9cba-9a038cf91e16.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 170,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/cb57cbd4-cf7c-446b-8e5f-bb0bf77a133a.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 171,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e2f9478f-61e1-45a1-8f89-c82424988a59.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 172,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4370306b-c5a3-450a-b78b-10117a73d495.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 173,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7489a9da-0c2f-494a-b754-55284218ce70.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 174,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/aee9e011-0ab2-4e89-b39e-0d314770a2ee.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 175,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b5eddb8a-42c9-4e1a-a05c-6f537345d936.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 176,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e27c2d14-e10e-4665-aeed-40ecb01e2a34.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 177,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ecc8312c-d7c0-4daa-9029-37458eb846d7.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 178,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/24810f04-2343-43ea-917d-c478237395fb.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 179,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3307854f-c0ef-4503-b9be-ff62aed2c607.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 180,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/acd15286-b802-4d24-8a0a-ebbc33c0bc4a.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 181,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/448222fa-2820-4e6e-80cb-86781a9b9356.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 182,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/fe8b9e03-2157-4d21-800c-8a9541a21467.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 183,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e19770bb-d5c9-4935-895e-ef341cf0b8d2.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 184,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a8e93f3b-3bf3-4eb6-9244-100d24fe3607.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 185,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2cc30d8c-2ec4-47c5-9bd4-afbe091cda7f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 186,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/9a5132c3-f44c-4bc8-8cd5-c07ac7d428c5.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 187,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/aae40e50-b02b-4e79-b3f1-961d2a181ebe.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 188,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2396a619-9d6c-4d8f-9679-167c2852ef91.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 189,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8d4da919-8ef2-476a-a927-b84b57dd6583.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 190,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e389838e-b257-438d-93de-e95d4b8b24f6.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 191,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/122d1b7d-149a-4338-9628-568079944961.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 192,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4f8349df-9edd-43d4-8cef-023be36ad7b9.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 193,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e2dc646d-795a-497f-9d38-3c05eec46c1b.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 194,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5fb55861-f40e-450c-89ea-f7a4ddcca40e.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 195,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/0e724c25-8eb4-424d-a892-24369d8eb90d.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 196,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/eb7def8a-49e3-4e5c-8a6e-6383be82aaf7.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 197,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d6d49315-0fef-47c6-a27e-614ef523febe.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 198,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4bf4d7a4-aa3e-493a-906b-5c1b7393ca08.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 199,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/066fd977-8ceb-4079-906e-282810331646.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 200,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8e4d1989-548c-4472-8a89-235ad9056559.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 201,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/af8cb3ba-ee62-4619-a2ca-f576128f34da.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 202,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/53477aa4-c436-440b-8e84-3762eeac881f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 203,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/981c1e8b-0f78-4d72-99d7-f99b6224a762.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 204,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a8996150-7442-41fb-a66c-a7969550eec0.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 205,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8efa5abf-875f-403d-be89-872157b2b59a.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 206,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f8769a36-afe0-4836-bd37-8a1ad7cc2cb1.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 207,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ffa71822-ba3b-4368-8154-34f512f585a0.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 208,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/40005940-4db8-4008-901a-d6b6f59b2b24.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 209,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/fe22a76e-260a-42f5-9d97-af0f814faa01.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 210,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/26081c17-2abc-4620-935a-cc1991e68595.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 211,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/72e49fdc-7cc3-4a97-b501-d805c5d70a08.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 212,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/09133f4b-a1c6-42df-94a4-ffa4abce1f58.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 213,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4c3b89e9-161e-4388-86a9-32fe2d5cf601.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 214,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d930d2fc-df0c-4e4a-8754-7a0afa1c6b69.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 215,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/29335afc-ebf1-4e3a-8f87-64f9b34014c5.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 216,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3cdb73f5-b785-48b5-8043-ced0fc680d4f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 217,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d2101e3e-6433-4997-8016-297059c422fe.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 218,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2792f678-a6ef-4ad4-b236-af1398c3d823.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 219,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/351e01c9-2238-4296-896f-3930828a5ee1.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 220,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/92f45884-d3d1-40a7-9ca6-f6f431e16f11.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 221,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/fb9a67fb-0f3a-4741-9650-516347a62c7e.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 222,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5d1648ba-33e3-4b50-90ee-08815b6ed2b0.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 223,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3d44c7d1-6405-4740-a410-6b5342986692.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 224,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f434682a-3d80-4e61-9741-5cf527790496.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 225,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f0b9baed-77f5-45eb-8405-af40f752d4f2.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 226,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/beb59a1c-cd31-489e-858f-f643e3575411.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 227,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f5120ead-1dca-4e64-8eda-2a5d9f70e258.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 228,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b5206960-e294-4bb3-a69f-5278eb2e8441.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 229,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b0bc500d-0ebe-4488-b526-c6c62e119e22.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 230,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7c794496-9bed-41e9-9891-1a8c93328c88.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 231,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7fe9d9fb-32fc-4f3f-8b1c-63239761b08f.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 232,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/64eaa8a6-1c94-4921-b01f-abc74046e0ba.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 233,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/67e455a7-43b8-4f16-b357-04dbb5cca2ab.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 234,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/34034494-7772-40d9-b020-06799800880c.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 235,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/afe7394c-9b5d-432a-977e-d21870f8567c.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 236,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/34f147ce-7164-434b-8e73-ddb341187987.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 237,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/bfe0be90-ef5e-424b-9fe5-a60e6da7ae89.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 238,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3a5d2985-f701-4b1f-9a43-5be0989544b0.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 239,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/59794f21-a842-4591-8152-6bf8f30af336.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 240,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/065b9d87-1e40-49a4-b3fa-5fe8135be82e.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 241,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/aeeaa939-a28f-4245-968c-69bd97f1ff5e.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 242,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/9ea55f56-857a-4a11-ac83-f9a67b55f20c.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 243,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/375e35fb-1910-458e-b5dc-bb3f4c1794ec.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 244,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e8df627b-18ed-4284-9407-0905d260b285.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 245,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/1063ccec-f19a-443f-9220-cba2e1ebedcc.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 246,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5b45cb60-77a1-412d-aa14-932ce22a10a8.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 247,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/57e763e8-94a1-4fce-adec-7211685dbb90.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 248,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/637511a9-500a-475e-aacf-096bb1cff169.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 249,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ca98fd99-2457-4613-9be9-2387d43edade.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 250,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/bcd7591f-4921-42e8-9940-74a53cbe4f29.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 251,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/325ee8ff-eaf2-461d-a5b5-314fc81f0a45.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 252,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/1d0ef30a-81e6-4535-b802-174d4ad52578.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 253,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/dd3b63f8-5011-42c4-a4ac-253943b90d5e.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 254,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/46e76a65-4a54-4ee4-9eea-a081f651efdc.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 255,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/99b5945d-bbbe-4144-8a5e-51cba65b9963.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 256,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3a2f5529-24fd-445c-ba69-bd1f738265bd.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 257,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/775fd3ff-3ed2-4856-886a-0f65cd455590.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 258,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/1b6a2aaf-5397-411b-8c4f-801934da6916.mp3",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 259,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/507ea79e-dcba-4de6-b61a-dfc647a4a133.mp3",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 260,
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e25f9b03-a92a-485e-b0ff-fe7af7caa273.mp3",
+      "pause_after_ms": 220
+    }
+  ]
+}

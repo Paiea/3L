@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 251,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": " he asked.\n\n\"Where what?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 252,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"If we go backward, where do you begin?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 253,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI almost said the Guild.\n\nWrong.\n\nI almost said my first field contract.\n\nAlso wrong.\n\nCould have said the first time I realized reinforcement could be more than reinforcement.\n\nToo impressive.\n\nCould have said the first person I saved.\n\nThat would have sounded good.\n\nIt would also have been bullshit.\n\nThe beginning was smaller.\n\nEmbarrassingly smaller.\n\nIthar's nostril moved.\n\n\"Do not.\"\n\nHe had not said anything.\n\n\"You are doing the face.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 254,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I have one face.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 255,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Untrue.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 76,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I'm proud of you.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 77,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Eat.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 78,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That sounded like an order.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 79,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Then consider whether obeying it would improve your condition.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 80,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI opened the pack.\n\nHalf a heel of hard bread.\n\nDried meat that had crossed the mountain better than I had.\n\nOne apple which had become mostly bruise.\n\nI held it up.\n\n\"Dinner.\"\n\nIthar stared at the apple.\n\nThen at me.\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

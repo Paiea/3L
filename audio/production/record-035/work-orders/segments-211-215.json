@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 211,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nOf course.\n\nDragons.\n\nGive them one silence and they turn it into a theory.\n\nI got up.\n\nToo quickly.\n\nMy leg protested.\n\nI walked toward the cave mouth anyway.\n\nMorning wind came through cold enough to clean the last sleep from my head.\n\nCloud below.\n\nMountain above.\n\nThe world had continued while I was talking.\n\nThe western Line was still failing somewhere under it.\n\nThat urgency had not disappeared because I had spent a night eating badly cooked goat with a dragon.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 212,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I hated the relief of remembering that.\n\nProblems I could name were easier.\n\nPressure.\n\nStations.\n\nPeople.\n\nFailure.\n\nRepair.\n\nIthar spoke behind me.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 213,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have used the other life as a measuring instrument since you arrived.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 214,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI turned.\n\n\"What?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 215,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"When this body disappoints you, you compare it to the first. When your choices surprise you, you compare them to the first. When a person differs from your memory, the first life becomes evidence. When your knowledge exceeds this life's experience, the first life becomes explanation.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

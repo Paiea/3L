@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 186,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 187,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I can answer questions.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 188,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 189,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I cannot...\"\n\nThe word would not come.\n\nOf course.\n\nI laughed once.\n\nBad sound.\n\n\"Package it.\"\n\nIthar waited.\n\n\"There. That's the word. I cannot package it.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 190,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have packaged nearly everything else.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

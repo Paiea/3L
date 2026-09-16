@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 46,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Less apparently.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 47,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You just described a ribbon's migration through three household objects and a child's theory of property seizure.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 48,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Important history.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 49,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Mm.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 50,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThere it was again.\n\nI shifted on the stone.\n\nMy left leg had begun hurting two positions ago.\n\nI changed positions.\n\nIt hurt differently.\n\nProgress.\n\nIthar's gaze followed the movement.\n\n\"Do not start on the leg.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

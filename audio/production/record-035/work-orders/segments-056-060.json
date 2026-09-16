@@ -1,0 +1,42 @@
+{
+  "record": "035",
+  "source_sha256": "7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 56,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Fuck you.\"\n\nThe dragon settled one claw deeper into the gold.\n\nCoins slid around it with the soft sound of rain on a roof.\n\nI had heard that sound enough that I no longer looked every time.\n\nA kingdom's worth of money had become background noise.\n\nHumans adapt badly to wealth too.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 57,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"What happened next?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 58,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": " Ithar asked.\n\nThere it was.\n\nThe question landed harder because it was small.\n\nI looked at the floor.\n\n\"I don't know how to say it.\"\n\nThe cave stayed quiet.\n\nI waited for correction.\n\nNone came.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 59,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That is not the same as not knowing.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 60,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"No.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}
