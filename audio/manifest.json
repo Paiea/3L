@@ -254,6 +254,15 @@
       "duration_seconds": 812.616,
       "routing_mode": "exact_quote_locked",
       "listened": false
+    },
+    "r029": {
+      "status": "published",
+      "src": "audio/assets/record-029-quote-locked-v2.mp3",
+      "source_sha256": "23ce651a38de101aee6838d9148df936697ae161231e76f6eb1655efb9d6f29b",
+      "audio_sha256": "bf6946666d49d7971c01534f1667587b0a5de1a780f49d46957f6db23b071c35",
+      "duration_seconds": 1277.28,
+      "routing_mode": "exact_quote_locked",
+      "listened": false
     }
   }
 }

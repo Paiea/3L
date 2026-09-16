@@ -1,0 +1,14 @@
+{
+  "record": "029",
+  "source_sha256": "23ce651a38de101aee6838d9148df936697ae161231e76f6eb1655efb9d6f29b",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 101,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI hated him.\n\n\"And I didn't say I wanted it to stop.\"\n",
+      "pause_after_ms": 220
+    }
+  ]
+}

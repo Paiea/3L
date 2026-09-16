@@ -1,0 +1,77 @@
+{
+  "record": "029",
+  "source_sha256": "23ce651a38de101aee6838d9148df936697ae161231e76f6eb1655efb9d6f29b",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Lena brought tiny shirts.\n\nI held one up.\n\n\"No human is this size.\"\n\n\"You were.\"\n\n\"Unverified.\"\n\nShe told Nessa I was getting worse.\n\nNessa said pregnancy had improved her evidence base.\n\nLorn started taking more private calls without me.\n\nRell covered two inspection windows.\n\nSera Pellin handled a weekend response while I sat through a healer appointment that lasted three hours and contained fourteen minutes of actual medicine.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The systems we had built after losing the Harven contract worked.\n\nI did not appreciate the irony.\n\nI was busy complaining about invoices.\n\nThe twins arrived early enough to frighten us and late enough that the healer called them stubborn instead of premature.\n\nOne boy.\n\nOne girl.\n\nMira came first.\n\nTomas followed seven minutes later.\n\nThose seven minutes were the longest period in which we ever had only one child.\n\nNessa hated that joke the first time.\n\nShe liked it later.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 33,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The birth itself is not mine to turn into a heroic story.\n\nNessa did the hard part.\n\nI held what I was told to hold.\n\nWater.\n\nCloth.\n\nHer hand.\n\nMy mouth, eventually.\n\nThe healer made that last instruction explicit.\n\nWhen Mira cried, I thought that was the loudest sound a creature that small could make.\n\nThen Tomas arrived with professional ambition.\n\nThey were healthy.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Nessa was not fine because no one who has delivered two children should be described with a word that lazy.\n\nShe was alive.\n\nExhausted.\n\nBleeding more than I liked and less than the healer feared.\n\nIn pain.\n\nHungry.\n\nShaking.\n\nFurious that everyone kept asking whether she was happy.\n\n\"I am tired,\" she told my mother.\n\nMy mother nodded.\n\nGood woman.\n\nNobody asked again that day.\n\nI stayed home.\n\nNot for two days.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 35,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Not until Nessa could stand long enough to make me feel excused.\n\nI stayed.\n\nFor the first six weeks I took almost no outside work.\n\nRecords came to the apartment.\n\nLorn brought contracts.\n\nRell brought questions she already knew the answers to because she wanted my signature.\n\nHalden sent district notes with insulting amounts of blank space for responses.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 36,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I did what I could at the desk between feedings, washing cloth, heating water, carrying babies, finding missing cloth, discovering the cloth was under a baby, and being informed by Nessa that I had heated too much water.\n\nWork continued without me.\n\nMostly.\n\nThat should have felt like victory after Harven.\n\nInstead it was strange.\n\nI had spent years trying to make myself less necessary to every job.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 37,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then two people arrived who were completely unreasonable about requiring me specifically.\n\nNot always.\n\nThat would have been simpler.\n\nMira wanted Nessa when she was hungry and me when she was angry.\n\nI do not know why.\n\nTomas would fall asleep against anyone with a heartbeat and then wake the instant that person attempted to sit down.\n\nMira hated having her hands wrapped.\n\nTomas escaped every blanket by moving one foot repeatedly until the entire arrangement failed.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 38,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Mira made a small offended noise before crying.\n\nTomas skipped warning stages.\n\nMira would stare at the stove flame until we turned her away.\n\nTomas stared at faces.\n\nEspecially mine.\n\nJudgmental child.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 39,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You remember a great deal,\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 40,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": " Ithar said.\n\n\"They were loud.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}
