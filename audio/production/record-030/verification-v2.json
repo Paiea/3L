@@ -1,0 +1,13 @@
+{
+  "record": "030",
+  "status": "assembled_unlistened",
+  "routing_mode": "exact_quote_locked",
+  "uses_timestamps_for_speaker_assignment": false,
+  "source_sha256": "2ae119cd7b2ca903e5ddc9c0843cc82fb105dec487d6bc9276fec072ec6d17e3",
+  "segment_count": 34,
+  "ithar_segment_indices": [],
+  "duration_seconds": 905.928,
+  "sha256": "6cad45f6718a04e50150f7c7f2ff7238d863ad4aea3f9f63470c73905191f3a6",
+  "asset": "audio/assets/record-030-quote-locked-v2.mp3",
+  "note": "Deterministic route/pause verification passed; auditory listen-back remains pending."
+}
