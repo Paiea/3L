@@ -1,505 +1,555 @@
 ## RECORD 074
 
-## THE DISSENTER
+## THE CARRIER
 
-Tomas corrected me in front of thirty-seven people.
+The lower galleries stopped pretending to be architecture.
 
-He was right.
+Above, things still looked built for bodies.
 
-I considered firing him anyway.
+Stairs.
+
+Platforms.
+
+Passages.
+
+Doors that were not doors.
+
+Below the fourth landing, the scale changed.
+
+The walls curved without matching the shaft.
+
+Black bands crossed through stone at angles nobody would choose for walking.
+
+Rooms narrowed into throats, widened into chambers, then ended against smooth surfaces that carried pressure but no obvious traffic.
+
+The survey lead stopped calling them rooms.
+
+"Cells," she said.
+
+Mael said, "Function unknown."
+
+"Geometry known."
+
+"Then call them chambers."
+
+She looked offended.
+
+Arcrutus said, "Call them Gregs."
+
+Nobody responded.
+
+I did not reward him.
+
+Pava's hand was better the next morning.
+
+Not healed.
+
+Better.
+
+The healer allowed light instrument work.
+
+Mael restricted her to passive readings.
+
+Pava accepted this badly but professionally.
+
+I liked her more every day.
+
+The directional map from the medium pulse led us into a descending curve wrapped around the central shaft.
+
+Every functioning transfer path we had found bent toward it.
+
+The deeper we went, the less visible material carried the measured burden.
+
+That sentence sounds impossible.
+
+It felt worse.
+
+At one station, Mael applied enough force to bow a stone plate the thickness of my chest.
+
+The plate bent.
+
+The surrounding wall barely changed.
+
+The load vanished through three black bands and reappeared seventy feet below as compression in a floor none of us were touching.
+
+At another, Pava placed a passive rod against a seam and detected pressure adjustment before Mael completed a test movement.
+
+She frowned.
+
+"Again."
+
+Mael returned to start.
+
+The survey lead reset the slates.
+
+Mael moved slower.
+
+The seam adjusted earlier.
+
+Not much.
+
+Enough.
+
+"Predictive coupling," the survey lead said.
+
+Pava said, "Or shared pre-load."
+
+Mael said, "Test both."
+
+That took six hours.
+
+This is the part stories leave out because it ruins the idea that discovery is an event.
+
+Most discovery is boredom with expensive instruments.
+
+We changed force rate.
+
+Direction.
+
+Starting pressure.
+
+Surface.
+
+Sequence.
+
+We separated Mael's test from Pava's observation by one chamber.
+
+Then two.
+
+We randomized which marked plate he would use so nobody could unconsciously anticipate the next station.
+
+The survey lead wrote the order on folded slips and made Mael draw one after each reset.
+
+He complied.
+
+Arcrutus accused her of gambling badly.
+
+She threatened to put him on instrument cleaning.
+
+He became quiet.
+
+The pattern remained.
+
+Not every time.
+
+Enough times.
+
+Pressure shifted into alternate paths before the local material reached the deformation threshold we had measured on previous attempts.
+
+I said, "It knows what's going to fail."
+
+The survey lead said, "No."
+
+Immediate.
+
+Good.
+
+"It responds to precursor conditions."
+
+"That sounds like knowing with extra words."
+
+"No."
+
+"Fine. It detects what is about to fail."
+
+"Possibly."
+
+Mael looked at me.
+
+I nodded.
+
+Possibly.
+
+Pava was staring at one of the traces.
+
+"It is not minimizing local strain."
+
+The survey lead leaned over.
+
+Pava pointed.
+
+"Here. It lets this plate take more than the adjacent path even though the adjacent path is colder."
+
+"Could be capacity difference."
+
+"We measured capacity difference. Not enough."
+
+Mael came over.
+
+They argued quietly for twenty minutes.
+
+Not about whether the system was intelligent.
+
+About whether the observed redistribution optimized for structural preservation, pressure continuity, or some other constraint we had not identified.
+
+That distinction mattered.
+
+A machine can optimize.
+
+People do not own anticipation.
+
+I knew that.
+
+I also knew the feeling bothering me.
+
+The system was not merely moving load away from weakness.
+
+It was making choices about what could safely be allowed to carry more.
+
+That was different.
+
+Subtle.
+
+Maybe imaginary.
+
+I kept it to myself until the next chamber.
+
+There we found three parallel bands crossing a cracked wall.
+
+One band was dark.
+
+Dead, probably.
+
+One carried low steady pressure.
+
+The third carried almost nothing.
+
+Mael tested the wall with a small controlled push.
+
+The active band took more.
+
+Expected.
+
+The third stayed quiet.
+
+He increased slowly.
+
+At the point where the active band approached the highest load we had previously measured from it, pressure shifted.
+
+Not to the quiet third band.
+
+Away from the wall entirely.
+
+Downshaft.
+
+The third band remained unused.
+
+Pava said, "Why leave capacity idle?"
+
+The survey lead said, "Maybe it isn't capacity."
+
+Mael released.
+
+I walked closer.
+
+The quiet band looked intact.
+
+No fracture.
+
+No heat.
+
+No discoloration.
+
+I lowered my aura slightly.
+
+Mael noticed.
+
+"No Draw."
+
+"Not drawing."
+
+"What are you doing?"
+
+"Listening badly."
+
+He allowed this.
+
+I brought a thin Barrier edge against the band.
+
+Not through it.
+
+Against.
+
+Barrier tells you things when you stop thinking of it as a wall.
+
+Pressure.
+
+Direction.
+
+What presses back.
+
+What does not.
+
+The band felt wrong.
+
+Not empty.
+
+Occupied.
+
+I removed the Barrier.
+
+"It's already carrying something."
+
+Pava said, "The instruments show almost zero."
+
+"Not pressure."
+
+"Then what?"
+
+I hated saying things before I understood them.
+
+This expedition had cured me of that at least twice a day.
+
+"A condition."
+
+The survey lead made a face.
+
+"That is not a measurable noun."
+
+"I know."
+
+Mael said, "Try again."
+
+I looked at the band.
+
+"When I touch it with a boundary, it pushes back like a channel that is already assigned."
+
+Pava's expression changed.
+
+"Assigned to what?"
+
+"I don't know."
+
+Good sentence.
+
+We tested without me.
+
+Better instruments.
+
+Different methods.
+
+The quiet band did carry something.
+
+Not load in the ordinary sense.
+
+A standing constraint.
+
+A maintained relationship between pressure states in two places we could not yet map.
+
+The survey lead called it a control path.
+
+Pava called it a held differential.
+
+Mael called it useful.
+
+Arcrutus called it Greg's weird line.
+
+I considered pushing him down the shaft.
 
 Briefly.
 
 Professionally.
 
-Mostly.
+We marked the band blue instead of black or red.
 
-The argument was about isolation order.
+New category.
 
-That sounds small.
+That became important quickly.
 
-Small things are where procedures hide teeth.
+The next chamber had twelve blue paths.
 
-We were running a regional training day at South Fen.
+The one after had forty.
 
-Operators.
+By the time we reached the lower ring, the visible black load paths were outnumbered by routes carrying these maintained conditions.
 
-Contractors.
+Not force.
 
-District mechanics.
+Instructions was too strong a word.
 
-Two licensing officers.
+Relationships.
 
-One engineer who took notes whenever people swore, which kept her busy.
+Allowed differences.
 
-I was teaching the legacy-entry sequence we had refined over years.
+Pressure here may rise if pressure there falls.
 
-For old pressure galleries with uncertain cross-connections, our standard was:
+This path stays closed unless that one approaches limit.
 
-reduce active load,
+This chamber may move only if the lower route is already accepting load.
 
-close local branch,
+I had built crude versions of this with people.
 
-verify downstream zero,
+Not ancient stone.
 
-then test for backfeed before opening access.
+Not at this scale.
 
-Reasonable.
+But the shape was familiar.
 
-Had worked.
+A linked party is not six reservoirs and six bodies.
 
-Had prevented injuries.
+It is a set of permissions and compensations that change what each person can safely do.
 
-I liked it.
+The system below us was full of that kind of relation.
 
-That should have warned me.
+The survey lead hated when I explained it that way.
 
-Tomas raised his hand.
+Pava did not.
 
-He no longer needed to.
+"A control lattice," she said.
 
-Habit.
+"Maybe."
 
-“Yes?”
-
-“Order is wrong for shared returns.”
-
-Thirty-seven people became quieter.
-
-Not silent.
-
-The engineer's pencil moved.
-
-I said, “No.”
-
-Excellent opening.
-
-Tomas did not sit down.
-
-“At Bellwater Three, if you close local branch before checking return balance, you can trap pressure between the branch check and shared return.”
-
-“Only if the return valve leaks.”
-
-“Yes.”
-
-“That is why we test backfeed.”
-
-“After closure.”
-
-“Yes.”
-
-“That is the problem.”
-
-I hated him.
-
-Not actually.
-
-A little.
-
-“Show me.”
-
-Good sentence.
-
-Better late.
-
-He had brought records.
-
-Of course.
-
-My fault.
-
-Three Bellwater jobs.
-
-Two South Fen.
-
-One municipal wash plant.
-
-Six cases where shared-return pressure rose after local branch closure because the closure changed flow balance upstream.
-
-In four, rise was small.
-
-In two, enough that downstream-zero verification passed before pressure reappeared from return side.
-
-No injuries.
-
-One near miss.
-
-Hali's handwriting on that report.
-
-Of course.
-
-Tomas pinned the pressure traces to the board.
-
-“We are creating the condition before we test for it.”
-
-There it was.
-
-Not theoretical disagreement.
-
-Mechanism.
-
-Current evidence.
-
-My own training method standing in front of me wearing a younger man's face.
-
-I looked at the traces.
-
-Then again.
-
-The room waited.
-
-Bad teachers defend themselves because thirty-seven people are watching.
-
-Good teachers become good slightly later than is comfortable.
-
-“How often?” I asked.
-
-Tomas said, “Six observed in eighteen shared-return sites.”
-
-“Same valve family?”
-
-“Four. Two different.”
-
-“Only old systems?”
-
-“No.”
-
-“Load range?”
-
-He had that too.
-
-Asshole.
-
-I looked at the standard written behind me.
-
-Reduce active load.
-
-Close local branch.
-
-Verify downstream zero.
-
-Test backfeed.
-
-I had taught it for four years.
-
-Copied into seven districts by then.
-
-There is a particular kind of fear that comes when your mistake has distribution.
-
-Personal errors are intimate.
-
-Standards travel.
-
-“Proposed order?” I asked.
-
-Tomas stood.
-
-“Reduce load. Measure return pressure before closure. If shared return exists or is uncertain, isolate or monitor return before branch closure. Then close branch. Verify both sides. Then access.”
-
-The engineer asked, “Does that increase shutdown time?”
-
-“Yes.”
-
-“How much?”
-
-“Usually ten minutes.”
-
-Someone in the back said, “Usually.”
-
-Tomas nodded.
-
-“Could be longer if return isolation is remote.”
-
-A municipal operator said, “That can add an hour.”
-
-“Yes.”
-
-“Then your method costs service.”
-
-“Yes.”
+Mael nodded at me.
 
 Good.
 
-No pretending.
+Possibly.
 
-I asked, “Evidence of actual pressure harm under current method?”
+We spent another day following blue paths.
 
-Tomas pointed to Hali's report.
+They all converged deeper than the load paths.
 
-Near miss.
+Not physically.
 
-Worker opened an access plate after downstream zero.
+Functionally.
 
-Return pressure rebuilt six percent before the first bolt came free.
+Every time a local structure approached a tested limit, one or more blue conditions changed first.
 
-Hali caught gauge movement.
+Then load moved.
 
-Stopped.
+Sometimes before visible deformation.
 
-No injury.
+Sometimes before instrument thresholds we thought should matter.
 
-Six percent would not have killed anyone.
+That was the part I could not leave alone.
 
-Could have burned hands.
+Machines can have thresholds.
 
-Thrown the plate.
+Old systems can have sensors.
 
-Enough.
+Nothing about anticipation required a mind.
 
-I looked at Hali.
+But support is not only avoiding failure.
 
-She was in the second row.
+It is deciding which failure matters.
 
-“You knew about this?”
+The place kept making asymmetric choices.
 
-“Yes.”
+It let some parts strain more than others.
 
-“Why did I not?”
+Preserved some paths while spending others.
 
-“Report filed.”
+Accepted local damage if continuity elsewhere remained stable.
 
-That hurt.
+At one cracked junction it repeatedly chose a route with less total capacity because using the stronger route would have disturbed three downstream relationships.
 
-My archive.
+Pava found that.
 
-My system.
+Not me.
 
-I had not read every report anymore because there were too many.
+She stared at the trace for a long time.
 
-Leverage creates blindness differently than ignorance does.
+Then said, "That is not local optimization."
 
-Tomas said, “I was reviewing shared-return incidents for training notes.”
+The survey lead said, "No."
 
-Of course he was.
+Mael said nothing.
 
-“Any evidence your proposed order creates different hazards?”
+Arcrutus stopped joking.
 
-“Not enough data.”
+That was when I got scared.
 
-Excellent answer.
+We descended another level.
 
-I turned to the room.
+The air warmed.
 
-“Current standard suspended for shared or uncertain returns.”
+Not much.
 
-The licensing officer said, “You can do that?”
+Enough that salt stopped forming on our outer layers.
 
-“No idea.”
+The central shaft narrowed into something like a throat.
 
-She stared.
+Blue bands covered the walls.
 
-I corrected.
+Hundreds.
 
-“I am suspending my instruction. Districts can decide formal authority.”
+Maybe thousands.
 
-Better.
+They crossed without touching, dove into stone, reappeared, split, joined, and vanished downward.
 
-The engineer was still writing.
+My skin hurt looking at them.
 
-I pointed at Tomas.
+Not magically.
 
-“Until review, use his sequence where site authority permits.”
+Professionally.
 
-Tomas looked surprised.
+I knew what too many relationships felt like.
 
-Good.
+Nothing human should have been able to hold that many at once.
 
-He should be.
+The healer touched one blue band with a diagnostic charm.
 
-I was surprised too.
+Pulled back immediately.
 
-The rest of the training day became less about legacy entry and more about what happens when a standard is wrong.
+"What?" Mael asked.
 
-Useful day.
+She stared at her hand.
 
-Uncomfortable.
+"It changed when I touched it."
 
-Very useful.
+Pava said, "Reactive?"
 
-Afterward Tomas found me packing diagrams.
+"No."
 
-“You're angry.”
+The healer looked at me.
 
-“Yes.”
+"It moved around me."
 
-“At me?”
+Silence.
 
-“Some.”
+Not dramatic silence.
 
-He laughed.
+Working silence.
 
-I appreciated that less than he did.
+The kind that means everybody has noticed the same problem and nobody wants to name it first.
 
-“Why?”
+I stepped closer.
 
-“Because you were right in public.”
+The blue path had already returned to baseline.
 
-“That is childish.”
+"Do it again," I said.
 
-“Yes.”
+Mael looked at the healer.
 
-He waited.
+She nodded.
 
-“And?”
+Second touch.
 
-“And because the report existed and I missed it.”
+The condition shifted before her charm fully seated.
 
-“That is not your job anymore.”
+Not away.
 
-I looked at him.
+Around.
 
-“What?”
+Preserving the relationship while avoiding the new interference.
 
-“You built the archive so other people could read it too.”
+The healer withdrew.
 
-There it was.
+Pava whispered, "Adaptive."
 
-A correction inside the correction.
+The survey lead said, "That still does not mean alive."
 
-I had spent years trying to make knowledge survive my absence.
+"No," I said.
 
-Then felt guilty when knowledge improved without passing through me.
+She looked at me.
 
-Stupid.
+I watched the blue line settle.
 
-Understandable.
+"But it means whatever is carrying this notices contact."
 
-Still stupid.
+Mael looked down the throat.
 
-“Who else reviewed the cases?” I asked.
+For the first time since I woke in Arcrutus's bag, nobody moved to continue.
 
-“Hali. Mira at district. Two operators from Bellwater.”
+We stood there with enough human power to flatten towns.
 
-“Good.”
-
-“I was going to send you the memo next week.”
-
-“Why next week?”
-
-“I wanted the training traces first.”
-
-“Reasonable.”
-
-He hesitated.
-
-“Should I have told you before today?”
-
-Important question.
-
-Not because of respect.
-
-Because public correction can become theater.
-
-“Did you know I was teaching the old order today?”
-
-“Yes.”
-
-“Then yes.”
-
-He nodded.
-
-“Why?”
-
-“So we could change the material before thirty-seven people copied it again.”
-
-“Fair.”
-
-“Do not surprise people for effect.”
-
-“I wasn't.”
-
-“I know.”
-
-That mattered.
-
-He had raised the objection because the standard was dangerous, not because correcting Greg Vale in public felt good.
-
-Probably.
-
-I allowed myself some ego protection.
-
-The regional review took three weeks.
-
-Tomas's sequence did not survive unchanged.
-
-Good.
-
-Engineering added a distinction between verified independent returns and shared or uncertain returns.
-
-Operators added a low-load pretest that reduced unnecessary full return isolation.
-
-Tova, now doing more review than field work, removed one step everyone else had duplicated.
-
-I objected.
-
-She was right.
-
-Terrible month.
-
-The final revision was better than Tomas's proposal and much better than mine.
-
-That was the point.
-
-At the next training day I put the old sequence on the board first.
-
-Then crossed it out.
-
-“This was mine,” I said.
-
-People looked interested.
-
-“Worked for years.”
-
-More interest.
-
-“Then Tomas found a failure mode.”
-
-I pointed at him.
-
-He looked annoyed.
-
-Good.
-
-“No,” I said. “Stand up. Suffer.”
-
-He did.
-
-We taught the revision together.
-
-Not as a morality play.
-
-As provenance.
-
-Old method.
-
-Observed failure.
-
-Proposed correction.
-
-Testing.
-
-Final revision.
-
-What remained uncertain.
-
-That last part stayed on every version afterward.
-
-WHAT WOULD MAKE THIS STANDARD WRONG?
-
-Not elegant.
-
-Useful.
-
-Years later people would cite the shared-return rule without knowing my name or Tomas's.
-
-Good.
-
-Somebody else would eventually change it again.
-
-Better.
-
-If your procedure survives because nobody is allowed to embarrass its author, you do not have a safety standard.
-
-You have a shrine.
-
-I had already spent one life around too many of those.
+And waited because something under the salt had adjusted itself around one woman's fingertips.
