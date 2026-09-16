@@ -1,629 +1,1019 @@
 ## RECORD 050
 
-## THE COWORKER
+## THE BORROWED PART
 
-Bren and I became coworkers before we became anything else.
+Veda came back with shorter hair and the same personality.
 
-That was probably the only way I could have survived it cleanly.
+Disappointing.
 
-The job was Hillcross.
+It had been almost two years since the tournament.
 
-Public pump line under the north street.
+Long enough that I had stopped expecting to see her every time Orla said something irritating.
 
-Not the same lower feed I had inspected years earlier.
+Then I arrived at the West Fen contract camp and there she was, sitting on my bedroll.
 
-Different branch.
+Not a similar bedroll.
 
-Newer construction over older stone.
+Mine.
 
-A delivery cart broke through the street at second bell and dropped one wheel into a cavity nobody knew existed.
+"Move."
 
-The driver got out.
+"Greg."
+
+"Veda."
+
+She looked at my face.
+
+Then my forehead.
+
+"Horn is gone."
+
+"It was a bruise."
+
+"I had hopes."
+
+"Move."
+
+She stood.
+
+"You look thinner."
+
+"You look shorter."
+
+"Hair."
+
+"I know."
+
+Calder came around the supply tent carrying two practice swords.
+
+Orla followed with a contract sheet.
+
+For one stupid second the four of us were back beside a tournament square.
+
+Then a freight wagon rolled through mud behind them, somebody shouted about crawler spoor near the south ditch, and the present reasserted itself.
 
 Good.
 
-Then the street sagged another foot and exposed a live pressure main along one side of the hole.
+The job was six weeks of hazard suppression along an old canal road west of Bellwater.
 
-Bad.
+Crawlers had moved into the drainage cuts after flooding opened several underground runs.
 
-Two municipal workers went down to brace the cart before anyone understood the cavity was still moving.
+Not world-ending monsters.
 
-Worse.
+Dog-sized mostly.
 
-One climbed back out.
+Some larger.
 
-The other became trapped when a section of paving collapsed behind him.
+Fast.
 
-Not crushed.
+Low.
 
-Cut off.
+Too many teeth.
 
-The live main prevented ordinary excavation because nobody knew what supported it.
+They hunted livestock, damaged canal crews, and occasionally convinced travelers that walking was a design flaw.
 
-Hillcross called district pressure review.
+The district did not want extermination.
 
-That was me.
+Clear the road corridor.
 
-They also called Authority rescue.
+Collapse accessible nests.
 
-That was Bren.
+Keep maintenance crews alive long enough to repair grates.
 
-I arrived first.
+Routine hazard work.
 
-For once.
+Good pay because routine hazard work still bites.
 
-The street had been cleared two buildings in each direction.
+Veda had taken Pell's old slot permanently for this contract.
 
-Good local decision.
+Not because our tournament team had become destiny.
 
-Water pumps down on the north loop.
+Because Orla knew Veda.
 
-Also good.
+Calder knew Orla.
 
-Pressure main still carried reduced load because full isolation would stop three uphill public pumps and one healer annex.
+The contractor knew Calder.
 
-Less good.
+I had worked with both.
 
-The trapped worker was named Mal Teren.
+Professional networks are less romantic than prophecy and more effective.
 
-Thirty-nine.
+We trained the first afternoon.
 
-Municipal street crew.
+Not because we had forgotten one another.
 
-Conscious.
+Because two years had happened.
 
-Could talk through a gap in the paving.
+Calder's right-side recovery was faster.
 
-He had enough air.
+Orla no longer favored the left boot.
 
-No obvious major injury.
+Veda had changed her spear grip for close work and gained a small scar under her jaw she refused to explain.
 
-The rescue problem was time plus uncertainty, not immediate death.
+I had learned Draw.
 
-Better problem.
+Bad combination.
 
-Still a problem.
+"No," Orla said.
 
-I crouched beside the exposed main.
+We had not started the conversation.
 
-Modern steel sleeve.
+"I haven't asked."
 
-Support bracket disappeared into the cavity wall.
+"I remember last time."
 
-Below it, older stone.
+Veda looked between us.
 
-No visible footing.
+"What did I miss?"
 
-The street plans showed a compacted fill bed.
+Calder said, "Greg attacked Orla."
 
-Of course.
+"That is not what happened."
 
-SOLID FILL had become a family curse by then.
+Veda's face lit up.
 
-Hillcross's mechanic said, “There should not be a void.”
+"Finally."
 
-“There is.”
+Orla pointed at me.
 
-“I noticed.”
+"He used Draw on my aura while I was holding stone."
 
-Good mechanic.
+Veda looked at me.
 
-We probed from the street edge.
+"Why?"
 
-Cavity extended under the north curb.
+"It was overloaded."
 
-Maybe an abandoned service tunnel.
+"Did it work?"
 
-Maybe old drainage.
+"Partly."
 
-Maybe something older.
+Orla said, "Do not encourage him."
 
-Did not matter yet.
+"Did you die?"
 
-The pressure main mattered.
+"No."
 
-If we dug wrong and shifted the support, we could rupture it over Mal.
+"Promising."
 
-If we isolated fully, uphill buildings lost water pressure and the healer annex shifted to storage tanks for maybe four hours.
+I liked Veda again immediately.
 
-Possible.
+Bad judgment.
 
-Expensive.
+The controlled-transfer texts Edda had given me were excellent at explaining why my idea was stupid.
 
-Safer.
+That was useful.
 
-I was preparing to recommend full isolation when Authority carts arrived.
+Living transfers were normally deliberate systems.
 
-Three Rankers.
+Healers matched flow.
 
-Bren jumped down from the first.
+Ritual teams established compatibility.
 
-No limp.
+Bonded combat pairs trained specific pathways until neither body treated the exchange as surprise.
 
-Still.
+Nobody sensible stood in a ditch and improvised resource movement among four people who were also trying not to be eaten.
 
-Years had passed since East Four and that stupid detail still reached me first.
+I knew this.
 
-His hair was shorter.
+I had read all of it.
 
-More gray at one temple than I remembered from thirty-something First-Life Bren.
+Then I had spent a year practicing Draw and several months asking a narrower question.
 
-Different scar along his left forearm.
+Not:
 
-Current life.
+Can I put Calder's mana inside Orla?
 
-Current body.
+That was complicated.
 
-He saw me.
+Dangerous.
 
-Stopped for half a beat.
+Unnecessary.
 
-Then pointed.
+Instead:
 
-“East Four.”
+Can I borrow Calder's mana to pay for **my** Barrier on Orla?
 
-I laughed before I could stop myself.
+Different.
 
-“Bren.”
+Still stupid.
 
-“You still stare at people?”
-
-“Less.”
-
-“Good.”
-
-That was the reunion.
-
-Then he looked at the hole.
-
-Work took the floor.
-
-“What do we have?”
+But narrower stupid.
 
 I explained.
 
-Trapped worker.
+Orla rubbed her face.
 
-Stable enough for now.
+Veda said, "Use mine."
 
-Unknown cavity.
+"No," Orla said.
 
-Live main on uncertain support.
+"You are not my mother."
 
-Possible full isolation.
+I looked at Orla.
 
-Bren crouched beside the edge.
+She noticed.
 
-“Can I go down?”
+"Do not."
 
-“Physically?”
+Calder sat on an equipment crate.
 
-“Yes.”
+"How much?"
 
-“Of course.”
+"Very small."
 
-“Safely?”
+"Specific."
 
-“Different question.”
+"Enough for one low Barrier. I draw, dump through my own control, use it immediately. No holding. No feeding it into anyone else's aura."
 
-He smiled slightly.
+"Aura?" he asked.
 
-Same smile.
+"Mine has to be low."
 
-Not exactly.
+Orla's eyes narrowed.
 
-Close enough.
+"How low?"
 
-I ignored it.
+"Off is cleanest."
 
-We tested the main support under reduced load.
+"No."
 
-No visible movement.
+"You keep voting on everyone."
 
-Then Hillcross opened one uphill pump briefly.
+"Someone has to."
 
-The support shifted less than a millimeter.
+Calder thought for a moment.
 
-Enough.
+Then held out his hand.
 
-Bren saw it too.
+"Do it standing still."
 
-“Full isolate.”
+Orla looked at him.
 
-I looked at him.
+"Seriously?"
 
-He had reached my recommendation without waiting for me.
+"If he's going to try it eventually, I prefer before crawlers."
 
-Good.
+That was exactly Edda's argument.
 
-“Agreed.”
+Responsible people kept helping me for irresponsible reasons.
 
-The city clerk objected because healer annex.
+I took Calder's wrist.
 
-I explained storage capacity.
+Touch was not strictly required at this range.
 
-Ninety minutes safe at ordinary use.
+It helped.
 
-Longer if they restricted wash and noncritical service.
+Aura down.
 
-Bren asked, “Can we get him out inside ninety?”
+The world became physically louder.
 
-I looked at the cavity.
+Wind against my shirt.
 
-“No.”
+Mud shifting under boots.
 
-Honest.
+Tiny impacts I normally ignored because reinforcement handled them in the background.
 
-“So annex needs alternate supply.”
+I established Draw.
 
-“Yes.”
+Slow.
 
-Hillcross had water carts.
+Very slow.
 
-Two could feed the annex cistern manually.
+Calder's mana met the connection differently from a ward.
 
-Ugly.
+Not hostile exactly.
 
-Enough.
+Responsive.
 
-Decision made.
+His aura noticed me.
 
-Full main isolation.
+Pressure pushed back.
 
-Pressure bled.
+I eased.
 
-Hillcross pump crews switched supply.
+"Feel that?"
 
-Water carts moved.
+"Yes."
 
-Nobody heroic yet.
+"Bad?"
 
-Good emergency work begins with making heroics smaller.
+"Weird."
 
-Once pressure reached zero, Bren went down.
+"Useful word."
 
-Not because Ranker equals digger.
+"Cold in my hand."
 
-Because the cavity roof still looked unstable and his reinforcement gave him better survival margin if stone moved.
+I pulled a little more.
 
-His team anchored him from above.
+Not enough to matter to him.
 
-I stayed at the main support.
+Enough that I felt the foreign pressure enter my control.
 
-That irritated old muscle memory.
+Calder's mana did not feel like mine.
 
-First-life Greg would have gone down too.
+People ask what that means.
 
-Current Greg was pressure specialist with a shoulder that disliked overhead load and no useful reason to add another body underground.
+I do not have a satisfying answer.
 
-I stayed.
+Different handwriting, maybe.
 
-Bren crawled toward Mal through the gap.
+Same language.
 
-The cavity turned out to be an old storm channel.
+Different hand.
 
-Not ancient Line.
+I routed immediately.
 
-Brick drain, probably seventy years old, abandoned when the street was raised.
+Thin Barrier around a wooden practice post.
 
-The pressure-main footing had been built partly on its sidewall because the construction crew believed the channel was fully packed.
+It formed.
 
-It was not.
+Wobbled.
 
-Administrative fill.
+Held.
 
-Physical void.
+Then collapsed when I released Draw.
 
-Again.
+I had wasted most of what I pulled.
 
-Bren's voice came up through the hole.
+Veda said, "That was underwhelming."
 
-“Worker's leg pinned by timber.”
+"Thank you."
 
-“How bad?”
+Calder flexed his fingers.
 
-“Not crushed. Can't move it.”
+"I barely noticed the amount."
 
-“Support wall?”
+"Good."
 
-“Cracked.”
+Orla looked at the post.
 
-“Do not lever against main footing.”
+"You spent more control doing that than if you'd used your own mana."
 
-“I gathered.”
+"Yes."
 
-He had always hated being told obvious things.
+"So why?"
 
-First life.
+"Because I have mine now too."
 
-Current Bren maybe too.
+She frowned.
 
-I stopped myself from smiling.
+"You spent control to preserve reserve."
 
-We needed temporary support under the pressure main before excavation widened.
+"For a bad exchange rate."
 
-Hillcross carpenters built cribbing from street timbers.
+"Very bad."
 
-The cavity was too narrow to place it normally.
-
-Bren could position pieces from below.
-
-I called dimensions from above.
-
-He asked for one shorter brace before I did.
-
-I knew why immediately.
-
-Angle under the footing.
-
-Old professional rhythm flashed between us.
-
-Not remembered rhythm.
-
-Current work.
-
-Two competent people seeing the same geometry.
-
-Important distinction.
-
-The first brace went in.
-
-Second.
-
-Load transferred gradually.
-
-We reopened the main to ten percent for a test.
-
-I watched the footing.
-
-No movement.
-
-Twenty percent.
-
-Stable.
-
-Back to zero.
-
-Good enough for rescue.
-
-The street crew opened from the side.
-
-Bren stayed with Mal.
-
-Talked to him.
-
-I could hear pieces.
-
-“Wife?”
-
-“Yes.”
-
-“Kids?”
-
-“Two.”
-
-“Good. They can complain when you get home.”
-
-Mal laughed once.
-
-Painful sound.
-
-Bren had always done that.
-
-Not exactly the joke.
-
-The habit.
-
-Give injured people a future tense.
-
-First life, I had watched him do it in Gray Pass.
-
-North camps.
-
-Ilya's healer room before things became worse.
-
-Memory pressed.
-
-I let it exist without using it.
-
-Current Bren kept talking to current Mal.
-
-That was enough.
-
-We freed the leg after three hours.
-
-Fracture at the ankle.
-
-Irony can go fuck itself.
-
-Right ankle, not Bren's.
-
-Mal went to healer.
-
-Street remained closed.
-
-Pressure main stayed isolated until crews rebuilt the support properly the next day.
-
-The healer annex ran on carts and storage for six hours.
-
-Nobody died.
-
-Again.
-
-Good.
-
-After the rescue, Bren climbed out covered in brick dust and old drain mud.
-
-He looked terrible.
-
-Familiar.
-
-I hated that word.
-
-He drank half a bottle of water.
-
-Then looked at me.
-
-“You do this now?”
-
-“Stand near holes?”
-
-“Tell people what pressure wants.”
-
-“Sometimes.”
-
-“You were station Ranker.”
-
-“Still Ranker.”
-
-“C?”
-
-“Yes.”
-
-He looked surprised.
-
-Not insulting.
-
-“Thought you'd be higher by now.”
+"Currently."
 
 There it was.
+
+She heard the currently.
+
+"Greg."
+
+"I know."
+
+Veda held out both hands.
+
+"My turn."
+
+We did not use Veda.
+
+That day.
+
+Two days later she wore me down through persistence, which remains one of humanity's more dangerous magical traditions.
+
+Her mana behaved differently.
+
+Sharper under Draw.
+
+Faster response.
+
+More immediate resistance from aura.
+
+I pulled less.
+
+Lost more.
+
+Veda said it felt like somebody had tugged a thread behind her sternum.
+
+She found this entertaining.
+
+Orla found all of us exhausting.
+
+Then work got real enough that experimentation became secondary.
+
+The first crawler nest was shallow.
+
+Three animals.
+
+Calder handled two.
+
+Veda took one.
+
+Orla never needed full shield reinforcement.
+
+I used normal support.
+
+Correct tool.
+
+Second nest had seven.
+
+Still clean.
+
+Orla anchored the drainage mouth.
+
+Calder worked right.
+
+Veda stayed behind his shoulder and stabbed anything stupid enough to enter reach.
+
+I held pocket support behind Orla.
+
+No cleverness.
+
+We cleared it in six minutes.
+
+"Look at that," Orla said. "Civilization."
+
+I ignored her.
+
+Third week, weather changed.
+
+Two days of rain filled the low cuts.
+
+Crawlers moved uphill.
+
+Maintenance crew had three grates open when one pack came through a side channel nobody had mapped.
+
+Nine animals.
+
+Maybe ten.
+
+Counting becomes approximate when teeth are moving.
+
+The first hit went to Orla.
+
+Of course.
+
+Shield down.
+
+Aura up.
+
+I reinforced shoulder and rear leg.
+
+Calder cut left before a second crawler reached her flank.
+
+Veda extended over him.
+
+Same shape as the tournament.
+
+Not the same people.
+
+Better.
+
+Orla gave ground before she needed me to force it.
+
+Calder left an opening unused because Veda had no angle.
+
+Veda shortened without complaining.
+
+Much.
+
+We had learned something two years earlier and kept it.
+
+That was satisfying.
+
+Then three crawlers came through the open grate behind the maintenance crew.
+
+Bad map.
+
+Current evidence.
+
+Workers scattered.
+
+One went down in mud.
+
+Calder moved.
+
+I moved before he did.
+
+Three steps.
+
+Then five.
+
+Barrier under the worker's forearm.
+
+He pushed up.
+
+Crawler hit the plane instead of his neck.
+
+Calder arrived and removed the crawler from professional consideration.
+
+Good.
+
+But my position had shifted.
+
+Orla was farther.
+
+Her support line cost more.
+
+Veda took a side hit and recovered herself.
+
+Calder drove another crawler back.
+
+I reinforced his front knee for the turn.
+
+My reserve dropped.
+
+Not empty.
+
+Enough that I noticed.
+
+The pack kept coming.
+
+This was not a five-second problem.
+
+Road lesson.
+
+Calder finished one exchange and fell back half a step.
+
+Breathing hard.
+
+Mana reserve still strong.
+
+I knew because I had drawn from him in practice enough to recognize the difference between physical recovery and magical depletion.
+
+Or thought I did.
+
+"Calder!"
+
+He looked at me.
+
+I held up two fingers.
+
+Our practice signal.
+
+Small draw.
+
+He nodded.
+
+Consent.
+
+Important.
+
+Aura down.
+
+Terrible moment to feel every raindrop individually.
+
+Draw.
+
+His aura resisted.
+
+I pulled just enough.
+
+Released.
+
+Barrier to Orla.
+
+The transfer was ugly.
+
+Probably half lost between pull, control, and cast.
+
+But half of available is larger than all of unavailable.
+
+Orla's shield line hardened as two crawlers hit together.
+
+She held.
+
+I put my aura back up.
+
+Calder looked at me once.
+
+No complaint.
+
+Then returned to work.
+
+The whole exchange lasted maybe two seconds.
+
+Nobody applauded.
+
+Good.
+
+A crawler jumped the ditch.
+
+Veda put a spear through its shoulder and used the body to block another.
+
+Her aura was high.
+
+Reserve looked high.
+
+She had barely spent compared with Orla and me.
+
+Then she stepped back.
+
+Quiet moment.
+
+I saw surplus.
+
+That was my mistake.
+
+Not technical.
+
+Interpretive.
+
+I moved closer.
+
+"Veda."
+
+She heard her name.
+
+That was not consent.
+
+I drew.
+
+Small.
+
+Smaller than Calder.
+
+Her aura opened enough to make the flow clean.
+
+She swore.
+
+I used the mana immediately on a Barrier that redirected a crawler away from the fallen worker.
+
+Useful.
+
+Then Veda attacked.
+
+Or tried.
+
+Her spear thrust came out wrong.
+
+Not weak.
+
+Late.
+
+The mana she had looked like she wasn't using had been **waiting**.
+
+She had prepared the reinforcement path for a burst through the spear line.
+
+I had taken exactly enough at exactly the wrong moment to ruin the timing.
+
+Crawler slipped inside the point.
+
+Calder intercepted.
+
+Took claws across his aura at the ribs.
+
+Not through.
+
+Hard enough to turn him.
+
+Orla swore my name.
+
+Veda swore more creatively.
+
+I deserved both.
+
+No time.
+
+I supported Calder.
+
+Normal mana.
+
+Mine.
+
+Veda shortened her grip and recovered.
+
+Orla rotated back toward us.
+
+The maintenance workers got behind the cart.
+
+We compressed.
+
+Three people.
+
+Then four.
+
+The pack lost its angles.
+
+Calder stopped chasing.
+
+Veda stopped trying to make up the failed burst.
+
+Orla held only what she needed.
+
+I stopped experimenting.
+
+We cleared the rest conventionally.
+
+Took another four minutes.
+
+One worker had a bite through his boot.
+
+Calder's ribs bruised.
+
+Veda wanted to murder me.
+
+Operationally acceptable.
+
+At camp she threw my bowl into my lap.
+
+Empty.
+
+Important detail.
+
+"You stole my next attack."
+
+"I know."
+
+"No. You know now."
+
+"Yes."
+
+She stood over me.
+
+"I was full on purpose."
+
+There it was.
+
+"I thought you were between bursts."
+
+"You thought."
+
+"Yes."
+
+"Did you ask?"
+
+"I said your name."
+
+"My name is not permission."
+
+Orla, from the fire:
+
+"Interesting concept."
+
+I looked at her.
+
+"You are enjoying this too much."
+
+"Years of investment."
+
+Calder was lying on his bedroll with his shirt up while a healer checked the claw bruising.
+
+He said, "You asked me."
+
+"Yes."
+
+"Why not her?"
+
+I had an answer.
+
+It was bad.
+
+"No time."
+
+Veda folded her arms.
+
+"Then don't."
+
+Simple.
+
+Annoying.
+
+Correct.
+
+"The Barrier saved the worker," I said.
+
+Veda's face hardened.
+
+"And Calder covered the attack you broke."
+
+"Yes."
+
+"So was it good?"
+
+I looked toward Calder.
+
+Purple marks spreading across his ribs.
+
+"I don't know."
+
+"Good."
+
+Orla used my word against me.
+
+Rude.
+
+The healer finished with Calder.
+
+Nothing broken.
+
+He sat up carefully.
+
+"The idea worked on me."
+
+Veda turned.
+
+"Because he asked."
+
+"Also timing."
+
+"Yes."
+
+Calder looked at me.
+
+"You knew I was done with that exchange."
+
+"Mostly."
+
+"You didn't know what Veda was doing."
+
+"Correct."
+
+"So this is not a mana problem."
+
+I frowned.
+
+"It is partly a mana problem."
+
+"Greg."
+
+"Fine."
+
+I rubbed my face.
+
+"Information."
+
+Veda sat down across from me.
+
+"Finally."
+
+The next day we made signals.
+
+Not magical.
+
+Not elegant.
+
+Hands.
+
+Two fingers out meant a small amount available.
+
+Closed fist meant no Draw.
+
+Palm down meant do not ask because current technique depended on reserve staying exactly where it was.
+
+Orla's preferred signal was a different one-finger gesture.
+
+We did not formalize it.
+
+For the remaining three weeks I used Draw six times during live work.
+
+Six.
+
+Not sixty.
+
+Three from Calder.
+
+Two from Veda.
+
+One from Orla after she glared at me for so long the crawler almost lost interest.
+
+Every transfer was small.
+
+Every one lost too much.
+
+None went directly into another person's body.
+
+I borrowed mana to pay for my own support somewhere else.
+
+That was all.
+
+It was enough to make the fights feel different.
+
+Not stronger exactly.
+
+Less wasteful sometimes.
+
+More complicated always.
+
+The best use happened on the fifth week.
+
+Orla had been holding the canal mouth for almost a minute.
+
+Not in danger.
+
+Spending steadily.
+
+Calder had finished a hard exchange and was physically recovering with more reserve than he needed for the next ten seconds.
+
+He gave the signal before I asked.
+
+Two fingers.
+
+I drew.
+
+Barrier to Orla's shield edge.
+
+She used it to change angle instead of hold harder.
+
+Veda took the opening.
+
+One clean strike.
+
+Done.
+
+No one got hurt.
+
+No one discussed it afterward.
+
+That was almost more satisfying.
+
+Almost.
+
+At the end of the contract Veda caught me writing in my field book.
+
+"Are you ranking us?"
+
+"No."
+
+"Liar."
+
+"I am not ranking you."
+
+She grabbed the book.
+
+I let her because physical resistance would have looked guilty.
+
+The page said:
+
+CALDER
+Good draw after forward burst if recovery step established.
+Ask.
+Right hand cold first.
+
+ORLA
+Steady spend under sustained contact.
+Does not like Draw.
+Ask anyway only if necessary.
+Do not phrase it that way.
+
+VEDA
+Reserve is not surplus.
+Prepared burst can look idle.
+ASK.
+
+Veda read her section twice.
+
+Then took my charcoal.
+
+Under ASK she wrote:
+
+SERIOUSLY.
+
+Orla took the charcoal next.
+
+Under her own section she wrote:
+
+NO.
+
+Calder looked over both shoulders.
+
+"Helpful research group."
+
+I took the book back.
+
+I was thirty-three by then.
+
+Not long.
+
+Twelve days.
+
+The four of us packed again.
+
+Different contract ending.
+
+Same stupidity.
+
+Six weeks of knowing where everyone kept the salt.
+
+Then separate roads.
+
+This time Calder tapped two fingers against his chest before leaving.
+
+Our signal.
+
+Available.
 
 I laughed.
 
-“Long story.”
+"Not currently."
 
-“You keep those.”
+"Good," he said. "Wanted to make sure you knew."
 
-“Apparently.”
+Veda left before I could insult her properly.
 
-His team began packing gear.
+Orla stole my charcoal.
 
-I expected him to leave with them.
-
-He did not immediately.
-
-Instead he pointed toward a food stall reopening at the end of the street.
-
-“You eaten?”
-
-That simple.
-
-His choice.
-
-My chest hurt again.
-
-Less uselessly this time.
-
-“No.”
-
-“Come on.”
-
-We ate noodles from paper bowls standing beside a closed street.
-
-Not the tavern from First Life.
-
-Not our old food.
-
-Not recreated ritual.
-
-Noodles too salty.
-
-Bren added vinegar.
-
-First-life Bren hated vinegar.
-
-I watched him do it.
-
-He noticed.
-
-“What?”
-
-“Nothing.”
-
-“You do still stare.”
-
-“Working on it.”
-
-We talked about the job.
-
-Mostly.
-
-His company.
-
-My regional work.
-
-The fact Hillcross maps were terrible.
-
-He said all maps were terrible.
-
-I showed him the overlay method.
-
-He liked the hazard routes.
-
-Not the pressure layers.
-
-Different priorities.
-
-Good.
-
-Then he said, “My company keeps getting jobs where the engineers know the building and nobody knows the pressure systems.”
-
-“Common.”
-
-“You take private calls?”
-
-“Yes.”
-
-“Mind if I give them your name?”
-
-There it was.
-
-Not brotherhood.
-
-Not memory.
-
-Not destiny.
-
-A coworker asking for a specialist because the specialist had been useful today.
-
-“No,” I said.
-
-“Good.”
-
-He finished the noodles.
-
-Threw the bowl away.
-
-Held out his hand.
-
-Again.
-
-This time I did not have to remember the last minute of his first life before taking it.
-
-Not much, anyway.
-
-“Good work, Greg.”
-
-“You too.”
-
-He left.
-
-Two weeks later his company sent a consulting request.
-
-His name was on the referral line.
-
-I kept that page.
-
-Not because Bren Calder had come back.
-
-He had not.
-
-A different thing had begun.
-
-Smaller.
-
-Current.
-
-Bren had chosen my name for a job.
-
-For once, I knew exactly where the causal path came from.
+I noticed two days later.

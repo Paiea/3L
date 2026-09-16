@@ -1,613 +1,785 @@
 ## RECORD 052
 
-## THE COMMUTER
+## THE WRONG DRAW
 
-For six months Nessa and I were very good at leaving each other notes.
+The first injury I caused with Draw took less than a second.
 
-That was not the same as seeing each other.
+The consequences lasted seven weeks.
 
-We confused the two for a while.
+That ratio was educational.
 
-Her regional coordination work took her to South Fen twice a month, then four times during winter planning, then wherever a schedule conflict became too expensive to solve by messenger.
+It happened in late summer, three months after Renn's wrist and four contracts after I had written SIGNAL IS NOT TRAINING in capital letters.
 
-My work did the opposite.
+Apparently writing something down does not make you immune to being stupid differently.
 
-It spread unpredictably.
+We were back near West Fen.
 
-Hillcross Monday.
+Not the canal road.
 
-Bellwater Thursday.
+Farther south, where floodwater had opened sinkholes along an old timber route and exposed crawler nests under the roots.
 
-A private call two districts over because Bren's company had passed my name to someone who passed it again.
+The district wanted the road reopened before harvest carts started moving.
 
-East Four whenever Sera asked for help and I was stupid enough to answer quickly.
+Calder was there.
 
-Home remained the same apartment.
+Orla.
 
-Five-year lease.
+Veda.
 
-Same table.
+Me.
 
-Same bakery under us.
+Repeat team.
 
-Same stair that complained on the third step.
+Experienced with the signals.
 
-We were increasingly the least stable things inside it.
+Experienced with my Draw.
 
-The first system was notes.
+Exactly the kind of people I had decided were safe enough.
 
-Nessa started it.
+That sentence should worry you.
 
-Of course.
+The contract had gone cleanly for eleven days.
 
-LEFT EARLY. SOUTH FEN. BACK TOMORROW AFTER SIXTH.
-
-Then:
-
-MOTHER'S MEDICINE IN CUPBOARD. YOU SAID YOU'D TAKE IT.
-
-Then:
-
-DO NOT EAT THE PIE. LENA COMING.
-
-I added my own.
-
-BELLWATER. TWO DAYS MAYBE THREE.
-
-Then:
-
-TOVA HAS THE SOUTH THREE FILE. IF SHE COMES HERE TELL HER I AM NOT HIDING.
-
-Then:
-
-I ATE THE PIE BEFORE READING YOUR NOTE.
-
-Nessa wrote beneath it:
-
-I KNOW.
-
-Communication.
-
-The second system was the wall calendar.
-
-Large paper.
-
-Thirty-two days because the printer who sold it to us had made a cutting error and refused to waste the batch.
-
-Cheap.
-
-We bought twelve.
-
-Nessa marked travel in blue pencil.
-
-I used black.
-
-Family obligations green.
-
-House payments red.
-
-We did not own a red pencil at first.
-
-That became its own errand.
-
-The calendar worked beautifully for one week.
-
-Then my Hillcross inspection moved.
-
-Then Nessa's South Fen review moved.
-
-Then my mother's healer appointment moved because the healer got sick.
-
-By midmonth the page looked wounded.
-
-Lines.
-
-Arrows.
-
-Crossed-out arrows.
-
-One note reading NO, REALLY THURSDAY.
-
-I had written that.
-
-It still ended up Friday.
-
-The third system was resentment.
-
-Less efficient.
-
-Harder to document.
-
-It arrived quietly.
-
-One night I came home after tenth bell and found dinner cold on the stove.
-
-Nessa was asleep.
-
-Not in bed.
-
-At the table.
-
-Head on folded arms.
-
-Still wearing her district coat.
-
-I stood there looking at her.
-
-The room was warm.
-
-Food covered.
-
-Lamp turned low.
-
-She had waited.
-
-I knew immediately.
-
-The calendar said I would be home by seventh.
-
-I had been.
-
-Almost.
-
-Then a Bellwater station foreman caught me at the tram stop with a pressure log.
-
-One question became three.
-
-Three became a walk back to the station.
-
-I sent no message because I expected every next step to be quick.
-
-Classic failure mode.
-
-I touched Nessa's shoulder.
-
-She woke badly.
-
-“Home?”
-
-“Yes.”
-
-“What time?”
-
-“Late.”
-
-“That is not a time.”
-
-“Tenth.”
-
-She closed her eyes.
-
-“Fuck.”
-
-“Sorry.”
-
-“For what?”
-
-“I said seventh.”
-
-She sat up.
-
-Looked at the food.
-
-Then at me.
-
-“You could have sent a runner.”
-
-“Yes.”
-
-“You didn't.”
-
-“No.”
-
-“Why?”
-
-“Thought I'd be quick.”
-
-Nessa stared.
-
-There are phrases that become evidence of character defects through repetition.
-
-Thought I'd be quick was one.
-
-She stood.
-
-“I stayed up because we have not eaten together in four days.”
-
-That hurt more than anger.
-
-I counted.
-
-She was right.
-
-Sunday I had been in Hillcross.
-
-Monday she had night shift.
-
-Tuesday I ate with my parents because my father needed help with the back step.
-
-Wednesday South Fen.
-
-Thursday Bellwater.
-
-Four days.
+We trained every morning before work.
 
 Not long.
 
-Long enough.
+Ten minutes.
 
-“I didn't notice,” I said.
+Sometimes fifteen.
 
-Wrong answer.
+Two-finger offers.
 
-True answer.
+Draw and release.
 
-Worse.
+Move while receiving.
 
-Nessa's face changed.
+Move while losing support.
 
-“Yeah.”
+Palm down under planned burst.
 
-She went to bed.
+Closed fist after fatigue.
 
-I ate cold stew alone.
+We made the transfers boring.
 
-That was the argument.
+That was the goal.
 
-No shouting.
+Veda became best at them.
 
-No dramatic threat.
+Not because she liked Draw.
 
-Just the fact that I had not noticed.
+She liked winning arguments with her body.
 
-The next morning she left before I woke.
+The first week she could feel every pull as a cold hook behind the sternum.
 
-Note on the table.
+By the second she could keep footwork clean through a small draw.
 
-SOUTH FEN. BACK TOMORROW.
+By the third she started offering mana before I asked.
 
-Then below it:
+Too often.
 
-WE NEED A BETTER SYSTEM.
+Orla told her this.
 
-That offended me.
+"You don't get points for generosity."
 
-Not emotionally.
+"I get points for being better than Calder."
 
-Professionally.
+Calder did not look up from sharpening his sword.
 
-Mostly.
+"At what?"
 
-I had systems.
+"Everything measurable."
 
-She had systems.
+"Then stop talking and become taller."
 
-We were both becoming professionally known for systems.
+Veda looked at me.
 
-Apparently none of them included marriage-adjacent dinner.
+"Support me."
 
-We were not married.
+"Not enough mana in the district."
 
-That sentence kept becoming less useful.
+Temporary belonging had become easier the third time.
 
-I spent the morning doing something deeply foolish.
+That should have worried me too.
 
-I designed a schedule.
+The bad day began with heat.
 
-Protected dinners.
+No wind.
 
-Two per week.
+Wet ground from rain three days earlier.
 
-One flexible.
+Mosquitoes large enough to negotiate wages.
 
-One fixed.
+We had two road crews behind us filling the first sinkhole while we checked a root shelf thirty yards south.
 
-Travel cutoff notices.
+The shelf looked stable.
 
-Message requirement if delayed more than one bell.
+That was our first mistake.
 
-Sunday morning household review.
+Not ours specifically.
 
-I was proud of it for nearly twelve minutes.
+Geology's.
 
-Then Nessa came home the next day, read it, and laughed.
+Crawler tunnels had eaten behind the root mass.
 
-“You made us a maintenance rota.”
+The surface held because roots tied the soil together.
 
-“It is not a rota.”
+Underneath was mostly air and bad intentions.
 
-“It has escalation rules.”
+Orla found the first opening with her spear butt.
 
-“Those are useful.”
+Not Veda's spear.
 
-“For dinner?”
+Orla carried a short probing staff on road work because shields are poor excavation tools.
 
-“For absence.”
+She pushed.
 
-She kept reading.
+Ground collapsed inward.
 
-“Message required after one bell.”
+Three feet across.
 
-“Yes.”
+Then six.
 
-“What if I'm in a transfer chamber?”
+Then the whole root shelf sagged.
 
-“Then obviously not.”
+"Back!"
 
-“What if you're underground?”
+We moved.
 
-“Obviously not.”
+One road worker did not.
 
-“What if the tram is delayed?”
+His name was Pellin.
 
-“Then send when possible.”
+Not tournament Pell.
 
-“So the rule is send word when you can.”
+Different man.
 
-I looked at the paper.
+Names repeat more than stories admit.
 
-“Yes.”
+Pellin had come forward to mark the edge.
 
-“We already had that rule.”
+The ground under him dropped to one knee.
 
-“We were bad at it.”
+His right leg disappeared into the hole.
 
-“Then writing it in a box will fix us?”
+He caught a root with both hands.
 
-I hated when she did this.
+Below him, something moved.
 
-“No.”
+Crawler.
 
-“Good.”
+Large one.
 
-She sat down.
-
-The table leaned toward the window.
-
-I had almost fixed it again the week before.
-
-Resisted.
-
-Growth.
-
-Nessa took a pencil.
-
-Crossed out half the page.
-
-“Two things.”
-
-“Only two?”
-
-“Yes.”
-
-“Suspicious.”
-
-“One: if the plan changes enough that the other person will notice your absence, send word when practical.”
-
-“Fine.”
-
-“Two: one half-day every week belongs to us unless we both agree to spend it somewhere else.”
-
-I stopped.
-
-“Every week?”
-
-“Yes.”
-
-“That is a lot.”
-
-Her eyes narrowed.
-
-I heard the sentence after saying it.
-
-“That came out wrong.”
-
-“It came out exact.”
-
-“I mean regionally.”
-
-“Greg.”
-
-“Fine.”
-
-She tapped the page.
-
-“Not dinner. Not a specific day. Half-day. If winter blows up, we move it. If family needs us, we move it. If somebody is injured, obviously we move it.”
-
-“And if work just wants us?”
-
-“No.”
-
-There it was.
-
-That was harder than any calendar.
-
-Work always wanted us.
-
-There was always another valve.
-
-Another review.
-
-Another station that would pay because waiting until Monday felt expensive.
-
-Nessa's regional office could fill every empty hour with coordination because maintenance never finished.
-
-My side work expanded exactly to the size I allowed.
-
-A half-day protected from ordinary usefulness felt irresponsible.
-
-First-life Greg would have laughed at it.
-
-First-life Greg also spent years promising himself life would start after the next contract.
-
-I knew where that road went.
-
-“Okay,” I said.
-
-Nessa looked suspicious.
-
-“That easy?”
-
-“No. I am learning to surrender before losing more expensively.”
-
-“Growth.”
-
-“Stop enjoying it.”
-
-Our first protected half-day was terrible.
-
-Rain.
-
-Everything closed early.
-
-We had no plan because planning it too much felt like defeating the point.
-
-We walked to the market.
-
-Bought onions.
-
-Nessa inspected boots she did not buy.
-
-I looked at tools I did not need.
-
-She reminded me of that.
-
-I disagreed.
-
-We ate fried dough under an awning while water ran along the gutter.
-
-Nothing happened.
-
-That was increasingly suspicious to me.
-
-Then a runner found us.
+Then another.
 
 Of course.
 
-East Four.
+Orla went first.
 
-Pressure fluctuation.
+Shield over Pellin.
 
-Sera asking if I could come look.
+Calder moved left around the hole.
 
-The runner handed me the slate.
+Veda stayed on the higher root line where her spear could reach down.
 
-Nessa watched my face.
+I held center.
 
-Not testing.
+The first crawler came up beneath Orla.
 
-Just watching.
+She took it on the shield.
 
-The old reflex said yes before reading the details.
+I reinforced rear leg and shoulder.
 
-Then I read.
+Calder struck down through the opening.
 
-WEST RETURN OSCILLATION. STABLE. NO SAFETY LIMIT EXCEEDED. REQUEST REVIEW BEFORE TOMORROW PEAK.
+Veda pinned another against the dirt wall.
 
-Before tomorrow.
+Clean.
 
-Not now.
+Ugly terrain.
 
-Could wait.
+Manageable.
 
-I wrote:
+Pellin screamed.
 
-FIRST BELL TOMORROW.
+Not from a bite.
 
-Sent it back.
+His trapped leg twisted as the soil under him shifted again.
 
-The runner left.
+I put a Barrier plane under his thigh.
 
-Nessa said nothing.
+Not enough to lift.
 
-I said, “Don't.”
+Enough to stop the next drop.
 
-“I didn't.”
+My reserve moved down noticeably.
 
-“You had a face.”
+The day was already hot.
 
-“Apparently.”
+I had been running support for the road crew since first bell.
 
-We finished the fried dough.
+Not exhausted.
 
-The return oscillation was still there next morning.
+Not fresh.
 
-Nobody died because I ate pastry first.
+Road lesson.
 
-Useful evidence.
+Veda finished one crawler and stepped back.
 
-The half-day moved around constantly.
+Two fingers.
 
-Tuesday one week.
+Small draw available.
 
-Sunday the next.
+I saw it.
 
-Sometimes morning.
+Orla took another hit.
 
-Sometimes evening stretched longer than intended.
+Calder was committed low.
 
-We missed it completely during one winter storm.
+Pellin's Barrier needed reinforcement.
 
-Then took a whole day after.
+I made the decision.
 
-Not accounting.
+Veda -> me -> Pellin.
 
-Recovery.
+Simple.
 
-That distinction took practice.
+Known person.
 
-The notes changed too.
+Known signal.
 
-Less information.
+Known Draw.
 
-More person.
+I moved toward her.
 
-BACK LATE. EAT WITHOUT ME.
+Three steps.
 
-I LOVE YOU. ALSO BUY SOAP.
+Aura down.
 
-YOUR MOTHER SENT SOUP. IT IS MOSTLY CARROTS.
+Established connection.
 
-BREN'S COMPANY CALLED. I DID NOT READ THE SLATE. YOU'RE WELCOME.
+Then the root behind Veda broke.
 
-My favorite was only:
+Tiny sound.
 
-HOME TONIGHT.
+Wood cracking under wet soil.
 
-No time.
+She heard it.
 
-No logistics.
+I did too.
+
+Her body reacted before either of us spoke.
+
+Weight shifted forward.
+
+Spear came across.
+
+Aura moved.
+
+Not off.
+
+Not closed.
+
+Reallocated.
+
+The mana she had offered half a second earlier was no longer spare.
+
+I knew that.
+
+Not consciously enough.
+
+My Draw was already open.
+
+I pulled.
+
+Small.
+
+Exactly the amount she had offered.
+
+At the wrong time.
+
+Her right ankle lost reinforcement as the root rolled.
+
+Not all of it.
 
 Enough.
 
-We still failed.
+The foot turned inward.
 
-I still came home late without word sometimes.
+Her knee followed.
 
-Nessa still volunteered for regional crises on days we had kept open.
+Veda made a sound I had never heard from her.
 
-We still got irritated.
+Short.
 
-The protected half-day did not save our relationship.
+Surprised.
 
-That would be a stupid amount of responsibility for an afternoon.
+Then she fell.
 
-It did something smaller.
+The spear went with her.
 
-It made absence visible before absence became normal.
+The crawler she had been covering came up through the opening.
 
-Years later, when our calendars became much worse, we kept some version of that rule.
+Calder saw it.
 
-Not always weekly.
+Changed direction.
 
-Sometimes impossible.
+That saved Veda.
 
-But there was always time that work had to ask permission to enter.
+It also left Orla alone on Pellin's side.
 
-That was new for me.
+Second crawler hit her shield.
 
-S-class had once taught me that being needed was proof of value.
+I was still holding foreign mana I should never have taken.
 
-Nessa taught me that being unavailable on purpose could be proof too.
+I dumped it into Pellin's Barrier because that had been the original plan.
 
-Different kind.
+The plane hardened.
+
+His leg stopped dropping.
+
+Good.
+
+Orla lost ground.
+
+Bad.
+
+Calder intercepted the crawler near Veda.
+
+Good.
+
+Veda tried to stand.
+
+Her right leg refused.
+
+Bad.
+
+I moved.
+
+Not toward Veda.
+
+Toward Orla.
+
+Correct decision.
+
+I hated it.
+
+Barrier on Orla's inside edge.
+
+She turned the next strike.
+
+Pellin kept screaming.
+
+Road workers came with rope.
+
+Calder killed the crawler near Veda.
+
+Orla drove hers back into the hole.
+
+Then the shelf collapsed another foot and everyone stopped pretending we could hold the position.
+
+"Pull him!"
+
+Rope around Pellin.
+
+Orla covered.
+
+Calder grabbed Veda under one arm.
+
+I maintained the thigh plane until Pellin came free.
+
+Then released everything.
+
+Aura back up.
+
+Too late to matter emotionally.
+
+We retreated twenty yards.
+
+The root shelf finished collapsing behind us.
+
+One crawler disappeared under dirt.
+
+The other ran.
+
+No worker died.
+
+Pellin had a badly twisted knee and cuts along the trapped leg.
+
+Veda's ankle was worse.
+
+The healer knew before taking the boot off.
+
+"Ligament."
+
+Veda looked at me.
+
+Not the healer.
+
+Me.
+
+I knew too.
+
+Swelling already rising along the outside ankle.
+
+"How long?" she asked.
+
+He pressed carefully.
+
+She swore.
+
+"Six weeks if you're lucky. Eight before hard field movement."
+
+Silence.
+
+Veda made money with her legs.
+
+All of us did, technically.
+
+Spear work made the relationship less metaphorical.
+
+I sat on an overturned timber beside her.
+
+"I drew."
+
+"I know."
+
+"After the root broke."
+
+"I know."
+
+"You had signaled."
+
+Her face changed.
+
+Not angry yet.
+
+That was worse.
+
+"Before the root broke."
+
+"Yes."
+
+Orla stood ten feet away with both hands on her shield rim.
+
+Calder was helping the healer cut Veda's boot lace.
+
+Nobody rescued me from the sentence.
+
+"I should have released."
+
+Veda looked down at her ankle.
+
+"Yes."
+
+That was all she said for the rest of the afternoon.
+
+The contractor stopped ally Draw immediately.
+
+Not forever.
+
+For the contract.
+
+The field lead was a man named Hessel Dorn.
+
+He had not been present at the collapse.
+
+He arrived from the north road before evening, listened to everyone separately, and then found me by the supply wagon.
+
+"You used an aggressive draining technique on a contracted teammate during live hazard work."
+
+"With prior consent."
+
+"Was the consent current at the moment you drew?"
+
+I stopped.
+
+He waited.
+
+"No."
+
+"Then don't hide behind it."
+
+There are people who make you dislike good sentences.
+
+Hessel was excellent at this.
+
+"She offered less than a second earlier."
+
+"And then conditions changed."
+
+"Yes."
+
+"Which is what combat does."
+
+"Yes."
+
+"This is why the handbook doesn't contain your method."
+
+I wanted to argue.
+
+He saw it.
+
+"Go ahead."
+
+"The same method has worked."
+
+"I believe you."
+
+That stopped me harder than disagreement.
+
+"I am not saying the method never works. I am saying the failure mode you just demonstrated is obvious enough that people have spent a century avoiding it."
+
+"The signal was stale."
+
+"The world made it stale."
+
+"Then signal design can improve."
+
+"Maybe."
+
+Again.
+
+Not stupid.
+
+Not dismissive.
+
+Worse.
+
+"But until you can show me how a fighter revokes consent after a branch cracks and before your Draw crosses, you are done using it on my job."
+
+I nodded.
+
+"Agreed."
+
+He looked surprised.
+
+I was learning.
+
+The Guild review came two weeks later.
+
+Not tribunal.
+
+Not criminal.
+
+Incident review.
+
+Still unpleasant.
+
+Mara Quill attended because she had signed part of my Draw training log.
+
+She read the report twice.
+
+Then looked at me.
+
+"I told you living aura responds."
+
+"Yes."
+
+"I told you the person on the other side is not a ward."
+
+"Yes."
+
+"I told you not to do this."
+
+"Technically you told me to learn controlled methods first."
+
+Mara closed her eyes.
+
+"I regret literacy."
+
+The reviewer was less entertaining.
+
+He wanted sequence.
+
+Exact timing.
+
+Signal.
+
+Change in terrain.
+
+When I sensed Veda reallocate.
+
+When the Draw opened.
+
+When I pulled.
+
+Could I have stopped after establishing connection but before transfer?
+
+Yes.
+
+Did I?
+
+No.
+
+Why?
+
+Because I was still executing the decision I had made half a second earlier.
+
+There.
+
+Not magic.
+
+Latency.
+
+My own.
+
+The review found no malicious conduct.
+
+Thank you, civilization.
+
+It found experimental ally Draw had contributed directly to Veda Vale's injury.
+
+Also true.
+
+Recommendation:
+
+No live ally Draw outside documented training or explicit contract protocol until additional safety method demonstrated.
+
+Not a ban from magic.
+
+Not exile.
+
+Paperwork.
+
+More annoying because reasonable.
+
+Veda lost seven weeks of field work.
+
+The contractor's injury coverage paid part of her base contract share.
+
+Not all lost opportunity.
+
+I paid the difference on the current contract.
+
+She refused at first.
+
+"Insurance exists."
+
+"It doesn't cover everything."
+
+"You are not my employer."
+
+"I caused it."
+
+"Terrain caused it."
+
+"I made the terrain win."
+
+She stared at me.
+
+Then took the money.
+
+Good.
+
+Responsibility sometimes looks less noble after the person accepts the silver.
+
+It should.
+
+Seven weeks mattered.
+
+I visited twice.
+
+Not every day.
+
+We were not married.
+
+Not siblings.
+
+Not anything with obligations clean enough to name.
+
+The first visit she was staying with a cousin outside Bellwater and had become furious at furniture.
+
+"Chairs are too low."
+
+"That chair is normal."
+
+"Then normal is hostile."
+
+Her ankle was wrapped.
+
+She had a cane.
+
+I did not comment.
+
+She noticed me not commenting.
+
+"Say it."
+
+"You look distinguished."
+
+"Fuck you."
+
+Better.
+
+The second visit she was walking without the cane indoors.
+
+She made me watch her plant the foot.
+
+Again.
+
+Again.
+
+Again.
+
+Not because I asked.
+
+Because she wanted me to see exactly what the injury had changed.
+
+"This," she said, turning the foot slowly, "is what your small draw cost."
+
+No anger in the sentence.
+
+Accounting.
+
+I watched.
+
+"I know."
+
+"No. Know better."
+
+Fair.
+
+I wrote down less after that.
+
+For a while.
+
+Running continued.
+
+Barrier work continued.
+
+Draw on dead wards continued.
+
+Living transfers stopped.
+
+Not because the idea had become worthless.
+
+Because I had finally earned fear of it.
+
+That was different from being told to be afraid.
+
+At the end of the seven weeks Veda returned to light field work.
+
+First day back, she found me near the Guild training yard.
+
+No cane.
+
+Shorter stride on the right.
+
+Temporary, the healer said.
+
+Probably.
+
+She held up two fingers.
+
+I stared at them.
+
+"No."
+
+Veda smiled.
+
+"Good."
+
+Then closed her fist.
+
+We went to lunch.

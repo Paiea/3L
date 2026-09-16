@@ -1,363 +1,525 @@
 ## RECORD 051
 
-## THE PLANNER
+## THE SIGNAL
 
-Nessa's first regional project did not involve me.
+The hand signals lasted longer than the contract.
 
-I found this suspicious.
+That surprised me.
 
-Not emotionally.
+Most useful things do not survive separation unless somebody has a reason to carry them.
 
-Professionally.
+Two fingers meant small draw available.
 
-Mostly.
+Closed fist meant no.
 
-The project was winter maintenance coordination across four districts.
+Palm down meant not now and do not ask why until later.
 
-Not emergency response.
+Veda's middle finger remained unofficial.
 
-The thing before emergencies, ideally.
+This did not prevent frequent use.
 
-Every station wanted its major work done before cold weather.
+West Fen ended in mud.
 
-Every contractor wanted the same skilled crews.
+Not metaphorically.
 
-Every district wanted reserve capacity from its neighbors while refusing to admit its own outages might inconvenience those same neighbors.
+The last two days rained hard enough that our boots became negotiations with the road.
 
-Nessa was asked to build one maintenance calendar that did not accidentally schedule three important branches offline on the same week.
+The district inspector signed completion under a canvas lean-to while three workers held the roof corners down.
 
-I learned this over dinner.
+Calder was paid first because he had submitted his expense sheet correctly.
 
-“You're doing what?”
+Orla was paid second because she had submitted hers before the job ended.
 
-“Winter coordination.”
+Veda had lost one receipt and blamed weather.
 
-“For district?”
+I had kept every receipt and somehow added them wrong.
 
-“Four districts.”
+Professional development takes strange paths.
 
-“Which four?”
+Then we separated.
 
-She told me.
+Again.
 
-One was Bellwater.
+Calder took a suppression contract east.
 
-I knew their icebreaker load.
+Orla had six weeks of municipal gate work.
 
-Another was South Fen.
+Veda said she was going south because somebody there had offered "better money and worse judgment."
 
-Dye recovery.
+I asked which one appealed.
 
-Hillcross pumps.
+"Yes."
 
-Our home district.
+I went back to Vey with a bruised shin, two nearly worn-out boots, and a notebook full of arrows.
 
-Immediately my head filled with constraints.
+Not good arrows.
 
-“Bellwater can't lose river reserve after first frost.”
+Calder -> Greg -> Orla.
 
-“I know.”
+Veda -> Greg -> Barrier.
 
-“South Fen rinse cycles...”
+Crossed-out versions.
 
-“I know.”
+Timing notes.
 
-“Hillcross pump maintenance should happen before...”
+Loss estimates.
 
-“I know.”
+What people said the Draw felt like.
 
-I stopped.
+Calder: cold hand, slight pull in wrist.
 
-Nessa kept eating.
+Orla: pressure under sternum, hated it.
 
-That was rude.
+Veda: "Like being robbed by someone apologizing."
 
-“You already know all of that.”
+Useful language.
 
-“Yes.”
+The first month home I did not use Draw on a living person once.
 
-“From me?”
+This was partly discipline.
 
-She looked at me.
+Mostly nobody nearby trusted me enough.
 
-“No.”
+Reasonable.
 
-That should not have hurt.
+I trained on charged plates.
 
-It did a little.
+Dead wards.
 
-“Then how?”
+Mara Quill's old practice frame when she let me rent it by the hour.
 
-“I work.”
+She charged more after discovering I asked questions while paying.
+
+"Conversation fee," she said.
+
+"That is not real."
+
+"Neither is your discount."
 
 Fair.
 
-The regional office had chosen Nessa because her district transfer schedules had produced fewer conflicts and because she had an irritating habit of asking stations what they actually needed instead of accepting old demand tables.
+I ran three mornings a week.
 
-Someone had noticed.
+Then four.
 
-Not Greg's partner.
+Not far.
 
-Nessa Vale.
+Enough to maintain the body I had finally convinced to stop hating hills.
+
+My left shoe wore through first.
+
+The cobbler said I pushed off harder on that side.
+
+I wrote it down.
+
+He asked why.
+
+I said research.
+
+He raised the repair price.
+
+Apparently research sounded expensive.
+
+Winter came properly.
+
+Contracts shortened.
+
+Road work slowed.
+
+I spent more evenings indoors than I liked.
+
+A woman named Sera left a toothbrush at my room for eleven days and then took it with her when she got a winter commission two cities north.
+
+We did not have a conversation about what that meant.
+
+It meant she needed a toothbrush.
+
+Probably other things too.
+
+I liked her.
+
+She liked me.
+
+When she left, I helped carry her case to the tram.
+
+Temporary belonging remained efficient.
+
+I did not think of it that way then.
+
+Mostly I thought the tram was late.
+
+By early spring Calder wrote.
+
+Not a personal letter exactly.
+
+Contract notice folded around three lines.
+
+NORTH GATE FLOOD CUT.
+
+FOUR WEEKS.
+
+ORLA IN.
+
+VEDA PROBABLY.
+
+Then below:
+
+BRING THE STUPID HAND SIGNALS.
+
+I kept that page.
+
+The North Gate job was boring for eight days.
+
+Excellent.
+
+Floodwater had exposed old culverts under two trade roads.
+
+We escorted engineers while they checked undermining and cleared debris.
+
+No monsters the first week.
+
+No collapsing bridges.
+
+Mostly wet socks.
+
+The four of us fell back into rhythm faster than I expected.
+
+Not the old rhythm.
+
+A new one.
+
+Calder began giving two fingers before hard exchanges if he expected to come off them with reserve.
+
+Veda used palm down before spear bursts.
+
+Orla almost never offered anything because her spending was steadier.
+
+When she did, I trusted it.
+
+That mattered.
+
+Not because she was better at mana.
+
+Because she was conservative about promises.
+
+On the ninth day a river hound came out of a culvert and made the morning interesting.
+
+One animal.
+
+Large.
+
+Mud-colored.
+
+Angry enough to compensate for being alone.
+
+Orla anchored.
+
+Calder went right.
+
+Veda widened.
+
+I stayed near center.
+
+The hound hit Orla.
+
+She gave ground half a step.
+
+Calder cut across the shoulder.
+
+Veda's spear found the side.
+
+The animal twisted.
+
+Calder disengaged.
+
+Two fingers.
+
+I was already moving.
+
+Aura down.
+
+Small Draw.
+
+Barrier under Veda's rear foot as she reversed direction.
+
+The foreign mana paid maybe half the cost.
+
+Still ugly.
+
+Still lossy.
+
+But clean enough.
+
+She planted.
+
+Thrust again.
+
+Done.
+
+Twenty seconds.
+
+Maybe less.
+
+The engineer behind us said, "What was that?"
+
+Veda answered before I could.
+
+"Bad financial planning."
+
+Fair.
+
+The more important thing happened three weeks later.
+
+Different contract.
+
+Different people.
+
+That distinction cost us half a wagon.
+
+I had taken a six-day escort east because the pay filled an empty week.
+
+Simple freight route.
+
+Three guards, one driver, one support.
+
+Me.
+
+I knew none of them.
+
+The lead was a woman named Renn Fale.
+
+Shield.
+
+Competent.
+
+Quiet.
+
+The other two were brothers who had worked together long enough to stop using full sentences.
+
+I explained Draw at camp the first night.
+
+Not because I planned to use it.
+
+Because if I might, they deserved to know.
 
 Good.
 
-I practiced being normal.
+I explained the signals.
 
-“Congratulations.”
+Two fingers.
 
-“Thank you.”
+Fist.
 
-“How long?”
+Palm.
 
-“Four months.”
+Renn listened.
 
-“Travel?”
+One brother asked, "Why not just use your own mana?"
 
-“Two days a week at South Fen regional office. Rest here.”
+"Usually I do."
+
+"Then why this?"
+
+"Sometimes mine is more valuable later."
+
+He frowned.
+
+"That sounds like gambling."
+
+"Mostly accounting."
+
+"Same thing with worse clothes."
+
+I liked him.
+
+The second day we hit road thieves.
+
+Not famous ones.
+
+Six people with clubs, two bows, and the confidence of people who had chosen a cart carrying copper fittings instead of grain.
+
+Renn took front.
+
+Brothers split left and rear.
+
+I held pocket support behind the wagon.
+
+Clean.
+
+Normal.
+
+One archer put two shots into Renn's shield.
+
+I reinforced shoulder and stance.
+
+She held.
+
+A third shot came high.
+
+Barrier.
+
+Deflected.
+
+Good.
+
+One brother chased too far.
+
+I let him recover himself.
+
+Also good.
+
+Then Renn flashed two fingers.
+
+I saw it.
+
+Small draw available.
+
+I moved closer.
+
+Not enough.
+
+Thirty feet.
+
+The road bent around the wagon.
+
+Line partly blocked.
+
+I established Draw anyway.
+
+Her aura resisted harder than Calder's.
+
+Different person.
+
+Different training.
+
+I should have stopped.
+
+Instead I assumed the signal meant she expected the sensation.
+
+True.
+
+Not enough.
+
+I pulled.
+
+Small.
+
+Renn flinched.
+
+Her shield dipped.
+
+Not much.
+
+Enough that the next arrow struck the top rim instead of the face.
+
+The impact torqued her wrist.
+
+She swore.
+
+I released instantly.
+
+The mana I had pulled accomplished nothing.
+
+Worse than nothing.
+
+I had spent attention and changed her body at the wrong time.
+
+The fight ended thirty seconds later without further drama.
+
+One thief ran.
+
+Two surrendered.
+
+Three discovered the brothers had strong opinions about copper fittings.
+
+Afterward Renn wrapped her wrist.
+
+No fracture.
+
+Strain.
+
+I apologized.
+
+"The signal was mine," she said.
+
+"The draw was mine."
+
+"I said available."
+
+"I assumed you knew how it would feel."
+
+She looked at me.
+
+"I knew what you described."
 
 There it was.
 
-Calendar cost.
+Description was not experience.
 
-I did not reorganize the pantry.
+Calder knew my Draw.
 
-Growth.
+Orla knew it.
 
-I reorganized my private-work schedule instead.
+Veda knew it.
 
-Less visible pathology.
+Their bodies had learned it too.
 
-The project was ugly from the first week.
+Renn had learned my hand signal over dinner.
 
-Nessa came home with maps covered in marks and language I recognized only partly.
+Not the same thing.
 
-Not Line geometry.
+That night I asked her exactly what happened.
 
-Maintenance windows.
+She showed me.
 
-Reserve commitments.
+When I established Draw, her aura tightened reflexively at the shoulder.
 
-Crew availability.
+Not fear.
 
-Contractor overlaps.
+Training.
 
-School calendars.
+Her body treated the pull as hostile pressure.
 
-Market festivals.
+That tiny reinforcement change traveled down the arm already holding the shield.
 
-Coal deliveries.
+Then the arrow arrived.
 
-River freeze estimates.
+Nothing magical about the wrist injury.
 
-A station could technically shut down on a date and still make that date impossible because the only fitter qualified for its isolation was already three towns away.
+Just two systems asking the same joint for different things.
 
-People were infrastructure again.
+"Would it happen again?" I asked.
 
-Nessa knew that better than most engineers because she had spent years scheduling live transfers around actual crews.
+"Maybe less."
 
-Her first draft failed immediately.
+"Why?"
 
-Good sign.
+"Now I know."
 
-Bellwater refused a November outage because the icebreaker reserve was too low.
+That answer followed me home.
 
-South Fen refused the week Bellwater preferred because two dye houses had already booked boiler work.
+Repeat partners were not just convenient because I knew their habits.
 
-Hillcross wanted the same mobile pump crew as our district.
+They knew mine.
 
-One contractor had apparently accepted overlapping work and hoped reality would solve it.
+The network, if I was allowed to call it that yet, ran both directions.
 
-Reality declined.
+I did not write that sentence in the notebook.
 
-Nessa came home angry.
+Too clean.
 
-“Do you want advice or dinner?” I asked.
+I wrote:
 
-She stopped.
+RENN.
 
-That question had taken years to learn.
+SIGNAL IS NOT TRAINING.
 
-“Dinner first.”
+Then below it:
 
-Good.
+DO NOT TEST ON PEOPLE WHO THINK DINNER COUNTS.
 
-We ate.
+Mara saw the note the next week.
 
-Then she said, “Advice.”
+She laughed for almost a minute.
 
-I became dangerous.
-
-I looked at the calendar.
-
-My first thought was to move Hillcross.
-
-Then I remembered I was not the one who had spent three days talking to Hillcross.
-
-“What constraint am I missing?”
-
-Nessa looked at me.
-
-Better question.
-
-“Pump crew only available before fifteenth. After that two workers rotate to western flood control.”
-
-“Can our district move?”
-
-“School heating branch.”
-
-“Bellwater?”
-
-“Freeze.”
-
-“South Fen?”
-
-“Contractor.”
-
-“Then no space.”
-
-“Yes.”
-
-“Good project.”
-
-“Fuck you.”
-
-She solved it by splitting a job everyone assumed had to be one outage.
-
-South Fen did preparation under live service one week and final isolation later.
-
-That freed the mobile crew for Hillcross.
-
-Not my idea.
-
-I was proud anyway.
-
-That was a cleaner emotion than ownership.
-
-The second month she started staying one night a week in South Fen because the early tram wasted too much time.
-
-Our apartment changed around absence.
-
-One cup instead of two in morning.
-
-Dinner leftovers lasting longer.
-
-Her desk untouched.
-
-Tea not going cold because she was not there to forget it.
-
-I disliked that one most.
-
-I traveled too.
-
-Different nights.
-
-Sometimes we crossed in the doorway with bags.
-
-“Home?”
-
-“For six hours.”
-
-“Good.”
-
-Romance.
-
-The project became visible when a storm hit early.
-
-Not major.
-
-Enough to invalidate two planned outages.
-
-The old system would have rescheduled locally and discovered conflicts afterward.
-
-Nessa had one shared calendar with reserve promises attached.
-
-She moved three jobs in a day.
-
-Nobody liked the new dates.
-
-Nobody lost required reserve.
-
-That counted as success.
-
-Regional director sent a letter praising coordination.
-
-Nessa read it once and put it under a stack.
-
-I rescued it.
-
-“Why?”
-
-“Evidence.”
-
-“Of what?”
-
-“That you are good.”
-
-“I know.”
-
-Beautiful.
-
-I kept the letter anyway.
-
-The project ended after winter schedule locked.
-
-Regional office offered Nessa permanent responsibility for annual coordination, not full relocation.
-
-Two days monthly most of year.
-
-More during planning season.
-
-She took it.
-
-This time she told me before accepting.
-
-Not asked.
-
-Told.
-
-Difference mattered.
-
-“I want it,” she said.
-
-“Good.”
-
-“You have schedule concerns.”
-
-“Seventeen.”
-
-“Of course.”
-
-“We can solve them.”
-
-“Yes.”
-
-That was partnership by then.
-
-Not permission.
-
-Not sacrifice disguised as love.
-
-Information before impact.
-
-Then logistics.
-
-Nessa's work widened beyond places I knew.
-
-People began sending slates addressed to her at our apartment.
-
-Not Mrs. Greg.
-
-Not station hand.
-
-NESSA VALE - REGIONAL TRANSFER COORDINATION.
-
-The first one made me absurdly happy.
-
-I did not tell her.
-
-She would have become unbearable.
-
-I filed it correctly instead.
-
-Growth has many forms.
+I charged her conversation fee.

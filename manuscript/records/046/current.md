@@ -1,407 +1,665 @@
 ## RECORD 046
 
-## THE NEGOTIATOR
+## THE BREAKER
 
-The regional repair crews stopped traveling on a Monday.
+On the seventy-first day of the contract, we hired a woman to destroy a wall.
 
-They still worked.
+Not a stone wall.
 
-That distinction mattered enough to make everyone angry.
+Those were cheaper.
 
-The dispute was about travel pay.
+The old quarry station at Bell Cut had been abandoned for thirty-six years, which meant the roof leaked, the west stair had become a plant, and somebody had still remembered to maintain the ward on the records room.
 
-Boring.
+Civilization survives in strange places.
 
-Important.
+The ward itself was not impressive.
 
-Regional maintenance had grown because districts increasingly borrowed workers, specialists, and contractors across boundaries.
+Six feet wide.
 
-Good.
+Eight feet tall.
 
-The old payroll rules assumed workers began at their home station.
+Set into a stone doorway with iron anchors at shoulder height and near the floor.
 
-Bad.
+No color unless you looked at it sideways.
 
-Travel to another district counted partly as work if district ordered it.
+No dramatic hum.
 
-Not if a contractor did.
+Just pressure against the skin when you got close.
 
-Standby counted differently depending on which form created the standby.
+Taris touched it once.
 
-Meals reimbursed after one night away but not for long same-day travel.
+Senn slapped his hand away.
 
-Everyone had a story about being gone fourteen hours and paid for nine.
+"Professional curiosity," he said.
 
-Eventually stories became a refusal.
+"Professional fingers," she said. "Keep them."
 
-The repair crews' position was simple.
+By then Taris had lost one pair of gloves, gained a scar across his chin from a crate latch, and stopped carrying every document we owned on his person.
 
-Travel for regional work counts as work.
+Growth.
 
-The contractors' position was also simple.
+My second clamp had become his.
 
-If every tram hour paid full field rate, small regional jobs became too expensive to bid.
+I had objected.
 
-District's position was naturally worst.
+He had ignored me.
 
-We support fair treatment within existing budget authority.
+That was also growth.
 
-Beautiful sentence.
+We needed the records room because Senn believed the original quarry drainage plan might explain why three northern retaining lines had failed in the same direction.
 
-Means nothing until numbers arrive.
+The district archive had copies.
 
-I got pulled in because I occupied all sides badly.
+The copies disagreed.
 
-Former station hand.
+Naturally the original was behind a ward nobody on our crew was certified to remove.
 
-District inspector.
-
-Private contractor.
-
-Occasional employer.
-
-Person who traveled enough to have opinions.
-
-Nessa said this made me uniquely unqualified.
+Orla could have broken it.
 
 Probably.
 
-The meeting happened at Bellwater Guild Hall.
+She stood in front of the doorway, rolled one shoulder, and said, "I can hit it until it stops being a problem."
 
-Twenty workers.
+Senn said, "And the paper?"
 
-Six contractors.
+Orla looked through the ward toward thirty-six-year-old shelving.
 
-Three district clerks.
+"May become a different problem."
 
-One Guild mediator who looked at me and said, “You are not mediation.”
+So we sent a runner south.
 
-“I learned that before.”
+Then waited a day and a half.
 
-“Good.”
+That was field work too.
 
-Progress.
+People remember the cliff.
 
-Juna Marr sat with contractors.
+Nobody remembers Wednesday afternoon when rain came through a roof seam and six adults moved two tables three feet to the left.
 
-I sat between groups until someone told me that looked dramatic.
+I remember because Taris insisted the tables had been better on the right.
 
-Then I moved beside Lorn.
+He was wrong.
 
-He was with workers.
+The breaker arrived just before noon on Thursday.
 
-That surprised me.
+Her name was Mara Quill.
 
-“You work with me.”
+Forty-something.
 
-“Yes.”
+Maybe fifty.
 
-“You are sitting there.”
+Short gray braid.
 
-“Yes.”
+Heavy canvas coat with one sleeve repaired in four different colors of thread.
 
-“Why?”
+No weapon I could see.
 
-“Because you do not pay me to sit on trams.”
+Three iron rods strapped to her pack.
 
-There it was.
+A square black case.
 
-I stared.
+And a copper chain that looked too cheap to matter.
 
-“How long have you been mad?”
+It mattered.
 
-“Years.”
+She looked at the ward.
 
-“Why didn't you say?”
+Then at Senn.
 
-“I did.”
+"District property?"
 
-“When?”
+"Yes."
 
-“Every time I said travel sucks.”
+"Removal authorization?"
 
-“That is not a wage proposal.”
+Senn handed it over.
 
-“It was emotionally clear.”
+Mara read all of it.
 
-Excellent business system.
+This immediately improved my opinion of her.
 
-The mediator started with examples.
+She checked the seal.
 
-Good choice.
+Checked the ward anchors.
 
-One worker from South Fen traveled four hours round trip for a six-hour job.
+Walked around the outside wall.
 
-Paid six.
+Came back.
 
-One Bellwater fitter spent two hours on tram, eight on site, slept away, returned next morning.
+"You want it dead or open?"
 
-Paid eight plus lodging.
+Senn frowned.
 
-One contractor paid half-rate travel voluntarily and lost two bids to firms that did not.
+"Difference?"
 
-Juna raised her hand.
+"Dead, I strip the anchors and it stays dead. Open, I drain enough to pass, then whoever owns it can wake it back up later."
 
-“That was me.”
+Senn looked at the ceiling.
 
-Of course.
+Rainwater dripped into a bucket.
 
-“Why pay it?” mediator asked.
+"Dead."
 
-“Because otherwise good workers stop taking travel.”
+"Good. Hate old wards."
 
-Several workers pointed at the room.
+She set down her pack.
 
-Current evidence.
+I moved closer.
 
-The problem was not whether travel had value.
+Mara looked at me.
 
-It did.
+"Who are you?"
 
-The problem was who could charge the client for it without losing work.
+"Greg. Support."
 
-If one contractor paid travel and another did not, price difference punished the better labor practice.
+"Then support from over there."
 
-If district required travel pay on public work only, private work still competed downward.
+She pointed behind her.
 
-If Guild required it for all registered regional contracts, prices rose together.
+"Why?"
 
-Clients paid.
+"Because if you stand beside me you'll ask questions."
 
-There again.
+"I can ask from there."
 
-Who pays?
+She stared.
 
-Always next question.
+Orla coughed into one hand.
 
-A district clerk proposed half-rate travel after first hour.
+Traitor.
 
-Workers hated it.
+Mara opened the black case.
 
-Contractors liked it too quickly.
+Inside were chalk, two small ceramic sinks, a spool of copper thread, a leather-wrapped handle, and four thin plates etched with concentric marks.
 
-Bad sign.
+No legendary artifact.
 
-Lorn said, “Why is my second hour less alive than my first?”
+No ancient breaker blade.
 
-The clerk rubbed her face.
+Mostly things you could lose under a bed.
 
-Good question rhetorically.
+She placed one sink on each side of the doorway.
 
-Bad accounting.
+Copper thread between them.
 
-Juna proposed fixed travel allowance by zone.
+One iron rod through a floor ring.
 
-Simple.
+Then she touched the ward with two fingers.
 
-Predictable.
+Not through it.
 
-Workers farther within a zone could lose.
+Against it.
 
-Workers near boundary could win.
+"Still fed," she said.
 
-Someone objected immediately.
+"By what?" I asked.
 
-I proposed paying actual travel time at base wage, not hazard or specialist premium.
+"Anchor reserve."
 
-Field premiums only on site.
+"After thirty-six years?"
 
-Workers considered.
+"Slow ward. Low demand. Good stone. Whoever built it wasn't stupid."
 
-Contractors considered.
+She looked at Taris.
 
-Clerks began calculating.
+"Do not touch it."
 
-Lorn said, “What about delays?”
+He put both hands in his pockets.
 
-“Scheduled route time.”
+Experience.
 
-“Then tram breaks and I donate two hours.”
+Mara knelt and drew a chalk line from the lower anchor to the left sink.
 
-“Actual time with cap?” Juna suggested.
+Then another from the upper anchor.
 
-“Cap becomes donation after cap.”
+"You're grounding it?" I asked.
 
-The meeting became mathematics.
+"Eventually."
 
-Good.
+"Why not break the anchor?"
 
-Moral arguments had taken us as far as they could.
+"Because then the ward discharges wherever the broken path allows."
 
-We broke for lunch.
+"Which could be where?"
 
-Lorn sat across from me.
+"Paper. Me. You. The wall. Depends how badly I break it."
 
-“You really did not know?”
+Reasonable.
 
-“About travel?”
+I liked her less because she kept having answers.
 
-“Yes.”
+She wrapped the leather handle with copper thread.
 
-“I knew it was unpaid.”
+Set one end against the ward.
 
-“That is knowing.”
+Nothing happened.
 
-“I did not know you cared this much.”
+At least nothing visible.
 
-He stared.
+Then the pressure on my skin changed.
 
-I heard it.
+Small.
 
-“Bad sentence.”
+Like somebody had opened a door in another room.
 
-“Yes.”
+The ward thinned near her hand.
 
-“I thought you priced your share around it.”
+Not physically.
 
-“I price the fee you give me.”
+That is not the right word.
 
-Right.
+Its insistence changed.
 
-I set many of those fees.
+I had spent years thinking about Barrier as something maintained from the inside.
 
-The ledger had costs.
+Boundary.
 
-Travel listed.
+Pressure.
 
-Mostly tram fare.
+Control.
 
-Not time.
+Mara was doing the opposite.
 
-Nessa had told me boots were a cost years earlier.
+She was not hitting the boundary.
 
-Apparently people also were.
+She was making it feed something else.
 
-Embarrassing gap.
+"Draw," I said.
 
-“I owe you.”
+"Yes."
 
-Lorn shook his head.
+Orla looked at me.
 
-“No back pay.”
+"You know it?"
 
-“Why?”
+"I know what it's for."
 
-“Because then we spend a week reconstructing every stupid tram ride.”
+Mara said, "Apparently not enough to stop narrating."
 
-“Ledger exists.”
+I shut up.
 
-“Your ledger thinks Cask is spelled with two K's for six months.”
+For almost a minute.
+
+Draw was not rare.
+
+Ward breakers used it.
+
+Siege crews used it.
+
+Some artificers used versions of it to empty charged equipment safely before repair.
+
+Criminals used it badly.
+
+That was usually how people heard about it.
+
+You could destroy a maintained ward by overpowering it.
+
+Or you could remove what kept maintaining it.
+
+Mara pulled slowly.
+
+The copper line warmed.
+
+One ceramic sink clicked.
+
+The ward dimmed along the lower left corner.
+
+Then brightened again.
+
+Not visibly.
+
+Again, wrong word.
+
+I felt it recover.
+
+Mara stopped.
+
+Waited.
+
+Started again somewhere else.
+
+I forgot not to ask.
+
+"Why move?"
+
+"Because it feeds the first section faster than I want."
+
+"So you're finding the slow return."
+
+She looked at me.
+
+First time with something other than irritation.
+
+"Yes."
+
+That was all.
+
+I watched harder.
+
+The ward was not one thing.
+
+Of course it wasn't.
+
+Nothing useful ever was once you stared long enough.
+
+The upper anchor fed faster than the lower.
+
+The left side recovered differently from the right.
+
+Mara tested a section.
+
+Pulled.
+
+Waited.
+
+Tested another.
+
+Her Draw never looked dramatic.
+
+The ward simply became less certain it existed.
+
+After ten minutes, I could put my hand within an inch and feel the surface shiver instead of hold.
+
+After fifteen, Mara changed the copper path.
+
+After twenty, she said, "Now."
+
+The ward collapsed.
+
+Not shattered.
+
+Collapsed.
+
+Pressure vanished.
+
+One sink made a sharp cracking noise.
+
+The ceramic split down the middle.
+
+Mara swore.
+
+"Cheap batch."
+
+She picked up the pieces.
+
+Taris leaned toward the doorway.
+
+Senn caught his collar without looking.
+
+"Wait."
+
+Mara checked the anchors again.
+
+Touched the threshold.
+
+Then nodded.
+
+"Dead."
+
+Taris went in first because paperwork had finally become physically useful.
+
+Senn followed.
+
+The route hand carried a lamp.
+
+Calder went because something living might have moved into the room over thirty-six years.
+
+Orla stayed outside with me.
+
+Mara began packing.
+
+I crouched beside the broken ceramic sink.
+
+"Where did it go?"
+
+She kept packing.
+
+"What?"
+
+"The ward mana."
+
+"Some into the sinks. Some through ground. Some stayed in the anchor until it bled off."
+
+"Some into you?"
+
+"A little."
+
+"Then Draw doesn't destroy it."
+
+Mara stopped.
+
+"No."
+
+"It moves it."
+
+"Mostly. Badly."
+
+"How badly?"
+
+"Depends."
+
+"On?"
+
+She looked at Orla.
+
+"Does he stop?"
+
+"Not voluntarily."
+
+Mara sighed.
+
+"Distance. Difference in pressure. How clean the path is. What you're drawing from. What your own channels are doing. Whether you're stupid enough to hold it instead of dumping it."
+
+"Why would you hold it?"
+
+"Because people are stupid."
+
+"Can you use it?"
+
+"Technically."
+
+"For what?"
+
+"Greg."
+
+That was Orla.
+
+I ignored her.
+
+"If you pull mana out of the ward, can you feed it back into another ward?"
+
+Mara's face changed.
+
+Not impressed.
+
+Concerned.
+
+Better.
+
+"Yes."
+
+"Then why dump it?"
+
+"Because I like having hands."
+
+"That seems unrelated."
+
+"It isn't."
+
+She sat on the stone step.
+
+Maybe she decided answering me was faster than leaving.
+
+"Draw is dirty flow. You're not receiving someone's neat prepared transfer. You're creating a pressure path and taking whatever comes through it. Foreign pattern. Anchor noise. Feedback. Sometimes heat. Sometimes a ward carries a response condition and you pull that too."
+
+"A trap."
+
+"Sometimes."
+
+"But clean wards?"
+
+"Less bad."
+
+"Living aura?"
+
+Orla looked at me sharply.
+
+Mara did too.
+
+"No."
+
+"I asked if it works."
+
+"And I answered the question you should have asked."
+
+I smiled.
+
+She did not.
+
+"Does it?"
+
+"Yes. That is one way to attack aura."
+
+"So aura is basically a maintained ward."
+
+"No."
+
+"But related."
+
+"Everything is related if you remove enough detail."
+
+That sounded like something I would eventually steal.
+
+"Living aura responds. Person responds. You pull wrong and their reinforcement changes under load. You don't know what they were about to ask it to do. You don't know which channel is compensating. You can turn a bruise into a break because you thought you were relieving pressure."
+
+Orla folded her arms.
+
+"Listen carefully."
+
+"I am."
+
+Mara pointed at me with the leather handle.
+
+"Draw is an attack because the person on the other side doesn't get to choose what leaves. There are controlled transfers. There are storage systems. There are medical relief techniques. Learn those if you want to help people."
+
+"Do they work during a fight?"
+
+She stared.
+
+"There. That's the stupid question."
+
+"Why?"
+
+"Because if you're trying to invent something while somebody is swinging an axe, the axe gets a vote."
 
 Fair.
 
-“Going forward,” he said.
+I disliked it.
 
-“Agreed.”
+"Barrier works during a fight."
 
-The final settlement took two days.
+"Barrier is support."
 
-Not legally binding everywhere.
+"Draw breaks Barrier."
 
-Guild contract standard.
+"Yes."
 
-Regional registered work would include travel time at base trade wage after first thirty minutes each direction.
+"So if I want to understand Barrier..."
 
-Local commute excluded.
+Mara closed the black case.
 
-Field premiums began on site.
+"Learn how people kill it."
 
-Overnight travel paid scheduled return time next day.
+There.
 
-Major delay beyond worker control paid actual time up to a defined extension, then required client approval or contractor absorption.
+Finally.
 
-Complicated.
+A useful sentence.
 
-Better than nothing.
+She stood.
 
-Public districts adopted it immediately because refusing after participating would have looked terrible.
+"But learn it as a breaker first. Not as whatever stupid thing you're currently imagining."
 
-Private clients could reject the standard only if contract explicitly stated alternate terms.
+"I am not imagining anything."
 
-That meant the cheap bidder had to show the cheapness.
+Orla laughed.
 
-Transparency as weak regulation.
+Mara picked up her pack.
 
-Useful.
+"That might be worse."
 
-Rates rose.
+She charged Senn six silver and one replacement sink.
 
-Of course.
+Senn complained about the sink.
 
-Some small jobs became local-only because regional specialists cost too much.
+Mara showed her the cracked ceramic.
 
-Not automatically bad.
+Senn paid.
 
-Local workers got more work.
+The quarry records were useful.
 
-Some clients delayed jobs they should not have.
+One drainage wall had been rerouted during a flood season and never copied onto the district map.
 
-Not automatically good.
+Senn was delighted.
 
-No policy leaves reality unannoyed.
+Taris found a page signed by a surveyor with the same family name as his mother and became unbearable for two days.
 
-Our private work changed.
+The weather turned colder.
 
-Lorn got travel pay.
+One morning the puddles at camp had ice around the edges.
 
-So did Rell.
+Our three-month contract had nineteen days left.
 
-So did I when the job belonged to the shared ledger instead of my district salary.
+That number surprised me.
 
-Nessa laughed the first time I paid myself tram time.
+Not because I had forgotten the date.
 
-“Consultant.”
+Because Calder's snoring had become background noise.
 
-“Shut up.”
+Because Orla no longer asked before taking my repair kit.
 
-Juna raised prices too.
+Because Taris knew which side of my pack held waxed cord.
 
-Harven Works complained publicly and adopted the standard privately three weeks later because workers preferred firms using it.
+Because Senn had stopped explaining why we were turning north and simply expected us to understand the map.
 
-Labor has markets too.
+Temporary belonging had become ordinary enough to start ending.
 
-The most important part was Lorn sitting on the other side of the room.
+I should probably tell you I thought deeply about that.
 
-Not betrayal.
+I did not.
 
-Information.
+I thought about Draw.
 
-I had begun to think of us as a team.
+Mara had left behind a thin training pamphlet after I paid her two copper for it.
 
-True.
+BREAKING MAINTAINED WARDS: FIELD PRINCIPLES.
 
-Teams still contain people whose interests do not merge because the leader likes them.
+The title had all the romance of drainage maintenance.
 
-Lorn wanted fair time.
+Good.
 
-I wanted workable prices.
+That night I read it by firelight until Orla threw one of my own socks at my face.
 
-Both.
+"Sleep."
 
-Negotiation did not require deciding which identity was real.
+"I'm reading."
 
-Worker.
+"You are support tomorrow."
 
-Contractor.
+"Related activity."
 
-Friend.
+"Sleep is more related."
 
-Employer sometimes.
-
-Employee sometimes.
-
-People occupy several boxes and then forms become angry.
-
-Regional work kept growing anyway.
-
-The next contract notice included TRAVEL COMPENSATION STANDARD on page two.
-
-One line.
-
-Months of arguments compressed into a box.
-
-Scars with forms.
+She was right.
 
 Again.
 
-I was beginning to suspect civilization was mostly this.
+I put the pamphlet under my coat so the dew would not get it.
+
+Then lay down.
+
+Five minutes later I took it back out.
+
+Orla did not throw the second sock.
+
+She had learned I only had three pairs.

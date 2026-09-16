@@ -1,333 +1,739 @@
 ## RECORD 049
 
-## THE PASSERBY
+## THE CHASE
 
-I spent four days in Bren's city and did not see him.
+I found Arcrutus in spring because somebody told me he was leaving.
 
-That required effort.
+This remained the most reliable way to find him.
 
-More than I like admitting.
+Never where are you.
 
-The city was North Vey.
+Always where are you going next.
 
-Not the rupture site from First Life exactly.
+He was at a clan training estate three hours west of Vey, which sounds grander than it was.
 
-Same region.
+Stone house.
 
-Different district.
+Long field.
 
-Different history.
+Two barns.
 
-North Vey had grown faster after the rupture never happened.
+Kennels.
 
-That was strange to see.
+A spear rack under an awning.
 
-First-life memory held broken streets.
+Six people who all knew exactly who he was and none who seemed impressed by it.
 
-Temporary camps.
+Healthy environment.
 
-Reconstruction scaffolds.
+I arrived before noon with mud on my boots and one question I had spent four months making too complicated.
 
-Shops that moved and never moved back.
-
-Second-life North Vey had none of that scar.
-
-Or different scars.
-
-Cities do not remain uninjured just because one disaster disappears.
-
-The job was pressure review for a new cold-storage hall.
-
-Osa sent me because she hated travel and claimed certification should eventually become my problem.
-
-I stayed at a Guild inn near the north tram circle.
-
-Bren lived somewhere in the city.
-
-I knew that before arriving.
-
-Not address.
-
-Current work records put him with a regional hazard company headquartered there.
-
-A-class.
-
-Field lead on crawler suppression, structural rescue, and high-pressure access.
-
-Still Bren-shaped work.
-
-Not the same work.
-
-I told Nessa before leaving.
-
-“North Vey.”
-
-She looked at me.
-
-“Yes.”
-
-“Bren.”
-
-“I know.”
-
-“You going to see him?”
-
-“No.”
-
-She waited.
-
-“Probably.”
-
-“Better.”
-
-“I mean no.”
-
-“Mm.”
-
-She had learned dragon noises without meeting one.
-
-Concerning.
-
-The first day was easy.
-
-Work.
-
-Cold-storage hall had three pressure loops and one architect who believed access panels damaged visual lines.
-
-I explained that mechanics were visual too if you waited long enough.
-
-He did not appreciate this.
-
-We moved two panels.
-
-Second day I passed the Guild board.
-
-BREN CALDER appeared on a contract notice.
-
-Not current.
-
-Completed two weeks earlier.
-
-Bridge support failure south district.
-
-Team lead.
-
-No injuries.
-
-I read the notice longer than necessary.
-
-Then walked away.
-
-Third day I ate at a tavern Bren would have hated in First Life.
-
-Too clean.
-
-Beer watered carefully instead of dishonestly.
-
-No card tables.
-
-I chose it partly because he would not have gone there.
-
-Then remembered this Bren had never formed the opinion.
-
-He might love it.
-
-That ruined the strategy.
-
-I finished dinner quickly.
-
-On the walk back, I passed a hazard-company office.
-
-His company.
-
-Name on the glass.
-
-Not Bren's.
-
-Company name.
-
-I stopped across the street.
-
-Bad idea.
-
-People moved inside.
-
-One broad-shouldered man near the back made my chest tighten.
-
-Wrong man.
+Arcrutus sat on a low wall eating chestnuts.
 
 Of course.
 
-I stood there feeling ridiculous.
+He looked older than the tournament.
 
-A street vendor asked if I wanted roasted nuts.
+Not dramatically.
 
-I bought some because leaving immediately looked suspicious to nobody except me.
+A little more silver in the beard.
 
-Then I walked away.
+Same irritating posture.
 
-Fourth day the job finished early.
+Same feeling that he had already noticed the thing I was about to explain badly.
 
-Two hours before my tram.
+"Greg."
 
-There it was.
+"Arcrutus."
 
-Time.
+He held up a chestnut.
 
-Enough to go to the office.
+"No."
 
-Ask for Bren.
+"I did not ask."
 
-Say I was in town.
+"You looked interested."
 
-Normal.
+"I was checking whether civilization had diversified your diet."
 
-We had worked together at East Four years earlier.
-
-Not strangers anymore.
-
-Barely acquaintances.
-
-A reason existed.
-
-Not manufactured exactly.
-
-That was how temptation talks.
-
-I sat in the Guild waiting hall instead.
-
-Terrible chairs.
-
-Recurring civilization problem.
-
-I read three contract notices and understood none because I was not reading.
-
-Then I took out the memory ledger.
-
-Had not used it in weeks.
-
-BREN CALDER.
-
-MEMORY.
-
-Too much.
-
-I did not rewrite it.
-
-NOW.
-
-Lives in North Vey.
-
-A-class field lead.
-
-Worked East Four with me once.
-
-Shook my hand.
-
-No contact since.
-
-MEANING.
-
-I want to see him.
-
-That sentence remained true.
-
-I added:
-
-Wanting is not evidence he wants to see me.
-
-Then:
-
-I can contact him without manipulating him.
-
-Also true.
-
-Then:
-
-Why haven't I?
-
-That one annoyed me.
-
-Because the standard I had created after Record Ten had become too pure.
-
-Do not manufacture friendship.
+"It has not."
 
 Good.
 
-But I had turned it into do nothing.
+Some anchors should remain.
 
-Safer.
+I told him about the pocket.
 
-Less honest.
+The brushback.
 
-If I never initiated contact, I could never wonder whether his response was chosen or influenced by information I carried.
+Running late.
 
-I could preserve moral cleanliness by refusing ordinary risk.
+Barrier precision collapsing under movement.
 
-That was not automatically noble.
+Mara.
 
-I nearly went to the office after all.
+Draw.
 
-Then the tram bell rang.
+Orla.
 
-Decision made by transportation.
+The quarry.
 
-Cowardly.
+I left out the part where Orla hit me twice because it was not technically relevant.
 
-Useful.
+Arcrutus listened.
 
-I boarded.
+Mostly.
 
-Went home.
+At one point he watched a hawk cross the field while I was explaining transfer loss.
 
-Nessa asked, “See him?”
+I waited.
 
-“No.”
+He looked back.
 
-“Want to?”
+"Continue."
 
-“Yes.”
+"Were you listening?"
 
-She nodded.
+"Yes."
 
-“That sounds worse.”
+"What did I just say?"
 
-“It is.”
+"You think the problem is switching."
 
-“Good.”
+I stopped.
 
-Cruel woman.
+That was correct.
 
-I did not contact Bren after North Vey.
+"Yes."
 
-Not immediately.
+"It is not."
 
-The trip changed something anyway.
+"Good talk."
 
-I stopped pretending restraint meant absence of desire.
+He ate another chestnut.
 
-I wanted him back.
+I waited.
 
-Not the exact man.
+Old Greg would like credit for patience here.
 
-Not owed.
+Young Greg lasted seven seconds.
 
-Not recreated.
+"What is the problem?"
 
-I wanted some relationship with the living person carrying that face and name.
+"You arrive late."
 
-That was mine to want.
+"That is switching."
 
-What I could not do was make his answer for him.
+"No."
 
-A few months later, work answered first.
+"I have to release one target, move, reacquire another, and establish control. That takes time."
 
-That was cleaner.
+"Yes."
 
-Not because fate arranged it.
+"So switching takes time."
 
-Because regional contractors eventually collide with other regional workers.
+"You are already late before you release."
 
-Much less romantic.
+I frowned.
 
-More believable.
+He pointed across the field.
+
+Two young fighters were drilling with staffs.
+
+One pressed.
+
+One gave ground.
+
+"Which needs support?" Arcrutus asked.
+
+"Neither yet."
+
+"Which will?"
+
+I watched.
+
+Rear fighter's left foot shortened on retreat.
+
+Front fighter saw it.
+
+Pressed harder.
+
+"Rear."
+
+"When?"
+
+"Next exchange."
+
+"Where will he be?"
+
+I pointed.
+
+Three steps back and right.
+
+Arcrutus nodded.
+
+"Then why are you still here?"
+
+There.
+
+Annoying.
+
+"Because this is hypothetical."
+
+"Your body does not know that."
+
+"You think I need to move earlier."
+
+"I think you keep asking your legs to repay decisions your eyes made too late."
+
+I disliked him intensely.
+
+"How do I train that?"
+
+"Run."
+
+"I run."
+
+He looked at me.
+
+I was thirty-two.
+
+Six-three.
+
+Broad enough to have spent years pretending that counted as conditioning.
+
+I had been running three or four miles most mornings for months.
+
+I felt defensive before he said anything.
+
+"More."
+
+"How much?"
+
+Arcrutus stood.
+
+That should have warned me.
+
+He whistled.
+
+Three animals came out of the kennel.
+
+Not dogs.
+
+Close enough that my first instinct used the word.
+
+Long gray bodies.
+
+Deep chests.
+
+Short ears.
+
+Heavy jaws enclosed in leather basket muzzles.
+
+Ridge hounds.
+
+Used by some northern patrols for scent work and by rich idiots for sport.
+
+Apparently also used by old S-class men to answer questions badly.
+
+I looked at him.
+
+"No."
+
+"Run."
+
+"Those are hounds."
+
+"Yes."
+
+"Why are there three?"
+
+"One is lazy."
+
+The lazy one was staring at me with professional interest.
+
+"I am not doing this."
+
+Arcrutus tossed a chestnut past my head.
+
+One hound launched.
+
+I ran.
+
+This was coercive education.
+
+The field was longer than it looked.
+
+Of course.
+
+I sprinted toward the far wall.
+
+Aura up automatically.
+
+Warrior habit.
+
+Support habit.
+
+Human-with-teeth-behind-him habit.
+
+The hound gained.
+
+Fast.
+
+I cut left.
+
+Second hound entered from the side.
+
+"What the fuck?"
+
+Arcrutus said something.
+
+Wind took it.
+
+I assume wisdom.
+
+I ran harder.
+
+The basket muzzle hit the back of my coat.
+
+Not bite.
+
+Impact.
+
+I stumbled.
+
+Warrior training kept me upright.
+
+Barely.
+
+Reached the wall.
+
+Turned.
+
+The hounds stopped.
+
+Not because I had won.
+
+Because Arcrutus whistled again.
+
+I bent over.
+
+Hands on knees.
+
+Breathing hard.
+
+He walked toward me at the pace of someone whose lungs had no investment in the conversation.
+
+"Aura," he said.
+
+"Yes."
+
+"Why?"
+
+I pointed at the hounds.
+
+"Teeth."
+
+"Muzzles."
+
+"There are still several hundred pounds of animal hitting me."
+
+"Did aura make you faster?"
+
+"No."
+
+"Did it make you slower?"
+
+I hated the answer.
+
+"A little."
+
+"More than a little by the end."
+
+"You want me to run without aura while animals chase me."
+
+"I want you to notice what you spend before you complain about what you lack."
+
+That was less funny.
+
+He walked back toward the wall.
+
+I followed because apparently I had abandoned self-respect at the gate.
+
+Second drill involved cups.
+
+Small clay cups.
+
+One set on each of three waist-high posts across the field.
+
+"Barrier," he said.
+
+"Around which?"
+
+"All."
+
+"From here?"
+
+"No."
+
+That was when I understood.
+
+"I have to run between them."
+
+"Yes."
+
+"With the hounds."
+
+"Yes."
+
+"This is not how normal support works."
+
+"You asked about your support."
+
+Fuck.
+
+The first attempt lasted forty seconds.
+
+I protected the first cup too long.
+
+Reached the second late.
+
+Hound hit my hip.
+
+Barrier on cup two widened.
+
+Cup fell.
+
+Arcrutus said, "Again."
+
+Second attempt, I moved earlier.
+
+Too early.
+
+First cup lost protection before one hound reached its post.
+
+Shattered.
+
+"Again."
+
+Third, I tried to keep a thread of Barrier on the first while moving to the second.
+
+Range cost control.
+
+My breathing cost more.
+
+Aura cost more still.
+
+I dropped aura lower.
+
+Better.
+
+Then the lazy hound discovered motivation and hit me from behind.
+
+I ate grass.
+
+Arcrutus waited until I rolled over.
+
+"Again."
+
+"I hope your entire clan disappoints you."
+
+"Several have."
+
+He meant it.
+
+That ruined the insult.
+
+By sunset I had completed the course once.
+
+Not cleanly.
+
+One cup cracked.
+
+None fell.
+
+My lungs burned.
+
+My calves shook.
+
+Fine Barrier control had degraded so badly near the end that I was basically protecting the last cup with magical stubbornness.
+
+Arcrutus picked it up.
+
+Turned it over.
+
+"Bad."
+
+"It is intact."
+
+"You stopped thinking after the second post."
+
+"I was running."
+
+"Yes."
+
+"That uses thinking."
+
+"Then acquire more."
+
+I laughed because the alternative was assault.
+
+He handed me water.
+
+Care disguised as logistics.
+
+His specialty.
+
+We did the drill again the next morning.
+
+Then he left.
+
+Not me.
+
+Him.
+
+Some clan meeting two provinces north.
+
+No training plan.
+
+No schedule.
+
+No promise to check my progress.
+
+At breakfast he said, "You know the problem now."
+
+"I knew I was slow."
+
+"No. You knew your legs were slow."
+
+"Difference?"
+
+"Your decisions are slow too."
+
+I frowned.
+
+He ate a chestnut.
+
+"Move when the need becomes probable. Not after it becomes visible."
+
+Then he stood.
+
+That was the lesson.
+
+Four days of travel for a sentence and several bruises.
+
+Good return, apparently.
+
+I went back to work.
+
+And ran.
+
+That part took longer.
+
+Much longer.
+
+Summer became autumn.
+
+I wore through another pair of shoes.
+
+Not boots.
+
+Running shoes this time.
+
+Cheap canvas at first.
+
+Bad idea.
+
+The sole twisted on wet stone and I lost two weeks to a strained ankle.
+
+Orla mailed me one line when she heard:
+
+PROFESSIONAL ATHLETE.
+
+I did not respond.
+
+Then responded three days later because silence made it look like she had won.
+
+Winter came.
+
+I ran in rain.
+
+Ran before jobs.
+
+Ran after jobs when mornings started too early.
+
+Ran with a pack once a week.
+
+Hated that.
+
+Kept doing it.
+
+I stopped measuring distance by how far I could force myself to go.
+
+Started measuring what remained afterward.
+
+Could I still hold a thin Barrier?
+
+Could I change its angle while breathing hard?
+
+Could I release, turn, reacquire without my hands shaking?
+
+Could I read Calder's footwork after three miles instead of before?
+
+Calder was not always there.
+
+Most days the answer was a fence post.
+
+Fence posts give poor feedback but excellent attendance.
+
+I built drills.
+
+Pebble in Barrier while jogging.
+
+Two pebbles.
+
+Drop one, reacquire the other.
+
+Small ward plate on a post.
+
+Jog past, identify feed direction with Draw, release before the pull became unsafe.
+
+Run hill.
+
+Cast at top.
+
+At first the Barrier looked like shit.
+
+That is technical terminology.
+
+Edges wandered.
+
+Pressure pulsed with breathing.
+
+I overcorrected every footfall.
+
+Months later the edge stopped caring as much about my stride.
+
+Not because movement stopped mattering.
+
+Because my body learned to separate the jobs.
+
+Spring again.
+
+Almost a year after the quarry.
+
+I was still C-class as a direct fighter.
+
+Still not formally remarkable as support.
+
+That is worth saying.
+
+Nobody handed me a higher badge because I could run five miles and keep rain off a rock.
+
+Clients mostly cared that I showed up on time.
+
+Mara said my Draw was cleaner.
+
+Orla said I stopped arriving at her shoulder already out of breath.
+
+Calder said I had become more annoying because I could now ask questions while climbing hills.
+
+Useful metrics.
+
+The real change appeared on a rescue escort outside Bellwater.
+
+Nothing dramatic.
+
+A loaded wagon lost one wheel on a slope.
+
+Two workers on downhill side.
+
+One animal panicked uphill.
+
+I saw the shape changing.
+
+Old me would have waited for the wagon to tip.
+
+Then run.
+
+This time I moved when the horse's head came up.
+
+Before the wheel fully folded.
+
+By the time the downhill worker needed support, I was already close.
+
+Barrier caught the wagon frame at an angle.
+
+No sprint.
+
+No heroic correction.
+
+Three steps.
+
+That was all.
+
+Three steps I had taken early.
+
+The worker got clear.
+
+Wagon went over anyway.
+
+Broke six jars of lamp oil.
+
+Client was furious.
+
+Nobody was injured.
+
+Good trade.
+
+Two months later I saw Arcrutus again by accident.
+
+Authority hall.
+
+He was leaving.
+
+Naturally.
+
+He looked at me once.
+
+Then down at my shoes.
+
+Then back up.
+
+"Less slow."
+
+I waited for more.
+
+There was no more.
+
+"Thank you," I said.
+
+"Was not praise."
+
+"I know."
+
+He nodded.
+
+Then left.
+
+I stood there smiling anyway.
+
+Embarrassing.
+
+Ithar shifted in the dark.
+
+"You wanted his approval."
+
+"Occasionally."
+
+"He gave you two words."
+
+"One was comparative."
+
+"That improved it?"
+
+"Significantly."
+
+The dragon made the sound that meant he thought humans were inefficient.
+
+Fair.
