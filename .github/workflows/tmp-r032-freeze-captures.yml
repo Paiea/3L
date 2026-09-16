@@ -1,0 +1,83 @@
+name: Temporary Record 032 Freeze Captures
+
+on:
+  push:
+    branches: [audio/record-032-production]
+    paths:
+      - .github/workflows/tmp-r032-freeze-captures.yml
+
+permissions:
+  contents: write
+
+jobs:
+  freeze:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-032-production
+      - name: Freeze capture manifest
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          urls = [
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e77f6ec2-cf51-4d3d-8a3a-34a6178eabbb.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/e9130459-6b96-4e8d-b438-0ec3e181b064.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/c2e4a37d-bf09-47d1-9258-f31d6f66aa29.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4f951788-5a8e-4008-9019-6a72c3380bfb.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b3fc1f2f-7970-4228-af3b-4ba47b3ceb41.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/6bfa4a26-d760-4aea-a8fe-51a0d9f06f4c.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/890b7e24-4888-4335-9393-15014468ceae.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/12dc4e5a-6394-46e4-8928-8cf2af23711b.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f12ddcfc-1175-4569-9363-72b513fac0a2.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b0b417ea-ded0-4d61-948d-ebf02b015e10.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/cb49cd6e-572d-46d7-b0c1-3a0f0bccdc61.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/56998075-bb0b-4e1e-b448-9d897930f0e7.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/c51dab2d-e54f-45e3-937a-82d2695916c0.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/af288cc0-54de-4f1c-87dc-04980b62a844.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/338db0e2-5891-4e63-ba69-95845e229f4b.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a44b151e-61b3-4f05-b436-75017e30f304.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/7ff3adca-258a-484d-bd7f-cdaa8b8dd0cb.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ebcac196-5623-4dda-848a-769e4a601636.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/fa30badd-7fbe-45e2-aa30-0a81b3697d8d.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/da8c4168-7866-4607-92a4-1fd342dd3b03.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d5ec4a47-ddda-4208-8b49-cbb305099408.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/52ef0166-d143-4853-8077-ce37c7612e0e.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/c890a046-5228-47f9-ac1c-f57894450ced.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/97677b30-2e07-4635-ac9d-d7504d7b1cbb.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/f8c235f7-51e9-46c0-ab10-91120e6766e7.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/2f66630a-347d-4b41-a18b-4db00faf437f.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3758e1e3-2057-4c7f-81ad-2397a6fd7fd7.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/5be04a26-da52-40a0-b214-1d4b4f5d6c02.mp3',
+            'https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ead1cc93-194c-4c5e-899d-164b30949e84.mp3',
+          ]
+          route=json.loads(Path('audio/production/record-032/route-plan.json').read_text(encoding='utf-8'))
+          assert route['source_sha256']=='fc49b8b8db6da4df9b8a9bd86e00a7886268457155a701ab47cbd5c16d5ba26a'
+          assert len(route['segments'])==len(urls)==29
+          assert all(s['speaker']=='greg' and s['voice_id']=='deep' for s in route['segments'])
+          segments=[]
+          for s,url in zip(route['segments'],urls):
+              assert url.startswith('https://storage.googleapis.com/')
+              segments.append({'index':s['index'],'preview_url':url,'pause_after_ms':s['pause_after_ms']})
+          payload={
+              'record':'032',
+              'status':'candidate_unlistened',
+              'source_sha256':route['source_sha256'],
+              'routing_mode':route['routing_mode'],
+              'notes':'Preview-safe candidate takes captured from validated work orders. All segments Greg=deep. Pauses copied from the exact route plan. Auditory listen-back pending.',
+              'segments':segments,
+          }
+          out=Path('audio/production/record-032/captures.json')
+          out.write_text(json.dumps(payload,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          assert [c['index'] for c in segments]==list(range(1,30))
+          assert [c['pause_after_ms'] for c in segments]==[s['pause_after_ms'] for s in route['segments']]
+          print('froze',len(segments),'Record 032 captures')
+          PY
+      - name: Commit capture manifest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/production/record-032/captures.json
+          git commit -m "Freeze Record 032 audio captures"
+          git push origin HEAD:audio/record-032-production
