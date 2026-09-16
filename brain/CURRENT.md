@@ -8,7 +8,7 @@ This file describes the local working state around the restoration frontier, not
 
 - Story/raw frontier: Record 079.
 - Prose-quality reference: Records 001-010.
-- Public/main prose frontier: Record 044 unless separately promoted.
+- Public/main prose frontier: Record 060.
 - Working-branch restored prose frontier: Record 060.
 - Next rehearsal target: Record 061.
 - Published audio frontier remains separate and must not be inferred from prose publication.
