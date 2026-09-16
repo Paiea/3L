@@ -1,0 +1,130 @@
+{
+  "record": "037",
+  "routing_mode": "exact_quote_locked",
+  "voices": {
+    "greg": "deep",
+    "ithar": "normal"
+  },
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "dragon_quotes": [
+    {
+      "text": "\"You wanted to know what he was seeing.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"So you returned.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You returned early.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You said that already.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"How early?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I said nothing.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Continue.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Did you?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Decide too quickly.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Interesting.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You sought him out.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You arrived an hour early.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"And carried laundry beneath his seating section.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Convenient.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 7
+    },
+    {
+      "text": "\"You threw food at one of the seven strongest humans alive.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Is that meaningfully different in this context?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You threw food at him.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"He said the conversation was not serious.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You selected the interpretation most convenient to your experiment.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Why?\"",
+      "occurrence": 4
+    },
+    {
+      "text": "\"You could have asked.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You disliked the answer.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"So you assaulted him with a chestnut.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"What would your law call it?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"And if Arcrutus wrote it?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Your species remains difficult.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It was one goat.\"",
+      "occurrence": 1
+    }
+  ]
+}

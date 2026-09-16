@@ -1,0 +1,42 @@
+{
+  "record": "037",
+  "source_sha256": "87721e79c7560190a7e02fb6cd16f5c85a6a2118e26486a434362ed6e81ae6f5",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "She informed me she could throw me through the canvas wall.\n\nAccurate.\n\nI informed her she could do that after the healer cleared her vision.\n\nShe stared at me.\n\nI stared back.\n\nThen she sat.\n\nI was very proud of myself until the senior healer said, \"You know she could have actually done that.\"\n\n\"Yes.\"\n\n\"Then why stand there?\"\n\n\"It worked.\"\n\nThe healer closed his eyes.\n\nApparently this was not the answer he wanted.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 22,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Around noon I carried a stack of used stabilization wraps toward the wash barrels behind the main gallery.\n\nThat put me closer to Arcrutus's section than I had been before.\n\nNot intentionally.\n\nMostly.\n\nThe upper walkway curved behind the seats.\n\nClan attendants moved through it carrying food, messages, weapons cases, folded cloaks.\n\nI kept to the outside.\n\nThen someone said:\n\n\"Support.\"\n\nI kept walking.\n\nThere were many of us.\n\n\"The one staring at me.\"\n\nI stopped.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 23,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "There were fewer of those.\n\nArcrutus stood at the rail above me.\n\nNot in the chair.\n\nThat was new.\n\nUp close he looked older.\n\nAlso worse.\n\nNot unhealthy.\n\nJust used.\n\nScar along one side of the jaw.\n\nAnother disappearing beneath the collar.\n\nThe left hand had two knuckles that sat wrong.\n\nHis eyes were dark.\n\nOrdinary eyes.\n\nI found that disappointing for reasons I could not defend.\n\nHe looked at the wraps in my arms.\n\nThen at me.\n\nComplete attention.\n\nThat was different.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 24,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The tournament noise remained behind us.\n\nPeople moving.\n\nVendors shouting.\n\nA crowd reacting to something in the east ring.\n\nNone of it felt quieter.\n\nArcrutus simply made it less relevant.\n\n\"You have been watching me,\" he said.\n\nNot accusation.\n\nInventory.\n\n\"Yes.\"\n\nOne eyebrow moved.\n\nMaybe he expected denial.\n\nMaybe not.\n\n\"Why?\"\n\n\"You react to different things than everyone else.\"\n\n\"Everyone reacts to different things.\"\n\n\"Not like you.\"\n\n\"How do I react?\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 25,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "There are moments when honesty becomes easier because lying would require too much architecture.\n\n\"Mostly you eat chestnuts.\"\n\nA woman behind him made a sound that might have been a cough.\n\nArcrutus looked at me for another second.\n\nThen down at his empty hand.\n\n\"Currently no chestnuts.\"\n\n\"I've noticed.\"\n\n\"Good.\"\n\nI could not tell whether he was making fun of me.\n\nThat became a recurring problem.\n\n\"You stop,\" I said.\n\n\"Doing what?\"\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

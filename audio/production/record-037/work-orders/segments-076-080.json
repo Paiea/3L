@@ -1,0 +1,42 @@
+{
+  "record": "037",
+  "source_sha256": "87721e79c7560190a7e02fb6cd16f5c85a6a2118e26486a434362ed6e81ae6f5",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 76,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You disliked the answer.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 77,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"It was incomplete.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 78,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"So you assaulted him with a chestnut.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 79,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Assault is doing a lot of work there.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 80,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"What would your law call it?\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

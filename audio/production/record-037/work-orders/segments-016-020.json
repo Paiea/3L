@@ -1,0 +1,42 @@
+{
+  "record": "037",
+  "source_sha256": "87721e79c7560190a7e02fb6cd16f5c85a6a2118e26486a434362ed6e81ae6f5",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 16,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Not immediately.\n\nI made it almost four minutes.\n\nSame section.\n\nSame shade.\n\nNo paper cone yet.\n\nHe was speaking to a woman in dark clan colors with silver at one shoulder.\n\nShe stood.\n\nHe sat.\n\nThat seemed unfair until I watched her for thirty seconds and decided she was probably more dangerous than everyone in my Guild tent combined.\n\nThen I stopped feeling bad for her.\n\nThe first open quarterfinal began.\n\nTwo A-class fighters.\n\nOne used a long saber.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 17,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The other fought empty-handed because apparently hands are insufficiently dangerous until reinforced by somebody who has spent twenty years learning how to break stone with them.\n\nThe saber fighter controlled distance early.\n\nThree clean entries.\n\nNo hits.\n\nThe empty-hand fighter kept turning off line.\n\nFourth entry, he accepted the blade against a forearm barrier and stepped inside.\n\nThe impact cracked the stone beneath both of them.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 18,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The crowd made the noise crowds make when something nearly becomes a medical emergency.\n\nI looked at Arcrutus.\n\nNothing.\n\nExpected.\n\nThe empty-hand fighter stayed inside.\n\nShort elbow.\n\nShoulder.\n\nHip.\n\nThe saber fighter gave ground and changed grip.\n\nHis support outside the ring shifted two steps left.\n\nNot closer.\n\nLeft.\n\nI watched that instead.\n\nThe support raised one hand.\n\nBarrier shimmered around the saber fighter's rear calf.\n\nBrief.\n\nGone.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 19,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The saber fighter attacked again.\n\nArcrutus leaned forward.\n\nI looked at the calf.\n\nThe fighter's rear foot landed cleaner than before.\n\nNot stronger.\n\nCleaner.\n\nThe next retreat was faster.\n\nHe recovered distance.\n\nThe crowd reacted to the saber cut that followed.\n\nI looked up.\n\nArcrutus was not watching the cut.\n\nHe was looking at me.\n\nAgain.\n\nThis time I did not freeze.\n\nMostly.\n\nI looked back at the support.\n\nThen at Arcrutus.\n\nHis head moved once.\n\nSmall.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 20,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Could have been nothing.\n\nI decided it was not.\n\nThe saber fighter won four exchanges later.\n\nI had no idea whether my conclusion was right.\n\nThat bothered me more than the result.\n\nThe morning continued.\n\nWork interrupted education.\n\nA cracked rib.\n\nTwo channel burns.\n\nOne concussion.\n\nA woman from a minor clan tried to leave before we finished checking her pupils.\n\nI stood in the tent opening.\n\nShe told me to move.\n\nI told her no.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

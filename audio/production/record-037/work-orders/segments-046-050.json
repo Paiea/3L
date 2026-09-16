@@ -1,0 +1,42 @@
+{
+  "record": "037",
+  "source_sha256": "87721e79c7560190a7e02fb6cd16f5c85a6a2118e26486a434362ed6e81ae6f5",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 46,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Yes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 47,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Then stop helping.\"\n\nThe dragon's mouth moved.\n\nI ignored it.\n\nAfter that conversation the tournament changed.\n\nNot because Arcrutus taught me anything formally.\n\nHe did not.\n\nHe watched.\n\nI watched him watching.\n\nSometimes I thought I understood something and looked toward the upper gallery.\n\nSometimes he was already looking at me.\n\nThat became annoying.\n\nThen competitive.\n\nA support reinforced the wrong side of a shoulder before a heavy strike.\n\nI saw it.\n\nLooked up.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 48,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Arcrutus was watching the ring.\n\nI waited.\n\nThe fighter over-rotated on impact.\n\nShoulder held.\n\nHip did not.\n\nArcrutus looked at me.\n\nI pointed at the hip.\n\nHe moved his hand side to side once.\n\nNo.\n\nI looked again.\n\nThe fighter's next breath hitched.\n\nRibs.\n\nI pointed lower.\n\nArcrutus tapped one finger against his chest.\n\nCloser.\n\nThe match continued.\n\nI missed the actual answer.\n\nThat happened often.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 49,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Another time a B-class shield fighter took three enormous hits without giving a step.\n\nEveryone praised the reinforcement.\n\nI watched the support instead.\n\nNothing.\n\nNo gestures.\n\nNo visible channel work.\n\nThen I noticed the support had stopped blinking.\n\nNot metaphorically.\n\nHis eyes watered.\n\nJaw locked.\n\nHands loose at his sides.\n\nToo loose.\n\nHe was carrying something.\n\nI looked up.\n\nArcrutus was looking at me.\n\nI pointed at the support.\n\nArcrutus nodded once.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 50,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "That felt better than getting paid.\n\nWhich was dangerous.\n\nI was still twenty-three enough to confuse recognition with value.\n\nBy late afternoon I had developed a second system.\n\nWorse than the first.\n\nI started trying to catch Arcrutus not noticing me.\n\nThis is difficult to explain without making myself sound stupid.\n\nSo I will not try very hard.\n\nIf I looked up and he looked back, that proved nothing.\n\nIf I looked up and he did not, maybe he had not noticed.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
