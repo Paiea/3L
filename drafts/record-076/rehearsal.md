@@ -68,25 +68,33 @@ The forequarters alone would have filled most of my bedroom at home.
 
 Dark hide showed between the restraints. Not fur. Not clean skin either. It had the dull mineral texture of stone that had been polished by water for a thousand years.
 
-The face was broad.
+The chest and shoulders had the heavy forward build of a great hunting cat, but stretched into proportions no cat owned.
 
-Feline if you needed a family resemblance.
+Huge paws rested against the black floor beneath the restraints.
+
+The face was broad and feline in the loosest possible sense.
+
+Heavy jaw.
+
+High cheek structure.
+
+Dark mane-filaments framing it instead of ordinary fur.
 
 Not a lion.
 
 Not anything I had seen alive.
 
-The old word arrived from somewhere useless in my education.
+Old bestiaries had drawn creatures with roughly that shape.
 
-Manticore.
+Four great limbs. A predator's chest. Too many teeth. A long dangerous tail.
 
-The drawings had been insulting.
-
-They always gave them human faces.
+The artists always ruined the face by making it human.
 
 This face was not human.
 
-It was intelligent enough that the comparison felt worse than wrong.
+Thank every god for that.
+
+It was fully nonhuman and unmistakably intelligent, which somehow made the old drawings feel ruder.
 
 Her eyes stayed on me.
 
