@@ -20,7 +20,8 @@ jobs:
       - name: Restore approved prose onto current main release branch
         run: |
           git fetch origin story/061-065-distributed-support:refs/remotes/origin/story/061-065-distributed-support
-          for n in $(seq -w 61 70); do
+          for i in $(seq 61 70); do
+            n=$(printf "%03d" "$i")
             git show "origin/story/061-065-distributed-support:manuscript/records/${n}/current.md" > "manuscript/records/${n}/current.md"
           done
           git show "origin/story/061-065-distributed-support:brain/CURRENT.md" > brain/CURRENT.md
