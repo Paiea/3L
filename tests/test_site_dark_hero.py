@@ -10,8 +10,8 @@ class DarkHeroPresentationTests(unittest.TestCase):
         cls.html = Path("index.html").read_text(encoding="utf-8")
 
     def test_uses_new_ithar_hero_art(self):
-        self.assertIn('src="visual/1212.png"', self.html)
-        self.assertIn('content="https://paiea.github.io/3L/visual/1212.png"', self.html)
+        self.assertIn('src="visual/ithar1.png"', self.html)
+        self.assertIn('content="https://paiea.github.io/3L/visual/ithar1.png"', self.html)
 
     def test_hero_is_single_full_bleed_scene_with_overlay(self):
         self.assertIn('.story-hero{position:relative;', self.html)
