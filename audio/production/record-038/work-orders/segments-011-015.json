@@ -1,0 +1,42 @@
+{
+  "record": "038",
+  "source_sha256": "9ab3c49b1590e755276de3c226fc7f911e94172e1cdd8bac83b47a9daba01839",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"He didn't say much.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 12,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That may have helped.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at him.\n\nThe dragon's head still rested against the stone.\n\nOne eye open.\n\nWatching.\n\n\"Are you making a point?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 14,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Not yet.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Good.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

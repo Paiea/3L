@@ -1,0 +1,42 @@
+{
+  "record": "038",
+  "source_sha256": "9ab3c49b1590e755276de3c226fc7f911e94172e1cdd8bac83b47a9daba01839",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 51,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Did you keep separating observation from interpretation?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 52,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes.\"\n\nThe answer came too fast.\n\nI heard it.\n\nSo did he.\n\nIthar waited.\n\nI sighed.\n\n\"Sometimes.\"\n\nStill waiting.\n\n\"When I remembered.\"\n\nThe dragon's pupil narrowed.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 53,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"And when you did not?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 54,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked toward the cave mouth.\n\nLight across stone.\n\nMy boot near the dead fire.\n\nThe goat bones farther back.\n\nThe pack I had brought too little food in.\n\nThe mountain I had climbed assuming arrival mattered more than departure.\n\n\"I concluded aggressively.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 55,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Frequently?\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "038",
+  "source_sha256": "9ab3c49b1590e755276de3c226fc7f911e94172e1cdd8bac83b47a9daba01839",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 16,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Continue.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 17,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThe final was that afternoon.\n\nNot the final final.\n\nTournaments have too many finals.\n\nOpen division final.\n\nThe one everybody had been waiting for.\n\nTwo A-class fighters.\n\nNeither from Vey.\n\nOne belonged to a river clan east of the capital.\n\nThe other had no clan banner at all and enough sponsorship marks on his coat to prove independence can become expensive.\n\nI do not remember their names reliably.\n\nI remember the support teams.\n\nThat tells you something about me.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 18,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Or about memory.\n\nProbably both.\n\nThe river fighter used a long spear.\n\nNot like Arcrutus.\n\nI did not know that yet.\n\nAt twenty-three, spear was spear until somebody embarrassed you with the difference.\n\nThe independent fighter used a short curved sword and a body reinforcement style built around explosive entries.\n\nFast.\n\nVery fast.\n\nThe first exchange nearly ended the match.\n\nSword crossed half the ring before the spear finished lowering.\n\nCrowd rose.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 19,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The spear fighter turned his hips, gave six inches of space, and let the blade pass his ribs by less than a hand.\n\nHis return thrust stopped one inch from the other man's throat because the boundary judge called break.\n\nNobody breathed correctly for several seconds.\n\nI looked at Arcrutus.\n\nHe was watching the spear fighter's feet.\n\nOf course.\n\nThe match restarted.\n\nThis time I tried not to ask what anything meant.\n\nHarder than it sounds.\n\nHumans make stories automatically.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 20,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Fast fighter aggressive.\n\nSpear fighter patient.\n\nSupport nervous.\n\nCrowd biased.\n\nAll of that arrives before observation finishes.\n\nI made myself count instead.\n\nSword fighter entered high twice.\n\nLow once.\n\nChanged lead foot after every reset.\n\nSpear fighter retreated straight only on first exchange.\n\nAfter that, always angled left.\n\nHis support stood twelve feet back.\n\nSword fighter's support stood closer.\n\nEight feet maybe.\n\nNo.\n\nCloser than the other support.\n\nBetter.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

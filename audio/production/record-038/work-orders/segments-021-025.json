@@ -1,0 +1,42 @@
+{
+  "record": "038",
+  "source_sha256": "9ab3c49b1590e755276de3c226fc7f911e94172e1cdd8bac83b47a9daba01839",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Arcrutus was ruining my nouns.\n\nBy the fourth minute both fighters looked fine.\n\nThat was suspicious now.\n\nBefore Arcrutus, fine meant fine.\n\nNow fine meant I had failed to notice something.\n\nThe sword fighter's support raised two fingers after a heavy entry.\n\nNo visible spell.\n\nThe fighter rolled one shoulder.\n\nContinued.\n\nNext exchange, his left heel landed a little farther out.\n\nI noticed.\n\nDid not interpret.\n\nGood student.\n\nArcrutus was not looking at me.\n\nThat helped.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 22,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Two exchanges later the sword fighter came in again.\n\nSame speed.\n\nSame violence.\n\nThe spear fighter gave ground.\n\nSword recovered.\n\nLooked normal.\n\nSupport moved one step closer.\n\nI saw that clearly.\n\nOne.\n\nNot maybe two.\n\nOne.\n\nThe crowd started chanting somebody's name.\n\nI ignored them.\n\nAnother entry.\n\nSword fighter exhaled before impact instead of after.\n\nAnother.\n\nLeft hand opened once during reset.\n\nAnother.\n\nSupport's jaw tightened.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 23,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I had seen that before in the shield match.\n\nNot meaning.\n\nObservation.\n\nJaw tightened.\n\nHands too loose.\n\nBreathing shallow.\n\nThe support was working.\n\nHarder than he wanted anyone to know.\n\nI looked at Arcrutus.\n\nHe was already looking at me.\n\nHe lifted one finger.\n\nNot enough to mean anything to anyone else.\n\nTo me it meant keep going.\n\nProbably.\n\nMaybe.\n\nFuck him.\n\nI kept going.\n\nSword fighter still looked good.\n\nThat became the problem.\n\nHe had not slowed visibly.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 24,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "His guard remained sharp.\n\nEntries still violent.\n\nHe was still winning more exchanges than he lost.\n\nBut his support had moved closer again.\n\nThe support's hands were no longer loose.\n\nOne thumb pressed into the opposite palm between exchanges.\n\nChannel strain maybe.\n\nNo.\n\nThumb in palm.\n\nThat was what I saw.\n\nSpear fighter's support had barely moved all match.\n\nNot because useless.\n\nI had finally learned that lesson.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 25,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The spear fighter took a heavy cut across the outer shoulder barrier.\n\nBarrier flared.\n\nHe gave one step.\n\nHis support did nothing visible.\n\nHe returned to position.\n\nNormal.\n\nSword fighter landed cleanly from another angle.\n\nCrowd erupted.\n\nHis own support stepped closer.\n\nThat was backwards.\n\nI felt something click.\n\nNot understanding.\n\nDirection.\n\nArcrutus spoke beside me.\n\nI had not noticed him come down from the gallery.\n\nThat was becoming a theme.\n\n\"Who loses?\"\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

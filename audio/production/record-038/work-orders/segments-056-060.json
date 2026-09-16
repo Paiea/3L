@@ -1,0 +1,42 @@
+{
+  "record": "038",
+  "source_sha256": "9ab3c49b1590e755276de3c226fc7f911e94172e1cdd8bac83b47a9daba01839",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 56,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Fuck you.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 57,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Available.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 58,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI laughed once.\n\nThen stopped.\n\nBack at the tournament, the final had ended.\n\nPeople were leaving already.\n\nAmazing how quickly an event becomes cleanup.\n\nBanners came down.\n\nVendors counted money.\n\nLosers found excuses.\n\nWinners found relatives.\n\nGuild staff found blood.\n\nAlways blood.\n\nI was folding stabilization cloth when someone blocked the light at the tent entrance.\n\nArcrutus.\n\nNo chestnuts.\n\nThat felt wrong now.\n\n\"You work tomorrow?\" he asked.\n\n\"Here?\"\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 59,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Morning shift.\"\n\n\"After.\"\n\nI waited.\n\nHe did not continue.\n\n\"After what?\"\n\n\"Work.\"\n\n\"What happens after work?\"\n\n\"You find me.\"\n\nI stared at him.\n\n\"Why?\"\n\nArcrutus looked at the cloth in my hands.\n\nThen at me.\n\n\"You ask too many questions.\"\n\n\"That is not an answer.\"\n\n\"I know.\"\n\nThen he left.\n\nI watched him cross the grounds.\n\nPeople made room before he reached them.\n\nSame as the first day.\n\nOnly now I was watching differently.\n\nNot what it meant.\n\nWhat I saw.\n\nOld man.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 60,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "No weapon.\n\nUneven knuckles.\n\nOne scar at the jaw.\n\nPeople moving early.\n\nNobody asking him to hurry.\n\nNobody asking why.\n\nArcrutus did not look back.\n\nI noticed that too.",
+      "pause_after_ms": 220
+    }
+  ]
+}

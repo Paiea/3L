@@ -1,0 +1,42 @@
+{
+  "record": "038",
+  "source_sha256": "9ab3c49b1590e755276de3c226fc7f911e94172e1cdd8bac83b47a9daba01839",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 6,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"His support was compensating.\"\n\nArcrutus said nothing.\n\nThat usually meant I was close enough to continue hurting myself.\n\n\"The support moved closer. Blue started showing readiness before he was actually ready. His breathing changed. His stance widened.\"\n\n\"Yes.\"\n\n\"So the support saw deterioration and spent more to hide it.\"\n\nArcrutus looked toward the now-empty corner where Blue's support had stood.\n\n\"Maybe.\"\n\nI stared.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"You just made me spend ten minutes being precise so you could say maybe.\"\n\n\"Precision does not create certainty.\"\n\nThat was irritating enough to remember for forty years.\n\nIthar interrupted.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 8,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You remember the sentence.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Obviously.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 10,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You remember many things Arcrutus said.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "038",
+  "source_sha256": "9ab3c49b1590e755276de3c226fc7f911e94172e1cdd8bac83b47a9daba01839",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I went back to the beginning.\n\nThat took longer than expected.\n\nNot because I had forgotten the fight.\n\nBecause Arcrutus kept rejecting my answers.\n\n\"Blue opened with distance control.\"\n\n\"Meaning.\"\n\n\"He took center.\"\n\n\"Meaning.\"\n\n\"He stood two feet closer to the west boundary than his opponent.\"\n\n\"Better.\"\n\nI looked at him.\n\n\"This is going to be annoying, isn't it?\"\n\n\"Yes.\"\n\nAt least he was honest.\n\nThe ring was nearly empty now.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Workers washed blood toward the drain grooves.\n\nOne barrier technician crouched beside the cracked west brace and argued with another about whether the damage was old.\n\nThe crowd had moved toward food and the next bracket.\n\nArcrutus stayed where he was.\n\nI did too.\n\nApparently that was how lessons began when nobody admitted they were lessons.\n\n\"Again,\" he said.\n\nI started over.\n\n\"Blue's rear foot was wider in the second minute.\"\n\n\"How much?\"\n\n\"I don't know.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Then say wider.\"\n\n\"His left hand opened twice between exchanges.\"\n\n\"Good.\"\n\n\"His support moved closer after the ninth exchange.\"\n\n\"How much closer?\"\n\n\"One step. Maybe two.\"\n\n\"One or two?\"\n\n\"One.\"\n\n\"You changed that quickly.\"\n\n\"Fine. I don't know. Closer.\"\n\n\"Good.\"\n\nThis was deeply unsatisfying.\n\nI wanted the clever answer.\n\nArcrutus wanted the boring parts.\n\n\"Blue breathed through his mouth after the long clinch.\"\n\n\"Before?\"\n\n\"Nose mostly.\"\n\n\"Mostly.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"I wasn't counting nostrils.\"\n\n\"You were counting my chestnuts.\"\n\nFair.\n\n\"His guard started coming up before his rear foot settled.\"\n\nArcrutus nodded once.\n\n\"That one you said before.\"\n\n\"Because it mattered.\"\n\n\"You are doing it again.\"\n\nI closed my mouth.\n\nHe waited.\n\nI hated that waiting.\n\nNot because it pressured me.\n\nBecause it refused to rescue me.\n\n\"His guard came up before the rear foot settled,\" I repeated.\n\n\"Good.\"\n\n\"That is all?\"\n\n\"That is what you saw.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"And then I interpret it.\"\n\n\"Eventually.\"\n\n\"When?\"\n\n\"After you stop changing the observation to fit the interpretation.\"\n\nThat landed unpleasantly.\n\nI looked back at the ring.\n\nThe wash crew had already erased most of the evidence.\n\nBlood gone.\n\nDust darkened.\n\nA worker pried splintered wood from the boundary brace.\n\n\"So what actually happened?\" I asked.\n\n\"You tell me.\"\n\n\"Blue accumulated load.\"\n\n\"Everyone accumulates load.\"\n\n\"His recovery changed.\"\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

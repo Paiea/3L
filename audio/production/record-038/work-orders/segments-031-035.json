@@ -1,0 +1,42 @@
+{
+  "record": "038",
+  "source_sha256": "9ab3c49b1590e755276de3c226fc7f911e94172e1cdd8bac83b47a9daba01839",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "His support could not.\n\nThat was the first time I understood that the visible body is not always where the cost is being paid.\n\nNot fully.\n\nEnough to remember.\n\nArcrutus was beside me.\n\n\"When did he lose?\" he asked.\n\nI looked at the ring.\n\nSword on one knee.\n\nSpear fighter stepping back.\n\nHealers entering.\n\nPeople cheering the final strike.\n\n\"Before that.\"\n\n\"When?\"\n\n\"I don't know.\"\n\nArcrutus nodded.\n\nThat surprised me.\n\n\"Good.\"\n\n\"Good?\"\n\n\"You do not know.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Usually people prefer answers.\"\n\n\"People prefer closure.\"\n\n\"Different?\"\n\n\"Often.\"\n\nI looked toward the support still sitting outside the ring.\n\nA healer had crouched beside him now.\n\n\"He did his job.\"\n\n\"Yes.\"\n\n\"And they still lost.\"\n\n\"Yes.\"\n\n\"So what was the point?\"\n\nArcrutus looked at me.\n\nFull attention again.\n\n\"You tell me.\"\n\nI wanted to say winning.\n\nObviously.\n\nTournament.\n\nBracket.\n\nPrize money.\n\nThat answer felt too small now.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 33,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"He kept his fighter dangerous longer.\"\n\n\"Yes.\"\n\n\"Maybe long enough to win if one exchange changed.\"\n\n\"Yes.\"\n\n\"He made failure arrive later.\"\n\nArcrutus's gaze stayed on me.\n\n\"Sometimes that is the job.\"\n\nThere it was.\n\nNot profound when written down.\n\nAt twenty-three it rearranged furniture.\n\nSupport did not need to make someone stronger in the way I had imagined strength.\n\nIt could make the point of failure farther away.\n\nMove it.\n\nDelay it.\n\nDistribute it.\n\nHide it.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Dangerous word, hide.\n\nManage it.\n\nI was still missing most of the architecture.\n\nBut the shape had appeared.\n\nIthar interrupted.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 35,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You learned this from Arcrutus.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

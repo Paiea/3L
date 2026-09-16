@@ -1,0 +1,86 @@
+{
+  "record": "038",
+  "routing_mode": "exact_quote_locked",
+  "voices": {
+    "greg": "deep",
+    "ithar": "normal"
+  },
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "dragon_quotes": [
+    {
+      "text": "\"You remember the sentence.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You remember many things Arcrutus said.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"That may have helped.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Not yet.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Continue.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You learned this from Arcrutus.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Did he teach you?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"That is teaching.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"He is dead.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You do not know?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You remember him fondly.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You threw food at him.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have unusual standards.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Did you keep separating observation from interpretation?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"And when you did not?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Frequently?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Available.\"",
+      "occurrence": 1
+    }
+  ]
+}

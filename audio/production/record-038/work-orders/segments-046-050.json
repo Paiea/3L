@@ -1,0 +1,42 @@
+{
+  "record": "038",
+  "source_sha256": "9ab3c49b1590e755276de3c226fc7f911e94172e1cdd8bac83b47a9daba01839",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 46,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI rubbed my thumb against one knuckle.\n\n\"That sounds excessive.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 47,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You threw food at him.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 48,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"That is not evidence of affection.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 49,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have unusual standards.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 50,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"You noticed.\"\n\nSilence.\n\nThen Ithar asked:\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "038",
+  "source_sha256": "9ab3c49b1590e755276de3c226fc7f911e94172e1cdd8bac83b47a9daba01839",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 36,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Some of it.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 37,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Did he teach you?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 38,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"He asked questions.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 39,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"That is teaching.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 40,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Do not encourage him retroactively.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}
