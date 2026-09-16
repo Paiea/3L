@@ -1,359 +1,479 @@
 ## RECORD 071
 
-## THE RECRUITER
+## THE LOAD
 
-The strongest applicant we interviewed did not get the job.
+The stairs went down for three hundred and twelve steps.
 
-He could lift more than me by then.
+I counted because nobody had yet given me anything useful to do.
 
-That was not difficult.
+Also because I was carrying Arcrutus's water.
 
-My shoulder had opinions.
+Not all of it.
 
-He was B-class.
+Enough to remain irritated.
 
-Young.
+The passage below the fitted wall narrowed twice, widened once, then opened into a shaft so large our lamps stopped finding the opposite side.
 
-Fast.
+Mael stopped us before the edge.
 
-Excellent reinforcement control.
+Nobody argued.
 
-Had worked two hazard crews and one construction team.
+That was one difference between serious expeditions and young parties.
 
-On paper, absurdly qualified for Esset & Vale.
+People with enough power to ignore instructions had usually survived long enough to understand why they existed.
 
-Lorn liked him immediately.
+Usually.
 
-Then we gave him the stop scenario.
+Arcrutus leaned past Mael anyway.
 
-Simple.
+Mael put one hand against his chest.
 
-Mock work order.
+Arcrutus stopped.
 
-Client wants service restored before evening.
+See.
 
-Pressure line shows a vibration outside ordinary range.
+Growth.
 
-No visible leak.
+Pava unpacked three pressure rods.
 
-Supervisor unreachable for thirty minutes.
+Not the long one from the upper corridor.
 
-What do you do?
+Shorter.
 
-“Keep working while someone contacts supervisor.”
+Matched.
 
-Rin looked at me.
+Each had a dull copper sleeve near the grip and six black rings along the shaft.
 
-I asked, “Why?”
+She handed one to the survey lead.
 
-“Because no confirmed hazard.”
+The survey lead checked it against a case gauge.
 
-“Vibration?”
+Then checked the case gauge against another gauge.
 
-“Could be normal.”
+Then wrote both results down.
 
-“Could be.”
+I liked her immediately.
 
-“Shutting down costs client money.”
+The shaft did not descend cleanly.
 
-“Yes.”
+Stone ribs crossed it at intervals, each one broad enough to build a house on.
 
-“I'm B-class. I can handle a rupture if it happens.”
+Between them hung old structures I could not classify.
 
-There it was.
+Some looked like bridges.
 
-First-life me would have hired him.
+Some like braces.
 
-Maybe not literally.
+Some like enormous brackets fastened to nothing visible.
 
-But I understood the logic too well.
+Salt had grown over everything in translucent shelves.
 
-Personal survival margin turned into operational permission.
+The air tasted metallic.
 
-Dangerous.
+Not blood.
 
-“What about Rin?” I asked.
+Old coins.
 
-He looked at her.
+Pava set the first rod against the floor.
 
-“She'd clear the area.”
+"Low pulse."
 
-“You would continue?”
+Mael nodded.
 
-“Yes.”
+Everyone else became boring.
 
-No hesitation.
+That was deliberate.
 
-Honest.
+No reinforcement changes.
+
+No aura flares.
+
+No unnecessary movement.
+
+Pava pressed.
+
+The rod made no sound I could hear.
+
+The floor did.
+
+A soft tick traveled outward.
+
+Then another.
+
+Then something far below answered with a pressure change that made my teeth ache.
+
+The survey lead watched three instruments.
+
+Mael watched the wall.
+
+Arcrutus watched everything badly enough to look like he was watching nothing.
+
+I watched Pava.
+
+Her hand stayed loose.
 
 Good.
 
-Still no.
+The nearest stone rib flexed.
 
-The applicant after him was C-class barely.
+Not much.
 
-Older.
+A hair.
 
-Woman named Hali Dorn.
+Then the black rings on Pava's rod brightened one after another.
 
-Municipal station background.
+The survey lead said, "Again. Same magnitude."
 
-Nothing impressive on paper except twelve years without a serious incident and one formal reprimand.
+Pava waited twelve breaths.
 
-I asked about the reprimand.
+Not because she needed twelve.
 
-“Stopped a district pump during festival load.”
+Because the procedure said twelve.
 
-“Why?”
+Second pulse.
 
-“Bearing temperature.”
+Same distant answer.
 
-“Was it failing?”
+This time I watched the rib.
 
-“No.”
+The floor pressure changed.
 
-“Then why reprimand?”
+The deep answer came.
 
-“Temperature gauge was wrong.”
+Then the rib flexed.
 
-I waited.
+I frowned.
 
-“Would you stop again?”
+Pava noticed.
 
-“Yes.”
+"What?"
 
-“Even knowing the gauge might be wrong?”
+I pointed.
 
-“Yes.”
+"Again?"
 
-“Why?”
+Mael looked at me.
 
-“Because I did not know it was wrong then.”
+Not annoyed.
 
-There it was.
+Worse.
 
-Hired.
+Assessing whether I had earned the request.
 
-Lorn objected afterward.
+"Reason?"
 
-“B-class kid had more field ability.”
+"I think the brace is late."
 
-“Yes.”
+The survey lead said, "Late compared with what?"
 
-“Hali costs almost same.”
+Good question.
 
-“Yes.”
+"The deep change."
 
-“So?”
+She looked at her instruments.
 
-I looked at him.
+"We do not have synchronized resolution at that scale."
 
-He already knew.
+"I know."
 
-He wanted me to say it.
+"Then you cannot know which moved first."
 
-“Stop judgment.”
+Also true.
 
-“Yeah.”
+I hated expeditions.
 
-We had reached the point where our hiring decisions affected more than one shop.
+I pointed to the salt shelf where the rib met the wall.
 
-Regional contractors asked who we trusted.
+"That crack closes after the pressure comes up."
 
-District offices asked for worker lists.
+Everyone looked.
 
-Training programs sent candidates.
+There was a narrow white line at the joint.
 
-I started paying attention to traits I had once treated as personality.
+Barely visible.
 
-Says I don't know before guessing.
+"Could be visual lag," the survey lead said.
 
-Asks where isolation boundary actually is.
+"Could be."
 
-Reads old work orders.
+Mael said, "Test it."
 
-Checks who else is affected before shutdown.
+She did.
 
-Will stop someone stronger.
+Not my way.
 
-Will accept correction from someone lower rank.
+Better.
 
-Shows up.
+She placed two mechanical needles across the joint and ran their leads back to a recording slate.
 
-Writes enough down.
+Pava changed rods.
 
-Not too much.
+The first one went back into its padded slot.
 
-That last one came from everyone around me.
+Nobody reused a pressure instrument after two deep pulses without checking it.
 
-Apparently my influence had limits.
+That seemed excessive until I saw the replacement cost written on the case.
 
-We changed interviews.
+Then it seemed religious.
 
-Less boasting.
+Pava seated the second rod.
 
-More scenarios.
+"Low pulse."
 
-What if client refuses shutdown?
+Mael nodded.
 
-What if your supervisor is wrong?
+The floor ticked.
 
-What if you are wrong?
+My teeth hurt.
 
-What information changes your mind?
+The needles jumped.
 
-What do you do if nobody can prove the mechanism before a decision deadline?
+The survey lead stared at the slate.
 
-Applicants hated these.
+Then ran the trace again.
 
-Good.
+"Huh."
 
-No perfect answers.
+Mael said, "Useful word."
 
-We wanted reasoning visible.
+She ignored him.
 
-Rank still mattered.
+"Deep response begins before compression at the rib joint."
 
-Do not become stupid in the other direction.
+Pava said, "By how much?"
 
-Some jobs required physical capability.
+"Too little to trust on one sample."
 
-Some rescue margins needed reinforcement.
+Good answer.
 
-Some sites legally required a Ranker.
+We took six.
 
-But raw class stopped being our shortcut for trust.
+That cost us nearly an hour because Pava would not pulse faster than the instruments could cool and Mael would not let her exceed the original low-load plan.
 
-One A-class applicant joined later on contract work and became excellent because he was willing to be ordinary when ordinary was the job.
+On the fourth pulse, Arcrutus said, "It's late."
 
-Another D-class mechanic became one of the best diagnosticians in the network because she could hear pump cavitation from a room away and never pretended that made her an engineer.
+The survey lead said, "Yes."
 
-Complementary competence.
+Arcrutus smiled at me.
 
-Good teams are inconvenient for hierarchy.
+I disliked the smile.
 
-The strongest lesson came when Hali stopped me.
+It usually meant he believed something had become my problem.
 
-Six months after hiring.
+The sixth trace matched the others.
 
-Bellwater private job.
+Pressure changed below.
 
-We had a regulator assembly partly open.
+Then the visible rib accepted load.
 
-I wanted to test a bypass under low pressure.
+Not the other way around.
 
-Hali said, “No.”
+The survey lead crouched over the slate.
 
-I looked at her.
+"These may be secondary restraints."
 
-Not disrespectful.
+"Meaning?" I asked.
 
-Not tentative.
+She glanced at me.
 
-“No why?”
+"Meaning they are not supporting the shaft under normal state. They catch displacement after the primary system has already responded."
 
-“Return isolation not verified.”
+I looked across the darkness.
 
-“I checked it.”
+There were hundreds of ribs.
 
-“When?”
+Maybe more.
 
-“Morning.”
+"That is a lot of backup."
 
-“Client opened wash branch at noon.”
+"If that is what they are."
 
-That could backfeed the return.
+Mael said, "Do not name function from shape."
 
-I had forgotten.
+I wrote that down.
 
-Small thing.
+Arcrutus saw me.
 
-Potentially hot thing.
+"You already knew that."
 
-“Good stop,” I said.
+"I know lots of things I still need to remember."
 
-We rechecked.
+"Wasteful."
 
-Return carried four percent pressure.
+"You put a person in luggage."
 
-Enough to hurt someone with the assembly open.
+He considered.
 
-We isolated again.
+"Fair."
 
-No incident.
+We rigged the descent.
 
-Afterward Hali said, “Was that a test?”
+Not ropes alone.
 
-“What?”
+Mael anchored the first line himself.
 
-“You hire people for stopping supervisors.”
+He placed one hand against the stone, closed his eyes for three seconds, and drove an iron spike into the wall with a short motion.
 
-“No.”
+No hammer.
 
-“Good.”
+The spike went in to the head.
 
-“Why?”
+The wall did not crack.
 
-“I would quit.”
+The survey lead checked around it anyway.
+
+Pava placed the second anchor using a different method, pressure spread through a wide plate until the stone accepted it without a visible fracture.
+
+Arcrutus placed the third.
+
+It was ugly.
+
+It also held.
+
+Three S-class people.
+
+Three different answers to the same question.
+
+That mattered.
+
+Rank was not a spell school.
+
+It was a statement about what kind of problem you could survive being responsible for.
+
+We descended in pairs.
+
+I went with the healer because Mael had apparently decided my role in the expedition was to remain alive until potentially useful.
 
 Reasonable.
 
-We added another hiring rule informally.
+Halfway down we passed the first rib.
 
-Do not manufacture danger to test courage.
+Up close it was worse.
 
-You would think this obvious.
+The thing was thirty feet thick.
 
-Humans enjoy proving culture through rituals.
+Its contact surface against the shaft wall showed polished arcs where stone had moved against stone over a very long time.
 
-Bad idea.
+Not much movement.
 
-Hali became field lead two years later.
+Enough.
 
-The B-class applicant went elsewhere.
+The rib had been catching something for centuries.
 
-I heard he advanced quickly.
+Maybe longer.
 
-Maybe became excellent too.
+At the second rib we stopped to rest the winch and rotate water.
 
-Rejecting someone is not prophecy.
+Ordinary expedition problem.
 
-Important.
+Pava drank.
 
-We had simply decided his judgment at that moment did not fit the work we needed.
+Mael ate half a strip of dried meat without looking at it.
 
-I wrote that down because employers enjoy rewriting hiring decisions into moral verdicts.
+Arcrutus asked for his water.
 
-He was not bad.
+I handed it to him.
 
-We were not superior.
+He drank.
 
-Fit matters.
+"You packed too much salt," I said.
 
-So does development.
+"We are under salt."
 
-By then I had enough reputation that young Rankers occasionally arrived expecting Esset & Vale to be a path toward high-class work.
+"That is not how food works."
 
-Some left disappointed.
+He gave me the bottle back.
 
-We repaired schools.
+No apology.
 
-Pump houses.
+At the third rib we found a break.
 
-Old stations.
+Not fresh.
 
-Apartment heat.
+One whole corner had sheared away sometime in the past and dropped into the darkness.
 
-Legacy galleries.
+The shaft wall behind it was intact.
 
-Sometimes hazard sites.
+No compensating crack.
 
-Mostly infrastructure.
+No collapsed span.
 
-The people who stayed tended to like making failure boring.
+Nothing that made sense if the rib had been holding the shaft up.
 
-That became our real recruitment brand.
+Mael stood on the edge of the break and looked down.
 
-Not glamorous.
+"Primary load did not transfer here," he said.
 
-Good.
+The survey lead nodded.
+
+"Or transferred elsewhere before failure."
+
+Pava touched the broken surface with two fingers.
+
+"Old. Very old."
+
+I looked at the intact wall.
+
+Then the broken rib.
+
+Then the endless dark below.
+
+The question changed.
+
+At the top I had wondered what could be strong enough to hold all this.
+
+That was the obvious question.
+
+The wrong one, maybe.
+
+Strength was visible.
+
+The ribs were strong.
+
+Mael was strong.
+
+Pava was strong.
+
+Arcrutus was offensively strong.
+
+But the broken rib had stopped being strong a long time ago and the system had continued anyway.
+
+I said, "We're looking at the part that catches mistakes."
+
+The survey lead looked at me.
+
+"Possibly."
+
+"Not the part carrying normal load."
+
+"Possibly."
+
+Mael said, "Keep the word."
+
+"Which one?"
+
+"Possibly."
+
+Right.
+
+We continued down.
+
+The next rib was intact.
+
+The next had been repaired by something I could not identify.
+
+The next had never touched the wall at all.
+
+By the time we reached the first landing, I had stopped thinking of them as supports.
+
+They were evidence.
+
+Something deeper was doing the real work.
+
+The visible stone only showed where that work sometimes failed to arrive in time.
+
+That bothered me more than a crack would have.
+
+Cracks tell you where the load went.
+
+This place kept refusing to.
