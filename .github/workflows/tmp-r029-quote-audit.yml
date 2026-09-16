@@ -1,0 +1,24 @@
+name: Temporary Record 029 Quote Audit
+on:
+  push:
+    branches: [audio/record-029-production]
+    paths: [.github/workflows/tmp-r029-quote-audit.yml]
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Print quote occurrences
+        run: |
+          python - <<'PY'
+          import importlib.util
+          from collections import defaultdict
+          from pathlib import Path
+          spec=importlib.util.spec_from_file_location('ar','scripts/audio_route.py'); m=importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+          src=Path('manuscript/records/029/current.md').read_text()
+          body=m.manuscript_body(src)
+          counts=defaultdict(int)
+          for i,(_,_,q) in enumerate(m.quoted_spans(body),1):
+              counts[q]+=1
+              print(f'{i:03d} occurrence={counts[q]} text={q!r}')
+          PY
