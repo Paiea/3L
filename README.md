@@ -10,13 +10,15 @@ AI workers read `AGENTS.md`, then `PROJECT.json`. `PROJECT.json` names the worki
 
 For any record, `manuscript/records/<slot>/current.md` wins every story conflict. Brain files, manifests, drafts, archived systems, audio, images, and old versions must yield to current prose.
 
-All Records 001–079 are preserved story authority. Records 001–010 are the current prose-quality reference. Records 011–079 are valid story material marked `needs_rehearsal`, not discarded canon.
+All Records 001–079 are preserved story authority. Records 001–010 are the current prose-quality reference. After Record 010, per-record prose state is owned by `manuscript/manifest.json` and may be a mix of `needs_rehearsal` and `restored`. Do not infer one prose status for the entire 011–story-frontier range.
 
 `manuscript/manifest.json` owns record order. Never infer previous/next from arithmetic. This lets a future rehearsal split a record without renumbering the whole book.
 
 ## Rehearsal
 
-`REHEARSAL.md` defines the restoration pass. The default working target is Record 011. Rehearsal restores missing resolution in layers rather than rewriting everything indiscriminately.
+`REHEARSAL.md` defines the restoration pass. The default working target is Record 011 because it is the first unresolved record in manifest order.
+
+`PROJECT.json.frontiers.restored_through` means the highest **contiguous seam-checked** prose frontier from the beginning. It is not the highest-numbered record currently marked `restored`; later records may already be restored while an earlier gap keeps the contiguous frontier lower.
 
 The normal unit is one record. The seam-check unit is five records.
 
