@@ -1,0 +1,64 @@
+name: Temporary Record 034 Prepare
+
+on:
+  push:
+    branches: [audio/record-034-production]
+    paths:
+      - .github/workflows/tmp-r034-prepare.yml
+
+permissions:
+  contents: write
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-034-production
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build and verify exact quote-locked route
+        run: |
+          set -euo pipefail
+          mkdir -p audio/production/record-034/work-orders
+          python scripts/audio_route.py manuscript/records/034/current.md audio/routing/record-034.json audio/production/record-034/route-plan.json
+          python - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          record='034'
+          source_path=Path(f'manuscript/records/{record}/current.md')
+          route_path=Path(f'audio/production/record-{record}/route-plan.json')
+          route=json.loads(route_path.read_text(encoding='utf-8'))
+          source=source_path.read_text(encoding='utf-8')
+          source_hash=hashlib.sha256(source.encode('utf-8')).hexdigest()
+          assert route['record']==record
+          assert route['routing_mode']=='exact_quote_locked'
+          assert route['uses_timestamps_for_speaker_assignment'] is False
+          assert route['source_sha256']==source_hash
+          assert ''.join(s['transcript'] for s in route['segments'])==route['audio_body']
+          assert all(len(s['transcript'])<=480 for s in route['segments'])
+          assert all(s['speaker']=='greg' and s['voice_id']=='deep' for s in route['segments'])
+          assert [s['index'] for s in route['segments']]==list(range(1,len(route['segments'])+1))
+          root=Path(f'audio/production/record-{record}/work-orders')
+          for p in root.glob('segments-*.json'): p.unlink()
+          segs=route['segments']
+          for start in range(0,len(segs),5):
+              batch=segs[start:start+5]
+              name=f'segments-{batch[0]["index"]:03d}-{batch[-1]["index"]:03d}.json'
+              payload={'record':record,'source_sha256':source_hash,'routing_mode':'exact_quote_locked','segments':batch}
+              (root/name).write_text(json.dumps(payload,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          print(f'Record 034 exact round-trip passed: {len(segs)} segments, source {source_hash}')
+          PY
+      - name: Run repository checks
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit prepared production work orders
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio/routing/record-034.json audio/production/record-034/route-plan.json audio/production/record-034/work-orders
+          git commit -m 'Prepare Record 034 production work orders'
+          git push origin HEAD:audio/record-034-production
