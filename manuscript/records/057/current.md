@@ -1,497 +1,827 @@
 ## RECORD 057
 
-## THE PAYMASTER
+## THE TEMPER
 
-The first person Esset & Vale hired cost money before doing anything useful.
+Aren Vale fought better angry.
 
-This was offensive.
+Not furious.
 
-Her name was Rin Mera.
+Furious would have been easier.
 
-Twenty-four.
+Furious is visible.
 
-Trade-certified fitter.
+You can write rules around furious.
 
-No Rank badge.
+Do not hand furious people spears.
 
-Two years at a municipal wash plant and one year repairing small boiler systems for a contractor that went bankrupt because the owner believed invoices were a form of optimism.
-
-Rin had good hands.
-
-Better questions.
-
-And handwriting so clean Nessa distrusted her immediately.
-
-“Nobody writes like that naturally.”
-
-“Apparently Rin does.”
-
-“Suspicious.”
-
-We hired her because a valve-testing contract expanded.
-
-Twenty relief valves had become eighty every quarter.
-
-Bench work.
-
-Records.
-
-Calibration.
-
-Boring enough that Lorn threatened to develop a spiritual emergency.
-
-We could keep doing it ourselves.
-
-That was the trap.
-
-We also had field work.
-
-Inspections.
-
-Pressure reviews.
-
-Lorn's bathhouses.
-
-My regional calls.
-
-Every hour spent testing identical valves was an hour not doing work only one of us could currently do.
-
-So we interviewed four people.
-
-Rin was the only one who asked why valve seventeen had failed in our old batch records.
-
-I hired her emotionally at that moment.
-
-Lorn made me finish the interviews.
-
-Partner.
-
-Annoying.
-
-We offered Rin three days a week guaranteed.
-
-More if field work required.
-
-Hourly rate slightly above municipal maintenance.
-
-Paid training.
-
-Guild injury coverage through our registration.
-
-One paid sick day per month carried forward to six.
-
-That last part started an argument.
-
-Lorn wanted four.
-
-I wanted eight.
-
-Nessa asked why either number.
-
-We stared.
-
-“Experience?” she asked.
-
-“No,” I said.
-
-“Data?”
-
-“No.”
-
-“Then you're negotiating weather.”
-
-Fair.
-
-We asked Mara how other shops handled it.
-
-Asked Hema.
-
-Asked Jori.
-
-Four to eight was common depending on trade.
-
-We chose six.
-
-Not profound.
-
-Informed.
-
-Rin started Monday.
-
-First day she tested four valves.
-
-Lorn could test twelve.
-
-I could test ten if I stopped writing too much.
-
-She was slow.
-
-Good.
-
-Training is supposed to be slower.
-
-I still watched the clock.
-
-Bad.
-
-Second day she tested six.
-
-Third day she found a calibration drift in our bench gauge.
-
-That meant half the first day's results had to be repeated.
-
-I experienced several emotions.
-
-None employee-friendly.
-
-Rin stood beside the gauge.
-
-“Reference weight says we're reading high by point three.”
-
-“How long?”
-
-“Don't know.”
-
-“Could be your setup.”
-
-“Could.”
-
-We checked.
-
-It was the gauge.
-
-Not her.
-
-Good.
-
-Also expensive.
-
-We repeated sixteen valves.
-
-The client did not pay extra because our instrument was wrong.
-
-Rin still got paid for both days.
-
-Of course.
-
-I knew that.
-
-My ledger hated it anyway.
-
-PAYROLL appeared as a new fixed line.
-
-Not materials.
-
-Not partner share.
-
-Not something we could delay until a client paid.
-
-Every fourth Friday.
-
-Rin's rent did not care whether Senn was late on an invoice.
-
-That changed estimates immediately.
-
-Labor hours became real before they happened.
-
-Training hours too.
-
-Travel.
-
-Setup.
-
-Cleanup.
-
-Writing reports.
-
-The time where Rin stood watching me diagnose something because watching was the job that day.
-
-Clients disliked paying for that.
-
-I understood.
-
-Then disliked their understanding.
-
-One landlord said, “Why am I paying two people if only one knows the system?”
-
-“Because the second one will know it next year.”
-
-“Not my problem.”
-
-There it was.
-
-Training is a public good until someone receives the invoice.
-
-We compromised.
-
-Clients paid ordinary assistant rate when Rin did productive work.
-
-We absorbed most pure training time.
-
-That made training our investment.
-
-Expensive word.
-
-Three months in, Rin became useful enough that we stopped noticing.
-
-She prepared test kits before jobs.
-
-Tracked calibration dates.
-
-Knew which seal sizes we were actually low on instead of which crate looked low.
-
-Caught Lorn reusing a damaged pressure hose.
-
-He argued.
-
-She tagged it DO NOT USE.
-
-He used the other hose.
-
-Promotion by sticker.
-
-Then Rin got sick.
-
-Not badly.
-
-Fever.
-
-Cough.
-
-Three days.
-
-She sent her younger brother with a note.
-
-SORRY. BACK WHEN NOT CONTAGIOUS.
-
-Good employee.
-
-I opened the payroll book.
-
-Three missed days.
-
-She had four sick days banked.
+Do not stand directly in front of them.
 
 Simple.
 
-Pay.
+Aren fought better irritated.
 
-I still stared.
+Different problem.
 
-Not because I wanted to deny it.
+I noticed during the White Stair extension.
 
-Because the shop had two jobs scheduled that week assuming her labor.
+We had stayed for four more weeks because the deeper galleries paid better and because Aren had apparently moved another contract to remain professionally curious.
 
-Lorn and I covered.
+Sella said curiosity was not hazard compensation.
 
-That meant my Hillcross consulting moved.
+Then negotiated another three silver per week.
 
-Lorn's planned day with Perrin disappeared.
+Good woman.
 
-We finished.
+The lower galleries were older than the freight road above them.
 
-Rin got paid.
+Different quarry generation.
 
-Revenue did not increase because she was ill.
+Narrower cuts.
 
-The cost existed anyway.
+Bad drainage.
 
-Responsibility again.
+Timbers replaced so many times that some supports had supports.
 
-Recurring.
+Crawler sign everywhere.
 
-On Friday Lorn said, “You look angry at the payroll.”
+Not active at first.
 
-“I'm not.”
+Tracks.
 
-“You have the face.”
+Shed shell.
 
-“Everyone needs to stop learning my face.”
+Bones too clean to belong to rats.
 
-He looked at the numbers.
+We moved slowly.
 
-“Still enough?”
+By then the group had stopped feeling new.
 
-“Yes.”
+Not old either.
 
-“Then?”
+There is a middle period in a party where you know exactly how someone steps over a ditch and still do not know whether they take sugar in tea.
 
-“Nothing.”
+Professional intimacy.
 
-“Greg.”
+Sella hated support on her shield wrist.
 
-I sighed.
+Merek lied about fatigue by becoming entertaining.
 
-“I don't like money leaving without work attached.”
+Iven went silent before deep sensing.
 
-Lorn stared at me.
+Aren changed his line around my access without asking permission from the support profession.
 
-“She's sick.”
+I was learning to let him.
 
-“I know.”
+That was already strange enough.
 
-“You wrote the policy.”
+Then I started noticing his temper.
 
-“I know.”
+First time was a drill.
 
-“You wanted eight days.”
+Merek made a joke about Arcrutus.
 
-“I know.”
+Not cruel.
 
-“So what exactly are you angry at?”
+Barely even funny.
 
-That was the question.
+"Does your father know you wait for support now?"
 
-Not Rin.
+Aren looked at him.
 
-Not sick pay.
+"Does yours know what you do with knives?"
 
-The discovery that employing someone meant purchasing their availability over time, not buying completed tasks one by one.
+"He prefers not to."
 
-Some weeks the shop benefited.
+We started the next run.
 
-Some weeks the person needed the structure instead.
+Aren's first entry changed.
 
-That was the bargain.
+Not faster exactly.
 
-“Economics,” I said.
+Cleaner.
 
-Lorn nodded.
+He normally gave himself one unnecessary fraction of a second before committing deep.
 
-“Reasonable enemy.”
+I had assumed caution.
 
-Rin returned Monday.
+Good caution.
 
-Still tired.
+A-class people still die when they remove all caution.
 
-I told her to go home at midday.
+This time the pause disappeared.
 
-She objected.
+His spear entered the marker lane exactly when Sella's shield displaced it.
 
-“I can work.”
+He released reinforcement earlier on recovery.
 
-“You are making valve nine nervous.”
+That gave me a clean two-finger window without asking.
 
-“Valves don't get nervous.”
+I drew.
 
-“This one does.”
+Barrier to Merek.
 
-She left.
+Release.
 
-Paid half day.
+Aren turned.
 
-The ledger survived.
+Second entry.
 
-So did civilization.
+Again cleaner.
 
-Then came the first month payroll was actually frightening.
+We finished twenty seconds faster than the previous run.
 
-Two clients paid late.
+"Again," I said.
 
-One regional job canceled after we bought materials.
+Sella looked at me.
 
-Mara's rent due.
+"You sound happy."
 
-Rin's wages due.
+"Concerning."
 
-Partner draws optional.
+Second run was ordinary.
 
-Employee wages were not.
+Aren had stopped being annoyed.
 
-We had enough cash.
+Slower.
 
-Barely.
+Still excellent.
 
-Lorn and I took nothing that month.
+I wrote it down.
 
-Rin got full pay.
-
-She did not know how close it was.
-
-I thought that was good.
-
-Nessa disagreed slightly.
-
-“Not numbers,” she said. “But she should know the shop had a lean month.”
-
-“Why?”
-
-“So she understands why you are saying no to equipment or overtime.”
-
-“She doesn't need owner stress.”
-
-“No. She needs operating context.”
-
-Different.
+He saw me.
 
 Of course.
 
-We told Rin the shop had delayed receipts and we were restricting nonessential spending until payments cleared.
+"What now?"
 
-She nodded.
+"Nothing."
 
-Then asked whether her hours were at risk.
+"You've written nothing about me seven times this week."
 
-Honest question.
+"You count?"
 
-“No,” Lorn said.
+"I am my father's son in several unfortunate ways."
+
+I closed the notebook.
+
+"Your first commitment was better after Merek irritated you."
+
+Merek brightened.
+
+"Useful."
+
+Aren looked at him.
+
+"Do not become ambitious."
+
+I said, "Not stronger. Better timing."
+
+"Maybe."
+
+"You release faster too."
+
+"Maybe."
+
+"Why?"
+
+Aren shrugged.
+
+"Less thinking."
+
+There it was.
+
+"You overthink?"
+
+Sella laughed so hard she had to put the shield down.
+
+Aren waited.
+
+"What?"
+
+"Nothing," she said.
+
+"Apparently everybody knows except me."
+
+Merek said, "You are very careful for a man who solves problems with a spear."
+
+"That is why I am forty-two."
+
+Fair.
+
+We moved on.
+
+I did not decide to manipulate him.
+
+That would have sounded bad.
+
+I collected evidence.
+
+Much more respectable.
+
+Two days later Aren and Sella argued about a support post.
+
+Not serious.
+
+Sella wanted him farther inside the shield line during a narrow descent.
+
+Aren wanted the outside angle.
+
+Both had reasons.
+
+Sella won because stone existed where Aren wanted his right foot.
+
+He remained annoyed for the next drill.
+
+Again.
+
+Cleaner first commitment.
+
+Less wasted reinforcement.
+
+Faster release.
+
+I wrote it down.
+
+Third example came from me accidentally.
+
+Aren asked whether a forward lane would give me enough access to Merek.
+
+I said, "Your father would take it."
+
+Silence.
+
+I regretted the sentence before his face changed.
+
+Not because Arcrutus was sacred.
+
+Because Aren had spent forty-two years having every competent thing he did measured against one of the strongest humans alive.
+
+Cheap shot.
+
+"Sorry," I said.
+
+"Don't be."
+
+That was worse.
+
+The drill started.
+
+He was excellent.
+
+I hated the data.
+
+At dinner I crossed the line out.
+
+Not the observation.
+
+The method.
+
+Merek leaned over.
+
+"What did you kill?"
+
+"Bad idea."
+
+"Can I have it?"
+
+"No."
+
+"Then definitely useful."
+
+The deeper galleries opened into an old loading hall on day nine of the extension.
+
+Forty yards long.
+
+Stone pillars.
+
+Two collapsed bays.
+
+Black water along the north wall.
+
+Iven found warm air moving through a fracture behind the west shelf.
+
+Warm meant open depth.
+
+Open depth meant animals.
+
+We found them before lunch.
+
+Twelve crawlers.
+
+Three larger than the canal-road animals.
+
+One old enough that shell growth had ridged over its eyes.
+
+Bad room for Sella.
+
+Too wide to anchor one mouth.
+
+Good room for Aren.
+
+Too good.
+
+He could move.
+
+That created our first problem.
+
+Aren saw three openings in the first ten seconds.
+
+Took two.
+
+Left one because I was crossing toward Merek.
+
+Good.
+
+Sella rotated instead of planting.
+
+New for her.
+
+Merek stayed close enough to steal anything that crossed Aren's recovery.
+
+Iven held a low warning cast over the water.
+
+I moved.
+
+Barrier.
+
+Release.
+
+Reinforcement.
+
+Release.
+
+Aren two fingers.
+
+No.
+
+Closed fist immediately.
+
+Good.
+
+Merek took a side hit on aura.
+
+I caught his ankle on recovery.
+
+Sella needed shoulder support.
+
+Aren moved inward without being told.
+
+Opened my path.
+
+The party shape compressed.
+
+Then the old crawler came through the water.
+
+Fast.
+
+Faster than its size suggested.
+
+It hit Sella low.
+
+Her shield angle failed.
+
+Not fully.
+
+Enough to turn her.
+
+Aren had the kill lane.
+
+He hesitated.
+
+The same fraction.
+
+Small.
+
+I saw it because I had been looking for it.
+
+He was deciding whether to commit before Sella had recovered.
+
+Correct question.
+
+Too slow for this animal.
+
+"Your father would already be there," I said.
+
+Aren moved.
+
+Immediately.
+
+Beautiful spear entry.
+
+Terrible sentence.
+
+The point went through the crawler's neck seam.
+
+Reinforcement followed.
+
+Shell split.
+
+The animal went down hard enough to splash black water across my trousers from fifteen feet away.
+
+Aren released.
+
+Two fingers.
+
+I drew small.
+
+Barrier under Sella's turning foot.
+
+She recovered.
+
+Merek killed the crawler trying to use the opening.
+
+Then the room became manageable again.
+
+We finished without injury.
+
+Operational success.
+
+Personal failure pending.
+
+Aren cleaned his spear after.
+
+Did not speak to me.
+
+That was fair.
+
+I waited until we were outside.
+
+"I did that on purpose."
+
+"I know."
+
+"The sentence."
+
+"I know which sentence."
+
+"You moved faster."
+
+He stopped walking.
+
+Sella and Merek kept going.
+
+Iven did not notice because rocks remained more interesting than us.
+
+Aren looked at me.
+
+"How many times?"
+
+Bad question for me.
+
+"Once on purpose."
+
+"Today."
+
+"Yes."
+
+"Before today?"
+
+"I noticed twice."
+
+"And the third?"
+
+He knew.
+
+Of course.
+
+"Accident."
+
+"Still counted it."
+
+"Yes."
+
+Aren rubbed the bridge of his nose.
+
+Family resemblance appeared most strongly when annoyed.
+
+Unfortunate timing.
+
+"So you decided making me angry was support."
+
+"I decided you commit cleaner when mildly irritated."
+
+"That is the same sentence with more cowardice."
+
+Fair.
+
+"Yes."
+
+He looked down the road toward camp.
+
+Then back at me.
+
+"Did it work?"
+
+I hated that question.
+
+"Yes."
+
+"Would I have killed it anyway?"
+
+"Probably."
+
+"Would Sella have been exposed longer?"
+
+"Probably."
+
+"Then why do you look like you poisoned me?"
+
+"Because I used something personal without asking."
+
+That made him quiet.
+
+Good quiet.
+
+Not Iven quiet.
+
+"You can't ask me to be angry," he said.
+
+"I know."
+
+"That would ruin it."
+
+"Probably."
+
+"Stop saying probably."
+
+"No."
+
+He almost smiled.
+
+Almost.
+
+Then didn't.
+
+Useful state.
+
+I noticed.
+
+Hated myself slightly.
+
+Aren said, "Do not use my father for that again."
+
+"Agreed."
+
+"Ever."
+
+"Agreed."
+
+"If you want me sharper, find another way."
+
+I blinked.
+
+"You are allowing the principle?"
+
+"I'm allowing you to know me."
+
+Different sentence.
+
+Again.
+
+He pointed the spear at my chest.
+
+Not threatening.
+
+Probably.
+
+"Do not confuse knowing with owning."
+
+There it was.
+
+I remembered it.
+
+We walked back.
+
+At camp Sella handed me a bowl.
+
+"You two married now?"
+
+"No."
+
+Aren said, "He weaponized my childhood."
+
+Sella looked at me.
+
+"Efficient."
+
+"Thank you."
+
+"Not praise."
+
+Merek said, "Can he do mine next?"
+
+"No," three people said.
+
+Good party.
+
+The conversation should have ended there.
+
+Instead it expanded.
+
+Because once people know the support is studying them, they start volunteering things.
+
+Sella said she fought worse after somebody reassured her too much before a dangerous room.
+
+"Why?"
+
+"Makes me think they saw something I didn't."
+
+Merek said jokes helped until they didn't.
+
+"Useful threshold."
+
+"When I stop being funny, I'm already tired. When I get funnier, I'm trying to hide it."
+
+"I knew the second."
+
+"Rude."
+
+Iven, unexpectedly, said, "I cast better after six quiet breaths. You know that. I cast worse if someone asks whether I'm ready during those breaths."
+
+I had done that twice.
+
+Wrote it down.
+
+Aren watched me.
+
+"You are making another system."
+
+"Yes."
+
+"People are not valves."
+
+"I know."
+
+"Do you?"
+
+"Less every year."
+
+That seemed to satisfy him.
+
+The next two weeks became strange in smaller ways.
+
+Not manipulation.
+
+Mostly.
+
+I stopped reassuring Sella before uncertain entries.
+
+Instead I gave her concrete information.
+
+"North edge unstable. Two bodies behind you. I have rear leg if needed."
+
+Better.
+
+I stopped asking Iven whether he was ready.
+
+Six breaths.
+
+Then he spoke first.
+
+Better.
+
+When Merek became too funny I rotated more support toward him before he asked.
+
+He complained that this ruined several excellent jokes.
+
+Better.
+
+Aren remained harder.
+
+I needed irritation without trespassing into something that belonged to him.
+
+Turns out ordinary annoyance was available everywhere.
+
+I corrected his pack straps.
+
+He hated that.
+
+I told him one spear grip looked inefficient.
+
+It was.
+
+He hated that more.
+
+Once I moved his tea out of reach while he was cleaning gear.
+
+That was not support.
+
+That was science.
+
+He stared at the cup.
+
+Then at me.
+
+"Really?"
+
+"Your next drill is in four minutes."
+
+"I will kill you after."
+
+"Good tempo."
+
+He did fight better.
+
+Sella saw the whole thing.
+
+"You are becoming a bad person."
+
+"Marginally."
+
+"He knows you're doing it."
+
+"Yes."
+
+"That makes it less bad."
+
+"Good."
+
+"Not good. Less bad."
+
+Professional ethics.
+
+By the end of White Stair, the party had developed things no Guild handbook named.
+
+Not spells.
+
+Expectations.
+
+Aren shortened his second step if I was crossing lanes.
+
+Sella told me when she wanted no reassurance.
+
+Merek stopped treating removal of support as abandonment.
+
+Iven controlled the silence before his own work and expected us to protect it.
+
+I stopped pretending my job ended at mana.
+
+That was the part that stayed with me.
+
+Bodies mattered.
+
+Reserve mattered.
+
+Distance mattered.
+
+So did fear.
+
+Trust.
+
+Pride.
+
+Irritation.
+
+The stupid joke somebody made before entering a dark room.
+
+Support did not create those things.
+
+Support operated inside them whether the profession admitted it or not.
+
+On the last day Aren found me packing.
+
+"Next contract?"
+
+"Nothing signed."
+
+"I have one in six weeks."
+
+"Where?"
+
+"Red Basin."
+
+I knew the name.
+
+Higher grade.
+
+Longer.
+
+A-class lead work.
+
+"You already have support."
+
+"Not anymore."
 
 I looked at him.
 
-He looked at me.
+"You fired someone?"
 
-Partner decision.
+"No. He took another contract after I told him I was asking you first."
 
-Already made.
+That stopped me.
 
-“No,” I agreed.
+"You built the roster already?"
 
-That commitment changed what we did next.
+"Mostly."
 
-We chased invoices harder.
+"Around what?"
 
-Raised deposits on material-heavy jobs.
+Aren smiled.
 
-Stopped giving thirty-day payment terms to clients with sixty-day habits.
+I disliked the answer before he gave it.
 
-Created a payroll reserve equal to one month of wages.
+"You."
 
-Then two.
+I had spent years becoming good at fitting myself into other people's work.
 
-Boring money sitting unused.
-
-Beautiful.
-
-A year after Rin started, we hired another worker part-time.
-
-Then a bookkeeper two mornings a week because Nessa threatened to stop correcting our tax filings for free.
-
-Esset & Vale became a place where people expected payment on a day.
-
-That changed the moral geometry of every estimate.
-
-Underpricing stopped being generosity if somebody else's wage depended on the margin.
-
-Overbooking stopped being ambition if it meant Rin worked unsafe hours.
-
-Training stopped being spare time.
-
-Sick days stopped being personal inconvenience.
-
-I had been responsible for lives before.
-
-Combat.
-
-Rescue.
-
-Station hazards.
-
-Payroll was quieter.
-
-That made it easier to underestimate.
-
-Nobody bled when I bid a job badly.
-
-They just needed rent anyway.
-
-Turns out consequences do not require blood to be real.
+Apparently that had become valuable enough that somebody had started leaving space for me before I arrived.
