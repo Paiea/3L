@@ -1,0 +1,14 @@
+{
+  "record": "027",
+  "source_sha256": "7c297a17bfd383558e5584c3ede01e4f39653d58276c27103715ddd9fa692519",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "We made space anyway.\n\nNot forever.\n\nLong enough.",
+      "pause_after_ms": 220
+    }
+  ]
+}
