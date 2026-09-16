@@ -1,0 +1,113 @@
+name: Build 3L Site Polish
+
+on:
+  push:
+    branches: [site/non-generic-polish]
+    paths:
+      - '.github/workflows/site-polish-assets.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: site/non-generic-polish
+      - name: Install WebP tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y webp
+      - name: Build optimized visual derivatives
+        run: |
+          cwebp -quiet -q 84 -resize 1600 0 visual/3l1.png -o visual/3l1.webp
+          cwebp -quiet -q 84 -resize 1100 0 visual/3l2.png -o visual/3l2.webp
+          file visual/3l1.png visual/3l1.webp visual/3l2.png visual/3l2.webp
+          ls -lh visual/3l1.png visual/3l1.webp visual/3l2.png visual/3l2.webp
+      - name: Apply bounded landing-page polish
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('index.html')
+          html = path.read_text(encoding='utf-8')
+
+          replacements = [
+              ('https://paiea.github.io/3L/visual/3l1.png', 'https://paiea.github.io/3L/visual/3l1.webp'),
+              ('.audio{position:sticky;top:.75rem;z-index:10;background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:1rem 1.1rem;margin:0 0 2rem;box-shadow:0 10px 28px rgba(45,41,36,.08)}',
+               '.audio{position:sticky;top:.75rem;z-index:10;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:1rem 1.1rem;margin:0 0 2rem;box-shadow:0 8px 22px rgba(45,41,36,.055)}'),
+              ('.story-hero{overflow:hidden;display:grid;grid-template-columns:minmax(0,1.18fr) minmax(18rem,.82fr);min-height:33rem;background:var(--night);color:#f7efe3;border-radius:26px;box-shadow:0 24px 70px rgba(38,29,20,.18);margin-bottom:3rem}',
+               '.story-hero{overflow:hidden;background:var(--night);color:#f7efe3;border:1px solid #31291f;border-radius:12px;box-shadow:0 18px 54px rgba(38,29,20,.16);margin-bottom:3.5rem}'),
+              ('.story-hero-art{position:relative;min-height:33rem;background:#0f0d0a}',
+               '.story-hero-art{aspect-ratio:16/7;position:relative;min-height:0;background:#0f0d0a;border-bottom:1px solid #3a3025}'),
+              ('.story-hero-art img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;display:block}',
+               '.story-hero-art img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 48%;display:block}'),
+              ('.story-hero-art:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent 52%,rgba(23,20,15,.28) 76%,var(--night) 100%),linear-gradient(0deg,rgba(12,10,8,.72) 0%,transparent 45%)}',
+               '.story-hero-art:after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(12,10,8,.76) 0%,rgba(12,10,8,.16) 40%,transparent 68%)}'),
+              ('.scene-caption{position:absolute;z-index:2;left:1.45rem;right:1.45rem;bottom:1.35rem;margin:0;color:#f8efe2;font-size:clamp(1.05rem,2.4vw,1.38rem);line-height:1.35;text-shadow:0 2px 18px #000}',
+               '.scene-caption{position:absolute;z-index:2;left:1.45rem;right:1.45rem;bottom:1.25rem;max-width:28rem;margin:0;color:#f8efe2;font-size:clamp(.96rem,1.8vw,1.18rem);line-height:1.4;text-shadow:0 2px 18px #000}'),
+              ('.story-hero-copy{display:flex;flex-direction:column;justify-content:center;padding:clamp(2rem,5vw,3.3rem)}',
+               '.story-hero-copy{display:grid;grid-template-columns:minmax(12rem,.72fr) minmax(0,1.28fr);grid-template-areas:"eyebrow hook" "title deck" "title actions";column-gap:clamp(2rem,6vw,5rem);row-gap:.78rem;align-items:end;padding:clamp(1.6rem,4vw,2.7rem)}'),
+              ('.story-hero-copy .eyebrow{color:#c9ae89}',
+               '.story-hero-copy .eyebrow{grid-area:eyebrow;align-self:start;color:#c9ae89}'),
+              ('.story-hero-copy h1{font-size:clamp(3rem,7vw,5.6rem);letter-spacing:-.045em;line-height:.84;margin:.65rem 0 1.35rem;color:#fffaf1}',
+               '.story-hero-copy h1{grid-area:title;font-size:clamp(2.9rem,6vw,4.8rem);letter-spacing:-.035em;line-height:.9;margin:.32rem 0 0;color:#fffaf1}'),
+              ('.story-hook{font-size:clamp(1.13rem,2vw,1.35rem);line-height:1.48;margin:0 0 1rem;color:#efe3d2}',
+               '.story-hook{grid-area:hook;max-width:34rem;font-size:clamp(1.08rem,2vw,1.28rem);line-height:1.48;margin:0;color:#efe3d2}'),
+              ('.story-deck{margin:0 0 1.6rem;color:#bfb3a4;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.9rem;line-height:1.6}',
+               '.story-deck{grid-area:deck;max-width:36rem;margin:0;color:#bfb3a4;font-family:ui-sans-serif,system-ui,sans-serif;font-size:.88rem;line-height:1.62}'),
+              ('.hero-actions{display:flex;flex-wrap:wrap;gap:.7rem;font-family:ui-sans-serif,system-ui,sans-serif}',
+               '.hero-actions{grid-area:actions;display:flex;flex-wrap:wrap;gap:.65rem;font-family:ui-sans-serif,system-ui,sans-serif}'),
+              ('.hero-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:2.85rem;padding:.62rem 1rem;border-radius:999px;text-decoration:none;font-size:.84rem;font-weight:750}',
+               '.hero-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:2.72rem;padding:.58rem .92rem;border-radius:6px;text-decoration:none;font-size:.8rem;font-weight:760;letter-spacing:.025em}'),
+              ('.hero-actions .primary{background:#f4eadb;color:#211b15}',
+               '.hero-actions .primary{background:#e9ddcd;color:#211b15;border:1px solid #e9ddcd}'),
+              ('.hero-actions .secondary{border:1px solid #5c5042;color:#e7d6c1}',
+               '.hero-actions .secondary{border:1px solid #67594a;color:#e7d6c1}'),
+              ('.hero-actions a:hover{transform:translateY(-1px)}',
+               '.hero-actions a:hover{border-color:#bca486}'),
+              ('.audio-library{scroll-margin-top:1.5rem;margin:1.8rem 0 2.6rem}',
+               '.audio-library{scroll-margin-top:1.5rem;margin:1.8rem 0 2.8rem;padding-top:1.2rem;border-top:1px solid var(--line)}'),
+              ('.audio-card{width:100%;display:grid;grid-template-columns:auto 1fr auto;gap:.85rem;align-items:center;text-align:left;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:.85rem .95rem;color:var(--ink);cursor:pointer;box-shadow:0 4px 14px rgba(48,39,28,.035);transition:border-color .15s,transform .15s,box-shadow .15s}',
+               '.audio-card{width:100%;display:grid;grid-template-columns:auto 1fr auto;gap:.85rem;align-items:center;text-align:left;background:rgba(255,250,241,.58);border:1px solid var(--line);border-radius:6px;padding:.85rem .95rem;color:var(--ink);cursor:pointer;box-shadow:none;transition:border-color .15s,background .15s}'),
+              ('.audio-card:hover{border-color:#ad9577;transform:translateY(-1px);box-shadow:0 9px 24px rgba(48,39,28,.07)}',
+               '.audio-card:hover{border-color:#9f896f;background:var(--panel)}'),
+              ('.nhal-card{margin:2.7rem 0 0;overflow:hidden;border-radius:20px;background:var(--night);color:#f7efe3;box-shadow:0 18px 46px rgba(38,29,20,.14)}',
+               '.nhal-card{max-width:34rem;margin:3.8rem auto 0;border-top:1px solid #8d7f6d;border-bottom:1px solid var(--line);padding:.52rem 0 0;background:transparent;color:var(--ink)}'),
+              ('.nhal-card img{display:block;width:100%;height:auto;max-height:42rem;object-fit:cover;object-position:center}',
+               '.nhal-card img{display:block;width:100%;aspect-ratio:3/2;object-fit:contain;object-position:center;background:var(--night)}'),
+              ('.nhal-card figcaption{padding:1rem 1.15rem 1.15rem;font-family:ui-sans-serif,system-ui,sans-serif}',
+               '.nhal-card figcaption{padding:.72rem 0 .78rem;font-family:ui-sans-serif,system-ui,sans-serif;color:var(--muted);font-size:.76rem;font-weight:720;letter-spacing:.095em;text-transform:uppercase}'),
+              ('.nhal-card figcaption .eyebrow{color:#c9ae89}\n.nhal-card strong{display:block;margin-top:.18rem;font-size:1rem;letter-spacing:.04em}\n', ''),
+              ('.lineage a,.lineage .lineage-current{display:block;padding:1rem;border:1px solid var(--line);border-radius:14px;color:var(--ink);text-decoration:none;background:rgba(255,250,241,.55)}',
+               '.lineage a,.lineage .lineage-current{display:block;padding:1rem;border:1px solid var(--line);border-radius:6px;color:var(--ink);text-decoration:none;background:rgba(255,250,241,.34)}'),
+              ('  .story-hero{grid-template-columns:1fr;min-height:0}\n  .story-hero-art{min-height:56vw;max-height:25rem}\n  .story-hero-art:after{background:linear-gradient(0deg,var(--night) 0%,rgba(23,20,15,.24) 40%,transparent 68%)}\n  .story-hero-copy{padding:1.75rem 1.3rem 2rem}\n  .story-hero-copy h1{font-size:clamp(3.1rem,15vw,5rem)}',
+               '  .story-hero-art{aspect-ratio:16/9}\n  .story-hero-copy{grid-template-columns:1fr;grid-template-areas:"eyebrow" "title" "hook" "deck" "actions";gap:.8rem;padding:1.75rem 1.3rem 2rem}\n  .story-hero-copy h1{font-size:clamp(3rem,13vw,4.7rem);margin:.15rem 0 .25rem}\n  .story-hook,.story-deck{max-width:none}'),
+              ('  .story-hero{border-radius:18px;margin-bottom:2.25rem}\n  .story-hero-art{min-height:70vw}',
+               '  .story-hero{border-radius:8px;margin-bottom:2.25rem}\n  .story-hero-art{aspect-ratio:4/3}'),
+              ('    <img src="https://paiea.github.io/3L/visual/3l1.webp" alt="Greg faces Ithar, a vast black dragon, in the mountain bargain that opens The Third Leg." width="1536" height="1024" fetchpriority="high" decoding="async">',
+               '    <img src="https://paiea.github.io/3L/visual/3l1.webp" alt="Greg faces Ithar, a vast black dragon, in the mountain bargain that opens The Third Leg." fetchpriority="high" decoding="async">'),
+              ('  <img src="./visual/3l2.png" alt="Nhal, a massive leonine ancient being bound within a luminous load-bearing lattice." loading="lazy" decoding="async">\n  <figcaption><span class="eyebrow">Deeper in the record</span><strong>Nhal · The Bound One</strong></figcaption>',
+               '  <img src="./visual/3l2.webp" alt="Nhal, a massive leonine ancient being bound within a luminous load-bearing lattice." loading="lazy" decoding="async">\n  <figcaption>Nhal · The Bound One</figcaption>'),
+          ]
+
+          for old, new in replacements:
+              if old not in html:
+                  raise SystemExit(f'Expected site fragment not found:\n{old}')
+              html = html.replace(old, new, 1)
+
+          path.write_text(html, encoding='utf-8')
+          PY
+      - name: Verify repository and presentation contract
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit polished landing page
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html visual/3l1.webp visual/3l2.webp
+          git commit -m "site: polish landing presentation [skip ci]"
+          git push origin HEAD:site/non-generic-polish
