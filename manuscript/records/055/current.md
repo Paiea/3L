@@ -362,7 +362,7 @@ I brought Calder and Orla.
 
 Veda was on contract south.
 
-Noll came too because he had become part of the method whether anyone liked it or not.
+Corin came too because he had become part of the method whether anyone liked it or not.
 
 The examiner read the roster.
 
@@ -416,7 +416,7 @@ Calder looked at the judges.
 
 Orla said, "Don't make it weird."
 
-Noll checked the timing board.
+Corin checked the timing board.
 
 Professional priorities.
 
@@ -430,7 +430,7 @@ Orla anchor.
 
 Calder right.
 
-Noll rear.
+Corin rear.
 
 I stayed central.
 
@@ -444,7 +444,7 @@ Calder lifted the dummy.
 
 His output became physical, not magical.
 
-Noll had surplus.
+Corin had surplus.
 
 Two fingers.
 
@@ -456,7 +456,7 @@ Barrier around Orla's exposed side as she moved backward.
 
 Release.
 
-Noll recovered.
+Corin recovered.
 
 Calder reached halfway.
 
@@ -480,7 +480,7 @@ Orla spent hard to hold the turn.
 
 No draw.
 
-Noll spent on route screening.
+Corin spent on route screening.
 
 No draw.
 
@@ -506,7 +506,7 @@ Through them.
 
 Orla left.
 
-Noll right.
+Corin right.
 
 Calder forward.
 
@@ -520,7 +520,7 @@ Barrier at Orla's outer foot.
 
 Gone.
 
-Noll gave two fingers.
+Corin gave two fingers.
 
 Draw on the move.
 
@@ -584,7 +584,7 @@ I supported.
 
 Release.
 
-Noll pressure.
+Corin pressure.
 
 Orla advanced instead of anchoring.
 
@@ -596,7 +596,7 @@ Draw.
 
 Support to Orla.
 
-Noll finishes.
+Corin finishes.
 
 Orla gives ground.
 
