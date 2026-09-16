@@ -9,11 +9,11 @@
 <meta property="og:title" content="3L · The Third Leg">
 <meta property="og:description" content="Greg climbed six days to reach a dragon. The first thing Ithar calls him is food.">
 <meta property="og:url" content="https://paiea.github.io/3L/">
-<meta property="og:image" content="https://paiea.github.io/3L/visual/ithar1.png">
+<meta property="og:image" content="https://paiea.github.io/3L/visual/3L%20site.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="3L · The Third Leg">
 <meta name="twitter:description" content="Greg climbed six days to reach a dragon. The first thing Ithar calls him is food.">
-<meta name="twitter:image" content="https://paiea.github.io/3L/visual/ithar1.png">
+<meta name="twitter:image" content="https://paiea.github.io/3L/visual/3L%20site.png">
 <link rel="canonical" href="https://paiea.github.io/3L/">
 <title>3L · The Third Leg</title>
 <style>
@@ -147,7 +147,7 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
 <section id="landing">
 <section class="story-hero" aria-labelledby="story-title">
   <div class="story-hero-art" aria-hidden="true">
-    <img src="visual/ithar1.png" alt="" fetchpriority="high" decoding="async">
+    <img src="visual/3L%20site.png" alt="" fetchpriority="high" decoding="async">
   </div>
   <div class="story-hero-copy">
     <div class="hero-title-block">
@@ -195,7 +195,7 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
   function inline(text){
     let s=escapeHtml(text);
     s=s.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>');
-    s=s.replace(/\*([^*]+?)\*/g,'<em>$1</em>');
+    s=s.replace(/\*([^*]+?)\*\//g,'<em>$1</em>');
     return s;
   }
   function renderMarkdown(text){
