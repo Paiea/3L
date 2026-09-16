@@ -110,6 +110,26 @@ Varo looked at him.
 
 I missed Corin already.
 
+Then I disliked that feeling.
+
+Corin had been selected because he made my work cleaner.
+
+Varo was objectively more capable in several ways.
+
+If replacing a B fighter with a nearly-A fighter made the party worse, that was not a compliment to my craft.
+
+It was evidence about my limits.
+
+I wrote that down before the first drill.
+
+VARO IS NOT THE PROBLEM UNTIL PROVEN OTHERWISE.
+
+Jessa read it.
+
+"Growth."
+
+"Leave."
+
 Varo had worked with conventional B supports most of his career.
 
 Good ones.
@@ -464,6 +484,36 @@ Different person.
 
 Different network.
 
+Then something happened that I had not expected.
+
+Varo's speed started buying us things Corin could not.
+
+He could cross one bad lane without me.
+
+He could finish a recovery turn before Sella needed to rotate.
+
+He carried enough aura through acceleration that a small mistake did not immediately become my problem.
+
+When his reserve was actually spare, there was more of it.
+
+Not cleaner.
+
+More.
+
+The stronger fighter had not become a better fit by becoming less strong.
+
+We were learning how to use the extra capability without letting it cluster into waste.
+
+That distinction mattered.
+
+Corin was easier for me.
+
+Varo was not worse.
+
+I was worse with Varo.
+
+I wrote that down too.
+
 By the end of the second day we were not as good as the original Red Basin five.
 
 Not close.
@@ -690,6 +740,12 @@ It was terrible.
 
 Too many options.
 
+That sentence embarrassed me more once I understood it.
+
+Too many options should have been wealth.
+
+Instead they became noise.
+
 I tried to track everyone.
 
 Failed.
@@ -699,6 +755,8 @@ Draw from Corin when Varo had a better window.
 Barrier to Sella when Aren had already covered the lane.
 
 Jessa delayed because she expected a rotation nobody else remembered.
+
+Varo created an opening I did not even use because I was still watching Corin's reserve.
 
 We stopped after four minutes.
 
@@ -735,6 +793,22 @@ Another Veda lesson wearing different clothes.
 People were not files.
 
 They were current state.
+
+And capability I could not resolve quickly enough was still capability I failed to use.
+
+The problem with six people was not six people.
+
+The problem was my resolution.
+
+My concurrency.
+
+My latency.
+
+More good options had exceeded my ability to distinguish among them fast enough.
+
+That was not a reason to want fewer good options forever.
+
+It was a training problem wearing a roster.
 
 We reset.
 
@@ -848,6 +922,14 @@ VANE'S ATTACHED METHOD DEGRADED WITH PERSONNEL CHANGE BUT RETURNED TO ACCEPTABLE
 
 Then:
 
+REPLACEMENT FIGHTER POSSESSED HIGHER INDIVIDUAL COMBAT CAPABILITY THAN OUTGOING MEMBER. INITIAL PARTY PERFORMANCE STILL DECLINED DUE TO OVERLAPPING DEMAND AND METHOD FAMILIARITY.
+
+I disliked that sentence.
+
+Good.
+
+Then:
+
 ADAPTATION WAS NOT SUPPORT-ONLY. EXISTING PARTY MEMBERS MODIFIED THEIR OWN TIMING AND POSITION TO INTEGRATE REPLACEMENT.
 
 And then the sentence I cared about most:
@@ -867,6 +949,14 @@ The thing was starting to exist between us.
 That scared me a little.
 
 Good sign.
+
+I copied one line of my own beneath Hollen's report before putting it away.
+
+STRONGER SHOULD EVENTUALLY GIVE MORE MARGIN, NOT LESS.
+
+Then, because I was still capable of honesty:
+
+CURRENTLY NOT TRUE FOR ME.
 
 A week later a Guild letter arrived.
 
