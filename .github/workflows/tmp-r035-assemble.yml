@@ -90,10 +90,10 @@ jobs:
           while IFS=$'\t' read -r idx url pause; do
             printf -v n '%03d' "$idx"
             curl -L --fail --retry 3 --retry-delay 1 "$url" -o "/tmp/r035-audio/segments/${n}.mp3"
-            ffmpeg -hide_banner -loglevel error -y -i "/tmp/r035-audio/segments/${n}.mp3" -ar 24000 -ac 1 -c:a pcm_s16le "/tmp/r035-audio/segments/${n}.wav"
+            ffmpeg -nostdin -hide_banner -loglevel error -y -i "/tmp/r035-audio/segments/${n}.mp3" -ar 24000 -ac 1 -c:a pcm_s16le "/tmp/r035-audio/segments/${n}.wav"
             if [ ! -f "/tmp/r035-audio/silence/${pause}.wav" ]; then
               seconds=$(python -c "print(${pause}/1000)")
-              ffmpeg -hide_banner -loglevel error -y -f lavfi -i anullsrc=r=24000:cl=mono -t "$seconds" -c:a pcm_s16le "/tmp/r035-audio/silence/${pause}.wav"
+              ffmpeg -nostdin -hide_banner -loglevel error -y -f lavfi -i anullsrc=r=24000:cl=mono -t "$seconds" -c:a pcm_s16le "/tmp/r035-audio/silence/${pause}.wav"
             fi
           done < /tmp/r035-download.tsv
           : > /tmp/r035-audio/concat.txt
@@ -102,9 +102,9 @@ jobs:
             echo "file '/tmp/r035-audio/segments/${n}.wav'" >> /tmp/r035-audio/concat.txt
             echo "file '/tmp/r035-audio/silence/${pause}.wav'" >> /tmp/r035-audio/concat.txt
           done < /tmp/r035-download.tsv
-          ffmpeg -hide_banner -loglevel error -y -f concat -safe 0 -i /tmp/r035-audio/concat.txt -c copy /tmp/r035-audio/assembled.wav
+          ffmpeg -nostdin -hide_banner -loglevel error -y -f concat -safe 0 -i /tmp/r035-audio/concat.txt -c copy /tmp/r035-audio/assembled.wav
           mkdir -p audio/assets
-          ffmpeg -hide_banner -loglevel error -y -i /tmp/r035-audio/assembled.wav -c:a libmp3lame -b:a 128k audio/assets/record-035-quote-locked-v2.mp3
+          ffmpeg -nostdin -hide_banner -loglevel error -y -i /tmp/r035-audio/assembled.wav -c:a libmp3lame -b:a 128k audio/assets/record-035-quote-locked-v2.mp3
       - name: Verify assembled asset and repository
         run: |
           set -euo pipefail
