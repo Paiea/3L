@@ -274,6 +274,38 @@ Not mana-expensive.
 
 Attention-expensive.
 
+Red Basin's roster made that problem visible because Aren had built us to avoid demanding the same thing from me at the same moment.
+
+Sella could survive long stretches without me.
+
+Corin could carry small work while everyone else recovered.
+
+Aren could create pressure on his own and then offer reserve after his body became the limiter.
+
+Jessa created enormous demand, then enormous quiet.
+
+Those differences gave me places to disappear for a second.
+
+A conventional roster with four people all needing peak support together would have made the open interval much stupider.
+
+That did not mean the technique required this exact party forever.
+
+It meant I currently needed the roster to hide a control problem I had not solved yet.
+
+I wrote that down.
+
+CURRENTLY NEEDS STAGGERED DEMAND TO OPEN SAFELY.
+
+Aren read over my shoulder.
+
+"Good."
+
+"Why good?"
+
+"Because now you know which part is yours."
+
+Annoying man.
+
 "I don't know yet," I said.
 
 Jessa smiled.
@@ -648,13 +680,13 @@ Hollen nodded.
 
 Aren continued.
 
-"So is Jessa recovering after a full lance. So is Sella rotating off a sustained hold. So am I after a deep second commitment. We already build around weaknesses. This one is just his."
+"So is Jessa recovering after a full lance. So is Sella rotating off a sustained hold. So am I after a deep second commitment. We already built this roster around weaknesses and differences. This one is just his."
 
 Nobody said anything for a moment.
 
-I did not like hearing myself discussed as terrain.
+I did not like hearing myself discussed as another roster constraint.
 
-Then remembered White Stair.
+Then remembered Red Basin existed because Aren had already done exactly that.
 
 Fair.
 
@@ -778,4 +810,8 @@ Because it included them.
 
 For years I had been trying to become a support capable of carrying more people.
 
-Red Basin was the first time I understood the people might eventually have to carry parts of the support too.
+Red Basin was the first time I understood two things at once.
+
+The people might eventually have to carry parts of the support too.
+
+And one day I would have to get good enough that they did not need to be chosen specifically to make that possible.
