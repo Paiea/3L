@@ -1014,7 +1014,7 @@ I laughed hard enough that the healer threatened me.
 
 For about ten seconds, the chamber was not a prison or a machine or an operation site.
 
-It was six exhausted humans, several more nearby, and one ancient manticore making fun of a surveyor.
+It was six exhausted humans, several more nearby, and one ancient creature making fun of a surveyor.
 
 Then the deep tension cord pulled.
 
