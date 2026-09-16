@@ -162,7 +162,95 @@ Jessa noticed.
 
 I liked her cautiously.
 
-The contractor representative entered.
+Then I looked at the names again.
+
+Not ranks.
+
+Names.
+
+"Why these four?" I asked.
+
+Aren glanced at the slate.
+
+"Because I thought they'd fit."
+
+"Fit what?"
+
+"You."
+
+There it was too quickly.
+
+I disliked it on principle.
+
+"You barely know how I work."
+
+"I know enough to know what makes it hard."
+
+He tapped Sella's name.
+
+"She can hold without demanding constant attention."
+
+Sella said, "Romantic."
+
+He tapped Corin.
+
+"He spends when other people don't."
+
+Corin nodded as if being described as useful between exciting people was a compliment.
+
+It was.
+
+Then Jessa.
+
+"She spends enormous amounts in discrete events and then has real recovery instead of pretending she's continuously useful."
+
+Jessa looked offended.
+
+"I am continuously useful."
+
+"You are continuously expensive."
+
+"Better."
+
+Then Aren pointed at himself.
+
+"And I can create pressure without needing Greg to make me dangerous first."
+
+I stared.
+
+"You built a party around the support."
+
+"Mostly."
+
+"Nobody does that."
+
+"You've mentioned."
+
+Sella said, "Repeatedly."
+
+I looked at Corin.
+
+"There were stronger options."
+
+"Yes," Aren said.
+
+"You knew that."
+
+"That was why I chose him."
+
+"That sentence is professionally offensive."
+
+Aren shrugged.
+
+"Varo and I solve the same ten seconds. Corin solves the ten after."
+
+I stopped.
+
+That was better language than mine.
+
+Annoying family.
+
+The contractor representative entered before I could recover.
 
 Hollen Marr.
 
@@ -266,13 +354,17 @@ Support joined them.
 
 Then I looked at the slate.
 
-Aren had requested me.
+Aren had requested me first.
 
-Sella had returned.
+Sella had returned because her steady work created room.
 
-Corin had been chosen partly because I already knew his rhythm.
+Corin had been chosen partly because he filled demand valleys other fighters ignored.
 
-Jessa had agreed because she wanted the experiment.
+Jessa had been invited because her huge bursts created sharp before-and-after states instead of constant middling need.
+
+Aren had apparently considered himself another roster component instead of the roster's center.
+
+That may have been the strangest part.
 
 Four months of distance meant whatever this was would either become real or become medical paperwork.
 
@@ -318,6 +410,10 @@ Good fighter.
 
 Terrible fit.
 
+Currently.
+
+Important word.
+
 "Why not Varo?" Hollen asked.
 
 Aren looked at me.
@@ -346,15 +442,57 @@ Hollen waited.
 
 "You are choosing a weaker fighter."
 
-"For this party."
+"For me. Right now."
+
+Hollen's eyebrows moved.
+
+Aren looked at me too.
+
+I continued because apparently I had found another argument in public.
+
+"That isn't the same as saying Corin is better. It means I can use Corin's differences better than I can use Varo's extra capability if it arrives at the same time as Aren's."
+
+"So stronger is bad."
+
+"No."
+
+That answer came immediately.
+
+I looked at Varo's name again.
+
+More speed.
+
+More pressure.
+
+More reserve.
+
+More self-protection.
+
+Those were not defects.
+
+The defect was that I could not yet keep enough of those options useful at once.
+
+"Stronger gives me more margin if I can control it," I said. "I can't control all of that margin yet."
+
+Hollen looked unimpressed by my professional confession.
+
+Fair.
+
+Aren did not.
+
+That was worse somehow.
 
 Varo would have beaten Corin in most direct evaluations.
 
 Possibly badly.
 
-That did not make him more useful every minute of a four-month operation.
+That did not make him more useful to **current me** every minute of a four-month operation.
 
-Hollen did not like it.
+The current part mattered.
+
+I wrote it down later.
+
+Hollen did not like the roster.
 
 Good.
 
@@ -362,7 +500,11 @@ Neither did part of me.
 
 Two years earlier I would have taken the strongest bodies available and considered adaptation my problem.
 
-Now stronger was becoming conditional.
+Now I was doing something almost opposite.
+
+Not selecting weak people.
+
+Selecting **differences I could actually use**.
 
 Jessa leaned back.
 
@@ -470,6 +612,10 @@ Another reversal.
 
 People had started budgeting for the support to learn them.
 
+More importantly, Aren had budgeted for the **party** to learn why these people had been selected together.
+
+That was newer.
+
 I wrote too much.
 
 Jessa spent most of day one irritated that I would not Draw from her.
@@ -526,7 +672,7 @@ He almost never gave me a giant reservoir.
 
 He gave me frequent small availability.
 
-More useful.
+More useful to me then.
 
 Aren adapted fastest because he had started before the rest of us knew we were doing something unusual.
 
@@ -730,6 +876,14 @@ More capability did not simplify allocation.
 
 It sharpened it.
 
+And Red Basin had been deliberately built so those expensive moments did not all arrive together.
+
+That was training for me as much as roster design.
+
+A cleaner problem.
+
+Not an easier one.
+
 One afternoon we cleared a broken incline where shellbacks had nested beneath ore carts.
 
 Sixteen animals.
@@ -908,10 +1062,28 @@ The strange part was not that stronger people wanted support.
 
 Strong people had always wanted support.
 
-The strange part was that some of them had started asking what **they** needed to change to get more out of mine.
+The strange part was that one of them had looked at the roster **before I arrived** and asked which people would give my support the most useful differences to work with.
 
-That was not a roster anymore.
+Then the others had started asking what they needed to change to make those differences easier to use.
 
-Not exactly.
+That was not a normal roster anymore.
 
-It was the beginning of an agreement.
+It was the beginning of an architecture.
+
+A crude one.
+
+Built partly around my limitations.
+
+That last part mattered.
+
+If I ever became good enough, I should not need Corin to be weaker in the convenient directions.
+
+More speed should give me more options.
+
+More reserve should give me more margin.
+
+More self-sufficiency should buy me more time.
+
+The fact that some stronger people were harder for me to use did not prove strength was the problem.
+
+It proved I still was.
