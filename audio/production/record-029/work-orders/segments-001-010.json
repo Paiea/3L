@@ -1,0 +1,77 @@
+{
+  "record": "029",
+  "source_sha256": "23ce651a38de101aee6838d9148df936697ae161231e76f6eb1655efb9d6f29b",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The twins were eight months old when I nearly put a brace through Lorn's head.\n\nIthar moved one claw.\n\nSmall movement.\n\nStone complained anyway.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 2,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"The twins.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at him.\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 4,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You did not have twins.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I did by then.\"\n\nHis eyes narrowed.\n\nDragons have very little need for facial expression.\n\nThat makes it worse when they use one.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 6,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You leased a second room.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 8,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You lost a public contract.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Also yes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 10,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Now there are two children.\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

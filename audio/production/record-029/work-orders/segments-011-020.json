@@ -1,0 +1,77 @@
+{
+  "record": "029",
+  "source_sha256": "23ce651a38de101aee6838d9148df936697ae161231e76f6eb1655efb9d6f29b",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Time passed.\"\n\nSmoke moved once from one nostril.\n\nI had begun learning the difference between smoke as weather and smoke as judgment.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 12,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"How much?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": " he asked.\n\n\"About two years.\"\n\nThe smoke came again.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 14,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Gregory.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Greg.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 16,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You omitted two years and two humans.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 17,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"They are relevant to the brace.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 18,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Then begin before the brace.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 19,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI hated when he was right in complete sentences.\n\nFine.\n\nNessa got pregnant the year after we signed the lease.\n\nNot immediately.\n\nThat would have made the room suspicious.\n\nWe had enough time to fill the narrow back room with tools, winter blankets, three boxes of district records, a broken chair I intended to repair, and six jars Nessa insisted were useful despite containing nothing.\n\nThen she missed a cycle.\n\nThen another.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 20,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then a healer confirmed what Nessa already knew and I had been carefully failing to infer.\n\n\"Pregnant,\" she said.\n\nWe were at the table.\n\nOf course.\n\nThere was soup.\n\nI remember that because I knocked mine over.\n\nNot dramatically.\n\nJust enough to flood the household ledger.\n\nNessa lifted the book out of it.\n\n\"Good response.\"\n\n\"You said pregnant.\"\n\n\"I know. I was there.\"\n\n\"Pregnant.\"\n\n\"Still.\"\n\nI stood up.\n\nThen sat down.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
