@@ -10,8 +10,8 @@ class DarkHeroPresentationTests(unittest.TestCase):
         cls.html = Path("index.html").read_text(encoding="utf-8")
 
     def test_uses_current_ithar_hero_art(self):
-        self.assertIn('src="visual/ithar1.png"', self.html)
-        self.assertIn('content="https://paiea.github.io/3L/visual/ithar1.png"', self.html)
+        self.assertIn('src="visual/3L site.png"', self.html)
+        self.assertIn('content="https://paiea.github.io/3L/visual/3L%20site.png"', self.html)
 
     def test_art_is_preserved_as_a_clean_widescreen_plate(self):
         self.assertIn('.story-hero-art{position:relative;aspect-ratio:16/9;', self.html)
