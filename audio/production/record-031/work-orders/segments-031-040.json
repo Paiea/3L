@@ -1,0 +1,77 @@
+{
+  "record": "031",
+  "source_sha256": "e7115e2b46e8ea4ff0bbbed823278cc4e5993356866c2082f31f2fd25a739217",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 31,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Of course.\n\nNessa handed it over.\n\nTomas kept green.\n\nDispute resolved.\n\nI looked at her.\n\n\"That was not principled.\"\n\n\"Only if it works.\"\n\nCruel woman.\n\nThe West Three settlement lasted long enough.\n\nOne temporary hire stayed.\n\nOne quit after four days because West Three smelled like wet stone and fish waste.\n\nReasonable.\n\nThe returning operator trained a younger hand.\n\nAuthority night coverage ended after two weeks instead of three.\n\nOvertime fell.\n\nNot to zero.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 32,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Stations eat time.\n\nThe crew went back to complaining about ordinary things.\n\nIven sent me a bottle of bad liquor with a note.\n\nFOR THE FURNITURE.\n\nI gave it to Lorn.\n\nHe drank it and blamed me for two days.\n\nThe useful part came later.\n\nDistrict changed the staffing sheet.\n\nNot dramatically.\n\nOne extra line.\n\nHAZARD COVERAGE.\n\nOPERATING COVERAGE.\n\nSeparate boxes.\n\nThat was it.\n\nA whole labor dispute reduced to two boxes after enough people had been tired.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 33,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Institutions again.\n\nScars with forms.\n\nI had spent First Life in rooms where Ranker capability solved the visible problem.\n\nBreak the door.\n\nHold the wall.\n\nKill the thing.\n\nCarry the injured.\n\nNecessary work.\n\nReal work.\n\nBut strength is not fungible.\n\nThat took me a long time to learn.\n\nA B-class body cannot replace a sixty-year-old operator's ear.\n\nA station hand cannot hold a ruptured gate against full pressure.\n\nA payroll clerk cannot grease a bearing.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 34,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "A mechanic should not set staffing policy just because he understands fatigue.\n\nA tired father does not automatically understand a tired night operator.\n\nThat last one mattered too.\n\nExperience can help you recognize a shape without giving you ownership of everyone inside it.\n\nIthar interrupted there.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 35,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"And the cups?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 36,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at him.\n\n\"What about them?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 37,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Which cup did the boy prefer?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 38,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Green.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 39,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"The girl?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 40,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Whatever Tomas had until Nessa drank from the red one.\"\n\nHis mouth moved.\n\nNot quite a smile.\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

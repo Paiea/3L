@@ -1,0 +1,49 @@
+{
+  "record": "031",
+  "source_sha256": "e7115e2b46e8ea4ff0bbbed823278cc4e5993356866c2082f31f2fd25a739217",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 41,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You included this in a labor dispute.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 42,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"It was the same day.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 43,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You remember the cups.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 44,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"They screamed for twenty minutes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 45,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You remember the colors.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 46,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI said nothing.\n\nHe waited.\n\nDragons again.\n\nCheating at silence.\n\n\"Important distinction,\" I said.\n\nThat made him smile properly.\n\nBastard.",
+      "pause_after_ms": 220
+    }
+  ]
+}
