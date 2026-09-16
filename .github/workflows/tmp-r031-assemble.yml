@@ -1,0 +1,96 @@
+name: Temporary Record 031 Assemble
+on:
+  push:
+    branches: [audio/record-031-production]
+    paths:
+      - audio/production/record-031/captures.json
+      - .github/workflows/tmp-r031-assemble.yml
+permissions: {contents: write}
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: audio/record-031-production}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Install ffmpeg explicitly
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version | head -n 1
+          ffprobe -version | head -n 1
+      - name: Structural verification
+        run: |
+          python scripts/audio_route.py manuscript/records/031/current.md audio/routing/record-031.json /tmp/route-regenerated.json
+          python - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          record='031'; expected='e7115e2b46e8ea4ff0bbbed823278cc4e5993356866c2082f31f2fd25a739217'
+          manuscript=Path(f'manuscript/records/{record}/current.md')
+          route=json.loads(Path(f'audio/production/record-{record}/route-plan.json').read_text())
+          regenerated=json.loads(Path('/tmp/route-regenerated.json').read_text())
+          captures=json.loads(Path(f'audio/production/record-{record}/captures.json').read_text())
+          source=hashlib.sha256(manuscript.read_bytes()).hexdigest()
+          assert source==route['source_sha256']==regenerated['source_sha256']==captures['source_sha256']==expected
+          assert route['routing_mode']==regenerated['routing_mode']==captures['routing_mode']=='exact_quote_locked'
+          assert route['audio_body']==regenerated['audio_body'] and route['segments']==regenerated['segments']
+          segs=route['segments']; assert len(segs)==46
+          assert [s['index'] for s in segs]==list(range(1,47))
+          assert ''.join(s['transcript'] for s in segs)==route['audio_body']
+          assert all(s['voice_id']==('deep' if s['speaker']=='greg' else 'normal') for s in segs)
+          ithar=[s['index'] for s in segs if s['speaker']=='ithar']; assert ithar==[35,37,39,41,43,45]
+          work=[]
+          for p in sorted(Path(f'audio/production/record-{record}/work-orders').glob('segments-*.json')):
+              d=json.loads(p.read_text()); assert d['source_sha256']==source and d['routing_mode']=='exact_quote_locked'; work.extend(d['segments'])
+          assert work==segs
+          caps=captures['segments']; assert len(caps)==46 and [c['index'] for c in caps]==list(range(1,47))
+          for c,s in zip(caps,segs):
+              assert c['pause_after_ms']==s['pause_after_ms'] and c['preview_url'].startswith('https://storage.googleapis.com/')
+          print('Record 031 structural verification passed')
+          print('ithar_segment_indices',ithar)
+          PY
+      - name: Download takes and deterministically assemble
+        run: |
+          set -euo pipefail
+          rm -rf /tmp/r031-assemble
+          mkdir -p /tmp/r031-assemble/takes /tmp/r031-assemble/wavs /tmp/r031-assemble/silence audio/assets
+          python - <<'PY'
+          import json,subprocess
+          from pathlib import Path
+          caps=json.loads(Path('audio/production/record-031/captures.json').read_text())['segments']; root=Path('/tmp/r031-assemble'); concat=[]
+          for c in caps:
+              i=c['index']; mp3=root/'takes'/f'{i:03d}.mp3'; wav=root/'wavs'/f'{i:03d}.wav'; silence=root/'silence'/f'{i:03d}.wav'
+              subprocess.run(['curl','-fsSL','--retry','4','--retry-delay','2','-o',str(mp3),c['preview_url']],check=True)
+              subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-i',str(mp3),'-ar','24000','-ac','1','-c:a','pcm_s16le',str(wav)],check=True); concat.append(wav)
+              ms=int(c['pause_after_ms'])
+              if ms>0:
+                  subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-f','lavfi','-i','anullsrc=r=24000:cl=mono','-t',f'{ms/1000:.3f}','-c:a','pcm_s16le',str(silence)],check=True); concat.append(silence)
+          with (root/'concat.txt').open('w') as f:
+              for p in concat: f.write("file '"+str(p).replace("'","'\\''")+"'\n")
+          PY
+          ffmpeg -hide_banner -loglevel error -y -f concat -safe 0 -i /tmp/r031-assemble/concat.txt -ar 24000 -ac 1 -c:a pcm_s16le /tmp/r031-assemble/record-031.wav
+          ffmpeg -hide_banner -loglevel error -y -i /tmp/r031-assemble/record-031.wav -ar 24000 -ac 1 -c:a libmp3lame -b:a 128k audio/assets/record-031-quote-locked-v2.mp3
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 audio/assets/record-031-quote-locked-v2.mp3 > /tmp/r031-duration.txt
+          sha256sum audio/assets/record-031-quote-locked-v2.mp3 | awk '{print $1}' > /tmp/r031-sha.txt
+          cat /tmp/r031-duration.txt; cat /tmp/r031-sha.txt
+      - name: Write verification metadata
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          route=json.loads(Path('audio/production/record-031/route-plan.json').read_text()); duration=float(Path('/tmp/r031-duration.txt').read_text()); sha=Path('/tmp/r031-sha.txt').read_text().strip(); ithar=[s['index'] for s in route['segments'] if s['speaker']=='ithar']
+          d={'record':'031','status':'assembled_unlistened','routing_mode':'exact_quote_locked','uses_timestamps_for_speaker_assignment':False,'source_sha256':route['source_sha256'],'segment_count':len(route['segments']),'ithar_segment_indices':ithar,'duration_seconds':round(duration,3),'sha256':sha,'asset':'audio/assets/record-031-quote-locked-v2.mp3','note':'Deterministic route/pause verification passed; auditory listen-back remains pending.'}
+          Path('audio/production/record-031/verification-v2.json').write_text(json.dumps(d,indent=2)+'\n'); print(json.dumps(d,indent=2))
+          PY
+      - name: Run repository checks
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit assembled audio
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio/assets/record-031-quote-locked-v2.mp3 audio/production/record-031/verification-v2.json
+          git commit -m 'Assemble Record 031 production audio'
+          git push origin HEAD:audio/record-031-production
