@@ -1,483 +1,683 @@
 ## RECORD 063
 
-## THE SKEPTIC
+## THE FILTER
 
-For three months I thought the old sleeves moved pressure downhill.
+Jessa left Harrow Fen because her sister had a baby three weeks early.
 
-This was elegant.
+This was inconvenient professionally and apparently important personally.
 
-Therefore suspicious.
+I supported the decision.
 
-I still believed it.
+Quietly.
 
-The idea came from five sites.
+Jessa would have mocked enthusiasm.
 
-East Four's buried chamber.
+Hara Venn had already signed the twelve-day extension.
 
-East Two's responsive sleeve.
+The northern section needed a pressure caster because the drainage walls there were taller, older, and less interested in remaining walls.
 
-Market Seven's delayed north-to-south shift.
+Jessa said she could return in six days.
 
-Bellwater's descending line.
+Her sister said otherwise.
 
-A small legacy gallery under River Three where temperature changes appeared thirty minutes after upper load moved.
+Hara found a replacement.
 
-Put them on the regional map and the pattern looked obvious.
+His name was Dace.
 
-Higher stations changed first.
+Just Dace.
 
-Lower structures responded later.
+I asked.
 
-Old marks near descending lines included the symbol Pellin sometimes read as receiving.
+He said, "My mother was efficient."
 
-First-life memory supplied the rest.
+I liked him immediately.
 
-Western failure.
+He was B-class pressure and shaping.
 
-Pressure moving down after surface anchors failed to solve anything.
+Good record.
 
-Lower channels.
+Experienced with flood work.
 
-Eastern sink.
+No Draw training.
 
-Outcome fragments suddenly had a mechanism-shaped hole they could fit.
+No history with us.
 
-Old system moved excess load downward.
+Exactly the kind of person my evaluation said I handled worse than I thought.
 
-Maybe into deep storage.
+I prepared notes.
 
-Maybe toward regional sinks.
+Of course I did.
 
-Modern stations sat on top and mistook transfer structures for foundations, drains, or dead works.
+Two pages.
 
-Beautiful.
+Signals.
 
-Dangerous word.
+Availability.
 
-I wrote the theory anyway.
+Formation consent.
 
-Not as fact.
+Locator tabs.
 
-HYPOTHESIS A: LEGACY LOAD CASCADE.
+Local priority calls.
 
-Pellin hated the name.
+Aren saw the pages.
 
-“Cascade implies one direction.”
-
-“That is the hypothesis.”
-
-“You're naming the conclusion.”
-
-“Fine.”
-
-HYPOTHESIS A: DELAYED DOWNSTREAM TRANSFER.
-
-He still looked unhappy.
-
-Good enough.
-
-Halden circulated it to district engineering.
-
-Tova added six objections in the margin.
-
-Osa added one:
-
-PROVE DIRECTION.
-
-Nessa read it at home and asked the same question.
-
-“What would prove you wrong?”
-
-I stopped.
-
-Important question.
-
-If no answer exists, you have religion with measurements.
-
-“Upward response,” I said.
-
-“Meaning?”
-
-“A lower site changes first and an upper connected site responds later under controlled load.”
-
-“Anything else?”
-
-“A site that should receive based on grade but doesn't.”
-
-“Good.”
-
-“You sound pleased.”
-
-“I like when you build your own trap.”
-
-Cruel woman.
-
-We got the trap at North Cut.
-
-Small industrial district west of Hillcross.
-
-Two modern stations separated by elevation.
-
-Old gallery discovered during sewer work between them.
-
-Perfect test.
-
-Upper station: North Cut One.
-
-Lower: North Cut Three.
-
-Legacy sleeve beneath each.
-
-Old corridor physically connected between sites according to excavation.
-
-Rare luxury.
-
-We instrumented both surfaces.
-
-Nothing invasive.
-
-Temperature.
-
-Vibration.
-
-Wall movement.
-
-External acoustic pickups Osa distrusted because they looked too clever.
-
-She used them anyway.
-
-We coordinated a controlled load change at upper station.
-
-Increase twenty percent for fifteen minutes.
-
-Then baseline.
-
-Theory predicted upper response first, lower delayed.
-
-Upper changed.
-
-Lower did not.
-
-We waited an hour.
-
-Nothing.
-
-Two.
-
-Nothing.
-
-Tova looked at me.
-
-“Site that should receive based on grade but doesn't.”
-
-“Yes.”
-
-Could still be disconnected internally.
-
-Could be blocked.
-
-Could be threshold dependent.
-
-I had explanations.
-
-Too many.
-
-Danger.
-
-Then lower station changed load for unrelated afternoon demand.
-
-North Cut Three rose eighteen percent.
-
-Five minutes later its legacy sleeve warmed.
-
-Nine minutes later the upper station's legacy wall vibration changed.
-
-Upward.
-
-Delayed.
-
-Exactly the thing I had named as falsification.
-
-Nobody spoke for a moment.
-
-Pellin eventually said, “Well.”
-
-I hated well.
-
-Tova looked at me.
-
-Not triumphant.
-
-Good.
-
-Osa said, “Again.”
-
-We repeated the next day.
-
-Lower load increase.
-
-Lower legacy response.
-
-Upper delayed response.
-
-Again.
-
-Then upper load decrease caused no mirrored effect.
-
-Asymmetric.
-
-The system refused elegance aggressively.
-
-My cascade theory died at thirty-eight.
-
-Maybe thirty-nine.
-
-I was losing track of birthdays by work seasons then.
-
-Nessa knew.
-
-Of course.
-
-I went home with the data.
-
-She read my face before the page.
-
-“Trap worked.”
-
-“Yes.”
-
-“Good.”
-
-“Fuck you.”
-
-“Also good.”
-
-I spread the measurements on the table.
-
-The table remained slightly wrong.
-
-Reliable companion.
-
-“I can explain it,” I said.
-
-Nessa looked up.
-
-That was not approval.
-
-“I know,” she said.
-
-I heard myself.
-
-Of course I could explain it.
-
-Humans are explanation machines.
-
-Blocked lower channel.
-
-Bidirectional transfer.
-
-Local branch geometry.
-
-Temperature artifact.
-
-Hidden pump interaction.
-
-Ancient control logic.
-
-Any of them could preserve enough of the theory to keep me emotionally comfortable.
-
-“What does the data require?” she asked.
-
-Not what could rescue me.
-
-Different.
-
-“It can move effect uphill.”
-
-“Good.”
-
-“Or appear to.”
-
-“Greg.”
-
-“Fine. At minimum, grade does not determine observed direction.”
-
-“Better.”
-
-I crossed out CASCADE.
-
-Hurt more than it should have.
-
-Why?
-
-Because First Life had been waiting behind it.
-
-If old structures moved pressure down toward sinks, then the western failure made sense.
-
-Surface anchors kept pushing.
-
-Lower channels filled.
-
-Eastern sink failed.
-
-Clean.
-
-I wanted a mechanism that transformed remembered outcome into understanding.
-
-North Cut took it away.
-
-First-life irritation returned to being evidence without explanation.
-
-That was harder.
-
-Also more honest.
-
-We published the failed hypothesis.
-
-Halden asked whether we needed to circulate a theory that was wrong.
-
-“Yes.”
-
-“Why?”
-
-“Because three districts already have copies of the first version.”
-
-“We can issue correction.”
-
-“Correction without failure data looks like preference.”
-
-He nodded.
-
-Good man.
-
-The packet went out:
-
-HYPOTHESIS A - REJECTED AS GENERAL MODEL.
-
-Supporting observations.
-
-Contradicting North Cut results.
-
-Possible local usefulness remains unproven.
-
-Do not infer direction from grade or mark translation alone.
-
-Pellin added historical caution.
-
-Tova added structural implications.
-
-Osa added:
-
-IF YOU DID NOT MEASURE DIRECTION, YOU DO NOT KNOW DIRECTION.
-
-Best sentence in the packet.
-
-Crews remembered that one.
-
-Months later I found it copied on a station wall.
-
-No attribution.
-
-Osa was delighted.
-
-Influence without ownership again.
-
-The failed theory made later work slower.
-
-That was success.
-
-Before North Cut, somebody finding a descending legacy sleeve might assume drain or downward transfer.
-
-Afterward, more crews tested relation first.
-
-Not all.
-
-Enough.
-
-We also started logging theories separately from observations.
-
-Simple formatting change.
-
-OBSERVED.
-
-INTERPRETED.
-
-HYPOTHESIZED.
-
-Three headings.
-
-Record Twenty-Five scaled up.
-
-Not because my marriage conversation secretly invented science.
-
-Because the same human error repeats at different sizes.
-
-Memory becomes interpretation.
-
-Interpretation becomes mechanism.
-
-Mechanism becomes confidence.
-
-Write the borders down before they disappear.
-
-Ithar interrupted me there.
-
-The cave returned around the table in my memory.
-
-Gold.
-
-Heat.
-
-Black glass eye.
-
-“You are proud of becoming skeptical.”
+"No."
 
 I looked at him.
 
-“That sounds like a trap.”
+"You used that already."
 
-“It is an observation.”
+"Still correct."
 
-“Worse.”
+"He needs orientation."
 
-He continued.
+"Yes."
 
-“You describe skepticism as though it replaced belief. It did not. You continued believing things constantly. You believed measurements. Test conditions. Instrument calibration. Pellin's translations provisionally. Osa's pressure judgment. Nessa's criticism. Your own memory when it survived comparison.”
+"This is orientation."
 
-I waited.
+"This is punishment for arriving."
 
-“Your improvement was not believing less.”
+Dace arrived while we argued.
 
-Of course he had more.
+He looked at the notes.
 
-“It was becoming more explicit about what each belief had earned.”
+Then at Aren.
 
-I hated dragons.
+"Is he always like this?"
 
-“Could have said confidence levels.”
+Aren said, "Worse when nervous."
 
-“That phrase would let you pretend numbers solved character.”
+"I'm not nervous."
+
+Sella took the pages from my hand.
+
+"We'll show him."
+
+I should have been relieved.
+
+Instead I felt something stupid and small.
+
+Those were my systems.
+
+Which was exactly the problem.
+
+Sella walked Dace through camp.
+
+Aren went with them.
+
+Corin followed because he liked explaining equipment nobody had asked about.
+
+Varo stayed beside me.
+
+"You look abandoned."
+
+"I am standing here."
+
+"Emotionally."
+
+"Go help them."
+
+"No. This is better."
+
+I hated strong fighters.
+
+Dace's first lesson happened without me.
+
+Sella clipped a locator tab to his belt.
+
+"This tells Greg where you are."
+
+Dace touched it.
+
+"What else?"
+
+"Nothing."
+
+"Reserve?"
+
+"No."
+
+"Injury?"
+
+"No."
+
+"Intent?"
+
+"Absolutely not."
+
+He looked confused.
+
+Good.
+
+Sella continued.
+
+"If something changes that alters what Greg should do, say it. If it doesn't, don't narrate yourself."
+
+Dace glanced toward me.
+
+I pretended not to listen.
+
+"What counts as alters?"
+
+Aren answered.
+
+"If you can solve it locally, solve it locally. If you can't, or solving it changes somebody else's cost, call it."
+
+"Call what?"
+
+"The useful part."
+
+Dace looked at Corin.
+
+Corin said, "It makes more sense after it fails."
+
+Excellent training staff.
+
+We drilled that afternoon.
+
+Dace talked too much.
+
+Not because he was foolish.
+
+Conventional support teams trained useful reporting.
+
+Reserve high.
+
+Reserve moderate.
+
+Right lane clear.
+
+Pressure ready.
+
+Moving.
+
+Holding.
+
+Recovering.
+
+Every statement true.
+
+Every statement competing with five other people for attention.
+
+After forty seconds I said, "Stop."
+
+Dace stopped.
+
+"What?"
+
+"You don't need to tell me everything."
+
+He frowned.
+
+"You said state changes."
+
+Sella said, "He explained it badly."
+
+I looked at her.
+
+"You weren't there."
+
+"I know you."
 
 Fair.
 
-I looked down at my present hand.
+She turned to Dace.
 
-Two fingers still refusing full closure.
+"Greg does not need to know what you're doing. He needs to know when what you're doing changes what he should do."
 
-Later evidence.
+That was better.
 
-Later life.
+Annoying.
 
-“Fine,” I said.
+Dace thought about it.
 
-Ithar settled again.
+"So if my reserve drops but my next action is still available?"
 
-“Continue.”
+"Probably nothing."
 
-I closed my eyes.
+"If my reserve drops and I lose the cast I was holding?"
 
-North Cut remained wrong in exactly the useful way.
+"Call it."
 
-It took away an answer I wanted before I had time to build policy on top of it.
+"If footing changes but I can adjust?"
 
-Very considerate failure.
+"Nothing."
+
+"If footing changes and I need shield support to keep the cast?"
+
+"Call Greg or Sella, depending where you are."
+
+"Why Sella?"
+
+Sella pointed at herself.
+
+"Because I am standing next to you and have eyes."
+
+Dace nodded slowly.
+
+There.
+
+The method had become explainable without me.
+
+I did not like how much I liked that.
+
+The first live day with Dace was simple.
+
+North culvert.
+
+Two root-crawlers.
+
+One unstable brace.
+
+No one died.
+
+The second day taught us more.
+
+Hara's crew had to open a drainage wall from the water side.
+
+Waist-deep channel.
+
+Slippery stone.
+
+Bad visibility because the current carried mud from upstream.
+
+We split positions.
+
+Sella and Dace near the workers.
+
+Aren and Varo farther forward where the channel widened.
+
+Corin on the bank.
+
+Me moving between.
+
+I hated water above the knee.
+
+Not fear.
+
+Professional resentment.
+
+It slowed everything and made every footing judgment political.
+
+The locator tabs were excellent there.
+
+I could not see Varo's legs.
+
+Did not need to.
+
+I knew where he was.
+
+The work crew opened the wall.
+
+Water pressure shifted.
+
+Aren moved forward.
+
+Varo mirrored for one beat, then broke right.
+
+Two crawlers surfaced behind a stone shelf.
+
+Corin fired.
+
+Sella held worker cover.
+
+Dace began shaping pressure away from the open wall.
+
+He said, "Reserve high."
+
+I ignored it.
+
+Good.
+
+Then, "Left foot sliding."
+
+I looked.
+
+He corrected it himself.
+
+Not useful.
+
+Sella said, "Dace."
+
+He nodded.
+
+Less.
+
+The wall opened another handspan.
+
+Current accelerated.
+
+Dace's shaping field tightened.
+
+He started, "Pressure increasing, reserve—"
+
+Sella cut him off.
+
+"Can you hold?"
+
+"Yes."
+
+"Then hold."
+
+That was filtering.
+
+Not information suppression.
+
+Decision compression.
+
+I did not need the measurement because Sella was local, competent, and already testing the threshold that mattered.
+
+I turned toward Aren.
+
+His locator pulse jumped downstream.
+
+Varo's stayed opposite.
+
+Corin called, "Aren heavy."
+
+Two words.
+
+Enough.
+
+I moved.
+
+Aren had caught a crawler against current and was spending more aura than his position suggested.
+
+Barrier behind his rear heel.
+
+Reinforcement at hip.
+
+Release.
+
+He converted it into forward pressure and killed the animal.
+
+Varo did not need me.
+
+Then Sella called my name.
+
+Just my name.
+
+I turned.
+
+Dace was still standing.
+
+Still shaping.
+
+No visible injury.
+
+But Sella had one hand on his shoulder.
+
+"He lost next cast."
+
+Dace nodded.
+
+That mattered.
+
+The workers were still inside the opened wall.
+
+Dace could maintain current shaping but no longer had enough clean reserve to respond if the wall broke wider.
+
+I did not need his exact reserve.
+
+I needed the consequence.
+
+I shifted closer.
+
+Not support yet.
+
+Access.
+
+Sella said, "Open safe."
+
+I checked Aren.
+
+Recovering but stable.
+
+Varo stable.
+
+Corin high bank.
+
+Aura down.
+
+Dace looked at me.
+
+"No Draw."
+
+Immediate.
+
+Good.
+
+I had not asked.
+
+He had learned enough to protect the boundary before I crossed it.
+
+"No Draw," I confirmed.
+
+I used my own reserve instead.
+
+Barrier along the wall seam.
+
+Not stronger than Dace's shaping.
+
+Different job.
+
+Caught loose stone if the seam widened.
+
+Workers withdrew.
+
+Sella moved with them.
+
+Dace released.
+
+We closed the wall temporarily and finished from the bank.
+
+Boring ending.
+
+Excellent.
+
+At camp Dace looked exhausted.
+
+Not physically destroyed.
+
+Socially.
+
+"You people say almost nothing."
+
+Jessa would have loved him.
+
+Corin said, "We talk constantly."
+
+"Not during work."
+
+"That's work."
+
+Dace pointed at me.
+
+"He knew I was in trouble from three words."
+
+Sella corrected him.
+
+"Four. His name was one."
+
+"Important distinction."
+
+Aren handed Dace tea.
+
+"He didn't know you were in trouble. He knew your next option disappeared."
+
+Dace looked at me.
+
+"That's different?"
+
+"Very."
+
+"How?"
+
+I started explaining reserve thresholds.
+
+Sella interrupted.
+
+"Because trouble is your problem. Losing the next option can become everybody's."
+
+I stopped.
+
+Again better.
+
+This was becoming irritating.
+
+The next morning Dace taught it back to Hara's new foreman.
+
+I was not part of the conversation.
+
+The foreman asked why Aren had shouted "Sella" during a crawler push instead of explaining what was wrong.
+
+Dace said, "Because Greg doesn't need the story while the story is happening. He needs the part that changes his job."
+
+I looked at Aren.
+
+Aren did not look back.
+
+He knew I was listening.
+
+Of course.
+
+The method was moving through people without me carrying it.
+
+That should have frightened me more than it did.
+
+Instead I felt lighter.
+
+For years I had treated support as attention I personally owed everyone.
+
+See everything.
+
+Know everything.
+
+Catch everything.
+
+Impossible standards are seductive because failure feels noble.
+
+Distributed attention was less noble.
+
+More useful.
+
+Over the rest of the extension we refined the calls.
+
+No fixed dictionary beyond safety signals.
+
+Too rigid became another stale wall.
+
+But we kept principles.
+
+Local people filtered local state.
+
+Call consequences, not diaries.
+
+Uncertainty counted as information if it changed risk.
+
+No meant no without explanation.
+
+Names were priority suggestions, not commands.
+
+Greg could ignore them.
+
+Greg did, twice.
+
+Once correctly.
+
+Once not.
+
+The incorrect one cost us a broken brace and eleven silver.
+
+No injuries.
+
+Hara deducted the brace from materials, not wages.
+
+I appreciated her restraint.
+
+Jessa returned on the last three days.
+
+Dace briefed her.
+
+This was ridiculous because Jessa had helped build half the system before he arrived.
+
+She let him finish.
+
+Then said, "Yes. We taught Greg to shut up."
+
+Dace looked at me.
+
+"That wasn't my understanding."
+
+"You're new."
+
+They liked each other immediately.
+
+Bad sign.
+
+On the final day Hara asked if I wanted another extension.
+
+I said no.
+
+Not because of the work.
+
+I had been gone long enough that my room in Vey smelled unused when I imagined it.
+
+There were letters stacked at Guild Hall.
+
+One from Orla.
+
+One from Calder.
+
+Two contract requests I had not answered.
+
+And the folded B-class invitation still in my desk.
+
+Hara paid us.
+
+Dace left north with another crew.
+
+Before he went, he handed me his locator tab.
+
+"Do I keep this?"
+
+"No. They're three silver."
+
+He laughed.
+
+"There he is."
+
+I put it back in the case.
+
+Five original tags.
+
+One spare.
+
+One chipped.
+
+No tiny clerks.
+
+On the road home Sella walked beside me for an hour without talking.
+
+I finally said, "You explain it better than I do."
+
+"Some parts."
+
+"Why?"
+
+She shrugged.
+
+"You explain what you're thinking. I explain what I need from you."
+
+That was unpleasantly fair.
+
+We kept walking.
+
+A mile later she added, "Also you use too many words."
+
+I considered pushing her into a ditch.
+
+The ditch was full of spring water.
+
+I remained professional.
