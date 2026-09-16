@@ -1,0 +1,77 @@
+{
+  "record": "029",
+  "source_sha256": "23ce651a38de101aee6838d9148df936697ae161231e76f6eb1655efb9d6f29b",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 51,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Expected enough to be boring.\n\nExcellent.\n\nBy midnight we were forty minutes ahead.\n\nThat was where I made the mistake.\n\n\"Open the next bay.\"\n\nDavi looked at the clock.\n\n\"We only need one.\"\n\n\"If the collar continues east, second bay tells us alignment.\"\n\nMara said, \"Not in scope.\"\n\n\"Adjacent inspection allowed if access is already open.\"\n\nShe looked at the work sheet.\n\nI had written that.\n\nOf course.\n\n\"Do we need it tonight?\"\n\n\"No.\"\n\n\"Then why?\"\n\n\"Because we're ahead.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 52,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Lorn made a small sound.\n\nI looked at him.\n\n\"What?\"\n\n\"Nothing.\"\n\n\"It was something.\"\n\n\"You said because we're ahead.\"\n\n\"Yes.\"\n\n\"That is how jobs become not ahead.\"\n\nI ignored him.\n\nLeadership.\n\nDavi opened the second bay.\n\nThe collar continued east.\n\nUseful.\n\nI felt vindicated.\n\nThen the second bay showed a support crack.\n\nNot severe.\n\nFresh enough to matter.\n\nNow we had to document it.\n\nMeasure.\n\nSketch.\n\nDecide whether the return could be restored before daylight review.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 53,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Mara crawled in.\n\nRell wanted the return left disconnected until morning.\n\nKel wanted the station back by fourth bell.\n\nI wanted both.\n\nThat was possible if everyone moved faster.\n\nAnother sentence for the wall.\n\n\"Davi, clean the crack face. Mara, dimensions. Rell, prep the return for temporary bypass. Lorn, brace stock.\"\n\nPeople moved.\n\nGood.\n\nAt second bell we were no longer ahead.\n\nAt half past, we were twenty minutes behind.\n\nNobody complained.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 54,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "That felt like professionalism.\n\nIt was fatigue.\n\nI should have known.\n\nFirst-life crews complained constantly until things became dangerous.\n\nThen they got quiet.\n\nI knew that.\n\nI also knew what tired felt like.\n\nOr thought I did.\n\nThat was worse.\n\nFor eight months I had been tired every day and still changed cloth, heated water, argued over invoices, inspected stations, answered notes, carried children, cooked badly, and remained mostly functional.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 55,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Tired had become weather.\n\nI stopped treating it like information.\n\nSo when Davi's hands shook slightly from hammer work, I saw effort.\n\nWhen one station hand yawned until his eyes watered, I saw night shift.\n\nWhen Mara wrote the same measurement twice and crossed both out, I saw annoyance.\n\nWhen Lorn dropped a brace pin and stared at it one second too long, I saw a pin on the floor.\n\n\"Pick it up,\" I said.\n\nLorn looked at me.\n\nThen bent.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 56,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The station hand beside him lifted the brace at the same time.\n\nNot coordinated.\n\nThe lower end swung.\n\nLorn's head was where it wanted to go.\n\nMara grabbed his coat and pulled him back.\n\nThe brace hit brick.\n\nHard.\n\nEveryone stopped.\n\nNo injury.\n\nOne inch, maybe two.\n\nEnough.\n\nMy stomach went cold.\n\nLorn stared at the brace.\n\nThen at me.\n\nNobody said anything.\n\nI hated the silence.\n\n\"Break.\"\n\nKel said, \"We have ninety minutes.\"\n\n\"Break.\"\n\n\"How long?\"\n\n\"Fifteen.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 57,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Rell sat down before I finished the word.\n\nDavi did too.\n\nThat told me everything I should have known earlier.\n\nMara stayed standing.\n\nAngry.\n\nGood.\n\nI deserved a witness.\n\nWe drank water.\n\nAte cold bread.\n\nLorn eventually said, \"Brace pin.\"\n\n\"What?\"\n\n\"You told me to pick it up.\"\n\n\"I know.\"\n\n\"I was looking at the lift.\"\n\n\"I know.\"\n\n\"I should have said wait.\"\n\n\"Yes.\"\n\nThen the harder part.\n\n\"I should have stopped us before you needed to.\"\n\nHe nodded once.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 58,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Mara said, \"We should have stayed one bay.\"\n\nThere it was.\n\nUseful information.\n\nBad decision.\n\n\"Agreed.\"\n\nKel looked surprised.\n\n\"You are giving up the second bay?\"\n\n\"No. It is already open.\"\n\n\"Then what?\"\n\n\"I was wrong to open it tonight.\"\n\nDifferent statement.\n\nI looked at the remaining work.\n\nWe had enough documentation for preliminary review.\n\nWe did not need a full bypass rebuild before daylight.\n\nStabilize.\n\nReconnect original return.\n\nClose first bay for service.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 59,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Secure the second behind a barrier.\n\nCome back when people had slept.\n\nRell agreed.\n\nMara did too.\n\nKel hated the open bay but accepted it.\n\nDavi wanted another ten minutes before standing.\n\nI gave him fifteen.\n\nAt third bell we resumed.\n\nDifferent pace.\n\nTwo-person calls before every lift.\n\nMara owned the station return sequence.\n\nRell owned the fitting.\n\nDavi owned masonry closure.\n\nLorn handled brace stock but did not touch a lift without another worker calling ready.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 60,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I stopped trying to own the room.\n\nThat was the actual correction.\n\nNot thinking better.\n\nGiving things back.\n\nWe restored service twelve minutes late.\n\nMorning load had started.\n\nOne bakery lost oven heat for eighteen minutes.\n\nDistrict received two complaints.\n\nNobody got hit.\n\nThe second bay remained open behind a barrier.\n\nKel wrote in the station book:\n\nLATE RESTORE.\n\nThen underneath:\n\nCREW TIRED. LEAD GOT CLEVER.\n\nI stared at her.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

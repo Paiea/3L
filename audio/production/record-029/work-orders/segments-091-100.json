@@ -1,0 +1,77 @@
+{
+  "record": "029",
+  "source_sha256": "23ce651a38de101aee6838d9148df936697ae161231e76f6eb1655efb9d6f29b",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 91,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Security flaw.\"\n\nHis claws shifted against the stone.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 92,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You speak of collapsed stations with less detail.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 93,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThat one landed.\n\nI looked away from him.\n\nToward the dark opening behind his shoulder where the cave disappeared into somewhere I could not see.\n\nThe first year with Mira and Tomas was exhausting.\n\nNessa and I fought more.\n\nWe had less money.\n\nLess sleep.\n\nLess privacy.\n\nWork became harder to schedule.\n\nMeals went cold.\n\nEvery object below waist height became a hazard.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 94,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Sometimes I went to district and thought a room full of officials was restful because nobody there screamed when I set them down.\n\nIthar made the expression again.\n\n\"Do not.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 95,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"I have said nothing.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 96,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Your face.\"\n\nPerhaps I had learned something from Nessa.\n\nNot enough.\n\nI looked back at him.\n\n\"It was fucking awful.\"\n\n\"Yes.\"\n\n\"Harder than I expected.\"\n\n\"Yes.\"\n\n\"I was tired for years.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 97,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You have made that extremely clear.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 98,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI waited.\n\nHe waited longer.\n\nDragons cheat at silence.\n\nFinally he said, ",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 99,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"And?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 100,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI hated him.\n\n\"And I didn't say I wanted it to stop.\"\n",
+      "pause_after_ms": 220
+    }
+  ]
+}
