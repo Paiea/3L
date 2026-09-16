@@ -1,0 +1,92 @@
+name: Temporary Record 035 Release
+
+on:
+  push:
+    branches: [audio/record-035-release]
+    paths:
+      - .github/workflows/tmp-r035-release.yml
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-035-release
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Import verified Record 035 production
+        run: |
+          set -euo pipefail
+          git fetch --depth=1 origin audio/record-035-production
+          git checkout FETCH_HEAD -- audio/routing/record-035.json audio/production/record-035 audio/assets/record-035-quote-locked-v2.mp3
+          test -f audio/production/record-035/verification-v2.json
+          test -f audio/production/record-035/captures.json
+          test -f audio/assets/record-035-quote-locked-v2.mp3
+      - name: Advance manifest only after verification
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          source_hash='7056bfbf522d9bde24de9d41bb71886fbc4f6507aa7cce7b57c1da0a3fe0621e'
+          audio_hash='aea9764f3ddba6dbb84deb056eb54cf0ac9971d611c66a2ff20701069eaa5b62'
+          duration=1634.16
+          source=Path('manuscript/records/035/current.md').read_text(encoding='utf-8')
+          assert hashlib.sha256(source.encode('utf-8')).hexdigest()==source_hash
+          asset=Path('audio/assets/record-035-quote-locked-v2.mp3')
+          assert hashlib.sha256(asset.read_bytes()).hexdigest()==audio_hash
+          verification=json.loads(Path('audio/production/record-035/verification-v2.json').read_text(encoding='utf-8'))
+          assert verification['record']=='035'
+          assert verification['status']=='assembled_unlistened'
+          assert verification['routing_mode']=='exact_quote_locked'
+          assert verification['uses_timestamps_for_speaker_assignment'] is False
+          assert verification['source_sha256']==source_hash
+          assert verification['segment_count']==260
+          assert len(verification['ithar_segment_indices'])==122
+          assert verification['duration_seconds']==duration
+          assert verification['sha256']==audio_hash
+          manifest_path=Path('audio/manifest.json')
+          manifest=json.loads(manifest_path.read_text(encoding='utf-8'))
+          assert manifest['records']['r034']['status']=='published'
+          manifest['records']['r035']={
+            'status':'published',
+            'src':'audio/assets/record-035-quote-locked-v2.mp3',
+            'source_sha256':source_hash,
+            'audio_sha256':audio_hash,
+            'duration_seconds':duration,
+            'routing_mode':'exact_quote_locked',
+            'listened':False,
+          }
+          manifest_path.write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          print('Staged Record 035 manifest advancement')
+          PY
+      - name: Validate clean release
+        run: |
+          set -euo pipefail
+          python scripts/audio_route.py manuscript/records/035/current.md audio/routing/record-035.json /tmp/route-035-release.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          route=json.loads(Path('/tmp/route-035-release.json').read_text(encoding='utf-8'))
+          prepared=json.loads(Path('audio/production/record-035/route-plan.json').read_text(encoding='utf-8'))
+          assert route==prepared
+          assert ''.join(s['transcript'] for s in route['segments'])==route['audio_body']
+          assert [s['index'] for s in route['segments']]==list(range(1,261))
+          assert sum(s['speaker']=='ithar' for s in route['segments'])==122
+          PY
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit staged Record 035 release
+        run: |
+          set -euo pipefail
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio/manifest.json audio/routing/record-035.json audio/production/record-035 audio/assets/record-035-quote-locked-v2.mp3
+          git commit -m 'Publish Record 035 production audio'
+          git push origin HEAD:audio/record-035-release
