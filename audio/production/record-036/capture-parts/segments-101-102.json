@@ -1,0 +1,8 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "segments": [
+    {"index": 101, "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3a8a5cbc-b1f4-432f-9b89-de09e010545d.mp3", "pause_after_ms": 450},
+    {"index": 102, "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/917e64f2-b658-4434-8bbd-d8d8b3bb9e7c.mp3", "pause_after_ms": 220}
+  ]
+}
