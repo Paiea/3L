@@ -1,591 +1,491 @@
 ## RECORD 072
 
-## THE TRAINER
+## THE ANCHOR
 
-The first training manual I wrote was forty-eight pages.
+The first landing had a door with no hinges.
 
-Nobody finished it.
+That was becoming a theme.
 
-That was useful feedback.
+Mael spent twenty minutes deciding whether it was a door.
 
-I did not receive it gracefully.
+Then another fifteen deciding whether opening it would change pressure below us.
 
-Hali put the pages on my desk.
+Arcrutus spent the same thirty-five minutes eating nuts.
 
-All forty-eight.
+Pava measured the floor.
 
-Unmarked after page eleven.
+I sat against the wall and tried not to resent people who had planned to bring chairs.
 
-“What happened?” I asked.
+Arcrutus had sacrificed those too.
 
-“I stopped.”
+Not literally.
 
-“I can see that.”
+Probably.
 
-“Good.”
+The landing was wide enough for the whole expedition to spread out without blocking the descent line.
 
-“Why?”
+That mattered because we were sleeping there.
 
-“Page twelve.”
+Nobody liked it.
 
-I opened it.
+Nobody proposed going farther tired.
 
-LEGACY PRESSURE INTERFACE: PRELIMINARY FIELD CLASSIFICATION.
+Also a difference between serious expeditions and young parties.
 
-Reasonable heading.
+At twenty-three I had once walked nine hours after deciding I was too tired to make mistakes.
 
-Under it were seven categories.
+At forty-eight I understood the sentence better.
 
-Each category had conditions.
+We slept in shifts.
 
-Each condition had exceptions.
+Not because anything attacked us.
 
-Some exceptions had footnotes because apparently I hated workers.
+Because the instruments needed watching.
 
-“What is wrong with page twelve?”
+The deep pressure moved while we rested.
 
-Hali stared at me.
+Slow.
 
-“Do you want the polite answer?”
+Regular enough to tempt interpretation.
 
-“No.”
+Irregular enough to punish it.
 
-“I was standing in a pump room when I tried to read it.”
+The survey lead laid three slates side by side.
 
-“That is where it is supposed to be used.”
+One tracked floor compression.
 
-“Yes.”
+One tracked wall strain.
 
-“So?”
+One tracked the pressure rods we had left seated at the landing edge.
 
-“I had gloves on.”
+The lines did not match.
 
-I waited.
+They were related.
 
-“Greg.”
+That was worse.
 
-“What?”
+If they had been random, we could have blamed bad tools.
 
-“I am not reading a fucking essay beside a live regulator.”
+If they had matched, we could have drawn arrows.
+
+Instead one line rose and another fell, then both settled while the third barely moved.
+
+I stared too long.
+
+The survey lead said, "You are trying to solve it from one station."
+
+"Yes."
+
+"Stop."
+
+I looked at her.
+
+"You sound like Sel."
+
+"I don't know who that is."
+
+"Good for you."
+
+She pointed at the slate.
+
+"This tells us local response. Not source."
+
+"I know."
+
+"You are still staring at it like source is hidden in the handwriting."
+
+Also fair.
+
+I hated specialists.
+
+Useful people.
+
+Terrible personalities.
+
+The next morning we opened the door.
+
+It was not a door.
+
+Mael had been right to take thirty-five minutes.
+
+The whole slab moved sideways into the wall on a pressure balance, revealing a horizontal gallery beyond it.
+
+No hinges.
+
+No rollers.
+
+No visible counterweight.
+
+Pava made a sound that in anybody else might have been appreciation.
+
+On her it sounded like suspicion.
+
+The gallery ran straight for about two hundred yards and then divided into five passages.
+
+Each branch had a different floor geometry.
+
+The survey lead got excited.
+
+Not visibly.
+
+She unpacked more chalk.
+
+That was how I knew.
+
+We spent most of the day mapping load response.
+
+Pava pulsed.
+
+Mael applied controlled force against marked surfaces.
+
+Arcrutus stood where Mael told him and complained once every hour to prove he remained himself.
+
+The technical crew measured everything they could.
+
+I remained insurance.
+
+Mostly.
+
+At the north branch, Mael pressed his palm against a wall panel and increased force slowly.
+
+The panel should have transmitted compression into the surrounding frame.
+
+It did.
+
+Then stopped.
+
+Not because Mael stopped.
+
+The nearby strain needles flattened while his output continued rising.
+
+The survey lead checked them.
+
+Then checked the backup needles.
+
+"No saturation."
+
+Pava said, "Again at half rate."
+
+Mael did.
+
+Same result.
+
+The frame accepted load.
+
+Then some threshold passed and additional load stopped appearing locally.
+
+I said, "It's going somewhere."
+
+Nobody responded.
+
+That usually meant I had said something too obvious to deserve air.
 
 Fair.
 
-Annoying.
+The survey lead moved to the next station.
 
-Fair.
+We repeated.
 
-The manual had started because regional offices wanted something more formal than apprenticeship by proximity.
+Different threshold.
 
-Too many sites.
+Same disappearance.
 
-Too many old interfaces.
+Third station.
 
-Too few Tovas, Osas, D eras, Hal i s, and whatever category I had become.
+Same.
 
-We had already learned the bad version of scaling.
+Fourth.
 
-Send Greg.
+No disappearance at all.
 
-Send Tova.
+The wall cracked.
 
-Send somebody who has seen it before.
+Mael stopped before anyone had time to tell him.
 
-That works until three places need the same person.
+The crack was three inches long.
 
-Or the person is sick.
+The healer looked offended by its existence.
 
-Or old.
+Pava crouched beside it.
 
-Or dead.
+"Dead path."
 
-I disliked that last one enough to write forty-eight pages.
+The survey lead said, "Maybe."
 
-Apparently mortality creates prose problems.
+Mael smiled slightly.
 
-Nessa read the manual too.
+I appreciated that more than I should have.
 
-Not all of it.
+We marked the branch red and moved on.
 
-Nobody respected me.
+By midday the map looked like a drunk spider had learned accounting.
 
-She reached page nine.
+Pressure entered here.
 
-“Why are there four definitions of warm?”
+Appeared there.
 
-“Because hand-warm and instrument-warm are different.”
+Vanished here.
 
-“Then write that.”
+Returned somewhere else at lower magnitude.
 
-“I did.”
+Some paths shared load.
 
-“You wrote comparative thermal deviation.”
+Some refused it.
 
-“That is more precise.”
+Some only accepted it after a different path crossed a threshold.
 
-“No. That is more words.”
+I knew that shape.
 
-I took the pages back.
+Not the architecture.
 
-The second version was twenty-six pages.
+The behavior.
 
-Hali finished eighteen.
+I had spent years watching teams do the same thing.
 
-Progress.
+One person carries until their useful margin narrows.
 
-The third version was not a manual.
+Then someone else picks up the next part.
 
-That was the breakthrough.
+Not because total load vanished.
 
-It was a sequence.
+Because where it was paid changed.
 
-Not what to know.
+I said, "Stop drawing supports."
 
-What to do first.
+The survey lead did not look up.
 
-STOP.
+"I am not drawing supports."
 
-LOOK.
+"You're drawing structures."
 
-ASK.
+"We are in a structure."
 
-MEASURE.
+"I know."
 
-NAME WHAT YOU DO NOT KNOW.
+She finally looked at me.
 
-SET A LIMIT BEFORE TOUCHING.
+I pointed to the map.
 
-TOUCH ONE THING.
+"Draw transfers."
 
-CHECK WHAT CHANGED.
+Pava said, "Explain."
 
-WRITE ENOUGH DOWN THAT THE NEXT PERSON CAN DISAGREE WITH YOU.
+I almost did badly.
 
-Hali read the first card.
+Then remembered everyone in the room was better at this than me in at least one way.
 
-“Better.”
+"If the wall is primary, more force should mean more local stress until failure or deformation."
 
-“High praise.”
+The survey lead nodded.
 
-“Do not get used to it.”
+"Generally."
 
-We tested the sequence on new hires.
+"But at three stations, stress rises and then stops while Mael keeps increasing force."
 
-Not classroom only.
+"Yes."
 
-Real pump houses.
+"So either the instruments are missing a local mechanism, or the added load is being moved."
 
-Old galleries.
+"Yes."
 
-Apartment manifolds.
+"Not supported. Moved."
 
-Places where nothing dramatic was happening.
+Pava tapped the map.
 
-That mattered.
+"To where?"
 
-Emergency training teaches people to expect emergencies.
+"That's my question."
 
-Maintenance is mostly learning how to notice the ordinary condition before it becomes unusual.
+Arcrutus, from the floor, said, "Useful."
 
-The first trainee under the new sequence was a young fitter named Tomas Reed.
+I looked at him.
 
-Twenty-four.
+He was repairing a boot strap with thread that would have been packed in his missing second repair kit if he had not put me in a bag.
 
-D-class.
+I felt no sympathy.
 
-Very good hands.
+Mael said, "We already know load redistributes."
 
-Terrible confidence.
+I nodded.
 
-He apologized before touching tools.
+"Across the visible structure?"
 
-That was almost as dangerous as arrogance.
+"Not sufficiently to explain the measured deltas."
 
-At South Fen we gave him a noisy return valve.
+"Then we're not mapping what holds this place up."
 
-Not broken.
-
-Probably dirty.
-
-His instinct was to ask me what I thought.
-
-I pointed at the first card.
-
-STOP.
-
-He glared.
-
-Good.
-
-“Look,” he said.
-
-“Do it.”
-
-He looked.
-
-Actually looked.
-
-Not the quick glance people perform before asking the senior person anyway.
-
-Valve body clean.
-
-Pipe support intact.
-
-Condensation normal.
-
-No vibration at the upstream brace.
-
-Then ASK.
-
-He asked the operator when the noise started.
-
-Only after morning wash load.
-
-How long?
-
-Two weeks.
-
-Any changes?
-
-New laundry pump installed upstairs.
-
-There it was.
-
-Not answer.
-
-Context.
-
-MEASURE.
-
-Pressure stable.
-
-Temperature normal.
-
-Return flow pulsed every time the upstairs pump cycled.
-
-Tomas looked at me.
-
-“Shared return?”
-
-“Maybe.”
-
-He hated that answer.
-
-Good.
-
-“What do you not know?” I asked.
-
-He looked at the card.
-
-Then the pipes.
-
-“Whether they actually share after the wall.”
-
-“Good.”
-
-“Whether pulse can damage this valve.”
-
-“Good.”
-
-“Whether cleaning changes anything.”
-
-“Good.”
-
-“Whether I am allowed to open the wall.”
-
-“Excellent.”
-
-That last one came from history.
-
-Lorn smiled from across the room.
-
-Senn had become educational material.
-
-Poor bastard.
-
-We set a limit.
-
-No wall opening.
-
-No live disassembly.
-
-Clean strainer only.
-
-Then check.
-
-Tomas cleaned the strainer.
-
-Noise reduced but remained.
-
-That told us something.
-
-Not enough.
-
-We scheduled a second visit with building plans and authority to inspect behind the access panel.
-
-No heroics.
-
-No answer that day.
-
-Tomas looked disappointed.
-
-“You did the job,” I said.
-
-“We didn't fix it.”
-
-“Not the same thing.”
-
-He frowned.
-
-I understood.
-
-At twenty-four, unfinished work feels like failed work.
-
-At forty, unfinished work feels like Tuesday.
-
-Age helps occasionally.
-
-The training sequence spread because it was easy to copy.
-
-Not because I was famous.
-
-Cards fit in a pocket.
-
-District offices copied them.
-
-Contractors copied the district copies.
-
-Someone changed NAME WHAT YOU DO NOT KNOW to SAY WHAT YOU DO NOT KNOW.
-
-Better.
-
-I stole it.
-
-Someone else added WHO ELSE GETS HURT IF THIS STOPS?
-
-Also better.
-
-Stole that too.
-
-My beautiful original authorship suffered terribly.
-
-Good.
-
-The sequence became:
-
-STOP.
-
-LOOK.
-
-ASK.
-
-MEASURE.
-
-SAY WHAT YOU DO NOT KNOW.
-
-WHO ELSE CHANGES IF YOU ACT?
-
-SET LIMITS.
-
-CHANGE ONE THING.
-
-CHECK AGAIN.
-
-LEAVE A RECORD.
-
-Not every job fit it.
-
-Rescue work moved faster.
-
-Known routine maintenance needed less ceremony.
-
-Some faults required theory before action.
-
-Some required immediate shutdown before anybody had time to say anything elegant.
-
-The cards were not commandments.
-
-That became part of the training too.
-
-A worker asked me once, “When can I skip steps?”
-
-I said, “When you can explain what risk the missing step normally controls.”
-
-He thought about that.
-
-“So if I cannot explain it, I should not skip it.”
-
-“Yes.”
-
-“Even if everyone else does?”
-
-“Yes.”
-
-“That will be annoying.”
-
-“Yes.”
-
-Good trainee.
-
-The harder part was teaching judgment that had lived in my body longer than the trainees had been alive.
-
-What does wrong vibration feel like?
-
-How much wall movement matters?
-
-When does a delay become more dangerous than an imperfect intervention?
-
-I kept wanting to say you know when you know.
-
-Useless sentence.
-
-First-life Greg had survived partly through accumulated sensation.
-
-Second-life Greg had spent years converting sensation into evidence because sensation could not be handed to another person.
-
-That turned out to be the real teaching work.
-
-Not passing knowledge.
-
-Decompressing it.
-
-Taking a conclusion that arrived in half a second and asking what observations built it.
-
-Sometimes I could answer.
-
-Sometimes I could not.
-
-When I could not, we marked it EXPERIENCE ONLY and treated it as a hypothesis requiring confirmation.
-
-That embarrassed me at first.
-
-Then less.
-
-One day Tomas asked why I refused to enter an old lower channel before checking ceiling moisture.
-
-I opened my mouth.
-
-First-life memory had already supplied the answer emotionally.
-
-Because wet ceilings fall.
-
-Too simple.
-
-Why that moisture?
-
-Why that channel?
-
-I looked again.
-
-White salts around two joints.
-
-Dark line following an old support seam.
-
-Drip frequency higher near active load wall.
+The survey lead said, "We're mapping interfaces to it."
 
 There.
 
-Not instinct.
+Better sentence.
 
-Evidence I had stopped noticing individually because the pattern was old to me.
+I wrote it down.
 
-I pointed each one out.
+We changed the survey.
 
-Tomas nodded.
+Not because of me alone.
 
-Then asked, “If only one was there?”
+That matters.
 
-Good question.
+The team had already accumulated enough bad fits to justify it.
 
-“We go slower.”
+My wording just gave them a cleaner test.
 
-“Two?”
+Instead of asking how much force each wall or rib carried, we started asking what additional load caused a response elsewhere.
 
-“Depends which two.”
+Pava loved this.
 
-“Three?”
+Not emotionally.
 
-“Now you understand why the manual was forty-eight pages.”
+Operationally.
 
-He laughed.
+She could pulse one station while three remote instruments watched for change.
 
-Asshole.
+The first two tests gave nothing.
 
-We did not rebuild the manual.
+The third lit a needle sixty yards away.
 
-We built examples instead.
+The fourth changed floor pressure in a passage that did not physically connect on our map.
 
-Short cases.
+The fifth made a salt seam close behind us.
 
-What happened.
+Nobody liked that.
 
-What someone noticed.
+We reopened it before continuing.
 
-What they believed.
+Procedure.
 
-What was wrong.
+Good procedure.
 
-What they changed.
+The sixth test gave us the first direction.
 
-What the result taught and did not teach.
+Pava seated a rod at the east branch.
 
-Not laws.
+Low pulse.
 
-Evidence with provenance.
+Mael watched the frame.
 
-That phrase came later.
+The survey lead watched the remote slates.
 
-The habit came first.
+I watched nothing useful and therefore saw the floor dust move.
 
-Years before Ithar asked me how I knew what I knew, trainees had already been forcing the same question every week.
+Barely.
 
-They just charged less for it.
+A thin line of salt slid toward the center junction.
 
-By the time Tomas qualified for independent regional work, he no longer asked me what I thought first.
+Not outward from Pava.
 
-He told me what he saw.
+Toward center.
 
-Then what he thought.
+"Again," I said.
 
-Then what would change his mind.
+Mael looked at me.
 
-That was better.
+I pointed.
 
-The last day of his training, he handed the pocket card back.
+The survey lead put a marker on the floor.
 
-“You keep it,” I said.
+Second pulse.
 
-“I know the steps.”
+Dust moved again.
 
-“That is when cards become dangerous.”
+Toward center.
 
-He looked at me.
+The slates showed three small remote responses.
 
-“Because I think I know them?”
+Different branches.
 
-“Yes.”
+All inward.
 
-He put it back in his pocket.
+We tested north.
 
-Good.
+Same.
 
-I kept one too.
+West.
 
-Present day, in the cave, it was long gone.
+Same.
 
-The habit was not.
+South branch was dead.
 
-Stop.
+Cracked locally.
 
-Look.
+No inward transfer.
 
-Ask.
+We marked it red.
 
-Measure.
+By evening we had arrows.
 
-Say what you do not know.
+Not enough for a map.
 
-Ithar would have approved of some of that.
+Enough for a direction.
 
-Probably not the paperwork.
+Every functioning path we could verify carried some portion of excess load toward the central shaft.
 
-Nobody is perfect.
+Not up.
+
+Not out.
+
+Down.
+
+The survey lead sat back on her heels.
+
+"That is unpleasant."
+
+Pava said, "Technical term?"
+
+"Yes."
+
+Mael studied the arrows.
+
+"Could be a central sink."
+
+"Could be a deeper distribution manifold," Pava said.
+
+"Could be a counter-mass," the survey lead said.
+
+Arcrutus said, "Could be something interesting."
+
+Nobody rewarded him.
+
+I stared at the map.
+
+The system had been bothering me because it looked like support without a supporter.
+
+Loads crossed boundaries.
+
+Margins changed.
+
+Local structures carried until they did not.
+
+Then burden moved somewhere we could not see.
+
+The mechanism was different.
+
+The question was familiar.
+
+I said, "If this isn't carrying it, what is?"
+
+Mael looked down the central shaft.
+
+"That's why we're going lower."
+
+We packed the slates.
+
+The survey lead copied every arrow before the originals went into separate cases.
+
+Pava wrapped her right forearm.
+
+Not injured.
+
+Worked.
+
+There was a difference.
+
+Arcrutus repaired his boot badly.
+
+I fixed it because watching him tie the knot wrong became physically painful.
+
+Then we slept another six hours.
+
+The load below us did not.
