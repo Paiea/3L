@@ -1,0 +1,140 @@
+name: Temporary Record 030 Assemble
+
+on:
+  push:
+    branches: [audio/record-030-production]
+    paths:
+      - audio/production/record-030/captures.json
+      - .github/workflows/tmp-r030-assemble.yml
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-030-production
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install ffmpeg explicitly
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version | head -n 1
+          ffprobe -version | head -n 1
+      - name: Structural verification
+        run: |
+          python scripts/audio_route.py manuscript/records/030/current.md audio/routing/record-030.json /tmp/route-regenerated.json
+          python - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          record='030'
+          expected_source='2ae119cd7b2ca903e5ddc9c0843cc82fb105dec487d6bc9276fec072ec6d17e3'
+          manuscript=Path(f'manuscript/records/{record}/current.md')
+          route=json.loads(Path(f'audio/production/record-{record}/route-plan.json').read_text(encoding='utf-8'))
+          regenerated=json.loads(Path('/tmp/route-regenerated.json').read_text(encoding='utf-8'))
+          captures=json.loads(Path(f'audio/production/record-{record}/captures.json').read_text(encoding='utf-8'))
+          source_sha=hashlib.sha256(manuscript.read_bytes()).hexdigest()
+          assert source_sha == route['source_sha256'] == regenerated['source_sha256'] == captures['source_sha256'] == expected_source
+          assert route['routing_mode'] == regenerated['routing_mode'] == captures['routing_mode'] == 'exact_quote_locked'
+          assert route['audio_body'] == regenerated['audio_body']
+          assert route['segments'] == regenerated['segments']
+          segments=route['segments']
+          assert len(segments)==34
+          assert [s['index'] for s in segments]==list(range(1,35))
+          assert ''.join(s['transcript'] for s in segments)==route['audio_body']
+          assert all(s['speaker']=='greg' and s['voice_id']=='deep' for s in segments)
+          work=[]
+          for path in sorted(Path(f'audio/production/record-{record}/work-orders').glob('segments-*.json')):
+              payload=json.loads(path.read_text(encoding='utf-8'))
+              assert payload['source_sha256']==source_sha
+              assert payload['routing_mode']=='exact_quote_locked'
+              work.extend(payload['segments'])
+          assert work==segments
+          caps=captures['segments']
+          assert captures['status']=='candidate_unlistened'
+          assert len(caps)==34 and [c['index'] for c in caps]==list(range(1,35))
+          for c,s in zip(caps,segments):
+              assert c['pause_after_ms']==s['pause_after_ms']
+              assert c['preview_url'].startswith('https://storage.googleapis.com/')
+          print('Record 030 structural verification passed')
+          print('source_sha256',source_sha)
+          print('segment_count',len(segments))
+          print('ithar_segment_indices',[])
+          PY
+      - name: Download takes and deterministically assemble
+        run: |
+          set -euo pipefail
+          rm -rf /tmp/r030-assemble
+          mkdir -p /tmp/r030-assemble/takes /tmp/r030-assemble/wavs /tmp/r030-assemble/silence audio/assets
+          python - <<'PY'
+          import json, subprocess
+          from pathlib import Path
+          caps=json.loads(Path('audio/production/record-030/captures.json').read_text())['segments']
+          root=Path('/tmp/r030-assemble')
+          concat=[]
+          for c in caps:
+              i=c['index']
+              mp3=root/'takes'/f'{i:03d}.mp3'
+              wav=root/'wavs'/f'{i:03d}.wav'
+              silence=root/'silence'/f'{i:03d}.wav'
+              subprocess.run(['curl','-fsSL','--retry','4','--retry-delay','2','-o',str(mp3),c['preview_url']],check=True)
+              subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-i',str(mp3),'-ar','24000','-ac','1','-c:a','pcm_s16le',str(wav)],check=True)
+              concat.append(wav)
+              ms=int(c['pause_after_ms'])
+              if ms>0:
+                  subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-f','lavfi','-i','anullsrc=r=24000:cl=mono','-t',f'{ms/1000:.3f}','-c:a','pcm_s16le',str(silence)],check=True)
+                  concat.append(silence)
+          with (root/'concat.txt').open('w',encoding='utf-8') as f:
+              for p in concat:
+                  f.write("file '"+str(p).replace("'","'\\''")+"'\n")
+          PY
+          ffmpeg -hide_banner -loglevel error -y -f concat -safe 0 -i /tmp/r030-assemble/concat.txt -ar 24000 -ac 1 -c:a pcm_s16le /tmp/r030-assemble/record-030.wav
+          ffmpeg -hide_banner -loglevel error -y -i /tmp/r030-assemble/record-030.wav -ar 24000 -ac 1 -c:a libmp3lame -b:a 128k audio/assets/record-030-quote-locked-v2.mp3
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 audio/assets/record-030-quote-locked-v2.mp3 > /tmp/r030-duration.txt
+          sha256sum audio/assets/record-030-quote-locked-v2.mp3 | awk '{print $1}' > /tmp/r030-sha.txt
+          cat /tmp/r030-duration.txt
+          cat /tmp/r030-sha.txt
+      - name: Write verification metadata
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          route=json.loads(Path('audio/production/record-030/route-plan.json').read_text())
+          duration=float(Path('/tmp/r030-duration.txt').read_text().strip())
+          sha=Path('/tmp/r030-sha.txt').read_text().strip()
+          payload={
+              'record':'030',
+              'status':'assembled_unlistened',
+              'routing_mode':'exact_quote_locked',
+              'uses_timestamps_for_speaker_assignment':False,
+              'source_sha256':route['source_sha256'],
+              'segment_count':len(route['segments']),
+              'ithar_segment_indices':[],
+              'duration_seconds':round(duration,3),
+              'sha256':sha,
+              'asset':'audio/assets/record-030-quote-locked-v2.mp3',
+              'note':'Deterministic route/pause verification passed; auditory listen-back remains pending.'
+          }
+          Path('audio/production/record-030/verification-v2.json').write_text(json.dumps(payload,indent=2)+'\n')
+          print(json.dumps(payload,indent=2))
+          PY
+      - name: Run repository checks
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+      - name: Commit assembled audio to production branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add audio/assets/record-030-quote-locked-v2.mp3 audio/production/record-030/verification-v2.json
+          if git diff --cached --quiet; then
+            echo "No assembled changes"
+          else
+            git commit -m "Assemble Record 030 production audio"
+            git push origin HEAD:audio/record-030-production
+          fi
