@@ -1,517 +1,1037 @@
 ## RECORD 056
 
-## THE PARTNER
+## THE REQUEST
 
-Lorn became my business partner because a client asked which one of us was responsible.
+I found out people wanted me when I tried to hire them.
 
-We both pointed at the other.
+This was inconvenient.
 
-Bad sign.
+The B-class evaluation had been six weeks earlier.
 
-The client was a textile mill outside Market Two.
+Long enough for the embarrassment to become useful.
 
-Medium job.
+Not long enough for Sel Aven to stop sending me notes about things I did badly.
 
-Not dangerous enough for Authority work.
+Her latest was three pages on emergency wrist stabilization.
 
-Too complicated for a single fitter.
+I had written THANK YOU at the bottom.
 
-Pressure balancing across six dye vats, one wash loop, and an old heating branch somebody had modified during a year when records apparently became optional.
+Then, smaller:
 
-Lorn had done the site walk.
+YOU ARE STILL WRONG ABOUT STATIC REINFORCEMENT.
 
-I had written the estimate.
+She sent back:
 
-He had scheduled the work.
+PASS B FIRST.
 
-I had signed the Guild notice.
+Good friendship.
 
-Hema was supplying two fabricated brackets.
+I was looking for work anyway.
 
-Jori was rebuilding the circulation pump.
+Not because work was scarce.
 
-The client looked at all of us and asked a reasonable question.
+Because the work I wanted had changed.
 
-“If this runs late, who do I call?”
+Short hazard contracts with Calder and Orla had taught me too much about repeat teams.
 
-I pointed at Lorn.
+North Mason had taught me that roster shape mattered.
 
-Lorn pointed at me.
+The evaluation had taught me that I could not walk into four strangers and expect them to become my people before lunch.
 
-Hema laughed.
+So I made the obvious professional decision.
 
-The client did not.
+I went looking for better strangers.
 
-“Which one?”
+The contract was called White Stair.
 
-Lorn said, “Greg owns the registration.”
+Eight weeks in the western limestone cuts where spring melt had opened old quarry galleries under a freight road.
 
-I said, “Lorn runs the field schedule.”
+Survey first.
 
-“So Greg.”
+Stabilization second.
 
-“For contract changes, yes.”
+Crawler suppression if anything had moved into the dark.
 
-“And delays?”
+Possible deep breach work.
 
-“Lorn.”
+Good money.
 
-“And money?”
+Bad footing.
 
-“Me.”
+Long days.
 
-Lorn said, “Unfortunately.”
+Exactly the kind of job where nobody should improvise with somebody else's mana.
 
-“And warranty?”
+Perfect.
 
-We stopped.
+The contractor had three combat slots open and one support slot.
 
-The client folded his arms.
+I applied for support.
 
-There it was.
+The clerk looked at my papers.
 
-We had built a partnership accidentally and kept the paperwork arranged like I was hiring Lorn job by job.
+Then looked at me.
 
-That had stopped matching reality.
+"You're already on the list."
 
-The textile contract went fine.
+"I just arrived."
 
-Mostly.
+"Not that list."
 
-One valve arrived wrong.
+She turned the slate around.
 
-Hema's bracket fit.
+REQUESTED SUPPORT: GREG VANE, IF AVAILABLE.
 
-Jori's pump worked.
+Under it were two signatures.
 
-Lorn moved the schedule around the missing valve without calling me because I was in Hillcross.
+One I did not know.
 
-Good.
+The other I did.
 
-Then the client held final payment for three days because nobody knew whose signature closed warranty acceptance.
+Aren Vale.
 
-Less good.
+I stared at it.
 
-We solved it.
+"That Vale?"
 
-Then sat in the shop after dark with the money on the bench.
+The clerk shrugged.
 
-Twenty-four silver profit after materials and outside trades.
+"How many do you know?"
 
-Not huge.
+Unfortunately, several.
 
-Enough.
+But only one Aren Vale had spent fifteen years being compared to Arcrutus Vale and survived with a personality.
 
-Lorn said, “We should fix this.”
+Arcrutus's eldest son was forty-two.
 
-“The valve?”
+Seven years older than me.
 
-“The business.”
+A-class combat.
 
-I looked at him.
+Spear and reinforcement.
 
-He looked at me.
+Not S-class.
 
-We had known each other too long for pretending.
+Not close enough for people to whisper it responsibly.
 
-“What do you want?”
+Still the kind of fighter contractors put first on a roster because everybody else could be selected around the problems he solved.
 
-“Partner.”
+I had met him twice.
 
-Direct.
+Once at a clan gathering where he had been nineteen and I had been mostly furniture.
 
-Good.
+Once years later when Arcrutus made me run from ridge hounds and Aren watched for eleven minutes before asking whether his father had finally become bored enough to kill relatives recreationally.
 
-I still disliked it.
+We were not friends.
 
-Not Lorn.
+"Why did he request me?"
 
-The word.
-
-Partner meant ownership.
-
-Not friendship.
-
-Not trusted helper.
-
-Not employee I could overpay after a bad month and call principle.
-
-Ownership meant he could make decisions I disliked and remain correct to make them.
-
-Record Seventeen had prepared me theoretically.
-
-Theory is cheaper.
-
-“What share?” I asked.
-
-Lorn smiled.
-
-“Not asking half.”
-
-“Why not?”
-
-“You paid for most equipment.”
-
-“Some is depreciated.”
-
-He stared.
-
-“You learned that word?”
-
-“Nessa.”
-
-“Of course.”
-
-We inventoried the shop.
-
-Tools.
-
-Test rigs.
-
-Stock.
-
-Accounts owed.
-
-Upcoming contracts.
-
-Guild registration.
-
-The lease.
-
-Goodwill, which I hated because it meant people paying for a name nobody could put on a shelf.
-
-Nessa helped with valuation.
-
-Not because she was joining.
-
-I asked once.
-
-“Want in?”
-
-“No.”
-
-“Fast.”
-
-“I already have a career.”
-
-“Could be investment only.”
-
-“No.”
-
-“Why?”
-
-“I like being able to tell you both you're stupid without a financial conflict.”
-
-Fair.
-
-Lorn bought in partly with cash and partly by converting years of unpaid or underpaid shop-building labor we could document well enough not to lie to ourselves.
-
-Twenty-eight percent.
-
-Not thirty because the numbers did not land there.
-
-Nessa said rounding for emotional beauty was bad accounting.
-
-Twenty-eight.
-
-I kept seventy-two.
-
-That looked like control.
-
-It was not supposed to mean control of every decision.
-
-We wrote authorities.
-
-Ordinary jobs under a set value: either partner could accept.
-
-Jobs above it: both.
-
-Debt: both.
-
-New employees: both.
-
-Safety shutdown: anybody on site.
-
-Client credits under two silver: whoever was handling the complaint.
-
-More: both.
-
-Equipment purchase under one silver: no discussion.
-
-Lorn immediately bought a better kettle for the shop.
-
-“That is not equipment.”
-
-“It produces tea.”
-
-“For work?”
-
-“Yes.”
-
-I appealed to Nessa.
-
-She sided with Lorn.
-
-Corruption.
-
-The harder section was loss.
-
-If a job lost money, the partnership absorbed it by shares.
-
-That meant I absorbed more.
+"Ask him."
 
 Reasonable.
 
-If one partner acted outside authority and caused loss?
+I found Aren in the equipment yard checking climbing harnesses.
 
-We argued for two nights.
+He looked like Arcrutus if Arcrutus had been assembled by somebody who believed humans required more conversation.
 
-My first version said the responsible partner absorbed the direct loss.
+Same long reach.
 
-Lorn hated it.
+Same economy when he moved.
 
-“You want people to hide mistakes.”
+Different face.
 
-“No.”
+Different eyes.
 
-“If I make a bad call and lose ten silver personally, I'm going to think about ten silver before telling you.”
+Aren smiled when he saw me.
 
-“You would tell me.”
+That alone proved genetics had limits.
 
-“Yes. Somebody else might not.”
+"Greg."
 
-“We are talking about us.”
+"Aren."
 
-“We are writing something other people might work under later.”
+"You failed B."
 
-I stopped.
+"Good morning."
 
-That was new.
+"Was it?"
 
-He was already thinking beyond the two of us.
+"Before this."
 
-Good.
+He laughed.
 
-Annoying.
+I held up the roster slate.
 
-We changed it.
+"Why am I on here?"
 
-Ordinary good-faith error belonged to the partnership.
+"North Mason."
 
-Fraud, deliberate concealment, or knowingly acting outside a stop order belonged differently.
+"You were there?"
 
-Not perfect language.
+"No."
 
-Better incentives.
+"Then?"
 
-The Guild clerk reviewed our partnership filing.
+"I read."
 
-Same woman who had once explained private call sheets to me, older now.
+Another dangerous family trait.
 
-She read the authority section twice.
+He went back to the harness.
 
-“Too detailed.”
+"The report said your party got better after learning when you were going to stop supporting them."
 
-I stared.
+"Partly."
 
-“You usually like detail.”
+"That's unusual."
 
-“I like useful detail.”
+"Apparently not enough for B."
 
-“What is not useful?”
+"Guild classifications answer Guild questions."
 
-She pointed at three lines.
+"That sounded like your father."
 
-“You wrote what happens if both partners are incapacitated on the same site.”
+Aren's face flattened.
 
-“It could happen.”
+"Take it back."
 
-“Then the job stops.”
+"Sorry."
 
-“Oh.”
+"Thank you."
 
-She crossed it out.
+He pulled hard on a buckle.
 
-Institutions occasionally protect people from their own imagination.
+"I want to see it."
 
-We filed as Vale-Esset Pressure Works.
+"The Draw?"
 
-Lorn hated the name.
+"All of it."
 
-“Why are you first?”
+That answer bothered me.
 
-“Alphabetical.”
+Most fighters who heard about the method asked how much stronger I could make them.
 
-“V before E?”
+Aren asked about the system.
 
-I looked at the sign draft.
+"You know it requires training."
 
-He waited.
+"Good."
 
-“Fuck.”
+"It can make you worse before better."
 
-We became Esset & Vale Pressure Works.
+"Most useful things do."
 
-Lorn smiled for three days.
+"You may hate it."
 
-I regretted literacy.
+"Then I'll leave."
 
-The first contract signed under both names was small.
+Simple.
 
-Bathhouse circulation problem.
+A-class people could afford clarity.
 
-Seven silver.
+The other two combat slots filled within four days.
 
-Lorn took it without asking me because the amount sat under his authority.
-
-I found out when I saw the work sheet on the bench.
-
-My first reaction was irritation.
-
-Immediate.
-
-Embarrassing.
-
-He had not consulted me.
-
-That was the point.
-
-I read the sheet.
-
-Scope clear.
-
-Price fine.
-
-No unusual hazard.
-
-Schedule did not conflict.
-
-Nothing wrong.
-
-Still irritated.
-
-Nessa came by after work and found me staring.
-
-“What?”
-
-“Lorn took a bathhouse job.”
-
-“Good.”
-
-“Without me.”
-
-“Partner.”
-
-“Yes.”
-
-She waited.
-
-I hated how many people had learned this technique.
-
-“I know.”
-
-“Do you?”
-
-“Yes.”
-
-“Then stop making ownership noises.”
-
-“What is an ownership noise?”
-
-“That.”
-
-The bathhouse job went well.
-
-Of course.
-
-Lorn solved it with Jori.
-
-I never visited the site.
-
-The client paid.
-
-Seven silver entered the account.
-
-My share appeared in the ledger from work I had not touched.
-
-That felt stranger than losing money.
-
-Value detached from my labor.
+Not people I selected.
 
 Not entirely.
 
-My tools.
+Aren had opinions.
 
-Registration history.
+The contractor had more.
 
-Reputation.
+We got Sella Tor, B-class shield fighter with twelve years of quarry and tunnel work, and Merek Doss, high-C / low-B depending on which evaluator was irritated with him, a short-blade caster who specialized in ugly close spaces.
 
-Lorn's judgment.
+Then a survey mage named Iven joined the operational group because apparently underground stone does not care how many combat slots your contract lists.
 
-Jori's work.
+Five people around me.
 
-Shop systems.
+Stronger overall than any party I had supported for long.
 
-All of it combined.
+Calder would have fit.
 
-The money arrived because a structure existed.
+Orla would have fit.
 
-First-life Greg would have understood team shares after hazard contracts.
+Veda would have insulted all of them by dinner.
+
+They were not there.
+
+That mattered.
+
+First training morning I behaved like a support.
+
+Professional.
+
+Conventional.
+
+I asked what everyone needed.
+
+Sella wanted left-shoulder reinforcement under sustained load and no interference with shield wrist unless requested.
+
+Good.
+
+Merek wanted ankle stability on hard lateral cuts and hated pressure around his ribs.
+
+Good.
+
+Iven wanted nothing unless casting because reinforcement altered his fine sensing.
+
+Excellent.
+
+Aren said, "Show me where you need me."
+
+I looked at him.
+
+"What?"
+
+"Where do you need me?"
+
+"You're the forward fighter."
+
+"Probably."
+
+"Then I adapt to you."
+
+Aren shook his head.
+
+"That's what the last support did."
+
+"Was the last support bad?"
+
+"No. B-class. Excellent."
+
+"Then why are we changing it?"
+
+"Because I didn't request him."
+
+That was annoying.
+
+Also flattering.
+
+I distrusted both sensations.
+
+"I don't know where I need you yet."
+
+"Good. Figure it out."
+
+Sella looked between us.
+
+"Are we doing support backward?"
+
+"No," I said.
+
+Aren said, "Maybe."
+
+I disliked him immediately.
+
+This was also premature.
+
+We ran standard drills first.
+
+No Draw.
+
+No cycling.
+
+Just movement, Barrier, reinforcement, terrain markers, casualty shifts.
+
+Aren was very good.
+
+Not Arcrutus good.
+
+That distinction mattered.
+
+Arcrutus made difficult movement look like the world had been built incorrectly around him.
+
+Aren looked like a man who had practiced difficult movement until mistakes became expensive enough to avoid.
+
+His spear work was heavier than his father's.
+
+More reinforcement through hips and back.
+
+He committed harder.
+
+Recovered slower.
+
+Still fast enough to make my C-class body feel administrative.
+
+I learned his first obvious rhythm by lunch.
+
+Burst.
+
+Two breaths.
+
+Burst.
+
+One long recovery if the second commitment went deep.
+
+Mana stayed high longer than his legs did.
+
+Interesting.
+
+I wrote it down.
+
+He caught me.
+
+"What?"
+
+"Nothing."
+
+"You wrote after I moved."
+
+"You recover physically before you spend much reserve."
+
+"Usually."
+
+"Your second burst costs more body than mana."
+
+"Yes."
+
+"Why?"
+
+"Because I hit people."
+
+"Useful."
+
+"You asked."
+
+The first weird thing happened on day two.
+
+We were running a moving-line drill through quarry markers.
+
+Sella front-left.
+
+Aren forward-right.
+
+Merek inside.
+
+Iven behind.
+
+Me wherever I could stay useful.
+
+Aren saw an opening and did not take it.
+
+Obvious opening.
+
+Marker opponent committed left.
+
+Aren had the lane.
+
+Instead he shortened one step and struck later.
+
+Still scored.
+
+Slower.
+
+Afterward I asked.
+
+"You had the opening."
+
+"Yes."
+
+"Why didn't you take it?"
+
+"You weren't there yet."
+
+I waited.
+
+He waited.
+
+"I didn't need to be there."
+
+"You were moving to Merek."
+
+"Yes."
+
+"If I went, you would have had to choose."
+
+"That's my job."
+
+"Bad job."
+
+I stared at him.
+
+Sella stopped packing her shield.
+
+Merek looked over.
+
+Apparently we had an audience.
+
+"Explain."
+
+Aren planted the butt of his spear in the dirt.
+
+"You had two useful positions and one body. If I took the first opening, you either stayed with me or crossed late to Merek. So I waited half a beat."
+
+"You gave up tempo."
+
+"A little."
+
+"For support geometry."
+
+"For the party."
+
+Sella said, "That is disgusting."
+
+Aren looked at her.
+
+"Did it work?"
+
+"Yes. Still disgusting."
+
+I had no professional category for what he had done.
+
+Supports adapted to fighters.
+
+That was not just custom.
+
+That was the profession.
+
+Fighters had techniques.
+
+Supports learned them.
+
+Fighters chose lanes.
+
+Supports positioned around them.
+
+Fighters spent.
+
+Supports covered the spend.
+
+You did not ask an A-class spear fighter to take a slightly worse line because his support had short legs.
+
+Apparently Aren had not received the handbook.
+
+I said, "Don't do that just to make my life easier."
+
+"I didn't."
+
+"You just said you did."
+
+"No. I made the operation easier."
+
+Different sentence.
+
+I hated that it mattered.
+
+The White Stair contract began three days later.
+
+The first week was mostly walking.
+
+Survey markers.
+
+Rope lines.
+
+Loose stone.
+
+Cold water dripping through limestone seams.
+
+Nothing tried to eat us.
+
+Good.
+
+I learned people.
+
+Sella's left shoulder was not actually her weak point.
+
+It was the point she trusted least after an old injury, which meant she over-reinforced it herself before heavy contact.
+
+Supporting it too early wasted both of us.
+
+Merek lied about fatigue by becoming funnier.
+
+This was inconvenient because he was already funny.
+
+Iven's sensing improved when nobody spoke for six breaths before a deep read.
+
+Aren counted distance with his thumb against the spear shaft.
+
+I did not know why.
+
+Asked.
+
+"Keeps me from chasing."
+
+"Does it work?"
+
+"Sometimes."
+
+"Your father chases."
+
+Aren looked at me.
+
+"My father arrives."
+
+Fair.
+
+Second week, we found crawlers.
+
+Not many.
+
+Six in an abandoned side gallery.
+
+Sella anchored.
+
+Merek worked close.
+
+Aren had room for exactly one ugly forward lane.
+
+I stayed behind Sella at first.
+
+Conventional.
+
+Then Merek's lateral cut pushed him farther right.
+
+I moved.
+
+Aren saw it.
+
+He changed his next step before I reached Merek.
+
+Not backward.
+
+Inward.
+
+Closer to Sella.
+
+Worse spear distance.
+
+Better party shape.
+
+It bought me three steps.
+
+Three steps had become a familiar unit of wealth.
+
+Barrier under Merek's outside foot.
+
+He turned.
+
+Crawler missed his calf.
+
+Release.
+
+Aren took the next opening and drove his spear through the crawler's chest.
+
+Hard reinforcement.
+
+Expensive.
+
+He recovered.
+
+Two fingers.
+
+I froze for half a beat.
+
+He had learned the signal.
+
+Of course he had.
+
+I drew small.
+
+Clean enough.
+
+Spent it immediately on Sella's shield edge as two crawlers hit together.
+
+She swore.
+
+Not from pain.
+
+Surprise.
+
+Held anyway.
+
+Merek finished one.
+
+Aren finished another.
+
+Then nobody had enough useful surplus to justify cleverness.
+
+So I stopped.
+
+Normal support.
+
+We cleared the gallery.
+
+Afterward Sella sat on a stone block and looked at Aren.
+
+"You changed your line twice for him."
+
+"Three."
+
+"Worse."
+
+"We won."
+
+"We were going to win."
+
+"Cleaner."
+
+She looked at me.
+
+"Did you tell him to do that?"
+
+"No."
+
+"Would you?"
+
+I opened my mouth.
+
+Stopped.
+
+A week earlier the answer would have been no.
+
+Support did not tell A-class fighters where to stand because the support wanted better access.
+
+Now I thought about the gallery.
+
+Three steps saved.
+
+One clean Draw.
+
+Sella reinforced at the right moment instead of early.
+
+Merek caught without me sprinting after him.
+
+"Maybe," I said.
+
+Aren nodded once.
+
+Not triumph.
+
+Just information.
+
+That irritated me more.
+
+Third week, White Stair stopped being routine.
+
+A survey team opened an old freight chamber below the road and found the floor had separated from the supporting shelf.
+
+Not collapsed.
+
+Waiting.
+
+Worse.
+
+We had eight workers inside when the first crack ran.
+
+Stone makes a particular sound when a large piece has decided gravity is persuasive.
+
+Low first.
+
+Then sharp.
+
+Everybody moved.
+
+Sella toward the workers.
+
+Correct.
+
+Merek toward the narrow exit.
+
+Correct.
+
+Iven dropped his survey cast.
+
+Correct.
+
+Aren went the wrong direction.
+
+Toward me.
+
+"What are you doing?"
+
+"Moving you."
+
+He caught the back of my harness and physically redirected me six feet left as the floor edge dropped where I had been standing.
+
+I disliked this.
+
+Then he released me before I could complain and turned back toward the workers.
+
+The chamber tilted.
+
+Not much.
+
+Enough.
+
+Sella planted.
+
+I reinforced her rear leg.
+
+Merek pulled the first worker through the exit.
+
+Iven shouted that the western shelf was still carrying.
+
+Aren looked at me.
+
+Not for support.
+
+For location.
+
+He moved to put himself between me and the failing edge.
+
+Again.
+
+I realized what he was doing.
+
+He was not protecting the support because supports were fragile.
+
+Normal doctrine did that already.
+
+Keep support in pocket.
+
+Protect the healer.
+
+Guard the caster.
 
 This was different.
 
-Nobody killed anything.
+He was preserving **my access**.
 
-A bath got warmer.
+He wanted me where I could reach everyone.
 
-Three months later I accepted a Bellwater review under my authority while Lorn was away with Perrin.
+The chamber shifted again.
 
-I did not ask him.
+Sella spent hard.
 
-He returned.
+Aren had reserve.
 
-Read the sheet.
+Two fingers.
 
-“Price low.”
+Draw.
 
-“It's Bellwater.”
+Barrier beneath a worker's sliding knee.
 
-“That is not a pricing method.”
+Release.
 
-I stared.
+Merek spent hard clearing debris.
 
-Everyone had stolen that sentence.
+Aren moved before I did.
 
-“We need the relationship.”
+Opened my line to him.
 
-“We have the relationship.”
+Two fingers again.
 
-“Goodwill.”
+"No," I said.
 
-“Goodwill does not pay Mara.”
+He closed his hand immediately.
 
-He was right enough that we raised regional minimums the next month.
+Good.
 
-Partner.
+His next job required the reserve.
 
-Not assistant.
+He drove reinforcement through the spear shaft and used it as a temporary brace under a broken timber while two workers crawled beneath.
 
-Not subordinate.
+I supported the timber boundary instead of him.
 
-Not someone whose agreement proved I had explained myself well.
+That was cheaper.
 
-A person with twenty-eight percent of the right to tell me I was being stupid.
+He understood without asking.
 
-Over time the percentage changed.
+When the last worker cleared, Sella shouted retreat.
 
-Not yet.
+Aren did not take the nearest exit.
 
-At the beginning, twenty-eight was enough to alter the room.
+He took the one that kept him between me and the unstable shelf.
 
-The shop no longer belonged to me with help inside it.
+I noticed.
 
-It belonged to us.
+Could not stop noticing after that.
 
-That made it harder to control.
+We got out.
 
-It also made it harder to lose when I walked out the door.
+Thirty seconds later part of the chamber floor went down.
+
+Nobody with it.
+
+Good operation.
+
+Expensive trousers.
+
+Mine tore at the knee.
+
+Camp that night was quieter.
+
+The survey crew had almost lost eight people.
+
+Nobody had.
+
+That makes celebration feel inappropriate and relief feel guilty.
+
+We ate stew.
+
+Merek stopped joking.
+
+Fatigued.
+
+Iven wrote his report.
+
+Sella repaired a shield strap.
+
+Aren cleaned limestone dust from his spear.
+
+I sat beside him.
+
+"You keep changing your movement around me."
+
+"Yes."
+
+"Why?"
+
+He looked genuinely confused.
+
+"Because you're useful."
+
+"That's not an answer."
+
+"It is where I come from."
+
+I waited.
+
+Aren sighed.
+
+"A spear is useful. I change my grip for the room. Armor is useful. I change my stance for the weight. Terrain is useful or dangerous. I change my line for it. You are useful. Why would I refuse to change my line for you?"
+
+"Because I'm support."
+
+He stared at me.
+
+Long enough that I became annoyed.
+
+"What?"
+
+"That might be the stupidest thing you've said this contract."
+
+"You've known me three weeks."
+
+"Strong field."
+
+I looked toward Sella.
+
+She was listening.
+
+Of course.
+
+"Support adapts to the party," I said.
+
+Sella nodded.
+
+"Usually."
+
+Aren said, "Why only one direction?"
+
+There it was.
+
+Not a magical revelation.
+
+Not ancient knowledge.
+
+Not Arcrutus appearing from a bush to insult me.
+
+A forty-two-year-old spear fighter asking why we had accepted a professional habit as a law of nature.
+
+I did not have an answer.
+
+That was becoming one of my favorite conditions.
+
+The rest of White Stair changed slowly.
+
+I did not start ordering Aren around.
+
+He would have ignored me if I became stupid about it.
+
+Sella did not abandon twelve years of good shield doctrine because one weird support had nice field reports.
+
+Merek did not reorganize his footwork around my convenience.
+
+At first.
+
+But we started talking differently after drills.
+
+Not only:
+
+What support did you need?
+
+Also:
+
+Where could you have moved that made the support cheaper?
+
+What attack was worth delaying half a beat?
+
+When did staying full help?
+
+When did it merely leave recovery unused?
+
+When did my route force someone else into a worse one?
+
+When was that trade worth it?
+
+Sometimes the answer was never.
+
+Good.
+
+Sometimes Aren gave up a beautiful opening because the next ten seconds became better for everybody.
+
+Sometimes I told him to take the opening and accepted the ugly geometry afterward.
+
+Sometimes Sella refused to move one foot because the shield line mattered more than my access.
+
+She was right.
+
+Sometimes Merek moved two feet left before I asked and I discovered I had nothing useful to do with the space he gave me.
+
+He complained for an hour.
+
+Also right.
+
+By the seventh week we were not a revolutionary formation.
+
+We were five professionals becoming slightly strange together.
+
+That was enough.
+
+The contractor asked whether we would extend four more weeks for the deeper galleries.
+
+Before I answered, Aren said yes.
+
+I looked at him.
+
+"You have another contract."
+
+"Moved it."
+
+"Why?"
+
+"This is interesting."
+
+Sella said, "That is a terrible reason to enter deeper galleries."
+
+Merek said, "Better than money."
+
+"No," Sella said. "Money is an excellent reason."
+
+Iven asked what the extension rate was.
+
+Correct professional.
+
+We negotiated.
+
+Higher hazard premium.
+
+Better recovery days.
+
+Replacement boot allowance after Merek showed the contractor what limestone water had done to his soles.
+
+Then we stayed.
+
+I had gone to White Stair looking for better strangers.
+
+I thought I was the one choosing what kind of party I needed.
+
+That was partly true.
+
+The part I had missed was that somebody stronger than me had looked at the same problem and decided **he** could change too.
+
+Nobody had ever done that for my support before.
+
+I did not know yet what it would become.
+
+I knew I wanted to see it again.
