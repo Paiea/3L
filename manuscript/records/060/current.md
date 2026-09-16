@@ -1,615 +1,889 @@
 ## RECORD 060
 
-## THE CELEBRANT
+## THE SUBSTITUTE
 
-I proposed to Nessa while repairing a drawer.
+Noll got sick from soup.
 
-This was not intentional.
+This was disappointing because the soup had been good.
 
-The drawer had been sticking for months.
+Red Basin's third camp hired a cook named Peret who believed pepper was a structural material.
 
-Not our bedroom drawer.
+I approved.
 
-Kitchen.
+The stew on Secondday had goat, roots, barley, and enough pepper to make Sella sweat through winter clothes.
 
-Utensils.
+Six people ate it.
 
-Important distinction only because people become weird about symbolic furniture.
+Only Noll spent the night becoming acquainted with a bucket.
 
-The runner was swollen on one side from years of steam and bad treatment.
+Bad luck.
 
-I had removed it, shaved the edge, and was testing the fit when Nessa came home from South Fen.
+The healer called it food sickness anyway.
 
-She put her bag down.
+"Why only him?" Jessa asked.
 
-Looked at the drawer.
+"Bodies are individual," the healer said.
 
-Then at me.
+I looked at Greg's notebook.
 
-“You're fixing things without permission again.”
+Jessa saw me.
 
-“The drawer is not protected by treaty.”
+"Do not operationally profile diarrhea."
 
-“Everything in this apartment is protected by treaty.”
+"I wasn't."
 
-“Show me the treaty.”
+"You had the face."
 
-“You signed it emotionally.”
+Everyone had learned the face.
 
-Dangerous jurisdiction.
+Noll missed the next day.
 
-She took off her coat.
+Then the next.
 
-I pushed the drawer in.
+Fever came after.
 
-Smooth.
+Not dangerous.
 
-Perfect.
+Enough that the healer banned him from field work for a week after symptoms stopped because dehydration and long marches dislike each other.
 
-Nessa stared.
+Ten days total, maybe twelve.
 
-“Too smooth.”
+We had eighteen days left on Red Basin.
 
-“What?”
+Hollen said, "I can bring someone in."
 
-“It had resistance.”
+I said, "Who?"
 
-“It was broken.”
+He smiled.
 
-“It had character.”
+I disliked that immediately.
 
-I looked at her.
-
-“Marry me.”
-
-Silence.
-
-The drawer remained perfect.
-
-I realized what I had said.
-
-Not because I had not meant it.
-
-Because I had meant it long enough that the words apparently escaped during carpentry.
-
-Nessa blinked.
-
-Then looked at the drawer.
-
-Then back at me.
-
-“That is your proposal?”
-
-“I can do it again.”
-
-“No.”
-
-My stomach dropped.
-
-She saw it.
-
-“No, idiot. Do not redo it.”
-
-“Oh.”
-
-“I want to remember this one.”
-
-That was worse emotionally.
-
-Better otherwise.
-
-I sat on the floor because I was already there.
-
-Nessa leaned against the counter.
-
-“Do you have a ring?”
-
-“No.”
-
-“Plan?”
-
-“No.”
-
-“Witness?”
-
-“No.”
-
-“Speech?”
-
-“I can improvise.”
-
-“Please don't.”
-
-Fair.
-
-She came closer.
-
-“You mean it.”
-
-“Yes.”
-
-“We already agreed we wanted marriage.”
-
-“Yes.”
-
-“So what changed?”
-
-Nothing.
-
-That was the answer.
-
-Nothing happened.
-
-No danger.
-
-No pregnancy.
-
-No property rule.
-
-No healer refusing access.
-
-No institutional problem forcing vocabulary.
-
-I had spent years letting practical need open emotional doors because practical need gave me an excuse to walk through.
-
-This one did not have a problem attached.
-
-I just wanted to.
-
-“I got tired of waiting for a reason,” I said.
-
-Nessa stared at me.
-
-Then smiled.
-
-Small.
-
-Dangerous.
-
-“Good answer.”
-
-“So?”
-
-She waited.
-
-Cruel.
-
-“Nessa.”
-
-“Yes.”
-
-I exhaled.
-
-“You enjoy that too much.”
-
-“Yes.”
-
-We kissed beside the repaired drawer.
-
-The drawer stayed fixed for nine years.
-
-That is not foreshadowing.
-
-Furniture just has timelines too.
-
-Marriage in our district required less than people pretended.
-
-Two adults.
-
-Two witnesses.
-
-Household declaration at civic hall.
-
-Guild registration optional unless either person wanted employment, treatment, inheritance, or voice records linked automatically.
-
-We wanted the links.
-
-Not romance.
-
-Administrative convenience can coexist with love.
-
-That may be our relationship's motto.
-
-We chose a date six weeks later because every earlier week had work conflicts.
-
-Then Nessa changed it once because South Fen winter planning moved.
-
-Then I changed it because Bellwater scheduled a shutdown.
-
-Then Lena threatened both of us.
-
-“Pick a day.”
-
-“We did.”
-
-“You picked three.”
-
-“They were sequentially valid.”
-
-“Pick one and stop working.”
-
-Authority granted.
-
-We picked Thursday.
-
-Why Thursday?
-
-Mina's bakery closed early Thursday afternoons.
-
-She offered the back room for food.
-
-That was enough.
-
-Witnesses became harder.
-
-We needed two.
-
-Immediately acquired twelve.
-
-Apparently telling family creates multiplication.
-
-My mother said she was obviously a witness.
-
-My father said spouses could not both count because that seemed like cheating.
-
-It was not.
-
-Lena wanted one slot.
-
-Dera said if she had to attend, she was signing something.
-
-Lorn objected that business partnership created superior witness standing.
-
-Nessa chose Dera and Lena because they were the only two people who did not ask first.
-
-This caused complaints.
-
-Good.
-
-The civic hall ceremony lasted eleven minutes.
-
-I know because Nessa timed it accidentally by leaving a transfer watch in her coat pocket.
-
-Clerk Aven officiated.
+Varo Tess arrived the next afternoon.
 
 Of course.
 
-She had apparently moved from hearings into senior civic registration because civilization needed her everywhere.
+The fighter I had rejected for Noll.
 
-She looked at us over the desk.
+Not personally.
 
-“Names.”
+Professionally.
 
-We gave them.
+Still awkward.
 
-“Household address.”
+Varo was thirty-six.
 
-We gave it.
+High-B combat, very close to A depending on evaluator and whether the evaluation involved movement.
 
-“Existing registered voices?”
+Faster than Noll.
 
-“Each other,” Nessa said.
+Harder forward pressure.
 
-Aven checked.
+Better direct duelist.
 
-“Existing shared lease?”
+Worse fit with Aren, according to me.
 
-“Yes.”
+He knew that.
 
-“Shared financial declaration?”
+Apparently Hollen had shown him the original roster notes.
 
-“Yes.”
+Contractors preserve embarrassment efficiently.
 
-She looked up.
+Varo dropped his pack beside our fire.
 
-“You have completed most of marriage out of order.”
+"So I'm too strong for you."
 
-“Efficient,” I said.
+"That's not what I wrote."
 
-“Concerning,” she said.
+"You wrote 'spend overlap with Aren creates clustered demand.'"
 
-Nessa smiled.
+"Exactly."
 
-Aven read the declaration.
+"Sounds like too strong."
 
-Not vows exactly.
+Aren said, "It means you both become needy at the same time."
 
-Legal promises.
+Varo looked at him.
 
-Shared household.
+"I am never needy."
 
-Mutual voice.
+"Excellent. Greg, problem solved."
 
-Property and debt rules chosen from several standard forms.
+I missed Noll already.
 
-Independent professional earnings remained independently controlled unless entered into household accounts.
+Varo had worked with conventional B supports most of his career.
 
-We chose that deliberately.
+Good ones.
 
-Nessa's career stayed hers.
+He knew formation discipline.
 
-Mine stayed mine.
+Accepted reinforcement cleanly.
 
-The house remained shared.
+Called injuries honestly.
 
-Marriage did not eat personhood.
+Did not chase recklessly.
 
-Good institution.
+Not difficult.
 
-Then Aven asked whether we wished to add personal words.
+That made the mismatch more interesting.
 
-I had not prepared any.
+First drill, he and Aren spent together exactly like I expected.
 
-Nessa had.
+Aren burst.
 
-Traitor.
+Varo saw pressure and followed.
 
-She turned toward me.
+Good instinct.
 
-“I choose this life with you.”
+Two excellent attacks.
 
-That was all.
+Then both recovered at once.
 
-Six words.
+Sella became the only forward body still comfortably available.
 
-Destroyed me.
+Jessa had reserve but wrong geometry.
 
-Because she knew.
+I supported Sella.
 
-Not believed the mechanism.
+Fine.
 
-Not reincarnation doctrine.
+Next cycle repeated.
 
-She knew what this life meant when I said it.
+Aren and Varo moved together.
 
-Current.
+Recovered together.
 
-Unpredicted.
+Again.
 
-Built.
+Not failure.
 
-I had to answer.
+Just expensive shape.
 
-Words failed professionally.
+Afterward Varo said, "We killed everything."
 
-I looked at her.
+"Markers."
 
-“I keep choosing it.”
+"Very dead markers."
 
-Also six.
+"And Sella carried both recovery windows."
 
-Accidentally.
+Sella said, "I noticed."
 
-Good enough.
+Varo looked at Aren.
 
-Aven cleared her throat.
+"You're supposed to alternate?"
 
-Not emotional.
+Aren said, "Not supposed to."
 
-Probably.
+"Then?"
 
-Lena cried openly.
+"We're learning."
 
-Dera did not.
+Varo looked at me.
 
-Dera claimed dust.
+"Teach."
 
-Civic halls have very selective dust.
+That should have been satisfying.
 
-We signed.
+Instead I realized I did not know how.
 
-GREGORY.
+I knew how to learn a person.
 
-Still irritating.
+Observe.
 
-NESSA VALE.
+Ask.
 
-She kept Vale.
+Adjust.
 
-So did I.
+Repeat.
 
-No shared surname requirement.
+I knew how to work with people who had learned me over weeks.
 
-Thank civilization.
+I did not have a method for compressing that into two days because somebody ate ambitious soup.
 
-Lorn later complained this made Esset & Vale sound like I had married the business.
+The Guild evaluation had been right again.
 
-We ignored him.
+Unpleasant hobby.
 
-The bakery celebration was louder than the marriage.
+"First," I said, "don't change anything."
 
-Twenty-three people.
+Varo frowned.
 
-Maybe twenty-seven.
+"You just said the shape is bad."
 
-I stopped counting after Dera invited two retired East Four workers without asking.
+"I need to know what is yours before we modify it."
 
-Mina made too much food.
+Aren nodded.
 
-My father drank more than healer guidelines allowed and argued that marriage was medicinal.
+He understood immediately.
 
-My mother told Nessa embarrassing stories from when I was nineteen.
+Varo did not.
 
-Nessa already knew most.
+"You already have my evaluations."
 
-Then Bren arrived.
+"Evaluations tell me what you can do. I need to know what you do when nobody tells you."
 
-I had invited him.
+That annoyed him.
 
-That mattered.
+Useful, but not in the Aren way.
 
-Not manipulated.
+We drilled again.
 
-Not accidental work.
+I watched.
 
-I sent a message.
+Varo's first commitment was smaller than Aren's.
 
-Nessa and I are marrying Thursday. You are invited if you want to come.
+Second was larger.
 
-No history attached.
+He recovered body faster than reserve, opposite enough from Aren to be useful if we could stop them starting together.
 
-His choice.
+He hated holding a clean opening.
 
-He came.
+Not ego.
 
-Late.
+Training.
 
-Hazard call.
+His entire career rewarded taking tempo before it disappeared.
 
-Mud on boots.
+He also used personal aura aggressively during acceleration, which made live Draw stupid until recovery was clearly established.
 
-Apology unnecessary.
+I wrote.
 
-He stood in Mina's back room holding a bottle and looking uncertain about where he belonged.
+Then Aren changed.
 
-That nearly broke me more than the ceremony.
+Not Varo.
 
-First-life Bren had stood beside me through things I could not tell this man.
+Aren.
 
-Second-life Bren had been invited to a wedding by a coworker becoming a friend.
+Third drill, Varo took the first opening.
 
-He came.
+Aren did not follow.
 
-That was enough.
+He shortened.
 
-“Congratulations,” he said.
+Covered Sella's outside for one beat.
 
-“To which one?” Nessa asked.
+Then committed after Varo began recovery.
 
-Bren looked at me.
+The demand split.
 
-“Her, probably.”
+I looked at him.
 
-Good answer.
+"What?" Aren said.
 
-He stayed two hours.
+Varo looked between us.
 
-Talked to Lorn.
+"You changed for me."
 
-Argued with Dera about rescue bracing.
+Aren shrugged.
 
-Ate three pieces of cake.
+"Somebody has to start."
 
-Liked Mina's fish rolls.
+"I'm the substitute."
 
-First-life Bren hated fish.
+"Yes."
 
-Still weird.
+"So I should adapt."
 
-Less painful.
+Aren pointed at me with the spear.
 
-At one point I found him talking to Nessa near the door.
+"He used to say that too."
 
-They stopped when I approached.
+I did not appreciate being historical evidence while present.
 
-“What?”
+Varo said, "Support adapts."
 
-“Nothing,” Nessa said.
+"Why only one direction?" Aren asked.
 
-Bren looked innocent badly.
+There it was.
 
-“What?”
+Again.
 
-“Your face,” Nessa said.
+Not Greg's doctrine.
 
-Betrayal spreading across social circles.
+Aren's question now.
 
-I never learned exactly what they were discussing.
+Passing between people.
 
-That bothered me for years.
+Varo frowned for a long time.
+
+Then said, "Because fighters decide the fight."
+
+Sella made a small noise.
+
+Varo looked at her.
+
+"What?"
+
+"Nothing. Continue being educational."
+
+He looked at me.
+
+I said, "Sometimes you decide the fight. Sometimes the room does. Sometimes the shield does. Sometimes Jessa decides the room no longer deserves architecture."
+
+Jessa nodded.
+
+"Finally recognized."
+
+"Sometimes," I continued, "the cheapest way to keep the operation working is for you to take a slightly worse personal line."
+
+Varo hated that sentence visibly.
 
 Good.
 
-People should have conversations without me.
+"For support convenience."
 
-We went home after midnight.
+"No. For total cost."
 
-Same apartment.
+Aren smiled.
 
-Same bed.
+Varo pointed at him.
 
-Same table.
+"Stop looking pleased."
 
-Same bad third stair.
+"I heard this before."
 
-Marriage did not change the room overnight.
+"From him?"
 
-That was reassuring.
+"No. I told him."
 
-Nessa removed her shoes.
+That changed something.
 
-I hung both coats.
+Small.
 
-Then she opened the kitchen drawer.
+Varo had assumed the strange doctrine flowed from the support outward.
 
-Smooth.
+Learning the A-class fighter had initiated it made the whole thing harder to dismiss as support vanity.
 
-She looked at me.
+We trained the rest of the day.
 
-“Still too smooth.”
+No Draw from Varo.
 
-“Divorce is available.”
+Signals first.
 
-“Tomorrow.”
+Two fingers, small availability.
 
-“Good.”
+Closed fist, none.
 
-We went to bed.
+Palm down, current technique requires reserve.
 
-Our first morning married, I woke before her.
+"Open?" for my aura window.
 
-No revelation.
+"Closed" when self-reinforcement returned.
 
-No magical permanence.
+Then the harder signals that were not hands.
 
-Rain against the window.
+Sella saying "hold" meant do not optimize around her. Her current line was deliberate.
 
-Bakery heat through the floor.
+Jessa's six silent breaths before a high-pressure cast belonged to her.
 
-Nessa's hair across my shoulder.
+Aren's thumb on the spear shaft meant he was measuring chase distance.
 
-My left shoulder complaining about the angle.
+Varo laughed at that.
 
-Ordinary.
+Aren did not.
 
-I lay there longer than necessary.
+Mild irritation.
 
-First Life contained victories I remember less clearly than that morning.
+I noticed.
 
-S-class promotions.
+Did nothing.
 
-Named kills.
+Growth.
 
-Cities saved.
+Second day, Varo began adapting.
 
-Important rooms.
+Badly.
 
-Their edges have blurred.
+He held too much.
 
-The rain has not.
+Mistook cooperation for waiting.
 
-The warmth from the bakery has not.
+His output dropped.
 
-Nessa's hand resting open against my chest has not.
+"This is worse," he said.
 
-I spent years treating First Life as the source of deep memory and Life Two as the place where memory interfered.
+"Yes."
 
-By then the balance had changed.
+"Good system."
 
-Life Two was old enough to have history of its own.
+"You're doing what Greg did at White Stair," Aren said.
 
-Not borrowed.
+I looked at him.
 
-Not corrected.
+"I did not."
 
-Mine.
+"You tried to become what you thought support doctrine required instead of solving the operation."
 
-Ours, where appropriate.
+I thought.
 
-The next day we both went back to work.
+"Fine."
 
-Of course we did.
+Varo said, "So what do I do?"
 
-Marriage was not an ending.
+Aren answered before me.
 
-Mostly it improved the filing.
+"Fight."
+
+"Helpful."
+
+"Take the opening if it's worth more than the geometry. Don't take it because you are offended openings can expire."
+
+Varo stared.
+
+Then looked at me.
+
+"Is he always like this?"
+
+"Unfortunately."
+
+Third drill improved.
+
+Not because Varo copied Noll.
+
+Good.
+
+That would have proven nothing.
+
+He remained faster.
+
+More aggressive.
+
+More expensive in bursts.
+
+The group changed around those facts.
+
+Aren staggered his second commitment.
+
+Sella rotated earlier after Varo's deepest entries.
+
+Jessa moved her strongest cast later because Varo could create the opening Aren used to create.
+
+I stopped trying to find Noll-shaped availability inside him.
+
+Different person.
+
+Different network.
+
+By the end of the second day we were not as good as the original Red Basin five.
+
+Not close.
+
+We were safe enough to work.
+
+That was the actual goal.
+
+First live day with Varo was boring.
+
+I was grateful.
+
+Old drainage cut.
+
+Small shellback nest.
+
+Eight animals.
+
+No surprises.
+
+Varo took first pressure.
+
+Aren waited.
+
+Not because I needed him to.
+
+Because Varo's opening was better.
+
+Aren entered on recovery.
+
+Sella held two.
+
+Jessa never needed full pressure.
+
+I used normal support.
+
+No Draw.
+
+Afterward Varo said, "That was it?"
+
+"Yes."
+
+"I thought the weird thing would happen."
+
+"The weird thing was you waited half a second."
+
+He looked offended.
+
+"I hate this party."
+
+Good.
+
+Second live day got harder.
+
+We were clearing a collapsed ore yard when two burrowers came out behind the survey crew.
+
+Varo was closest.
+
+He turned.
+
+Aren saw him turn and did not follow.
+
+Instead Aren took Varo's abandoned forward lane.
+
+No command.
+
+No Greg.
+
+Sella shifted to cover the crew.
+
+Jessa moved left because Aren's new lane gave her a clean pressure angle.
+
+The party rearranged around a substitute's decision before I did anything.
+
+That was new.
+
+Varo spent hard.
+
+Killed one burrower.
+
+Second caught his outside aura.
+
+I reinforced his hip.
+
+Release.
+
+Aren two fingers.
+
+I looked at footing.
+
+Stable.
+
+Sella looked at me.
+
+"Open."
+
+Formation consent.
+
+Aura down.
+
+Draw from Aren.
+
+Varo was still spending.
+
+Not him.
+
+Barrier to the survey crew's retreat line.
+
+Release.
+
+Aura up.
+
+Closed.
+
+Jessa killed the second animal.
+
+Clean enough.
+
+Afterward Varo flexed his hand.
+
+"You didn't Draw from me."
+
+"No."
+
+"I had reserve."
+
+"You were using it."
+
+"Not all of it."
+
+"Same mistake I made with Veda years ago. Available is not spare."
+
+He nodded.
+
+Then asked the good question.
+
+"How do I tell when mine is spare?"
+
+Not how do you tell.
+
+How do I tell.
+
+The method was becoming reciprocal again.
+
+We spent that evening figuring it out.
+
+Varo did not feel reserve in percentages.
+
+Nobody sensible did.
+
+He felt readiness.
+
+One burst ready.
+
+Two.
+
+Emergency turn.
+
+Retreat.
+
+We built his availability around actions, not amount.
+
+Two fingers only if he still had one full intended action after the Draw.
+
+Palm down if he was storing for a specific sequence.
+
+Closed fist if uncertain.
+
+Uncertain counted as no.
+
+I liked that rule.
+
+Aren said, "You finally invented caution."
+
+"Your tea is vulnerable."
+
+"Temper management."
+
+"Science."
+
+By day five Varo had stopped asking what Noll would do.
+
+Good.
+
+By day seven Aren stopped pre-adjusting for him every time.
+
+Better.
+
+By day nine Sella trusted him enough to leave one recovery edge open because she knew he would take it.
+
+That was the real threshold.
+
+Trust is difficult to schedule.
+
+You can make room for it.
+
+Not command arrival.
+
+Noll returned on day eleven looking thinner and furious at soup as a category.
+
+He expected Varo to leave.
+
+Hollen wanted Varo to leave because contract rates do not enjoy six-person rosters.
+
+Instead we paid Varo for one overlap day.
+
+My request.
+
+Hollen complained.
+
+Aren supported me.
+
+Jessa threatened to explain procurement emotionally.
+
+Hollen paid.
+
+We ran drills with six.
+
+Not because six was better.
+
+Because I wanted to see what happened when the old rhythm returned beside the new one.
+
+It was terrible.
+
+Too many options.
+
+I tried to track everyone.
+
+Failed.
+
+Draw from Noll when Varo had a better window.
+
+Barrier to Sella when Aren had already covered the lane.
+
+Jessa delayed because she expected a rotation nobody else remembered.
+
+We stopped after four minutes.
+
+I was angry.
+
+At myself.
+
+Aren recognized it.
+
+Unfortunately he did not fight better when I was annoyed.
+
+"You're trying to run both parties," he said.
+
+"There is one party."
+
+"Then act like it."
+
+I hated Drays.
+
+All of them.
+
+"Helpful."
+
+Noll said, "You don't need to remember my old rhythm. I'm standing here."
+
+That stopped me.
+
+Of course.
+
+I had spent years learning people so carefully that my knowledge itself could become stale.
+
+Another Veda lesson wearing different clothes.
+
+People were not files.
+
+They were current state.
+
+We reset.
+
+This time I asked everyone what they intended before the drill.
+
+Not full plans.
+
+Current priorities.
+
+Varo wanted first forward pressure.
+
+Noll wanted to remain flexible.
+
+Aren wanted to test a delayed second entry.
+
+Sella wanted no support for the first contact unless footing changed.
+
+Jessa wanted six breaths before the third marker.
+
+Good.
+
+We ran.
+
+Better.
+
+Still crowded.
+
+But alive.
+
+Varo left the next morning for his original contract.
+
+Before he went, Hollen's clerk handed him a payment slate.
+
+Varo signed.
+
+Then looked at me.
+
+"If you need someone again?"
+
+"You hated the party."
+
+"Yes."
+
+"Good."
+
+"Call anyway."
+
+He left.
+
+Noll watched him go.
+
+"Did I lose my job to soup?"
+
+"No."
+
+"Good."
+
+"We found another person."
+
+Noll frowned.
+
+"For what?"
+
+I did not have the language yet.
+
+Not a reserve fighter.
+
+Not substitute exactly.
+
+Someone who now knew enough of the method to enter faster next time.
+
+A node.
+
+I did not say that.
+
+Too strange.
+
+"For later," I said.
+
+Red Basin ended nine days after.
+
+The final operation was a deep-route escort through the western cut.
+
+Nothing legendary.
+
+Two hazard contacts.
+
+One partial collapse.
+
+Jessa exhausted herself once and complained professionally.
+
+Aren fought irritated because Noll had improved his tea.
+
+Apparently good tea made Aren suspicious.
+
+Sella told me not to reassure her.
+
+Noll gave three clean availability windows.
+
+I opened twice.
+
+Closed twice.
+
+Nobody was hurt.
+
+At the station, Hollen gave me the final contractor report.
+
+One paragraph had been added after the substitution period.
+
+VANE'S ATTACHED METHOD DEGRADED WITH PERSONNEL CHANGE BUT RETURNED TO ACCEPTABLE FIELD PERFORMANCE AFTER TWO DAYS OF JOINT RETRAINING.
+
+Then:
+
+ADAPTATION WAS NOT SUPPORT-ONLY. EXISTING PARTY MEMBERS MODIFIED THEIR OWN TIMING AND POSITION TO INTEGRATE REPLACEMENT.
+
+And then the sentence I cared about most:
+
+METHOD KNOWLEDGE WAS OBSERVED IN PARTY MEMBERS WITHOUT VANE PROMPTING.
+
+Aren had taught Varo before I did.
+
+Sella had called the open window.
+
+Noll had corrected my stale model of him.
+
+Jessa had taught everyone to leave her six breaths alone.
+
+The thing was starting to exist between us.
+
+That scared me a little.
+
+Good sign.
+
+A week later a Guild letter arrived.
+
+Not promotion.
+
+Not apology.
+
+Invitation.
+
+B-CLASS SUPPORT RE-EVALUATION AVAILABLE ON REQUEST. RECENT ATTACHED-TEAM EVIDENCE MAY BE SUBMITTED.
+
+Sel Aven had written beneath the formal text in different ink:
+
+TRY NOT TO MISS THE WRIST THIS TIME.
+
+I folded the letter into my notebook.
+
+Did not apply that day.
+
+For once, the badge was not the most interesting thing that had changed.
