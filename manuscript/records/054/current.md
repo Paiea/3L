@@ -42,13 +42,13 @@ That left one slot.
 
 Two candidates.
 
-Deren Holt and Noll Aris.
+Deren Holt and Corin Hart.
 
 Deren was better.
 
 Everybody agreed.
 
-Including Noll.
+Including Corin.
 
 Deren was a high C pressing B evaluation.
 
@@ -60,7 +60,7 @@ Strong reserve.
 
 Had worked two seasons on tunnel suppression.
 
-Noll was C.
+Corin was C.
 
 Shortbow and utility casting.
 
@@ -68,7 +68,7 @@ Good eyes.
 
 Average power.
 
-No one described Noll as excellent without adding a noun after it.
+No one described Corin as excellent without adding a noun after it.
 
 Excellent route memory.
 
@@ -174,17 +174,17 @@ When pressure was available, they all wanted it.
 
 When recovery came, they all wanted that too.
 
-Noll trained the next day.
+Corin trained the next day.
 
 Less impressive.
 
 Calder created an opening.
 
-Noll did not take it.
+Corin did not take it.
 
 Veda shouted, "Why?"
 
-Noll lowered the bow.
+Corin lowered the bow.
 
 "Bad angle."
 
@@ -200,13 +200,13 @@ Orla took pressure.
 
 Calder pressed right.
 
-Noll moved left instead of adding damage.
+Corin moved left instead of adding damage.
 
 Not much happened.
 
 Then Calder disengaged.
 
-Noll fired twice.
+Corin fired twice.
 
 Small utility cast under the second arrow.
 
@@ -220,13 +220,13 @@ Third exchange.
 
 Veda burst.
 
-Noll did nothing magical.
+Corin did nothing magical.
 
 Fourth.
 
 Veda recovering.
 
-Noll spent.
+Corin spent.
 
 I wrote more.
 
@@ -248,7 +248,7 @@ Calder read the notes.
 
 "Probably."
 
-"Then why Noll?"
+"Then why Corin?"
 
 I pointed at the timing marks.
 
@@ -334,13 +334,13 @@ Then looked at me.
 
 "Recommendation?"
 
-"Noll."
+"Corin."
 
 Veda groaned.
 
 Orla said nothing.
 
-Calder chose Noll.
+Calder chose Corin.
 
 Deren took another contract two days later for better money.
 
@@ -352,13 +352,13 @@ This was not his villain origin.
 
 North Mason started badly anyway.
 
-First gallery, Noll missed a crawler because he waited for a cleaner shot that never came.
+First gallery, Corin missed a crawler because he waited for a cleaner shot that never came.
 
 Veda killed it and said, "Deren would have had that."
 
-Noll said, "Probably."
+Corin said, "Probably."
 
-Second day, Noll's utility cast failed in damp air.
+Second day, Corin's utility cast failed in damp air.
 
 Deren's blade would not have cared.
 
@@ -388,7 +388,7 @@ Veda spent in bursts.
 
 Orla paid steadily.
 
-Noll spent in little pieces between them.
+Corin spent in little pieces between them.
 
 Mark route.
 
@@ -418,7 +418,7 @@ Veda follows if angle good.
 
 Orla absorbs the counter.
 
-Noll works during their recovery.
+Corin works during their recovery.
 
 I support the current expensive point.
 
@@ -440,7 +440,7 @@ No unfamiliar bodies.
 
 No draw during transition.
 
-Noll became the easiest source.
+Corin became the easiest source.
 
 Not because he had the most reserve.
 
@@ -458,7 +458,7 @@ Veda finished one.
 
 Both came off the exchange hot.
 
-Noll had not spent.
+Corin had not spent.
 
 Two fingers.
 
@@ -468,7 +468,7 @@ Barrier under Orla's shield edge while the second crawler hit.
 
 Release.
 
-Noll recovered the little I had taken while repositioning.
+Corin recovered the little I had taken while repositioning.
 
 Calder returned.
 
@@ -478,7 +478,7 @@ Palm down.
 
 She was holding a burst.
 
-Noll fired instead.
+Corin fired instead.
 
 Crawler turned.
 
@@ -524,7 +524,7 @@ Calder learned not to use the last inch of stability I gave him unless the momen
 
 Veda learned to feel when my Barrier left her rear foot and shorten before the gap became error.
 
-Noll was already cautious.
+Corin was already cautious.
 
 Orla learned to hate all of us with improved precision.
 
@@ -532,7 +532,7 @@ Weeks passed underground.
 
 Our clothes permanently smelled like chalk and lamp oil.
 
-Noll's cough went away after he started wearing a damp scarf.
+Corin's cough went away after he started wearing a damp scarf.
 
 Veda lost one glove.
 
@@ -568,7 +568,7 @@ Orla anchored a rope line.
 
 Calder and Veda moved workers across.
 
-Noll maintained lights and marked the submerged step edges.
+Corin maintained lights and marked the submerged step edges.
 
 I moved among all of them.
 
@@ -582,7 +582,7 @@ Calder gave me mana after carrying a worker.
 
 I spent it reinforcing Orla's footing.
 
-Noll gave me a little during a pause.
+Corin gave me a little during a pause.
 
 I used it on a Barrier around the lamp pack when water hit waist height.
 
@@ -614,7 +614,7 @@ We got everyone out.
 
 The room filled to the ceiling after the last gate closed.
 
-Noll's boots were ruined.
+Corin's boots were ruined.
 
 Mine too.
 
@@ -630,7 +630,7 @@ Orla anchor.
 
 Veda forward spear.
 
-Noll ranged utility.
+Corin ranged utility.
 
 Greg support.
 
@@ -648,7 +648,7 @@ I liked the report.
 
 Veda did not.
 
-"They called Noll trained roster."
+"They called Corin trained roster."
 
 "He is."
 
@@ -658,7 +658,7 @@ Veda did not.
 
 "Cowardly form."
 
-Noll folded his copy and put it in his pack.
+Corin folded his copy and put it in his pack.
 
 "Deren still would have killed more crawlers."
 
@@ -666,7 +666,7 @@ Veda pointed at him.
 
 "Finally."
 
-Noll continued.
+Corin continued.
 
 "We didn't need more dead crawlers."
 
@@ -684,7 +684,7 @@ Calder had the lead contract.
 
 Orla had chosen half the safety rules.
 
-Noll had changed the rhythm simply by being himself.
+Corin had changed the rhythm simply by being himself.
 
 Veda had taught us what happened when reserve meant something we did not understand.
 
