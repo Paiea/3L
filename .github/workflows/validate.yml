@@ -6,54 +6,17 @@ on:
     branches: [main]
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  build_dark_hero:
-    if: github.event_name == 'pull_request' && github.head_ref == 'site/dark-hero-tests'
+  validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: site/dark-hero-tests
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Apply approved presentation
-        run: python scripts/zz_apply_dark_hero.py
-      - name: Verify patched repository
-        run: |
-          python scripts/check_repo.py
-          python -m unittest discover -v
-      - name: Restore workflow and commit site change
-        run: |
-          cat > .github/workflows/validate.yml <<'EOF'
-          name: Validate 3L
-
-          on:
-            pull_request:
-            push:
-              branches: [main]
-
-          permissions:
-            contents: read
-
-          jobs:
-            validate:
-              runs-on: ubuntu-latest
-              steps:
-                - uses: actions/checkout@v4
-                - uses: actions/setup-python@v5
-                  with:
-                    python-version: '3.12'
-                - name: Validate repository contract
-                  run: python scripts/check_repo.py
-                - name: Run contract tests
-                  run: python -m unittest discover -v
-          EOF
-          rm -f .github/workflows/zz-dark-hero-builder.yml scripts/zz_apply_dark_hero.py
-          git config user.name "Paiea"
-          git config user.email "paiea.tv@gmail.com"
-          git add index.html .github/workflows/validate.yml .github/workflows/zz-dark-hero-builder.yml scripts/zz_apply_dark_hero.py
-          git commit -m "Apply dark 3L hero [dark-hero-built]"
-          git push origin HEAD:site/dark-hero-tests
+      - name: Validate repository contract
+        run: python scripts/check_repo.py
+      - name: Run contract tests
+        run: python -m unittest discover -v
