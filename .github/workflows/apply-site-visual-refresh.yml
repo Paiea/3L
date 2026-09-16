@@ -1,0 +1,78 @@
+name: Apply site visual refresh
+
+on:
+  push:
+    branches:
+      - site/visual-refresh
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Patch landing page visuals
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path('index.html')
+          text = path.read_text(encoding='utf-8')
+
+          old_hero = 'https://paiea.github.io/peg-leg-greg-reader/3l/assets/images/hero/dragon-bargain.png'
+          new_hero = 'https://paiea.github.io/3L/visual/3l1.png'
+          if text.count(old_hero) != 3:
+              raise SystemExit(f'expected 3 old hero references, found {text.count(old_hero)}')
+          text = text.replace(old_hero, new_hero)
+
+          css_marker = '.lineage{display:grid;grid-template-columns:1fr 1fr 1fr;gap:.7rem;margin-top:2.7rem;font-family:ui-sans-serif,system-ui,sans-serif}'
+          nhal_css = '''.nhal-card{margin:2.7rem 0 0;overflow:hidden;border-radius:20px;background:var(--night);color:#f7efe3;box-shadow:0 18px 46px rgba(38,29,20,.14)}
+.nhal-card img{display:block;width:100%;height:auto;max-height:42rem;object-fit:cover;object-position:center}
+.nhal-card figcaption{padding:1rem 1.15rem 1.15rem;font-family:ui-sans-serif,system-ui,sans-serif}
+.nhal-card figcaption .eyebrow{color:#c9ae89}
+.nhal-card strong{display:block;margin-top:.18rem;font-size:1rem;letter-spacing:.04em}
+'''
+          if css_marker not in text:
+              raise SystemExit('lineage CSS marker missing')
+          text = text.replace(css_marker, nhal_css + css_marker, 1)
+
+          html_marker = '<div class="toc"><details><summary>All readable records</summary><div class="toc-list" id="tocList"></div></details></div>\n<nav class="lineage" aria-label="Peg-Leg Greg editions">'
+          nhal_html = '''<div class="toc"><details><summary>All readable records</summary><div class="toc-list" id="tocList"></div></details></div>
+<figure class="nhal-card">
+  <img src="./visual/3l2.png" alt="Nhal, a massive leonine ancient being bound within a luminous load-bearing lattice." loading="lazy" decoding="async">
+  <figcaption><span class="eyebrow">Deeper in the record</span><strong>Nhal · The Bound One</strong></figcaption>
+</figure>
+<nav class="lineage" aria-label="Peg-Leg Greg editions">'''
+          if html_marker not in text:
+              raise SystemExit('landing insertion marker missing')
+          text = text.replace(html_marker, nhal_html, 1)
+
+          path.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Verify visual refresh
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          text = Path('index.html').read_text(encoding='utf-8')
+          assert 'https://paiea.github.io/3L/visual/3l1.png' in text
+          assert 'peg-leg-greg-reader/3l/assets/images/hero/dragon-bargain.png' not in text
+          assert './visual/3l2.png' in text
+          assert 'Nhal · The Bound One' in text
+          assert Path('visual/3l1.png').is_file()
+          assert Path('visual/3l2.png').is_file()
+          print('visual refresh checks passed')
+          PY
+          python scripts/check_repo.py
+          python -m unittest discover -s tests -p 'test_*.py'
+
+      - name: Commit visual refresh
+        run: |
+          git config user.name "Paiea"
+          git config user.email "paiea.tv@gmail.com"
+          git add index.html
+          git commit -m "site: refresh 3L visuals [skip ci]"
+          git push origin HEAD:site/visual-refresh
