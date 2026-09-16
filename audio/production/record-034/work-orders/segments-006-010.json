@@ -1,0 +1,42 @@
+{
+  "record": "034",
+  "source_sha256": "b2b682537b9fdfbe1b22272d3111b1258f30c925f6676146073fcc24440355f7",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 6,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Children learn distributive justice before arithmetic.\n\n\"Three copper is one breakfast,\" Nessa said.\n\n\"Exactly.\"\n\n\"For us.\"\n\n\"For anyone.\"\n\n\"No.\"\n\nShe turned the ledger toward me.\n\nWeapon.\n\n\"Tomas's shoes.\"\n\n\"Necessary.\"\n\n\"Mira's winter coat needs letting out.\"\n\n\"Also necessary.\"\n\n\"Washing fuel went up.\"\n\n\"I noticed.\"\n\n\"Food?\"\n\nI looked at the weekly line.\n\nFive years earlier two adults had seemed expensive.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then we had produced two additional people who ate unpredictably and objected when informed that pears were seasonal.\n\n\"Higher,\" I said.\n\n\"Healer?\"\n\n\"Mira's cough.\"\n\n\"Paper?\"\n\nI looked toward the other room.\n\nMira had recently discovered drawing houses.\n\nEvery house required six sheets because the first five were wrong in ways she could not explain.\n\nTomas preferred drawing wheels.\n\nMost were apparently broken and required replacement.\n\n\"Higher,\" I said.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 8,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Nessa tapped the ledger.\n\n\"Three copper rent assessment. Two copper medicine. Coal up four. Bread up one. Shoes this month. Coat next month.\"\n\n\"Mina did not raise bread.\"\n\n\"She raised rolls.\"\n\n\"That is different.\"\n\n\"Greg.\"\n\n\"I know.\"\n\nShe leaned back.\n\n\"Our household can pay three copper without changing anything important.\"\n\nThat was true.\n\nNow.\n\nYears earlier, not always.\n\n\"Your mother buys medicine,\" Nessa said.\n\n\"Yes.\"\n\n\"How much did it increase last winter?\"\n\nI knew.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Two copper a bottle.\"\n\n\"Did she complain?\"\n\n\"Yes.\"\n\n\"Why?\"\n\n\"Because she complains.\"\n\nNessa stared.\n\nI sighed.\n\n\"Because it adds up.\"\n\n\"Correct.\"\n\nMira entered carrying a wooden horse missing one ear.\n\n\"Can you fix this?\"\n\nI looked at the horse.\n\n\"Probably.\"\n\n\"Now?\"\n\n\"No.\"\n\n\"Why?\"\n\n\"Because your mother is explaining money to me.\"\n\nMira looked at Nessa.\n\n\"He bad at money?\"\n\nNessa said, \"Sometimes.\"\n\nTraitor.\n\n\"I make money.\"\n\n\"That is not the same skill,\" Nessa said.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 10,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Worse.\n\nTomas came in behind Mira holding one of his new shoes.\n\nNot wearing it.\n\n\"Too hard.\"\n\n\"It is leather.\"\n\n\"Old soft.\"\n\n\"Old also too small.\"\n\n\"Old better.\"\n\nI looked at Nessa.\n\n\"Three copper is nothing.\"\n\nShe smiled.\n\nI deserved it.\n\nTwo days later we took the twins to the market.\n\nThat was not part of the district process.\n\nIt became relevant anyway.\n\nMy father had given each of them three copper that morning.\n\nNot for anything.\n\nGrandfathers weaken institutions.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
