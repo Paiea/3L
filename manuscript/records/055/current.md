@@ -1,539 +1,851 @@
 ## RECORD 055
 
-## THE LESSEE
+## THE EVALUATION
 
-My first workshop had three walls.
+I failed B-class support because I was not very good at support.
 
-The fourth was technically a curtain.
+This requires explanation.
 
-This kept the rent reasonable.
+By then I was thirty-five.
 
-It also allowed metal dust from the neighboring smith to migrate into everything I owned.
+Or near enough.
 
-Trade-offs.
+Age gets less precise in memory once birthdays become things other people remind you about.
 
-The space came from necessity, which is how most expensive things introduce themselves.
+The North Mason report had traveled farther than I had.
 
-Private work had outgrown the apartment.
+UNUSUAL SUPPORT HANDOFF METHOD EFFECTIVE WITH TRAINED ROSTER.
 
-Not in revenue.
+That sentence got copied into two contractor files, one Guild note, and eventually an evaluation recommendation.
 
-In objects.
+Calder signed it.
 
-Gauges.
+Orla signed it.
 
-Spare regulators.
+A North Mason field supervisor signed it.
 
-Seal kits.
-
-Two pressure test rigs.
-
-A crate of old valve bodies I kept because each had failed differently.
-
-Nessa called this evidence storage.
-
-Then hoarding.
-
-Then a fire hazard.
-
-The final category won after she stubbed her foot on a bronze housing beside the bed.
-
-“That cannot live here.”
-
-“It is temporary.”
-
-“It has been temporary for seven months.”
-
-“Still temporary.”
-
-“It has a blanket.”
-
-“Oil cloth.”
-
-“Your tools have bedrooms again.”
-
-Historical accusation.
-
-I moved the housing to the hall.
-
-Mina moved it back upstairs because tenants used the hall.
-
-Apparently property owners had opinions.
-
-The next week Lorn brought a field pump to our apartment because his wife had threatened similar violence.
-
-Nessa opened the door.
-
-Looked at the pump.
-
-Looked at Lorn.
-
-Then at me.
-
-“No.”
-
-Lorn said, “I haven't asked yet.”
-
-“No.”
-
-He looked at me.
-
-“Strong management.”
-
-“She has regional experience.”
-
-We rented a bay the next month.
-
-Not alone.
-
-That mattered.
-
-The yard belonged to a widow named Mara Seln who had inherited a carriage-repair property and discovered tradespeople would pay more reliably than carriage owners.
-
-Four covered bays around one open yard.
-
-Blacksmith on the east side.
-
-Pump mechanic north.
-
-Two carpenters sharing west.
-
-The south bay was available because a tinsmith moved closer to the river.
-
-One solid wall.
-
-Two half walls.
-
-Curtain across the front.
-
-Roof mostly trustworthy.
-
-Shared water pump.
-
-Shared privy.
-
-No heat unless we supplied it.
-
-Rent twelve silver monthly.
-
-I stared at the number.
-
-Mara stared back.
-
-“You look surprised.”
-
-“I am calculating.”
-
-“Can you pay?”
-
-“Yes.”
-
-“Then calculate after signing.”
-
-Good landlord.
-
-Terrifying.
-
-Lorn and I split it.
-
-Seven me.
-
-Five him because more of the equipment was mine and I used the space more often.
-
-Nessa asked why not half.
-
-I explained.
-
-She nodded.
-
-That worried me more than disagreement.
-
-“What?”
-
-“Nothing.”
-
-“You approve.”
-
-“Yes.”
-
-“Suspicious.”
-
-“You are finally charging enough to afford walls.”
-
-“Three walls.”
-
-“Progress.”
-
-The first month taught me overhead.
-
-I knew the concept.
-
-Understanding and paying are different educational methods.
-
-Twelve silver was due whether work arrived or not.
-
-So was lamp oil.
-
-Tool replacement.
-
-Guild registration for the address.
-
-Fire inspection fee.
-
-A lock.
-
-Then another lock because the first was bad.
-
-Shelving.
-
-Bench lumber.
-
-A vice heavy enough that carrying it upstairs had previously been proof of stupidity.
-
-Now it had a home.
-
-I liked the vice more than some people.
-
-Nessa noticed.
-
-“Do not sleep there.”
-
-“I wasn't planning to.”
-
-“You looked at the bench emotionally.”
-
-“That is not a thing.”
-
-“It is on your face.”
-
-Apparently everything was.
-
-The shop changed pricing immediately.
-
-Six-silver inspections became eight.
-
-Emergency calls more.
-
-Bench testing separate.
-
-Parts markup small but real.
-
-Lorn objected.
-
-“People will complain.”
-
-“They already complain.”
-
-“Good point.”
-
-The first client who heard the new rate was Mina.
-
-Of course.
-
-“Eight?”
-
-“Yes.”
-
-“You live upstairs.”
-
-“That is not a pricing method.”
-
-She stared.
-
-I smiled.
-
-Years earlier a Guild clerk had said the same thing to me.
-
-Institutional wisdom spreads strangely.
-
-Mina paid seven.
-
-Apparently proximity remained a pricing method after all.
-
-The bay became useful faster than expected.
-
-We could leave test rigs assembled.
-
-Store known-good parts separately from questionable salvage.
-
-Photograph failure patterns by sketch before clients threw broken pieces away.
-
-Lorn built a rack labeled DO NOT INSTALL.
-
-I asked why we were storing parts explicitly unfit for use.
-
-“Because you keep asking what failed.”
+Mara Quill refused to sign anything that contained the phrase experimental redistribution because she said she had already done enough damage by teaching me to read.
 
 Fair.
 
-We began cutting open ruined regulators.
+I applied for B-class support evaluation anyway.
 
-Not for research exactly.
+Not direct combat.
 
-Curiosity with bookkeeping.
+Support.
 
-The blacksmith next door, Hema Voss, started wandering over.
+Important distinction.
 
-She had opinions about fracture surfaces.
+My direct classification remained C and had stopped embarrassing me years earlier.
 
-Useful ones.
+Mostly.
 
-“Bad casting.”
+The support evaluation took three days.
 
-“How can you tell?”
+I expected the field exercise to matter most.
 
-“Grain.”
+It did not.
 
-I stared at the break.
+The first morning was breadth.
 
-She pointed.
+There were twelve candidates.
 
-“Too coarse here. Cooled wrong.”
+Seven support generalists.
 
-“Could pressure do that?”
+Two ward specialists.
 
-“No.”
+One combat medic.
 
-“How certain?”
+One formation support from a military contract company.
 
-Hema looked offended.
+Me.
 
-“Enough to charge.”
+The woman beside me introduced herself as Sel Aven.
 
-Excellent standard.
+Thirty, maybe.
 
-The pump mechanic, Jori Pell, had different expertise.
+Braid tied so tightly it looked contractual.
 
-He could identify manufacturers from thread patterns.
+No visible weapon.
 
-Not officially.
+Clean gray field coat.
 
-By annoyance.
+She asked, "Primary?"
 
-“South Fen copy.”
+"Barrier."
 
-“How?”
+She nodded.
 
-“Quarter-thread is shallow.”
+"Secondary?"
 
-“Could be wear.”
+I thought about it.
 
-“No. Wear has dignity.”
+"Complicated."
 
-Tradespeople become poets against their will.
+Sel looked at me.
 
-The shared yard created a network without anybody naming it.
+"That is not a discipline."
 
-I brought pressure problems.
+"Apparently."
 
-Hema looked at metal.
+"Mine is reinforcement, emergency stabilization, minor wound support, formation maintenance, environmental screening."
 
-Jori looked at pumps.
+I stared.
 
-Carpenters built temporary supports when field jobs needed weird shapes quickly.
+"You listed the handbook."
 
-Nobody became employees.
+"Yes."
 
-We billed each other.
+"On purpose?"
 
-Sometimes.
+"Yes."
 
-Sometimes bread appeared.
+I disliked her instantly.
 
-Accounting resisted civilization.
+This was premature.
 
-Then came the first bad month.
+The first station was wound stabilization.
 
-Three scheduled jobs canceled.
+Not healing.
 
-One client delayed payment.
+Support until healer intervention.
 
-Rain closed a site for eight days.
+Simulated deep forearm cut with pressure loss and nerve risk.
 
-My private-work ledger showed income four silver below shop costs before household contribution.
+Sel finished in under two minutes.
 
-Not catastrophic.
+Compression.
 
-Annoying.
+Flow reduction.
 
-The rent still arrived.
+Hand position preserved.
+
+Pain-management support.
+
+Clear handoff notes.
+
+I built a beautiful thin Barrier that isolated contamination and reduced external pressure variation.
+
+Then the examiner asked why I had not stabilized the wrist against involuntary flexion.
+
+Because I had been proud of the Barrier.
+
+I did not say that.
+
+"Missed it."
+
+He marked the slate.
+
+Second station.
+
+Heat exposure.
+
+Sel screened two workers and maintained enough cooling support for extraction.
+
+I used Barrier to isolate radiant load more efficiently.
+
+Good.
+
+Then spent too much control maintaining a narrow temperature boundary when a broader lower-precision screen would have been cheaper.
+
+Examiner:
+
+"Why?"
+
+"Better protection."
+
+"For how long?"
+
+I looked at the timing glass.
+
+Not long enough.
+
+Third station.
+
+Unknown team formation.
+
+Four fighters I had never met.
+
+No Draw permitted because there had been no prior controlled practice.
+
+Correct rule.
+
+I hated it.
+
+Sel went before me.
+
+She asked four questions.
+
+Who takes first contact?
+
+Who commits deepest?
+
+Who has poor recovery?
+
+Who calls retreat?
+
+Then put everyone in standard reinforcement bands and stood where all four knew to find her.
+
+Nothing clever.
+
+They were better immediately.
+
+Not dramatically.
+
+Reliably.
+
+She shifted twice in five minutes.
+
+Nobody lost support unexpectedly.
+
+Nobody looked for her.
+
+Nobody had to learn her.
+
+Then my turn.
+
+I asked too many questions.
+
+The examiner stopped me at eight.
+
+"You have two minutes before contact."
+
+"I know."
+
+"Then support them."
+
+I used conventional pocket doctrine.
+
+Because Orla had been right years earlier.
+
+It worked.
+
+Fine.
+
+I supported the anchor.
+
+Stabilized the forward fighter on two entries.
+
+Caught a bad rear step from the spear user.
+
+Helped the caster through one recoil event.
+
+Competent.
+
+Then I saw the team shape start to shift.
+
+The anchor did not need me.
+
+The forward fighter had a clean pressure window.
+
+The caster was holding reserve.
+
+I wanted to move support.
+
+I did.
+
+The forward fighter felt reinforcement arrive and committed harder.
+
+Good.
+
+The anchor expected the old support and got hit harder than planned.
+
+Bad.
+
+Not injured.
+
+Point against the formation.
+
+I corrected.
+
+Then overcorrected.
+
+The unfamiliar spear user shortened because she thought my movement meant the rear was exposed.
+
+It wasn't.
+
+My known party would have understood.
+
+These people did not.
+
+Five minutes ended.
+
+Examiner wrote for a long time.
+
+Sel was drinking water nearby.
+
+I looked at her.
+
+"Don't."
+
+"I haven't said anything."
+
+"Your face has."
+
+"Apparently contagious."
+
+I liked her slightly more.
+
+The second day was self-preservation and endurance.
+
+This should have helped me.
+
+I ran.
+
+A lot.
+
+I could cast under load better than most candidates.
+
+Good.
+
+Then came sustained personal aura while maintaining two external supports.
+
+I was mediocre.
+
+Not terrible.
+
+Mediocre.
+
+My aura was efficient enough for field work.
+
+It was not the thing I had spent years refining.
+
+Every bit of attention I put into continuous self-reinforcement felt like attention unavailable elsewhere.
+
+That feeling was not a defense.
+
+The evaluation asked whether I could do both.
+
+Answer:
+
+Less well than Sel.
+
+She held full self-aura, two reinforcement targets, and a broad dust screen while walking an obstacle course.
+
+Not running.
+
+Not flashy.
+
+Nothing dropped.
+
+I finished faster.
+
+My dust screen broke twice.
+
+The examiner said, "Support is still required while you are being impressive."
+
+Rude.
+
+Accurate.
+
+Emergency healing adjunct was worse.
+
+I knew enough to keep people alive until a healer arrived.
+
+Sel knew enough to make the healer's job easier after arrival.
+
+Difference.
+
+I began to understand why generalists existed.
+
+They were useful.
+
+Awful discovery.
+
+The third day was candidate specialty.
+
+Finally.
+
+We could provide our own trained participants within limits.
+
+I brought Calder and Orla.
+
+Veda was on contract south.
+
+Noll came too because he had become part of the method whether anyone liked it or not.
+
+The examiner read the roster.
+
+"You need three people to demonstrate one support candidate?"
+
+"Yes."
+
+"That is not encouraging."
+
+"Wait."
+
+Also not encouraging.
+
+The specialty course was twenty minutes of changing objectives.
+
+Hold line.
+
+Move casualty.
+
+Break contact.
+
+Cross unstable ground.
+
+Defend a fixed point.
+
+Then attack one.
+
+Candidates could choose what to demonstrate.
+
+Sel demonstrated broad formation support with an unfamiliar four-person group.
+
+Again.
+
+Excellent.
+
+She took ordinary people and made them smoothly better in under five minutes.
+
+I could not do that.
+
+Not like her.
+
+Then my roster entered.
+
+Calder looked at the judges.
+
+"Do we get paid?"
+
+"No," I said.
+
+"Then this is friendship."
+
+Orla said, "Don't make it weird."
+
+Noll checked the timing board.
+
+Professional priorities.
+
+Start.
+
+First objective: hold line.
+
+Conventional.
+
+Orla anchor.
+
+Calder right.
+
+Noll rear.
+
+I stayed central.
+
+Nothing unusual.
+
+Second objective changed at two minutes.
+
+Move casualty fifty yards while taking simulated pressure.
+
+Calder lifted the dummy.
+
+His output became physical, not magical.
+
+Noll had surplus.
+
+Two fingers.
+
+Draw.
+
+Small.
+
+Barrier around Orla's exposed side as she moved backward.
+
+Release.
+
+Noll recovered.
+
+Calder reached halfway.
+
+His breathing changed.
+
+Still reserve.
+
+Two fingers.
+
+Draw.
+
+Barrier under the casualty board when one carrier slipped.
+
+No interruption.
+
+Third objective.
+
+Break contact.
+
+Orla spent hard to hold the turn.
+
+No draw.
+
+Noll spent on route screening.
+
+No draw.
+
+Calder had surplus after release.
+
+I did not take it because his footing was changing.
+
+The evaluator noticed.
+
+Good.
+
+Fourth objective.
+
+Cross unstable ground.
+
+This was where the method looked strange.
+
+I moved.
+
+Not behind them.
+
+Through them.
+
+Orla left.
+
+Noll right.
+
+Calder forward.
+
+I ran a diagonal before the ground marker changed.
+
+Barrier under Calder for one step.
+
+Gone.
+
+Barrier at Orla's outer foot.
+
+Gone.
+
+Noll gave two fingers.
+
+Draw on the move.
+
+Not clean.
+
+Better than two years earlier.
+
+Spent on a short plane across the next gap.
+
+Calder used it.
+
+Then support left him before landing.
+
+He adjusted without looking.
+
+That was the thing.
+
+They knew the disappearance.
+
+The judges did not write for several seconds.
+
+Then wrote a lot.
+
+Fifth objective.
+
+Defend fixed point.
+
+We were worse than Sel's team.
+
+Important.
+
+Static defense rewarded sustained reinforcement and predictable lanes.
+
+Sel's standard method was excellent there.
+
+Mine spent too much attention finding improvements that did not matter.
+
+Orla eventually shouted, "Stop helping."
+
+One judge looked up.
+
+I stopped.
+
+We improved.
+
+Humbling.
+
+Final objective.
+
+Attack.
+
+That one belonged to us.
+
+Not because my support was stronger.
+
+Because value kept moving.
+
+Calder burst.
+
+I supported.
+
+Release.
+
+Noll pressure.
+
+Orla advanced instead of anchoring.
+
+Calder recovering.
+
+Two fingers.
+
+Draw.
+
+Support to Orla.
+
+Noll finishes.
+
+Orla gives ground.
+
+Calder returns.
+
+No one waited for me to tell them who they were.
+
+Roles moved.
+
+Support moved.
+
+We cleared the objective fast enough that one examiner checked the timing device.
+
+I enjoyed that.
+
+Then came the interview.
+
+Less enjoyable.
+
+Five examiners.
+
+One Guild classifier.
+
+One field-support representative.
+
+One healer.
+
+One military formation specialist.
+
+One contractor evaluator.
+
+They had my incident report from Veda's injury.
 
 Of course.
 
-Mara appeared at first bell on the due date.
+They had North Mason.
 
-No threats.
+They had West Fen.
 
-No sympathy.
+They had the specialty course.
 
-“Rent.”
+The formation specialist began.
 
-I paid.
+"Your attached-team results are strong."
 
-There is something clarifying about handing away money after a month where the space mostly held objects politely.
+Good.
 
-That night I looked at the household ledger too long.
+"Your unfamiliar-team support is ordinary."
 
-Nessa noticed.
+Fair.
 
-“Short?”
+"Your emergency healing breadth is below B expectation."
 
-“Business.”
+Also fair.
 
-“How much?”
+"Your self-protection is adequate but not strong."
 
-I told her.
+I disliked adequate.
 
-“Do you need house money?”
+"Your Draw-routing introduces failure modes standard support does not."
 
-“No.”
+"It also removes some."
 
-That answer came fast.
+"Which?"
 
-Too fast.
+I explained.
 
-She waited.
+Idle reserve.
 
-I checked again.
+Recovery windows.
 
-“I don't think so.”
+Different demand timing.
 
-“Different.”
+Support margin going unused while another position failed.
 
-“Yes.”
+The contractor evaluator nodded.
 
-We could cover it.
+"With trained people."
 
-Not comfortably forever.
+"Yes."
 
-Comfortably once.
+"How long to train?"
 
-That distinction mattered.
+"Depends."
 
-The shop had to justify itself over time, not every week.
+"Your North Mason group?"
 
-I knew that intellectually.
+"Days to function. Weeks to get good."
 
-My body hated negative months.
+"A B support can be attached to a strange crew this afternoon."
 
-First-life contract work had trained me to think money came in violent chunks.
+There it was.
 
-Big hazard pay.
+Sel.
 
-Long dry periods.
+Not personally.
 
-Travel allowances.
+The professional expectation she represented.
 
-Guild shares.
+"Yes."
 
-Life Two had become more boring.
+"Can you?"
 
-Rent monthly.
+"Yes."
 
-Coal monthly.
+"At B level?"
 
-Medicine monthly.
+I thought about the first-day formation exercise.
 
-Shop monthly.
+"Probably not."
 
-Responsibility loves recurrence.
+The healer asked, "If your trained roster loses two members and gains replacements during a long operation, what happens?"
 
-We kept the bay.
+"We get worse."
 
-Good decision.
+"How much?"
 
-Not immediately.
+"I don't know."
 
-The next month was only average.
+Good answer.
 
-Then a district contractor paid us to bench-test twenty relief valves before installation because replacing bad ones in the field cost more than testing first.
+Bad evaluation.
 
-Two days of boring work paid almost a month's rent.
+The military specialist asked whether I could run Draw while maintaining full personal aura.
 
-Lorn hated it.
+"Poorly."
 
-“Again.”
+"So during your highest-value support mode, your self-protection decreases."
 
-“Valve nineteen.”
+"Currently."
 
-“Pass.”
+There was the word again.
 
-“Record.”
+He heard it.
 
-“Pass.”
+"The classification is for what you can do now."
 
-“Record.”
+Fair.
 
-“This is punishment.”
+I wanted to tell them the metric was wrong.
 
-“Paid punishment.”
+Almost did.
 
-“Still punishment.”
+Then remembered Sel moving four strangers through a clean formation without needing them to understand her life's work.
 
-Valve seventeen failed early.
+The metric was measuring something real.
 
-Bad spring.
+Just not everything.
 
-That one failure paid for the boredom conceptually.
+The decision arrived the next morning.
 
-The contractor ordered future batches tested.
+C-CLASS SUPPORT RETAINED.
 
-Repeat work.
+B-CLASS PROMOTION NOT APPROVED.
 
-Not heroic.
+Under reasons:
 
-Beautiful.
+INSUFFICIENT BREADTH ACROSS UNFAMILIAR ROSTERS.
 
-A year later the south bay had a real fourth wall.
+SELF-PROTECTION BELOW EXPECTED B-CLASS FIELD ROBUSTNESS DURING SPECIALTY OPERATION.
 
-Mara built it after raising rent two silver.
+ALLY DRAW / REDISTRIBUTION EFFECTIVE UNDER TRAINED CONDITIONS BUT NOT YET SUFFICIENTLY GENERAL, SAFE, OR REPRODUCIBLE FOR CLASSIFICATION CREDIT.
 
-I objected.
+Then one line I read three times:
 
-She pointed at the wall.
+ATTACHED-TEAM PERFORMANCE EXCEEDS CURRENT CLASSIFICATION IN SELECT CONDITIONS.
 
-“Wall.”
+There it was.
 
-Hard argument to beat.
+Lose the argument.
 
-We paid fourteen.
+Keep the evidence.
 
-The curtain became a shop rag.
+Sel passed.
 
-I kept a strip.
+B-class support.
 
-Nessa asked why.
+I found her outside the Guild hall holding the new badge like somebody had handed her a slightly disappointing coin.
 
-“History.”
+"Congratulations."
 
-“Hoarding.”
+"You didn't?"
 
-“Evidence.”
+"No."
 
-She smiled.
+She frowned.
 
-The workshop never became a castle.
+Not pleased.
 
-No grand headquarters.
+Good person.
 
-No sign with my name in gold.
+"Your specialty course was better than mine."
 
-For years it was a rented bay in a noisy yard where metal dust found everything and the privy froze once every winter.
+"Parts of it."
 
-It mattered because work finally had somewhere to remain when I went home.
+"Then appeal."
 
-Tools stayed.
+I looked at the letter.
 
-Records stayed.
+"They're right."
 
-Parts stayed.
+Sel stared.
 
-Other people knew where to find them.
+"That sounded painful."
 
-That was another kind of separation between me and usefulness.
+"Extremely."
 
-A good one.
+"About what?"
 
-The first life had taught me to carry what I needed.
+"Most of it."
 
-The second was teaching me to build places where what people needed could wait without me.
+She nodded.
+
+"You still going to do the weird thing?"
+
+"Yes."
+
+"Good."
+
+I looked at her.
+
+"Why?"
+
+"Because I don't want to."
+
+That was the best argument anyone gave me that week.
+
+We had lunch.
+
+She explained three things I had done badly in wound stabilization.
+
+I explained why her fixed-point support wasted reinforcement on a fighter who had not needed it.
+
+We both became annoyed.
+
+Useful.
+
+I kept the failed evaluation letter.
+
+Not framed.
+
+Folded in the same notebook as the North Mason report.
+
+Two pieces of paper.
+
+One said the method worked.
+
+One said the method was not enough.
+
+Both were true.
+
+That was a much better problem than being misunderstood.
