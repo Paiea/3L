@@ -5,73 +5,73 @@
   "segments": [
     {
       "index": 81,
-      "speaker": "greg",
-      "voice_id": "deep",
-      "transcript": "\n\n\"Two infants are inefficient.\"\n\n",
-      "pause_after_ms": 1100
-    },
-    {
-      "index": 82,
-      "speaker": "ithar",
-      "voice_id": "normal",
-      "transcript": "\"Obviously.\"",
-      "pause_after_ms": 1100
-    },
-    {
-      "index": 83,
-      "speaker": "greg",
-      "voice_id": "deep",
-      "transcript": "\n\n\"Expensive.\"\n\n",
-      "pause_after_ms": 1100
-    },
-    {
-      "index": 84,
       "speaker": "ithar",
       "voice_id": "normal",
       "transcript": "\"You have established this.\"",
       "pause_after_ms": 1100
     },
     {
-      "index": 85,
+      "index": 82,
       "speaker": "greg",
       "voice_id": "deep",
       "transcript": "\n\n\"Loud.\"\n\n",
       "pause_after_ms": 1100
     },
     {
-      "index": 86,
+      "index": 83,
       "speaker": "ithar",
       "voice_id": "normal",
       "transcript": "\"Gregory.\"",
       "pause_after_ms": 1100
     },
     {
-      "index": 87,
+      "index": 84,
       "speaker": "greg",
       "voice_id": "deep",
       "transcript": "\n\n\"Greg.\"\n\nThe dragon's mouth moved again.\n\nThere.\n\nThe expression.\n\nHe had caught me.\n\nI knew it and resented him for making me know it too.\n\n",
       "pause_after_ms": 1100
     },
     {
-      "index": 88,
+      "index": 85,
       "speaker": "ithar",
       "voice_id": "normal",
       "transcript": "\"You are smiling,\"",
       "pause_after_ms": 1100
     },
     {
-      "index": 89,
+      "index": 86,
       "speaker": "greg",
       "voice_id": "deep",
       "transcript": " he said.\n\n\"No.\"\n\n",
       "pause_after_ms": 1100
     },
     {
-      "index": 90,
+      "index": 87,
       "speaker": "ithar",
       "voice_id": "normal",
       "transcript": "\"You are.\"",
       "pause_after_ms": 1100
+    },
+    {
+      "index": 88,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Security flaw.\"\n\nHis claws shifted against the stone.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 89,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You speak of collapsed stations with less detail.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 90,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nThat one landed.\n\nI looked away from him.\n\nToward the dark opening behind his shoulder where the cave disappeared into somewhere I could not see.\n\nThe first year with Mira and Tomas was exhausting.\n\nNessa and I fought more.\n\nWe had less money.\n\nLess sleep.\n\nLess privacy.\n\nWork became harder to schedule.\n\nMeals went cold.\n\nEvery object below waist height became a hazard.\n\n",
+      "pause_after_ms": 450
     }
   ]
 }
