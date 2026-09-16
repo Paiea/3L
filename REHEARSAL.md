@@ -1,6 +1,6 @@
 # 3L Layered Rehearsal
 
-Rehearsal is the main prose-restoration method for Records 011–079.
+Rehearsal is the prose-restoration method for records whose `manuscript/manifest.json` entry is marked `needs_rehearsal`. Do not infer rehearsal status from a broad numeric range; the manifest owns per-record prose state.
 
 The model is image restoration: the story image already exists. Recover missing resolution in layers without repainting strong material merely because a pass is active.
 
@@ -14,7 +14,7 @@ Word count is evidence, not a target.
 
 - Write/revise one record at a time.
 - Read at least the immediate previous and next current records first.
-- Seam-check five restored records together before advancing the restored frontier.
+- Seam-check five restored records together before advancing the contiguous restored frontier.
 - Keep one active candidate, normally `drafts/record-<slot>/rehearsal.md`.
 - Do not create four permanent files just because there are four lenses.
 
@@ -67,7 +67,7 @@ A cheap rehearsal voice may be used here. Rehearsal audio is disposable and does
 
 After five records are individually restored, read/listen to the five as one unit. Check repeated beats, elapsed time, relationship movement, body continuity, money/work continuity, promises, and whether one record stole another record's job.
 
-Then update `PROJECT.json.frontiers.restored_through` and the next `rehearsal_target`.
+Then update `PROJECT.json.frontiers.restored_through` only if the batch closes the next contiguous gap from the existing frontier. A later record may be marked `restored` in the manifest without advancing `restored_through` when an earlier unresolved record remains. Set `rehearsal_target` to the first unresolved record in manifest order.
 
 ## Promotion
 
