@@ -1,0 +1,42 @@
+{
+  "record": "034",
+  "source_sha256": "b2b682537b9fdfbe1b22272d3111b1258f30c925f6676146073fcc24440355f7",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 21,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Apparently learning once remained optional.\n\nThen Halden called me.\n\nI had agreed to answer technical questions.\n\nMistake.\n\nA man asked what happened if the assessment failed.\n\nEasy.\n\n\"Some surveys slow. Monitoring stays temporary longer. Parts replacement remains reactive.\"\n\n\"Does the Line fail?\"\n\n\"No.\"\n\nThe room shifted.\n\nBad answer politically.\n\nCorrect technically.\n\n\"Then why pay?\" someone asked.\n\n\"Because waiting until failure is more expensive.\"\n\n\"How much?\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 22,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Depends.\"\n\nGroans.\n\nFair.\n\nI tried again.\n\n\"East Two's winter restriction required daily monitoring because we did not understand a moving legacy support. That cost workers every shift. If we had better instrumentation earlier, cheaper.\"\n\n\"Did it fail?\"\n\n\"No.\"\n\n\"East Four chamber?\"\n\n\"Did not fail.\"\n\n\"South Three?\"\n\n\"No.\"\n\nI could hear how this sounded.\n\nPay money to prevent things that had not happened.\n\nSafety has terrible marketing.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 23,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Senn asked, \"How many failures has this new program prevented?\"\n\n\"I don't know.\"\n\n\"Then what are we buying?\"\n\nThere it was.\n\nNot hostility.\n\nA real question.\n\nI thought about gauges.\n\nRecords.\n\nWorkers.\n\nTime.\n\nI thought about West Three and eleven extended nights.\n\nAbout Jori lying under a housing listening while everyone stronger guessed wrong.\n\nAbout a station remaining healthy because somebody had time to notice a small thing before it became a large thing.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 24,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Margin,\" I said.\n\nSenn frowned.\n\n\"What?\"\n\n\"Time between noticing and emergency. Spare parts before failure. Enough staff that somebody is not on an eleventh extended shift. Records that tell the next crew what the last one saw. We are buying room to be wrong before wrong becomes expensive.\"\n\nThe room quieted slightly.\n\nGood sentence.\n\nStill three copper.\n\nThe woman from Rope Street asked, \"Why same fee for my room and his?\"\n\nShe pointed at Senn.\n\nPeople laughed.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 25,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Senn did too, barely.\n\n\"Property owners pay commercial share?\" I asked Halden.\n\nThe clerk beside him answered.\n\n\"Common service plus per-unit residential assessment.\"\n\n\"So both.\"\n\n\"Yes.\"\n\n\"Still her unit pays same as a larger one.\"\n\n\"Yes.\"\n\n\"Why?\"\n\n\"Administration.\"\n\nThere.\n\nThe ugliest reasonable word.\n\nDifferent rates required verified unit size, occupancy, or income.\n\nDistrict had none reliably.\n\nGetting it cost money.\n\nA flat fee was cheap to administer.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

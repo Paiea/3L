@@ -1,0 +1,42 @@
+{
+  "record": "034",
+  "source_sha256": "b2b682537b9fdfbe1b22272d3111b1258f30c925f6676146073fcc24440355f7",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Mira carried hers in a cloth purse Nessa had made from scrap.\n\nTomas kept his in one fist for so long the coins marked his palm.\n\nAt the market they discovered money represented refusal.\n\nNot acquisition.\n\nThat surprised both of them.\n\nMira wanted a sugared pear slice.\n\nOne copper.\n\nThen a blue ribbon.\n\nThree copper.\n\nThen a tiny painted bird.\n\nFour.\n\nShe had three.\n\n\"I need more,\" she said.\n\n\"You have three.\"\n\n\"Bird four.\"\n\n\"Correct.\"\n\n\"Give one.\"\n\nReasonable request.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 12,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I reached for my purse.\n\nNessa touched my wrist.\n\n\"No.\"\n\nI looked at her.\n\n\"One copper.\"\n\n\"Exactly.\"\n\nMira looked betrayed.\n\n\"Dada has money.\"\n\n\"Yes,\" Nessa said.\n\n\"Then bird.\"\n\n\"Your money buys one thing or another thing,\" Nessa said. \"Not every thing.\"\n\nMira frowned at the entire economy.\n\n\"Bad system.\"\n\n\"Many agree,\" I said.\n\nNessa looked at me.\n\n\"Helpful.\"\n\nMira stood in front of the stalls for nearly ten minutes.\n\nShe bought the ribbon.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then regretted not buying the pear.\n\nThen liked the ribbon again when Nessa tied it in her hair.\n\nThen asked whether regret returned money.\n\nIt did not.\n\nMore bad system.\n\nTomas had a different problem.\n\nA woodworker's stall had a little carved wheel on a peg.\n\nNot a toy exactly.\n\nProbably scrap turned round because somebody had time.\n\nTwo copper.\n\nTomas picked it up.\n\nTurned it.\n\nLooked through the center hole.\n\nSet it down.\n\nWalked away.\n\nI followed.\n\n\"You don't want it?\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 14,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"Want.\"\n\n\"It costs two.\"\n\n\"I know.\"\n\nHe had learned numbers faster than Mira because numbers answered without asking why.\n\n\"Then why not buy it?\"\n\nHe held up his fist.\n\n\"Keep.\"\n\n\"For what?\"\n\nHe shrugged.\n\n\"Later.\"\n\nFive years old.\n\nAlready financially superior to me.\n\nMira spent all three copper.\n\nTomas spent none.\n\nBy lunch Mira wanted one of Tomas's coins.\n\nHe said no.\n\nShe argued that twins should share.\n\nHe argued by putting both hands in his pockets and walking faster.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Nessa refused jurisdiction.\n\nI attempted mediation.\n\nRecent history suggested I should have known better.\n\nBy the time we got home, Mira had the ribbon, Tomas still had three copper, and I had spent six copper on food because watching children learn scarcity made me hungry.\n\nEconomic education remained expensive.\n\nThe public hearing filled the public bath's dry hall.\n\nSame room where we had argued about heat allocation.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

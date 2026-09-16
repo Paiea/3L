@@ -1,0 +1,42 @@
+{
+  "record": "034",
+  "source_sha256": "b2b682537b9fdfbe1b22272d3111b1258f30c925f6676146073fcc24440355f7",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 1,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Mira and Tomas were five when I called three copper nothing.\n\nThis was stupid for several reasons.\n\nThe first was that I had twins.\n\nFive-year-olds can convert small amounts of money into urgent household problems with remarkable efficiency.\n\nShoes.\n\nClothes.\n\nFood.\n\nSoap.\n\nWashing fuel.\n\nHealer visits.\n\nPaper.\n\nBroken cups.\n\nLost spoons.\n\nObjects nobody remembered buying but which somehow became essential immediately after disappearing.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 2,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Three copper sounded cheap until forty-eight households heard it at once.\n\nThen it became politics.\n\nDistrict engineering needed money.\n\nThat sentence is less interesting than dragon fire and more common.\n\nLegacy surveys had found enough old structures under enough stations that monitoring could no longer be paid from whatever account Halden had been quietly abusing.\n\nI did not ask which account.\n\nPlausible deniability is a public resource.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 3,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The district proposed a Line maintenance assessment.\n\nThree copper per residential unit each month.\n\nCommercial properties by service class.\n\nLarge users more.\n\nPublic buildings covered from city allocation.\n\nThe money would fund legacy inspections, station records, replacement gauges, reserve fittings, and two additional maintenance positions shared across the district.\n\nGood things.\n\nBoring things.\n\nThings people noticed only when absent.\n\nI supported it immediately.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 4,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "That should have warned me.\n\nHalden showed me the proposal in his office.\n\n\"Three copper.\"\n\n\"Yes.\"\n\n\"That's nothing.\"\n\nHe looked at me.\n\nNot Tova's stare.\n\nNot Nessa's.\n\nHis own version.\n\nTired disappointment.\n\n\"Per unit.\"\n\n\"I read it.\"\n\n\"Per month.\"\n\n\"Yes.\"\n\n\"Passed through landlords.\"\n\n\"Probably.\"\n\n\"Market stalls?\"\n\n\"Commercial schedule.\"\n\nI read that page.\n\nSmall stalls one copper.\n\nShops two to six depending on draw.\n\nHeavy workshops more.\n\nStill looked small.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 5,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then Halden said, \"Public hearing next week.\"\n\n\"Why?\"\n\n\"Because people pay it.\"\n\n\"Three copper.\"\n\nHe closed his eyes.\n\nApparently I had become the problem.\n\nNessa corrected me at home.\n\nNot kindly.\n\nThe household ledger was already open because Tomas had needed new shoes.\n\nAgain.\n\nHe grew mostly through his feet for one year.\n\nMira considered this unfair because her shoes still fit and therefore she did not receive new ones.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
