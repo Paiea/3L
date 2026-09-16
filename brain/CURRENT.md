@@ -70,22 +70,22 @@ Greg attempts B-class support evaluation and fails. By-the-book support Sel Aven
 Six weeks later Greg applies for White Stair and discovers he has already been specifically requested by Aren Dray, Arcrutus's forty-two-year-old A-class eldest son. Aren becomes the first fighter to deliberately alter his own timing, lines, and positioning around Greg's support access. His key question is: **Why only one direction?** The party begins asking not only what support they need, but what they can change to make support cheaper and the operation better.
 
 ### Record 057 · THE TEMPER
-Greg notices Aren commits cleaner when mildly irritated. Greg crosses a line once by invoking Arcrutus on purpose to trigger that state. Aren catches it and sets the durable boundary: **I'm allowing you to know me. Do not confuse knowing with owning.** The party begins volunteering non-magical performance conditions of their own: reassurance, silence, fatigue tells, confidence, irritation, and timing. Greg stops pretending support ends at mana.
+Greg notices Aren commits cleaner when mildly irritated. Greg crosses a line once by invoking Arcrutus on purpose to trigger that state. Aren catches it and sets the durable boundary: **I'm allowing you to know me. Do not confuse knowing with owning.** The party begins volunteering non-magical performance conditions of their own: reassurance, silence, fatigue tells, confidence, irritation, and timing. At the end Aren reveals that the next contract, Red Basin, is being assembled around Greg rather than asking Greg to fit into an existing roster.
 
 ### Record 058 · THE ROSTER
-For Red Basin, Aren helps build a stronger four-month party around Greg rather than asking Greg to fit into an existing one. A-class channel caster Jessa Rook, B shield Sella Tor, and B combat Corin Hart join Aren and Greg. Greg rejects stronger-on-paper Varo Tess initially because his demand rhythm clusters badly with Aren's. The party begins adapting in both directions, including Jessa delaying a stronger personal attack because the operation becomes faster overall. Contractors start sending requests specifically for Greg.
+Red Basin makes the professional inversion explicit. Aren has not merely invited Greg into a strong party. He has deliberately selected a party whose demand and recovery shapes give current Greg useful differences to allocate. Aren provides autonomous forward pressure and later reserve windows. Jessa Rook provides huge discrete output followed by real recovery. Sella Tor can hold for long stretches without constant support. Corin Hart supplies frequent small availability when others are expensive. Aren's cleanest explanation is: **Varo and I solve the same ten seconds. Corin solves the ten after.** Greg approves Corin over stronger-on-paper Varo Tess, but he explicitly identifies this as a limitation of current Greg, not a permanent doctrine that weaker or complementary people are inherently better. More speed, reserve, self-protection, and power should eventually give Greg more margin if he becomes capable of resolving and allocating it.
 
 ### Record 059 · THE OPEN SIDE
-Greg's increasingly valuable Draw-routing exposes the conflict with continuous self-aura. Dropping aura makes routing and reacquisition cleaner but leaves him physically vulnerable and frees attention for the external network. He is actually cut while open on unstable footing. The party's trained failure response works. They add formation consent to source consent: Greg may have available mana to move, but the group must also be able to afford his temporary vulnerability. Other members deliberately spend small amounts of position and attention to create safe open windows.
+Greg's increasingly valuable Draw-routing exposes the conflict with continuous self-aura. Dropping aura makes routing and reacquisition cleaner but leaves him physically vulnerable and frees attention for the external network. Red Basin's staggered roster makes the open interval possible partly because not everyone demands peak support together. Greg writes that he **currently needs staggered demand to open safely** and recognizes this as his problem, not an immutable party requirement. He is actually cut while open on unstable footing. The party's trained failure response works. They add formation consent to source consent and deliberately spend small amounts of position and attention to create safe open windows.
 
 ### Record 060 · THE SUBSTITUTE
-Corin is temporarily sidelined by mundane illness, forcing the party to integrate Varo Tess, the stronger-on-paper fighter Greg originally rejected. The method degrades, exactly as critics predicted. Aren begins teaching the reciprocal-adaptation principle before Greg does. Varo does not become Corin; the entire party changes around Varo's different rhythm until acceptable field performance returns in two days. Corin's return reveals another flaw: Greg's detailed models can themselves become stale. A contractor report explicitly records that method knowledge now exists in party members without Greg prompting them. The Guild invites Greg to B-class re-evaluation, but he does not immediately apply.
+Corin is temporarily sidelined by mundane illness, forcing the party to integrate Varo Tess, the stronger-on-paper fighter Greg originally rejected. The method degrades exactly as critics predicted. Aren begins teaching reciprocal adaptation before Greg does. As Varo integrates, Greg discovers that Varo's superior speed, reserve, aura, and pressure create capabilities Corin simply does not have. The problem is not that Varo is too strong. **Corin is easier for Greg; Varo is not worse; Greg is worse with Varo.** A six-person overlap drill makes the next ceiling obvious: additional strong options become noise because Greg's resolution, concurrency, and latency cannot yet distinguish and use them fast enough. Greg writes the durable target: **STRONGER SHOULD EVENTUALLY GIVE MORE MARGIN, NOT LESS. CURRENTLY NOT TRUE FOR ME.** The contractor records that the method can survive personnel change and that party members now carry method knowledge without Greg prompting them. The Guild invites Greg to B-class re-evaluation, but he does not immediately apply.
 
 ## Approved First-Life climb pressure
 
 Durable development direction:
 
-Barrier specialization -> study what defeats Barrier -> Draw as ward-drain/counter-technique -> controlled relief of allied magical pressure -> redistribution/cycling -> reciprocal party adaptation -> linking -> multi-person capability architecture.
+Barrier specialization -> study what defeats Barrier -> Draw as ward-drain/counter-technique -> controlled relief of allied magical pressure -> redistribution/cycling -> reciprocal party adaptation -> roster architecture as temporary scaffold -> linking -> multi-person capability architecture.
 
 The approved design lives in `docs/superpowers/specs/2026-09-15-first-life-open-circuit-support-design.md` and is mirrored in `brain/OPEN_CIRCUIT.md` on the working branch.
 
@@ -99,10 +99,14 @@ Important constraints:
 - Greg's C-class warrior history gives him a movement chassis, not secret elite combat ability;
 - mana cycling never creates mana; it reallocates existing reserve and otherwise-idle regeneration opportunity;
 - recovery itself has conditions and costs; a full reserve can suppress additional recovery without making fullness inherently wasteful;
-- stronger and more complementary parties give mature Greg more useful margin to allocate, while also increasing control complexity;
 - reciprocal adaptation is now party knowledge, not only Greg's insight;
 - knowing a teammate's emotional/performance state does not grant Greg ownership or permission to manipulate it without boundaries;
 - Greg's open-aura state requires party compensation and formation consent, preserving a real vulnerability;
+- early Greg benefits enormously from deliberately complementary rosters because staggered demand reduces his switching, concurrency, and resolution burden;
+- **this is scaffolding, not mature doctrine**: Greg should eventually become capable of supporting arbitrary strong parties without requiring carefully complementary demand rhythms;
+- stronger and better teammates should ultimately provide mature Greg with more wiggle room: more reserve, speed, self-protection, recovery options, and capability margins to allocate;
+- therefore Corin being easier than Varo at this stage reflects Greg's current limitations, not a claim that Corin is categorically more valuable than a stronger fighter;
+- as Greg matures, overlapping strength becomes a problem to exploit rather than avoid;
 - Greg is improving portability, but he still gets worse when personnel change and must retrain around actual current people rather than stale models;
 - S-class people eventually value Greg because he can release capacity trapped behind actual bottlenecks rather than merely add raw power;
 - Arcrutus Dray is catalyst, not conventional mentor;
@@ -112,12 +116,16 @@ Important constraints:
 
 Do not immediately cash the B-class re-evaluation invitation into a badge.
 
-Greg now has stronger evidence than he had at 055, but the more important development is that the method is beginning to exist between people rather than solely inside Greg. The next stretch should test whether this can become deliberate architecture without jumping straight to mature magical linking.
+Greg now has stronger evidence than he had at 055, but the more important development is that he has finally separated two ideas that looked similar:
+- **party architecture can make current Greg much better**;
+- **mature Greg must eventually stop needing the party pre-optimized for him**.
 
-Useful pressure includes:
-- Greg deciding what knowledge belongs to the party versus what only he should track;
+Useful next pressure includes:
+- Greg deliberately attacking his resolution/concurrency ceiling rather than merely selecting around it;
+- another strong but overlapping teammate exposing how much useful capability Greg still leaves untouched;
+- low-level artifacts, markers, or techniques beginning to reduce reacquisition/switching cost without becoming a magical network yet;
+- Greg deciding what information belongs in shared party language versus what only he should track;
 - another trained member teaching a newcomer or correcting Greg;
-- artifacts, markers, or low-level techniques beginning to reduce reacquisition/switching cost without becoming a magical network yet;
 - Greg selectively repairing breadth failures exposed by Sel rather than becoming a generic support;
 - contractors or Guild evaluators trying to formalize a method that depends on relationships and current state;
 - stronger people asking for Greg by name while his official class continues to lag field reputation;
