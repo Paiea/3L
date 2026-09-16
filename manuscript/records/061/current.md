@@ -1,445 +1,555 @@
 ## RECORD 061
 
-## THE SURVEYOR
+## THE MARKER
 
-The first deep station I surveyed had no official basement.
+I declined the B-class re-evaluation because I had become suspicious of invitations arriving immediately after I embarrassed myself.
 
-It had three.
+That was not the official reason.
 
-This was considered a documentation problem.
+The official reason was scheduling.
 
-I considered it a floor problem.
+Scheduling is useful because it can mean fear without paperwork.
 
-The station was Market Seven.
+Red Basin ended six days later.
 
-Built, rebuilt, expanded, burned once, partially flooded twice, and renamed after a district boundary moved around it.
+Corin went east for a bridge escort.
 
-Excellent conditions for historical clarity.
+Jessa took three weeks off and refused to explain whether she intended to rest or commit crimes.
 
-Tova led the structural side.
+Sella had a standing winter contract with a warehouse district.
 
-I carried pressure certification.
+Aren went home for eleven days because one of his daughters had decided a school recital was more important than professional combat.
 
-Osa joined because one of the old chambers contained hardware nobody wanted to identify by enthusiasm alone.
+She was correct.
 
-A district historian named Pellin Rusk came too.
+I went back to Vey with a notebook full of evidence that six competent people could become too many.
 
-Not an engineer.
+This offended me.
 
-Not a mechanic.
+More capability should not make an operation harder.
 
-He wore clean gloves into dirty places and apologized to walls when scraping labels.
+It should make failure more expensive to justify.
 
-I liked him immediately against my judgment.
+Instead Varo had joined the Red Basin five for one overlap day and my attention had turned into soup.
 
-Current plans showed one service gallery beneath the active floor.
+Different soup.
 
-We found the second level behind a bricked stair everybody assumed ended at foundation.
+Still bad.
 
-The third appeared because Pellin read an eighty-year-old fire report describing smoke rising from a lower intake passage after the station was supposedly built on solid stone.
+I had seen openings after they closed.
 
-Again.
+Spent on problems already solved.
 
-SOLID.
+Tracked Corin's old recovery pattern instead of his current body.
 
-Useful administrative fiction.
+Missed Varo's best window because Aren was also doing something useful.
 
-We opened a panel in the second gallery.
+Six people had not exceeded my mana.
 
-Air moved through.
+They had exceeded my ability to know what mattered quickly enough.
 
-Cold.
+So I attacked the knowing.
 
-Slow.
+Badly.
 
-Not draft from outside.
+My first solution was chalk.
 
-Somewhere below.
+Aren came back from his daughter's recital and found six circles on the training-yard wall.
 
-Tova looked at me.
+Each circle had a name.
 
-“Face.”
+Below each name I had columns.
 
-“I know.”
+RESERVE.
 
-Osa said, “What face?”
+BODY.
 
-“He has old infrastructure face.”
+INTENT.
 
-“Unfortunate.”
+POSITION.
 
-Everybody had become unbearable.
+NEXT ACTION.
 
-The third level was reached through a maintenance shaft too narrow for modern equipment.
+Aren read them.
 
-That told us something immediately.
+Then looked at me.
 
-Whatever it served was not maintained by current practice.
+"No."
 
-Or current practice had abandoned it long enough to forget the body size expected there.
+"You haven't seen the system."
 
-We descended by ladder.
+"I can see the system."
 
-Tova first.
+"Then why no?"
 
-Me second.
+"Because I have met people."
 
-Pellin third after arguing that documents could not be read from above.
+Unhelpful.
 
-Osa last because she did not trust historians under machinery.
+We tried it anyway.
 
-Good instinct.
+Corin returned two days later.
 
-The chamber below was dry.
+Sella came after work.
 
-That surprised me.
+Jessa appeared without warning and brought food, which answered one question and raised several others.
 
-Old Line spaces usually collected water because gravity remained the most reliable maintenance worker.
+Varo agreed to three afternoons because he had decided being rejected from a roster was now a personal educational project.
 
-This one had drainage.
+I put them through six-person movement drills.
 
-Still functioning.
+Before each run, everybody called current state.
 
-Stone floor sloped toward narrow channels cut around the walls.
+Aren: full enough, second burst held, right knee stiff from travel.
 
-Bronze sleeves entered from four directions.
+Sella: full, no support first contact, left wrist sore but stable.
 
-Not pipes exactly.
+Jessa: full, one large cast planned after third marker.
 
-Flattened oval again.
+Corin: light spend available, no prepared sequence.
 
-Like East Two.
+Varo: first forward pressure, two bursts before recovery.
 
-Like places I remembered from much later First-Life work.
+I wrote it all.
 
-The sleeves did not connect visibly.
+Then we ran.
 
-They disappeared into a central block of black stone taller than a man.
+For approximately twelve seconds I felt brilliant.
 
-Not black like Ithar.
+At fourteen seconds Sella took a bad step.
 
-I did not know Ithar's scales yet in that life.
+At sixteen Jessa spent early because Varo created a better opening.
 
-Older Greg remembers the comparison now.
+At eighteen Corin changed sides to cover Sella.
 
-Young Greg thought only: wrong stone for this district.
+At twenty-one Aren abandoned his planned second burst because the marker arrangement no longer deserved one.
 
-Pellin whispered, “Oh.”
+At twenty-four seconds my wall was historical fiction.
 
-Tova said, “Do not touch anything because you said oh.”
+We stopped.
 
-“I wasn't going to.”
+Jessa looked at the chalk.
 
-Osa snorted.
+"Very accurate account of people who existed half a minute ago."
 
-We circled the block.
+I erased everything except names.
 
-Marks covered one side.
+Second solution was shorter calls.
 
-Half circles.
+Not full state.
 
-Bars.
+Only changes.
 
-Hooked lines.
+"Spent."
 
-Then several symbols I had not seen in Life Two yet.
+"Holding."
 
-I knew some.
+"Moving left."
 
-Not meaning.
+"No draw."
 
-Family.
-
-First-life emergency sites.
-
-Deep western infrastructure.
-
-Ninth-station ruins after the failure.
-
-My memory tightened.
-
-I did not let it speak first.
-
-Record Twenty-Five had become habit.
-
-MEMORY: marks from later western Line work.
-
-CURRENT: same construction family here, intact.
-
-INFERENCE: old system connected functionally across regions.
-
-Maybe.
-
-Not proof.
-
-Pellin leaned close.
-
-“These are pre-reform load marks.”
-
-I looked at him.
-
-“You know them?”
-
-“Some.”
-
-That was useful enough to hurt.
-
-“From where?”
-
-“Archives. Mostly copies. Temple engineering tablets. Two inscriptions from North Vey.”
-
-North Vey again.
-
-Everything eventually became North Vey if I waited long enough.
-
-“What do they mean?”
-
-Pellin pointed.
-
-“That one probably means return.”
-
-“Probably?”
-
-“Language changes.”
-
-“Engineering should not.”
-
-He looked at me.
-
-“Engineering is performed by people.”
-
-Fair.
-
-He translated another as reserve or receiving.
-
-Another as lower.
-
-Maybe beneath.
-
-Maybe secondary.
-
-The hooked mark remained uncertain.
-
-Good.
-
-Mystery surviving experts is healthier than experts arriving stupid.
-
-We tested the chamber before theorizing further.
-
-Temperature at each sleeve.
-
-Vibration.
-
-Acoustic response during station load changes.
-
-Pressure correlation.
-
-The north sleeve reacted when Market Seven opened its active east branch.
-
-The west sleeve did not.
-
-The south sleeve warmed twenty minutes later.
-
-The central block changed temperature by less than one degree.
-
-Osa stared at it.
-
-“Storage?”
-
-Tova said, “Stone does not store pressure.”
-
-“Not stone alone.”
-
-Pellin said, “Old texts call some structures hearts.”
-
-I hated the word immediately.
-
-Too poetic.
-
-Poetry encourages bad mechanism.
-
-“What does heart mean technically?” I asked.
-
-Pellin smiled.
-
-“That is the problem.”
-
-We spent six days there.
-
-Nothing awakened.
-
-No ancient machine opened.
-
-No hidden truth rewarded curiosity.
+"Two ready."
 
 Better.
 
-We mapped dimensions.
+Also loud.
 
-Sleeve direction.
+Six competent adults yelling useful information can reproduce the sound of six incompetent adults yelling useless information surprisingly well.
 
-Wall thickness.
+I started missing calls because I was listening for calls.
 
-Drain paths.
-
-Marks.
-
-Material samples from already damaged edges.
-
-Load response.
-
-Market Seven operators kept working above us.
-
-Most had no idea four people were spending a week under their station arguing with stone.
-
-On day four an operator named Jessa came down with lunch.
-
-She looked around.
-
-“This is it?”
-
-“What were you expecting?” I asked.
-
-“Ancient horror.”
-
-“Give Pellin time.”
-
-He was tracing a symbol.
-
-“I heard that.”
-
-Jessa pointed at the south sleeve.
-
-“That hum always gets louder after market close.”
-
-We all stopped.
-
-“What?” Tova asked.
-
-Jessa shrugged.
-
-“When upper branch drops. You can hear it through the tool-room floor.”
-
-“How long have you known?”
-
-“Since I started.”
-
-“How long?”
-
-“Fourteen years.”
+Aren noticed first.
 
 Of course.
 
-Operator knowledge.
+"You're watching the language instead of us."
 
-Again.
+"I'm hearing both."
 
-We had been measuring daylight load.
+"No. You're hearing both badly."
 
-Market close happened after our survey window.
+I disliked Drays in multiple generations.
 
-We stayed late.
+Third solution cost money.
 
-At ninth bell the upper branch reduced.
+That made it feel professional.
 
-The south sleeve began humming.
+Survey crews used locator tabs in smoke, dust, and underground work.
 
-Not louder because pressure increased.
+Cheap ceramic pieces about the size of two stacked coins.
 
-Louder because something changed direction or resonance.
+You touched one to your aura for several breaths and it held a weak identifying pulse for most of a day.
 
-Our gauges showed a delayed shift from north sleeve response to south.
+Not enough to guide someone across a city.
 
-Transfer.
+Enough that a trained caster inside thirty or forty paces could distinguish marked workers through bad visibility without searching for faces.
 
-Maybe.
+They were not designed for combat.
 
-Not modern transfer logic.
+The seller said this twice.
 
-Something distributed.
+"They chip."
 
-Pellin looked delighted.
+"Fine."
 
-Tova looked worried.
+"The pulse smears if the carrier floods aura through it."
 
-Osa looked hungry because we had missed dinner.
+"Fine."
 
-I looked at the marks again.
+"They are for survey rescue."
 
-One symbol Pellin had called return sat over the north sleeve.
+"I'm rescuing myself from counting."
 
-The south carried the ambiguous reserve/receiving mark.
+He charged me extra.
 
-Current evidence now fit one old translation better than the other.
+Correctly.
 
-Not solved.
+I bought six.
 
-Improved.
+Then seven because I knew myself.
 
-I wrote every step.
+The first afternoon with locator tabs felt like cheating.
 
-Including Jessa's fourteen-year hum.
+Not magical cheating.
 
-Especially that.
+Administrative cheating.
 
-The final report was forty-three pages.
+I no longer needed to visually reacquire everyone before switching attention.
 
-District office complained.
+Aren behind me still felt like Aren.
 
-Halden sent a note:
+Corin crossing outside Sella remained distinct even through a dust screen.
 
-SHORT VERSION?
+Jessa could move behind a wall section and I did not spend a half-second confirming which person had disappeared.
 
-I sent back:
+Half-seconds had become expensive.
 
-NO.
+The improvement was immediate enough that I became stupid.
 
-He sent:
+That is a recurring risk when something works.
 
-EXPECTED.
+I began adding meaning.
 
-Market Seven remained open.
+One touch to the tab before a drill meant normal.
 
-We did not modify the chamber.
+Two meant reserve available.
 
-That was the recommendation.
+Three meant planned hold.
 
-Observe.
+A long press meant no Draw.
 
-Instrument lightly.
+Varo stared at me while I explained.
 
-Preserve access.
+"You turned a location marker into a tiny clerk."
 
-Do not isolate unknown sleeves independently until connection behavior is better understood.
+"Efficient."
 
-Boring.
+"You hate clerks."
 
-Expensive enough to annoy finance.
+"I hate slow clerks."
 
-Safe enough to disappoint anyone hoping for adventure.
+Sella said, "How does the tiny clerk know I changed my mind?"
 
-Good.
+I ignored the tone and answered the question.
 
-The important thing Market Seven gave me was not an answer.
+"You update it."
 
-It gave me an intact version of something First-life Greg had mostly seen broken.
+"While fighting."
 
-That changed memory.
+"When practical."
 
-In First Life I had interpreted old structures from rubble outward.
+"So not while fighting."
 
-Failure first.
+I hated everyone.
 
-Mechanism guessed afterward.
+We tested it.
 
-Life Two let me see one before disaster.
+It failed exactly how Sella expected.
 
-Not because the past changed.
+Her tab said planned hold.
 
-Because I had time to look before something forced the question.
+Then Varo's entry broke a training post earlier than expected.
 
-That was becoming the real advantage of the second life.
+The falling timber forced Sella to spend hard on a shield she had not planned to use.
 
-Not prediction.
+I felt her marker.
 
-Attention.
+Location clear.
+
+State wrong.
+
+I started a redistribution decision based on the old signal.
+
+Corin yelled, "Sella spent."
+
+I stopped before Draw.
+
+Nothing bad happened.
+
+That was the point of drills.
+
+Still.
+
+The tiny clerk had almost helped me repeat Veda's ankle with better equipment.
+
+I removed every state code that afternoon.
+
+Jessa watched me scrape the marks off the ceramic.
+
+"Sad?"
+
+"A little."
+
+"Your bureaucracy died young."
+
+"It had potential."
+
+"Most dangerous sentence you've said this month."
+
+We kept the locator function.
+
+Only locator.
+
+People would speak their own changes.
+
+Better yet, they would act them when speech was unnecessary.
+
+That distinction took longer.
+
+Over the next two months I trained with whoever was available.
+
+Not every day.
+
+People had lives.
+
+Aren missed a week for family.
+
+Sella worked nights during an inventory dispute and arrived once too tired to drill safely.
+
+I sent her home.
+
+She called me controlling.
+
+Then went home.
+
+Jessa vanished south for a contract and mailed me a locator tab she had accidentally carried with her.
+
+The note said:
+
+FOUND YOUR PERSONALITY.
+
+SMALL. BREAKABLE. ANNOYINGLY PERSISTENT.
+
+I kept the note.
+
+Corin and I did the most boring work.
+
+Switching drills.
+
+No attacks.
+
+No danger.
+
+He walked numbered lanes while I acquired, released, turned away, reacquired.
+
+Locator tab.
+
+No tab.
+
+Dust.
+
+Dark.
+
+Noise.
+
+Then two people.
+
+Then three.
+
+I timed it with a sand clicker used by healers for pulse counts.
+
+My fastest reacquisition improved.
+
+More important, the bad ones improved.
+
+Less searching.
+
+Less uncertainty.
+
+The tags did not tell me what Corin needed.
+
+They made finding Corin cheaper so I had more attention left to ask the useful question.
+
+That was enough.
+
+I tried more artifacts.
+
+Most were worse.
+
+A ward-thread bracelet could show whether a paired thread was under tension.
+
+Useful for hauling crews.
+
+On fighters it told me somebody was exerting themselves.
+
+Excellent discovery.
+
+Combat involved effort.
+
+Returned.
+
+A healer's warmth bead showed sustained temperature change.
+
+Too slow.
+
+A storage charm could hold a tiny amount of mana as an emergency reserve.
+
+Too expensive to distribute casually and introduced a new thing I had to track.
+
+No.
+
+A children's proximity bell rang when its pair moved too far apart.
+
+I bought one because I was curious.
+
+Aren made me return it after eight minutes.
+
+"It would have worked."
+
+"It rang continuously."
+
+"You move too much."
+
+"That is my profession."
+
+Fair.
+
+By early spring I had spent thirty-one silver on devices and returned twenty-four silver worth.
+
+Seven silver remained invested in ceramic tags, replacement cords, and the discovery that children's safety bells were built by demons.
+
+That was acceptable tuition.
+
+The more important change cost nothing.
+
+We stopped reporting information Greg could already see.
+
+That sounds obvious.
+
+It had not been.
+
+Support doctrine trained people to call damage, reserve, threat, position.
+
+Good doctrine.
+
+With unfamiliar teams, say more.
+
+With us, half the calls merely duplicated what I was already processing.
+
+So we tested silence.
+
+Sella stopped saying "holding" when her shield state had not changed.
+
+Aren stopped announcing every chase decision if his movement already made it obvious.
+
+Corin called reserve changes only when they altered what he could safely offer.
+
+Jessa still announced large prepared casts because nobody enjoyed discovering those by architecture.
+
+Varo announced when his intended next action changed.
+
+That one mattered.
+
+Fewer words.
+
+More useful words.
+
+The locator tabs kept bodies cheap to find.
+
+The people kept themselves current.
+
+I did not get smarter.
+
+Not exactly.
+
+I reduced the amount of stupidity required to remain oriented.
+
+That gave me room.
+
+One afternoon we ran six people for nine minutes without stopping.
+
+Still not good.
+
+Better.
+
+At minute seven Varo created a forward opening while Aren recovered.
+
+I felt both markers immediately.
+
+No search.
+
+Saw Sella stable.
+
+Heard Corin say, "Holding mine."
+
+Jessa silent, which meant no change.
+
+I spent on Varo.
+
+Correctly.
+
+Then released before he expected me to.
+
+He carried the next step himself.
+
+Also correctly.
+
+Afterward Aren checked the sand clicker.
+
+"Nine twelve."
+
+"I know."
+
+"You stopped at four last time."
+
+"I remember."
+
+Varo unclipped his locator tab and tossed it to me.
+
+I caught it.
+
+"These are ugly."
+
+"They're ceramic."
+
+"Make them smaller."
+
+"They cost three silver each."
+
+"You charge more now."
+
+I looked at him.
+
+He shrugged.
+
+"People ask for you."
+
+That was still strange to hear.
+
+I put the tab in my pocket.
+
+The B-class invitation remained folded in my desk at home.
+
+I did not answer it yet.
+
+That night I fell asleep over my notes.
+
+In the morning one of the locator tabs had pressed a perfect little circle into my cheek.
+
+I wore the mark to breakfast.
+
+Aren saw it.
+
+He said nothing.
+
+That was worse.

@@ -1,457 +1,711 @@
 ## RECORD 062
 
-## THE TRANSLATOR
+## THE SIXTH
 
-Pellin translated an ancient mark as drain.
+The first contractor who paid for six people because I asked was named Hara Venn.
 
-The crew heard open this.
+I liked her immediately.
 
-Those are not the same instruction.
+Not enough to lower my rate.
 
-We learned that before anyone died.
+Growth.
 
-Good week.
+Hara ran fen-clearing contracts west of Vey.
 
-The site was a smaller legacy chamber under Bellwater's old pump court.
+Not glamorous.
 
-Less impressive than Market Seven.
+Drainage channels.
 
-One stone block.
+Collapsed culverts.
 
-Two bronze sleeves.
+Root-crawlers that nested inside old embankments because apparently every useful piece of infrastructure eventually became housing for something with too many legs.
 
-Three marks.
+Her spring contract covered four weeks along Harrow Fen.
 
-No dramatic geometry.
+Aren had worked for her twice.
 
-Pellin was delighted anyway because one inscription matched a fragment in an archive copy he had spent years arguing about with another historian.
+Sella once.
 
-People become dangerous when their footnotes gain walls.
+Varo knew one of her foremen.
 
-The chamber had standing water ankle-deep.
+Jessa knew nobody and considered that a benefit.
 
-One sleeve disappeared east toward a modern return gallery.
+Corin knew the road kitchens.
 
-The other ran down at an angle and vanished beneath old foundation.
+I knew the price of locator tabs.
 
-Above the descending sleeve sat a mark Pellin read as drain.
+Everyone contributed.
 
-“Certain?” I asked.
+Hara wanted the Red Basin five.
 
-“Reasonably.”
+I asked for Varo too.
 
-“That is historian for no?”
+She stared at the cost sheet.
 
-“That is historian for language is not a wrench.”
+"You rejected him last time."
 
-Fair.
+"I was worse then."
 
-Bellwater's foreman, Hedd Marr, said, “If it's a drain, we should clear it.”
+Varo, sitting beside me, smiled.
 
-There it was.
+I regretted honesty.
 
-Pellin turned.
+Hara tapped the page.
 
-“I did not say it is a drain.”
+"Six combat rates."
 
-“You said drain.”
+"Five combat rates and me."
 
-“I said the mark may indicate drainage function.”
+"Your rate is not helping."
 
-Hedd looked at me.
+Also growth.
 
-“That sounds like drain.”
+Aren said, "He needs the sixth."
 
-It did.
+Hara looked at him.
 
-Bad translation between professions.
+"For what?"
 
-We had come to investigate why the chamber flooded after heavy river weeks.
+Aren looked at me.
 
-Clearing an old drain sounded useful.
+I hated when people returned my own questions.
 
-The descending sleeve had a capped inspection point near floor level.
+"To stop being bad with six people."
 
-Modern cap.
+Hara considered that.
 
-Added maybe thirty years earlier.
+Then looked at Varo.
 
-Hedd's mechanic was already reaching for tools.
+"Comforting."
 
-“Stop,” I said.
+Varo said, "I'm excellent."
 
-He stopped.
+"That was not the concern."
 
-Good crew.
+She signed anyway.
 
-Hedd frowned.
+Four weeks.
 
-“Why?”
+Full six-person rate for twelve field days expected to require both combat and structural protection.
 
-Because First-life Greg remembered old lower channels carrying pressure in places people mistook for drainage.
+Reduced day rate for survey movement and camp.
 
-Memory.
+No bonus for experimental philosophy.
 
-Not evidence.
+Jessa asked.
 
-Current evidence:
+Hara said no.
 
-Sleeve angled down.
+We left two days later.
 
-Unknown destination.
+Harrow Fen was not actually a fen by spring.
 
-Chamber flooded.
+It was water with opinions.
 
-Mark possibly related to drainage.
+Roads existed until a wagon used them.
 
-No pressure reading because cap remained closed.
+Boots became arguments with mud.
 
-Inference:
+The drainage channels were older than the farms around them and newer than the hill they kept trying to cut through.
 
-Could drain.
+Hara's crews worked in sections.
 
-Could also carry something we did not want in the room.
+Dig.
 
-“We don't know what is behind the cap,” I said.
+Brace.
 
-Hedd gestured at the water.
+Clear blockage.
 
-“We know what's in front.”
+Repair stone.
 
-“Water.”
+Move water.
 
-“Yes.”
+Discover animal.
 
-“Does not prove direction.”
+Swear.
 
-That slowed him.
+Repeat.
+
+Our job was to keep the discovery stage from becoming a funeral.
+
+For the first three days, six felt wasteful.
+
+We walked behind labor crews.
+
+Sella shielded falling stone twice.
+
+Corin killed one crawler that had been too stupid to remain hidden.
+
+Jessa used enough magic to dry socks.
+
+Varo complained professionally.
+
+Aren did not.
+
+That worried me more.
+
+I wore the sand clicker on a cord around my neck.
+
+Locator tabs on everyone.
+
+No state codes.
+
+Short calls only when information changed.
+
+We drilled at camp each evening.
+
+Six minutes.
+
+Eight.
+
+Ten.
+
+The difference from Red Basin was that Varo was no longer a substitute.
+
+Nobody was waiting for Corin's shape to return.
+
+The party expected six.
+
+That changed behavior before I did anything.
+
+Sella held less empty space because Varo could cover his own return lane.
+
+Jessa moved wider because Corin could watch the gap between her and camp.
+
+Aren and Varo stopped pretending their overlap was a problem to eliminate.
+
+Sometimes both going hard was correct.
+
+The question was whether the rest of us could afford the recovery afterward.
+
+That was harder.
+
+On day four we cleared a collapsed culvert under a narrow farm road.
+
+Hara's crew opened the eastern side.
+
+Bad smell.
+
+Warm air.
+
+Aren said, "Nest."
+
+Corin said, "Large?"
+
+"Warm."
+
+"That was not the question."
+
+"It is the answer I have."
+
+The crew backed away.
+
+We set positions.
+
+Sella at the culvert mouth.
+
+Aren left bank.
+
+Varo right.
+
+Corin behind them with line of sight across both.
+
+Jessa farther back because she preferred not standing beside surprises.
+
+I stayed between Sella and Jessa.
+
+Not center exactly.
+
+Useful enough.
+
+Locator pulses settled into awareness.
+
+Five people.
+
+Five positions without searching.
 
 Good.
 
-Osa had taught me that exact lesson with steam systems.
+Hara's crew cracked the brace.
 
-A wet floor beside a line does not tell you which side produced the water.
-
-Pellin crouched near the mark.
-
-“In some inscriptions the word is used for carrying away.”
-
-Hedd said, “Drain.”
-
-“In others, receiving below.”
-
-Hedd stopped.
-
-“Receiving what?”
-
-Pellin spread his hands.
-
-“Text does not say.”
-
-Better.
-
-We tested without opening.
-
-Temperature low.
-
-No audible vibration.
-
-Magnetic response irrelevant because bronze.
-
-We fitted an external contact gauge against the cap.
-
-Then changed Bellwater pump load upstairs.
-
-Nothing.
-
-Changed river intake.
-
-Nothing.
-
-Waited.
-
-Twenty minutes later the gauge twitched.
-
-Small.
-
-Then again.
-
-Delayed.
-
-Hedd looked at me.
-
-“Pressure?”
-
-“Maybe.”
-
-“Water?”
-
-“Probably something moving.”
-
-Pellin smiled.
-
-“Excellent translation.”
-
-“Fuck you.”
-
-We attached a temporary pressure tap to the cap body without breaching the seal.
-
-Not elegant.
-
-Hema would have criticized the bracket.
-
-It worked.
-
-Tiny positive pressure.
-
-Then negative.
-
-Then neutral.
-
-The sleeve breathed with system changes we could not yet map cleanly.
-
-Not a simple drain.
-
-Hedd stared at the standing water.
-
-“So how do we get rid of this?”
-
-Good question.
-
-That was the crew problem.
-
-Not what did ancient builders mean.
-
-What do we do Tuesday.
-
-We traced the water source separately.
-
-Found seepage through a cracked stair wall.
-
-River groundwater.
-
-Nothing to do with the sleeve.
-
-Installed a modern sump.
-
-Boring solution.
-
-Chamber dried over two weeks.
-
-The old sleeve remained sealed.
-
-Pellin was thrilled because drying exposed another line of inscription near the floor.
-
-Hedd was thrilled because his crew stopped walking through water.
-
-Different success criteria.
-
-Same job.
-
-After Bellwater, regional office started asking me to attend meetings between archival researchers and maintenance crews.
-
-Not every meeting.
-
-Only the ones where both sides had begun using the same word differently.
-
-This happened often.
-
-Historian says reservoir.
-
-Operator hears storage tank.
-
-Scholar means a category in three translated texts.
-
-Engineer says load path.
-
-Station hand hears pipe carrying pressure.
-
-Engineer means any structure transmitting force.
-
-Ranker says safe.
-
-Civilian hears nothing can hurt me.
-
-Ranker means survivable under the exact condition I am discussing.
-
-Terrible word.
-
-I stopped using it casually.
-
-My job became asking, “What action do you think that word permits?”
-
-Very useful question.
-
-Annoying enough to become mine.
-
-At Market Seven, Pellin called the central block a receiver.
-
-A junior engineer proposed instrument ports.
-
-“Why?” I asked.
-
-“To measure internal state.”
-
-“Do we know it has an internal cavity?”
-
-“No.”
-
-“Then what are you drilling into?”
-
-He looked at the stone.
-
-“Receiver.”
-
-“That is a translation.”
-
-The room went quiet.
-
-Pellin said, “He's right.”
-
-The engineer looked offended.
-
-Good.
-
-Offense is cheaper than drilling.
-
-We used surface measurements instead.
-
-Slower.
-
-Less data.
-
-No irreversible hole.
-
-At another site, the opposite happened.
-
-A crew refused to touch a marked support because an archive note called the symbol forbidden.
-
-Very dramatic.
-
-The original term meant restricted under load.
-
-Not forbidden forever.
-
-The support needed repair.
-
-Leaving it alone was becoming less safe.
-
-Pellin explained language.
-
-I explained condition.
-
-Crew repaired during full isolation.
-
-Ancient warning respected without becoming religion.
-
-That mattered.
-
-People love turning incomplete old knowledge into two bad extremes.
-
-Ignore it because old people were primitive.
-
-Obey it literally because old people knew secrets.
-
-Both relieve you from thinking now.
-
-I had done versions of both in First Life.
-
-Life Two was less convenient.
-
-We built a shared notation guide.
-
-Not dictionary.
-
-Pellin objected to that word.
-
-Good.
-
-Each mark received four columns.
-
-KNOWN FORM.
-
-HISTORICAL READING.
-
-OBSERVED FIELD ASSOCIATION.
-
-SAFE ACTION BOUNDARY.
-
-That last column was mine.
-
-Not meaning.
-
-What current crews could do without pretending the meaning was solved.
-
-Example:
-
-HOOKED LINE.
-
-Historical reading uncertain. Possible transfer/receiving relation.
-
-Observed near structures responding to delayed load changes.
-
-Do not isolate, drill, or cut connected legacy sleeve independently without proving current load relationship.
-
-Ugly.
-
-Useful.
-
-Pellin complained I had turned ancient writing into a warning label.
-
-I said warning labels kept fingers attached.
-
-He said scholarship preserved meaning.
-
-I said preserved fingers could continue scholarship.
-
-We became friends slowly through professional irritation.
-
-That was happening more often.
-
-The guide spread to six districts.
+Three crawlers came out.
 
 Then nine.
 
-Copied badly.
+Warm had been accurate.
 
-Of course.
+Sella caught first impact.
 
-One copy shortened SAFE ACTION BOUNDARY to SAFE ACTION.
+Aren and Varo moved together.
 
-I almost had a religious experience of rage.
+This time I did not immediately hate it.
 
-We corrected the template.
+Aren took high left.
 
-Added version dates.
+Varo crossed low right.
 
-Named authors.
+Corin fired into the seam they created.
 
-Revision history.
+Jessa held.
 
-The boring machinery of knowledge surviving copying.
+I reinforced Sella's front foot for one breath.
 
-Halden loved it.
+Release.
 
-Tova said it needed fewer words.
+Aren spent.
 
-Nessa said crews would ignore any page requiring a meal break to read.
+Varo spent.
 
-Everyone was right.
+Both still functional.
 
-We made a field card too.
+More crawlers pushed behind them.
 
-Short version.
+Jessa said, "Third breath."
 
-Not enough to explain.
+Prepared cast approaching.
 
-Enough to stop dangerous action and point toward the longer record.
+Corin said nothing.
 
-Years later people would call me good at translating the old Line.
+Sella's locator stayed steady.
 
-That was flattering and mostly false.
+I could feel everyone.
 
-I translated people.
+I understood almost everything.
 
-The old Line remained stubbornly itself.
+For about six seconds.
 
-What improved was our ability to keep one profession's uncertainty from turning into another profession's confident mistake.
+Then the culvert roof moved.
+
+Not collapsed.
+
+Shifted.
+
+Stone dust.
+
+Sella changed her shield angle.
+
+Aren stepped inside instead of back.
+
+Varo saw the same opening and went deeper.
+
+Corin moved left to keep both in line.
+
+Jessa aborted her prepared cast because the roof had become part of the target area.
+
+Hara's labor crew began retreating uphill.
+
+Five useful things happened at once.
+
+Then the bank behind Aren broke.
+
+Six.
+
+Mud came down in a sheet.
+
+Aren's locator moved fast.
+
+Varo's moved faster.
+
+Sella held the culvert mouth.
+
+Corin shouted, "Greg. Aren first."
+
+I had already started toward Corin.
+
+He had lost footing.
+
+His left knee was down.
+
+My body chose visible failure.
+
+Corin pointed past himself.
+
+"AREN."
+
+I looked.
+
+Aren had one foot buried to the ankle and two crawlers turning toward the workers.
+
+Varo was deep enough that turning back would cost him the opening keeping three more off Sella.
+
+Corin could stand.
+
+Aren could not be late.
+
+I switched.
+
+Barrier under Aren's buried foot.
+
+Not around him.
+
+Under.
+
+Hard edge against mud.
+
+He pushed.
+
+Foot came free.
+
+I dropped it.
+
+Aren moved.
+
+Killed one crawler.
+
+Shouldered the second away from the labor line.
+
+Corin stood without me.
+
+Of course he did.
+
+Jessa called, "Roof clear."
+
+Her cast returned.
+
+Sella said, "Open safe."
+
+Formation consent.
+
+I dropped aura.
+
+Varo two fingers.
+
+No.
+
+His locator was forward, body still accelerating.
+
+Available was not spare.
+
+Aren two fingers.
+
+He was recovering.
+
+Yes.
+
+Tiny Draw.
+
+Immediate spend into a Barrier behind Jessa's pressure line to keep falling stone from following her cast into the work crew.
+
+Release.
+
+Aura up.
+
+Closed.
+
+Jessa fired.
+
+The culvert mouth became light, noise, and pieces of crawler I did not need described later.
+
+Then quiet.
+
+Mostly.
+
+One animal tried to leave through the western drainage cut.
+
+Corin killed it.
+
+From one knee.
+
+He looked at me afterward.
+
+"See?"
+
+"I was coming to help you."
+
+"I know."
+
+"You fell."
+
+"I knelt."
+
+"Unexpectedly."
+
+"Still kneeling."
+
+Aren wiped mud off his boot.
+
+"He was right."
+
+I looked at him.
+
+"I know."
+
+Varo came back from the culvert.
+
+"What happened?"
+
+Jessa said, "Greg attempted compassion."
+
+"Dangerous."
+
+"Corin stopped him."
+
+Varo nodded solemnly.
+
+"Good party."
+
+I considered murder.
+
+Hara's foreman found two more live crawlers trapped behind the broken brace.
+
+We killed them without philosophy.
+
+Better.
+
+That evening I asked Corin why he had seen Aren before I did.
+
+He shrugged.
+
+"I was already watching him."
+
+"Why?"
+
+"Because I was covering the left lane."
+
+"You were down."
+
+"Knee in mud isn't blindness."
+
+Fair.
+
+"You also knew you could recover without me."
+
+"Yes."
+
+"And knew Aren couldn't wait."
+
+"Probably."
+
+"Probably?"
+
+"He looked busy."
+
+Aren ate stew without contributing.
+
+I disliked that.
+
+"So you made the allocation."
+
+Corin frowned.
+
+"I yelled a name."
+
+"Same thing."
+
+"No. You did the support."
+
+"You chose where it went."
+
+Sella looked up.
+
+That got her attention.
+
+Jessa stopped eating.
+
+Aren finally joined.
+
+"He gave you information."
+
+"No. He gave me priority."
+
+"Temporarily."
+
+"That is priority."
+
+Aren smiled.
+
+I pointed my spoon at him.
+
+"Do not enjoy this."
+
+"Too late."
+
+The next day we tested it on purpose.
+
+Not command.
+
+Not everyone telling me what to do.
+
+That would have been worse than the chalk wall.
+
+Local correction.
+
+If someone had better information about a nearby failure than I did, they could call a name.
+
+Just the name.
+
+No explanation unless time allowed.
+
+I retained the decision to act.
+
+Mostly because I was the one spending.
+
+But I stopped pretending all useful prioritization had to originate inside my skull.
+
+First drill was awful.
+
+Everyone called names.
+
+Aren called Sella.
+
+Sella called Varo.
+
+Varo called himself, which we banned immediately.
+
+Jessa called "Greg" because she found the entire exercise irritating.
+
+Also banned.
+
+Second drill we added a rule.
+
+Only call if your information is local and the consequence is immediate.
+
+Better.
+
+Third drill nobody called anything.
+
+Also useful.
+
+The system existed for exceptions, not narration.
+
+Over the next week the calls happened four times in live work.
+
+Sella called Corin once when I was tracking Varo's recovery and missed a crawler turning under the shield edge.
+
+Aren called Jessa when a slope failure created a perfect cast lane I could not see from below.
+
+Jessa called Sella when I almost reinforced Aren against a hit he had intentionally chosen to absorb through aura.
+
+That one annoyed me.
+
+"I knew."
+
+Jessa said, "You were casting."
+
+"I was considering casting."
+
+"Your hand was glowing."
+
+"Thoughtfully."
+
+She walked away.
+
+Fourth call came from Varo.
+
+Not a name.
+
+"Nothing."
+
+We were clearing a flooded side channel when I saw his reserve high during recovery and started assessing a Draw.
+
+He saw my attention.
+
+"Nothing."
+
+Meaning his current reserve was not available despite appearances.
+
+I let it go.
+
+Later he told me he had been holding for a sprint through deep water if the labor crew slipped.
+
+I had not known.
+
+I did not need to know before he said no.
+
+That mattered too.
+
+By the second week Harrow Fen stopped feeling like six people around one support.
+
+Not always.
+
+Sometimes it still did because I was vain and centrally located.
+
+But during the better stretches, information moved sideways.
+
+Sella warned Corin.
+
+Corin redirected me.
+
+Aren changed around Varo.
+
+Varo told Jessa when he was creating a lane for her rather than taking it himself.
+
+Jessa told nobody anything unless necessary because she considered words a limited natural resource.
+
+The locator tabs helped me keep up.
+
+They did not create the coordination.
+
+People did.
+
+Hara noticed before the contract ended.
+
+She stood beside me during a routine channel clearing and watched Aren call Sella's name when a brace shifted.
+
+I reinforced Sella before I saw the brace.
+
+She caught it.
+
+Worker crossed.
+
+Done.
+
+Hara said, "He supports now?"
+
+"No."
+
+"Looked like it."
+
+"He noticed something."
+
+"And told you where to spend."
+
+I glanced at her.
+
+"Yes."
+
+"That sounds like support."
+
+I thought about it.
+
+"Don't tell him."
+
+Aren was close enough to hear.
+
+"Too late."
+
+Damn locator tabs.
+
+At the end of four weeks Hara renewed us for another twelve days farther north.
+
+Same six.
+
+No argument about the rate.
+
+That was new too.
+
+When I signed the extension, she slid the paper back and said, "Your B evaluation still pending?"
+
+"Yes."
+
+"Why?"
+
+I looked out at five people loading gear.
+
+Corin was telling Varo he tied bedrolls incorrectly.
+
+Varo was explaining that knots were beneath combat rank.
+
+Sella was retightening Varo's bedroll while he argued.
+
+Jessa had stolen Aren's dry socks and was denying it while holding them.
+
+Aren looked tired.
+
+Happy, maybe.
+
+Hard to tell with Drays.
+
+"Scheduling," I said.
+
+Hara laughed directly in my face.

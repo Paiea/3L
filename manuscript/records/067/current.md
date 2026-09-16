@@ -1,407 +1,571 @@
 ## RECORD 067
 
-## THE SUPPLIANT
+## THE SUMMARY
 
-Asking the capital for money required better shoes than repairing the thing the money was for.
+Skipping years offended Ithar.
 
-I objected on principle.
+Not morally.
 
-Nessa made me buy them anyway.
+Structurally.
 
-The grant was for legacy access stabilization across six stations.
+“How many?”
 
-Not restoration.
+“Years?”
 
-Not solving the old Line.
+“No, Greg. Boots.”
 
-Stairs.
+I looked at my split heel.
 
-Ventilation.
+“One and a half.”
 
-Safe entry points.
+His eye narrowed.
 
-Basic instruments.
+“Years.”
 
-Archive copying.
+“About eleven.”
 
-The boring infrastructure required to inspect the mysterious infrastructure without killing inspectors first.
+The dragon went still.
 
-District budgets could cover some.
+I had learned enough to know that meant I had done something wrong.
 
-Not all.
-
-The repair levy from years earlier had helped ordinary maintenance.
-
-It had also consumed most local appetite for another fee increase.
-
-Reasonable.
-
-People enjoy safety less immediately after paying for it.
-
-Halden told me a central safety grant existed.
-
-“Apply.”
-
-“Why me?”
-
-“Because you have the field evidence.”
-
-“You have the forms.”
+“Approximately eleven years,” he repeated.
 
 “Yes.”
 
-“Then you apply.”
+“Between becoming B-class support and meeting Nhal.”
 
-“Conflict. I advise the review office.”
+“Yes.”
 
-Convenient ethics.
+“And you propose to summarize them.”
 
-Dera's district operations group became formal applicant.
+“Yes.”
 
-I wrote technical case.
+“Why?”
 
-Nessa contributed service scheduling impacts.
+“The Line.”
 
-Tova costed structural access.
+Another dragon exhale.
 
-Pellin wrote historical significance and was forced to remove the phrase irreplaceable civilizational substrate because finance disliked poetry.
+This one moved less gold.
 
-Osa refused to write anything and sent two pages of instrument requirements instead.
+Progress.
 
-Better.
+Also I was tired.
 
-Total request: four hundred sixty silver over two years.
+The cave had reached that stage where every position hurt because I had already used the good ones.
 
-Largest number I had ever put beside work that did not involve killing something.
+I sat with my back against warm stone and stretched the bad leg straight.
 
-I stared at it.
+Ithar waited.
 
-Nessa said, “Do not reduce it because the number scares you.”
+So I gave him the ugly version.
 
-“I wasn't.”
+“I got better.”
 
-“You moved the ventilation line twice.”
+Nothing.
 
-“It is expensive.”
+“Then better again.”
 
-“Breathing remains fashionable.”
+Still nothing.
 
-We submitted.
+“I took more contracts.”
 
-Then waited three months.
+One claw moved.
 
-Capital time.
+“Different parties. Better parties. Worse parties. People I knew. People I didn’t. People I thought I knew and had not seen in four years, which is its own kind of stranger.”
 
-The review invitation arrived in spring.
+His eye stayed on me.
 
-IN-PERSON CLARIFICATION REQUESTED.
+“By forty, the locator tabs were mostly unnecessary with repeat crews and useful with everyone else. I stopped trying to make them tell me anything except where people were.”
 
-That phrase sounds better than defend yourself.
+“Reasonable.”
 
-I wore the shoes.
+“Thank you.”
 
-Hated them.
+“That was not admiration.”
 
-The panel had seven people.
+“I’ll take it anyway.”
 
-Engineering.
+I continued.
 
-Finance.
+“Priority calls got cleaner. We stopped talking so much. Then started talking differently. Less state. More change. More consequence. If Sella said Aren, I didn’t need her essay on why.”
 
-Public works.
+“Because you trusted her.”
 
-Health.
+“Because she was usually closer.”
 
-Regional representation.
+“That is not different.”
 
-One ministry clerk whose job I never fully understood and therefore assumed was powerful.
+I thought about it.
 
-Sol Ven sat at the end but did not lead.
+“Fine.”
 
-Good.
+The next part was harder to summarize because it had not arrived as one thing.
 
-The first question came from finance.
+That was true of most things I became good at.
 
-“Six stations. Why these six?”
+People like stories where someone has an idea on a rainy night and the world changes by breakfast.
 
-Evidence.
+Usually you have half an idea on a dry afternoon, use it badly for six months, hurt somebody, discover the useful part was not the part you liked, then spend three years pretending that was the plan.
 
-Easy.
+“Switching stayed expensive,” I said.
 
-Known legacy access.
+Ithar’s head lowered slightly.
 
-Documented load relation or unresolved condition.
+“Connection?”
 
-Current inspection activity.
+“Finding someone. Matching pressure. Understanding current state. Releasing cleanly. Reacquiring after movement. Yes.”
 
-Population served.
+“You already knew who needed you by then.”
 
-Ability to produce useful comparative data.
+“Usually.”
 
-“Why not the seven others identified in your own appendix?”
+“So the cost moved from deciding to connecting.”
 
-Because money.
+“Eventually.”
 
-Also because three lacked safe initial access, two had weaker evidence, one was scheduled for unrelated reconstruction, and one could be observed externally for now.
+He made a small sound.
 
-Good.
+Interested.
 
-Second question:
+I had been right about that sound.
 
-“Benefit if no failure is prevented?”
+Probably.
 
-Harder.
+“We trained handoffs first. Human ones. Position. Calls. Who could safely wait. Who could cover the gap. Cheap artifacts helped with reacquisition. Then I learned I could leave some support conditions stable for a fraction longer after my direct attention moved.”
 
-I almost said knowledge.
+“Barrier.”
 
-Finance would have eaten me.
+“Mostly.”
 
-“Reduced emergency cost. Better shutdown decisions. Fewer unnecessary excavations. Faster fault isolation. Preservation of service during investigation.”
+“Of course.”
 
-Numbers where possible.
+I looked at him.
 
-Market Seven had already avoided one exploratory closure because surface monitoring answered the question.
+“What does that mean?”
 
-Bellwater sump repair prevented repeated crew entry into flooded space.
+“You keep returning to the spell because you think you are inventing new techniques.”
 
-Archive cases reduced duplicate investigations.
+“I was inventing new techniques.”
 
-Finance listened.
+“You were asking the same question under increasingly expensive circumstances.”
 
-Good.
+There was no respectful response to that.
 
-Then public works asked:
+So I kept going.
 
-“Why central money? These are local assets.”
+“First useful link was two people.”
 
-There it was.
+The dragon stopped moving completely.
 
-The map problem.
+Not the locator kind.
 
-“Administrative ownership is local. Physical legacy structures cross local boundaries.”
+Not a signal.
 
-“Evidence?”
+A magical path.
 
-I showed the overlay.
+I could still remember the feeling.
 
-North Cut response crossing station elevation assumptions.
+Terrible.
 
-Sleeve geometries extending between districts.
+Two live systems never agree on pressure just because a support wants them to.
 
-Historical construction predating current jurisdictions.
+“One source?” Ithar asked.
 
-“Still not proof of shared function.”
+“One source. One destination. Me controlling the crossing.”
+
+“You held both boundaries at once.”
+
+“Yes.”
+
+“And did not retain the full transfer in yourself.”
+
+“Not once I got decent.”
+
+His pupil tightened.
+
+“How long?”
+
+“Before decent?”
+
+“Yes.”
+
+“Years.”
+
+“Good.”
+
+That surprised me.
+
+“Good?”
+
+“If you had said weeks, I would have become suspicious again.”
+
+“Nice to know my suffering improves credibility.”
+
+“It often does.”
+
+I rubbed my hand.
+
+The old channels remembered enough that talking about them sometimes made the current damage feel closer.
+
+Not pain exactly.
+
+Shape.
+
+Like a road remembered by someone walking through a building that had replaced it.
+
+“Two became three eventually. Not three sources. Three people in the same controlled support relation. Sometimes mana. Sometimes not.”
+
+“Not?”
+
+“Load.”
+
+That got him.
+
+The dragon’s eye opened slightly wider.
+
+I listed it.
+
+“Recoil. Reinforcement strain. Stabilization. Pressure that one body could survive better than another. Recovery burden. Sometimes just where a Barrier should let force go instead of trying to stop it.”
+
+“Momentum?”
+
+“Carefully.”
+
+“Channel stress?”
+
+“Very carefully.”
+
+“Structural load?”
+
+“Eventually.”
+
+The dragon’s claw dug a shallow line through coins without seeming to notice.
+
+“Your Draw became less important as removal.”
+
+“Yes.”
+
+“And more important as permission to redirect crossing.”
+
+I looked at him.
+
+“That took me longer to say.”
+
+“You were occupied.”
+
+“Being human?”
+
+“Being slow.”
+
+“Same thing apparently.”
+
+He ignored me.
+
+“What did you call this school?”
+
+“Support.”
+
+Ithar waited.
+
+“That is the classification.”
+
+“Yes.”
+
+“What did you call the actual practice?”
+
+I thought.
+
+“We didn’t.”
+
+The dragon stared.
+
+“It had names in reports. Attached redistribution. Dynamic support routing. Linked reinforcement. Adaptive transfer. One Guild assessor called it controlled multi-person support architecture after I was already doing it.”
+
+“Humans discovered grammar and filed it under stationery.”
+
+“That feels unfair to stationery.”
+
+His nostril moved.
+
+Definitely laughter.
+
+Maybe.
+
+I kept compressing.
+
+“By forty-two I had A-class support.”
+
+That sentence deserved more than I gave it.
+
+It had taken years.
+
+Failed evaluations.
+
+Good contracts.
+
+Bad contracts.
+
+People healing while I waited to find out whether the thing I tried had been clever or stupid.
+
+An A on the badge did not arrive because somebody finally understood me.
+
+It arrived because I could walk into a difficult operation with unfamiliar people and be reliably useful before they became my people.
+
+That mattered.
+
+Ithar understood that without making me defend it again.
+
+“After A, the parties got stronger.”
+
+“Because stronger people requested you.”
+
+“Yes.”
+
+“And because your credential allowed different work.”
+
+“Yes.”
+
+“Did your earlier problem reverse?”
+
+I knew which one.
+
+Varo.
+
+Too many good options.
+
+“Eventually.”
+
+That answer felt good enough to keep.
+
+“Stronger finally became easier in the way I wanted. Not easier to support. More useful. More reserve. Better self-protection. More movement. More ability to survive a support gap. More recovery to borrow from. More ways to pay a cost.”
+
+“More margin.”
+
+“Exactly.”
+
+“Unless you could not resolve it.”
+
+“Exactly.”
+
+“So you improved resolution.”
+
+“And latency. Concurrency. Duration. Observation. Everything boring.”
+
+“Everything necessary.”
+
+“Same thing.”
+
+The years between forty-two and forty-eight went by faster in the telling than they had in my knees.
+
+Contracts.
+
+Training.
+
+People leaving.
+
+People returning stronger.
+
+Aren disappearing for months because he had his own career and then showing up with another scar and an opinion.
+
+Corin taking work two regions away and sending letters that contained more complaints about food than magic.
+
+Jessa missing almost a year because family won.
+
+Sella working with three other support crews and bringing back methods I did not invent.
+
+Varo becoming genuinely useful to me instead of merely evidence that I had a weakness.
+
+New people.
+
+Better people.
+
+People I disliked and supported well anyway.
+
+Money improving.
+
+Equipment becoming stupidly expensive.
+
+Artifacts that saved half a second.
+
+Artifacts that cost eighty silver and saved no seconds.
+
+One that burned a hole through a wagon floor.
+
+Ithar interrupted.
+
+“Why?”
+
+“Bad grounding.”
+
+“No. Why were you using a wagon?”
+
+“Because the artifact was expensive.”
+
+“That does not answer the question.”
+
+“It answers a human version.”
+
+He let that go.
+
+I did not tell him every contract.
+
+There were hundreds.
+
+I did not tell him every person.
+
+There were too many.
+
+That was the point.
+
+By then the method no longer required a perfect party.
+
+A perfect party was still better.
+
+Of course it was.
+
+But I could make useful work out of whoever actually arrived.
+
+And when the people who arrived were exceptional, I finally had enough control to use the excess instead of wishing they were simpler.
+
+Ithar listened through the whole ugly summary.
+
+Then looked at my body again.
+
+The mood changed.
+
+He did not need to say why.
+
+I did anyway.
+
+“Those channels aren’t from then.”
+
+“I know.”
+
+I looked up.
+
+“How?”
+
+“The damage is layered.”
+
+His claw lifted slightly.
+
+“Some old. Some newer. The inward reinforcement is practiced into the structure rather than merely scarred around injury. You did not become this shape by being broken once.”
+
+I did not answer.
+
+“Did the leg cause it?”
 
 “No.”
 
-Good panel.
+“The hand?”
 
-I continued.
+“No.”
 
-“But enough evidence that local decisions can create external effects we do not yet model well.”
+“The shoulder?”
 
-Regional representative leaned forward.
+“Partly damage. Not the direction.”
 
-“You are asking central government to fund uncertainty.”
+Ithar waited.
+
+I hated that he was good at waiting.
+
+“That came later,” I said.
+
+“After Nhal.”
+
+“Much later.”
+
+His eye remained on me.
+
+I could feel the next question.
+
+I tried to move first.
+
+“The Line.”
+
+His claw struck the floor once.
+
+Not hard.
+
+The sound still moved through my ribs.
+
+“No.”
+
+I shut up.
+
+“You have now summarized approximately eleven years of increasingly improbable support practice because you wish to accelerate toward the part you believe concerns me.”
 
 “Yes.”
 
-Bad sales sentence.
+“Your instinct is correct.”
 
-True.
+That was unexpected.
 
-Silence.
+He settled his head lower.
 
-I added, “Bounded uncertainty.”
+“You told me earlier that you met Nhal at forty-eight or forty-nine beneath the salt flats north of Vey.”
 
-Not better.
+“Yes.”
 
-Sol looked at the ceiling.
+“You told me she was trapped.”
 
-Coward.
+“Yes.”
 
-The health representative rescued me.
+“You told me she gave you my name.”
 
-“What happens if you do nothing?”
+“Yes.”
 
-“Probably nothing at several sites.”
+“Then stop summarizing your employment history.”
 
-Interesting room reaction.
+I almost objected.
 
-Honesty confuses grant panels.
+He was right.
 
-“At others, inspection remains expensive or unsafe enough that districts defer it. Then the next information arrives during failure or major reconstruction.”
+Annoying creature.
 
-That was the case.
+I shifted again and found no comfortable position.
 
-Not catastrophe.
+Ithar watched me do that too.
 
-Information timing.
+“How did you reach her?”
 
-She nodded.
+I looked at the cave floor.
 
-Then came the question I had not prepared for.
+Then at the old Line disk buried somewhere under his gold.
 
-“Why should this beat clean-water expansion in three rural districts?”
+“By not being invited.”
 
-I stopped.
+His eye narrowed.
 
-Not same budget line exactly.
+That was interest again.
 
-Close enough that money moved between priorities.
+“Explain.”
 
-There is no good answer to why my important thing should defeat another important thing without looking at both.
+I rubbed my face.
 
-“I don't know,” I said.
+“Three of the Seven were going north.”
 
-Finance looked up.
+“And you were not one of them.”
 
-I continued.
+“No.”
 
-“I can tell you what this buys. I cannot tell you it matters more than water systems I have not reviewed.”
+“A-class.”
 
-The regional representative smiled slightly.
+“Yes.”
 
-Not approval.
+“Denied.”
 
-Respect maybe.
+“Yes.”
 
-The grant did not arrive at four hundred sixty.
+Ithar waited.
 
-Of course not.
+I smiled despite myself.
 
-Approved amount: two hundred seventy.
+“Arcrutus disagreed with the roster decision.”
 
-Fifty-nine percent.
+The dragon’s nostril moved.
 
-Enough to hurt.
+“How?”
 
-Too much to call rejection.
-
-Too little to do the plan.
-
-The award letter prioritized:
-
-Access stabilization at three highest-risk sites.
-
-Shared archive pilot.
-
-Portable instrumentation pool.
-
-No permanent ventilation at two sites.
-
-No structural work at Bellwater beyond minimum access.
-
-No funding for dedicated archive clerk after year one.
-
-Dera read it.
-
-“Fuck.”
-
-Tova said, “Could be worse.”
-
-Pellin said, “Civilization hates cataloging.”
-
-Nessa asked, “What is actually missing?”
-
-Better question.
-
-We listed.
-
-Not money generally.
-
-Specific capability.
-
-Market Seven full access funded.
-
-East Two funded.
-
-North Cut partial.
-
-Bellwater weak.
-
-Archive labor temporary.
-
-Two lower-priority stations delayed.
-
-Portable instruments funded, which let us avoid buying duplicates locally.
-
-The grant was not stupid.
-
-That complicated resentment.
-
-Central reviewers had made rational cuts under a finite budget.
-
-They protected work with clearer near-term safety value.
-
-The exact behavior I might have recommended from their chair.
-
-I still hated it from mine.
-
-That was useful perspective.
-
-The press notice came a week later.
-
-KINGDOM SAFETY INVESTMENT MODERNIZES AGING LINE INFRASTRUCTURE.
-
-Modernizes was wrong.
-
-Aging was incomplete.
-
-Legacy structures were older than the kingdom in places.
-
-The announcement named the capital ministry.
-
-Not district crews.
-
-Not operators.
-
-Not Pellin.
-
-Not Nessa.
-
-Not me.
-
-Good, mostly.
-
-It also described the project as preventing future Line failures.
-
-Too strong.
-
-I wrote a correction request.
-
-Public office declined.
-
-“Language simplified for general audience.”
-
-There it was again.
-
-Compression.
-
-Necessary.
-
-Dangerous.
-
-I did not start a war over a press notice.
-
-Growth.
-
-We took the money.
-
-Then had to decide what to do with the missing forty-one percent.
-
-That became the real work.
-
-The grant panel had not failed us.
-
-They had forced the problem back into scale.
-
-Four hundred sixty worth of desire.
-
-Two hundred seventy worth of authority.
-
-The difference was not philosophical.
-
-It was stairs, fans, clerk hours, gauges, and two stations still waiting.
-
-Money is how institutions make absence physical.
+“He put me in a bag.”
