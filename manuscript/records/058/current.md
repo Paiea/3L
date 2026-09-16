@@ -116,7 +116,7 @@ I knew her name.
 
 That was becoming inconvenient.
 
-The second was Noll Hart.
+The second was Corin Hart.
 
 From North Mason.
 
@@ -142,7 +142,7 @@ JESSA ROOK — A CHANNEL
 
 SELLA TOR — B SHIELD
 
-NOLL HART — B COMBAT
+CORIN HART — B COMBAT
 
 GREG VANE — C SUPPORT
 
@@ -230,7 +230,7 @@ Sella sighed.
 
 "Professionals."
 
-Noll said nothing.
+Corin said nothing.
 
 Useful man.
 
@@ -270,7 +270,7 @@ Aren had requested me.
 
 Sella had returned.
 
-Noll had been chosen partly because I already knew his rhythm.
+Corin had been chosen partly because I already knew his rhythm.
 
 Jessa had agreed because she wanted the experiment.
 
@@ -306,11 +306,11 @@ Hollen opened another folder.
 
 There were six names.
 
-Two better than Noll on paper.
+Two better than Corin on paper.
 
 One better than Sella if the only question was shield output.
 
-A high-B duelist named Varo Tess had more direct combat reputation than Noll and substantially more speed.
+A high-B duelist named Varo Tess had more direct combat reputation than Corin and substantially more speed.
 
 I knew Varo slightly.
 
@@ -340,7 +340,7 @@ Hollen waited.
 
 "Yes."
 
-"Noll is B."
+"Corin is B."
 
 "Also yes."
 
@@ -348,7 +348,7 @@ Hollen waited.
 
 "For this party."
 
-Varo would have beaten Noll in most direct evaluations.
+Varo would have beaten Corin in most direct evaluations.
 
 Possibly badly.
 
@@ -508,7 +508,7 @@ Jessa stared at her.
 
 "High bar."
 
-Noll's rhythm remained exactly why I wanted him.
+Corin's rhythm remained exactly why I wanted him.
 
 He spent little when nothing mattered.
 
@@ -570,7 +570,7 @@ Two.
 
 Aren released.
 
-Noll moved.
+Corin moved.
 
 I crossed.
 
@@ -618,7 +618,7 @@ Hollen made me repeat it.
 
 "No."
 
-"And if I replaced Noll with Varo?"
+"And if I replaced Corin with Varo?"
 
 "I would need to retrain the timing."
 
@@ -656,7 +656,7 @@ Then Jessa said, "He's also the reason I signed."
 
 Sella nodded.
 
-Noll did too.
+Corin did too.
 
 Aren had already threatened to leave.
 
@@ -696,7 +696,7 @@ Jessa snored lightly.
 
 Sella snored like structural failure.
 
-Noll woke first and never admitted it.
+Corin woke first and never admitted it.
 
 Aren made terrible tea.
 
@@ -722,7 +722,7 @@ Sella could hold a line by herself longer than most shield fighters I knew.
 
 Which meant the moment she actually needed me was expensive.
 
-Noll's value was not peak output.
+Corin's value was not peak output.
 
 It was that he could keep taking small burdens while everybody else moved through large ones.
 
@@ -756,7 +756,7 @@ I reinforced her rear hip for one impact.
 
 Gone.
 
-Noll gave two fingers.
+Corin gave two fingers.
 
 I did not draw.
 
@@ -798,7 +798,7 @@ Her aura held backlash.
 
 No Draw.
 
-Noll picked up the next pressure.
+Corin picked up the next pressure.
 
 Sella released.
 
@@ -808,7 +808,7 @@ Now.
 
 Small Draw from Sella.
 
-Barrier to Noll's exposed side.
+Barrier to Corin's exposed side.
 
 Release.
 
