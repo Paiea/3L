@@ -136,7 +136,7 @@ Aren had apparently remembered why.
 
 The contractor's roster slate listed:
 
-AREN VALE — A COMBAT
+AREN DRAY — A COMBAT
 
 JESSA ROOK — A CHANNEL
 
@@ -176,7 +176,7 @@ He pointed at me.
 
 "Yes."
 
-"Vale says the roster waits for you."
+"Dray says the roster waits for you."
 
 I looked at Aren.
 
@@ -882,7 +882,7 @@ A salvage company wanted winter availability.
 
 A military contractor asked whether I trained attached teams.
 
-A guild evaluator requested copies of Red Basin support logs.
+A Guild evaluator requested copies of Red Basin support logs.
 
 One letter was addressed:
 
