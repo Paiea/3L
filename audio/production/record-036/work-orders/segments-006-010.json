@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 6,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You later became one of seven humans your species considered exceptional.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 7,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Eventually.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 8,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Using the same principle.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 9,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Eventually.\"\n\nHis eye narrowed.\n\nI knew that look now.\n\nHe had one face.\n\nHe lied about that.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 10,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"How?\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

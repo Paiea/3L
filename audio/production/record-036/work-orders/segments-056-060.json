@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 56,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Sometimes.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 57,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI pointed at him.\n\n\"Keep that energy when we get to you throwing rocks at walls.\"\n\nThe dragon's eye narrowed.\n\nGood.\n\nI continued.\n\nThe next morning I arrived early.\n\nNot for Arcrutus.\n\nThat is what I told myself.\n\nSupport staff arrived early because fighters do foolish things before crowds appear.\n\nWarm-up injuries.\n\nBad food.\n\nUnapproved stimulants.\n\nOne man strained a calf demonstrating a kick to his nephew.\n\nHis first scheduled match was three hours later.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 58,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Family remains dangerous.\n\nI worked.\n\nThe main gallery filled.\n\nI did not look up immediately.\n\nThen people shifted.\n\nSmaller change this time.\n\nThey knew where he wanted to sit now.\n\nArcrutus appeared.\n\nSame section.\n\nSame shade.\n\nDifferent paper cone.\n\nI asked what he was eating.\n\nThe Guild woman said roasted chestnuts.\n\n\"Yesterday?\"\n\n\"Also chestnuts.\"\n\n\"Does he come for the tournament or the chestnuts?\"\n\nShe looked toward the gallery.\n\n\"Ask him.\"\n\n\"No.\"\n\n\"Wise.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 59,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "The open qualifiers began.\n\nThose were better.\n\nA-class fighters were not common.\n\nPeople use rare badly.\n\nGold is rare in a poor household and common in a dragon's cave.\n\nA-class fighters were rare in streets, common enough around a tournament with prize money and clan banners.\n\nStill different.\n\nThe first A-class exchange I saw properly changed what I thought reinforced movement was.\n\nThe man on the left planted.\n\nThe stone under his foot broke before he moved.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 60,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Then he crossed half the ring.\n\nNot vanished.\n\nI could see him.\n\nI simply could not have stopped him.\n\nHis opponent did.\n\nThat mattered.\n\nThe collision sounded wrong.\n\nNot loud.\n\nDeep.\n\nThe barrier around the ring flexed inward like fabric in wind.\n\nHalf the lower spectators leaned back.\n\nI did too.\n\nThen I looked at Arcrutus.\n\nNothing.\n\nChestnut.\n\nAnother exchange.\n\nNothing.\n\nThe left fighter changed timing.\n\nFeinted high.\n\nDropped level.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}

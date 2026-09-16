@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 41,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Because it stopped.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 42,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Many hands stopped that day.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 43,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"His mattered.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 44,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You had known his name for less than an hour.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 45,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Exactly.\"\n\nIthar waited.\n\nI hated when he made silence feel like paperwork.\n\n\"Everyone else reacted to the obvious things,\" I said. \"Big hits. Fast finishes. Broken equipment. Arcrutus didn't. Then something small happened and he changed.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

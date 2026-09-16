@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 36,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Bodies colliding.\n\nShort punches.\n\nKnees.\n\nShoulder checks.\n\nThe kind of work spectators call boring because nobody flies through a wall.\n\nOne fighter took a strike badly.\n\nNot enough to drop him.\n\nHis rear leg moved.\n\nThree inches maybe.\n\nToe turned outward.\n\nHip followed.\n\nHe let the force rotate through instead of fighting it.\n\nThen recovered square.\n\nArcrutus stopped eating.\n\nOne second.\n\nMaybe less.\n\nThen his hand went back into the cone.\n\nI looked at the ring.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 37,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Nothing obvious had happened.\n\nThe fighter who adjusted his foot lost two exchanges later.\n\nCrowd reacted to the finish.\n\nArcrutus did not.\n\nI kept thinking about the foot.\n\nThat evening in the cave, Ithar interrupted me.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 38,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Why?\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 39,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at him.\n\n\"Why what?\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 40,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Why did you notice his hand?\"",
+      "pause_after_ms": 1100
+    }
+  ]
+}

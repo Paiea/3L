@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 86,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Still don't know.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 87,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You remember when his hand stopped eating.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 88,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 89,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You remember which competitors made him lean forward.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 90,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

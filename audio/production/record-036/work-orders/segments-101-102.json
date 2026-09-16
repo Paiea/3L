@@ -1,0 +1,21 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 101,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "I had spent most of my early life trying to learn by watching people who could do things I could not.\n\nArcrutus was the first person who made me realize you could also learn by watching what impressed someone who could do things nobody else could.\n\nI did not know him.\n\nHe had not spoken to me.\n\nI had never seen him fight.\n\nI had never seen him stand quickly.\n\nHe had eaten two paper cones of chestnuts, moved one chair out of the sun, and looked at me once.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 102,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "By then I had stopped caring who won the tournament.\n\nI wanted to know what he was seeing.",
+      "pause_after_ms": 220
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 11,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nI looked at the dead fire.\n\nThere were several answers.\n\nPractice.\n\nWork.\n\nMistakes.\n\nBodies.\n\nReinforcement.\n\nLuck.\n\nPeople better than me allowing me into rooms I had not earned yet.\n\nPeople worse than me giving me enough work to become useful.\n\nYears.\n\nMostly years.\n\nAll true.\n\nNone felt like where to begin.\n\nThen I remembered an old man eating something from a paper cone.\n\n\"There was a tournament.\"\n\nIthar's eye changed.\n\nBarely.\n\nI noticed.\n\nOf course I did.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 12,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"A tournament.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 13,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 14,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"For contraception.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 15,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"No.\"\n\nA pause.\n\n",
+      "pause_after_ms": 1100
+    }
+  ]
+}

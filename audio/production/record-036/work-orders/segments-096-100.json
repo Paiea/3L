@@ -1,0 +1,42 @@
+{
+  "record": "036",
+  "source_sha256": "6a69a0b1f513788fc7140a3b5424a2c5291b744ca6f04c0ae937777bc44d95aa",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 96,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"I meant me.\"\n\nSilence.\n\nDifferent silence.\n\nAnnoying silence.\n\nAccurate silence.\n\nI rubbed my jaw.\n\n\"Anyway.\"\n\nIthar's nostril moved.\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 97,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"You dislike that word.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 98,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\n\"Currently.\"\n\n",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 99,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "transcript": "\"Continue.\"",
+      "pause_after_ms": 1100
+    },
+    {
+      "index": 100,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\n\nSo I did.\n\nBy the end of the second day I had watched more of Arcrutus than the tournament.\n\nNot because he moved more.\n\nBecause he moved less.\n\nThat made every change expensive.\n\nA hand paused.\n\nA shoulder shifted.\n\nHis eyes left the ring.\n\nHe stopped chewing.\n\nOnce he looked at a fighter before the fighter's own support did.\n\nThree exchanges later the match ended on the same leg.\n\nI did not understand why yet.\n\nThat was the point.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
