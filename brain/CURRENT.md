@@ -9,8 +9,8 @@ This file describes the local working state around the restoration frontier, not
 - Story/raw frontier: Record 079.
 - Prose-quality reference: Records 001-010.
 - Public/main prose frontier: Record 060.
-- Working-branch restored prose frontier: Record 060.
-- Next rehearsal target: Record 061.
+- Working-branch restored prose frontier: Record 065.
+- Next rehearsal target: Record 066.
 - Published audio frontier remains separate and must not be inferred from prose publication.
 
 ## Present-frame contract
@@ -26,12 +26,17 @@ Keep important spoken names acoustically distinct. This is an audio-first book, 
 - Aren Dray: Arcrutus's eldest son. Forty-two when introduced in Record 056, seven years older than Greg, A-class combat, spear and reinforcement.
 - Corin Hart: ranged/utility fighter introduced in Record 054, later B-class. Chosen over stronger-on-paper Deren because Corin's spending and recovery rhythm complements the party. **Corin Hart** replaces the earlier local drift between Noll Aris / Noll Hart and avoids collision with Nhal.
 - Nhal: ancient trapped figure tied to the later First-Life S-class expedition and present-frame foundational mystery. Do not introduce major names that sound close to Nhal.
+- Sel Aven: conventional B-class support whose breadth, static work, emergency stabilization, and unfamiliar-team competence expose Greg's professional holes. She remains better than Greg at broad civilian/disaster support after Record 065.
+- Hara Venn: fen-clearing contractor who first pays for Greg's deliberate six-person roster during Records 062-063.
+- Dace: B-class pressure/shaping caster temporarily replacing Jessa during Record 063. Uses one name only in prose.
 
-Do not use Vale as the Dray family surname. Earlier Aren Vale / Arcrutus Vale wording was a local naming collision and has been corrected on the working branch.
+Do not use Vale as the Dray family surname. Earlier Aren Vale / Arcrutus Vale wording was a local naming collision and has been corrected.
 
-## First-Life state after Record 060
+## First-Life state after Record 065
 
-Greg is about thirty-six, give or take. Roughly four to five lived years have passed since the second tournament. He remains officially C-class support after the failed B evaluation, but stronger repeat parties and contractors increasingly treat his attached-team work as operating above that label under specific conditions.
+Greg is about thirty-seven, give or take. Roughly five to six lived years have passed since the second tournament. He is now officially **B-class support** after failing the first B evaluation, spending nearly a year repairing portability/breadth failures, and passing a second evaluation. His strongest work remains dynamic attached-team allocation and limited allied redistribution rather than generic all-purpose support.
+
+His field reputation is beginning to outrun ordinary roster logic: stronger people and contractors increasingly request Greg by name, sometimes without specifying class at all. This is still far below later A/S capability. He has not achieved mature linking, arbitrary-party mastery, or multi-person magical architecture.
 
 ### Record 045 · THE POCKET
 Greg learns why conventional support doctrine favors self-aura, stable protected positioning, predictable target priority, and reserve. He tries to solve a moving support problem by running late and discovers that seeing the useful place is not enough if his body and casting precision cannot reach it cleanly. He begins asking how maintained Barriers are actually defeated.
@@ -81,11 +86,26 @@ Greg's increasingly valuable Draw-routing exposes the conflict with continuous s
 ### Record 060 · THE SUBSTITUTE
 Corin is temporarily sidelined by mundane illness, forcing the party to integrate Varo Tess, the stronger-on-paper fighter Greg originally rejected. The method degrades exactly as critics predicted. Aren begins teaching reciprocal adaptation before Greg does. As Varo integrates, Greg discovers that Varo's superior speed, reserve, aura, and pressure create capabilities Corin simply does not have. The problem is not that Varo is too strong. **Corin is easier for Greg; Varo is not worse; Greg is worse with Varo.** A six-person overlap drill makes the next ceiling obvious: additional strong options become noise because Greg's resolution, concurrency, and latency cannot yet distinguish and use them fast enough. Greg writes the durable target: **STRONGER SHOULD EVENTUALLY GIVE MORE MARGIN, NOT LESS. CURRENTLY NOT TRUE FOR ME.** The contractor records that the method can survive personnel change and that party members now carry method knowledge without Greg prompting them. The Guild invites Greg to B-class re-evaluation, but he does not immediately apply.
 
+### Record 061 · THE MARKER
+Greg declines the immediate B re-evaluation and attacks the six-person information problem instead. He experiments with chalk state maps, excessive verbal reporting, and cheap survey locator tabs. Encoding reserve/intent into the tabs nearly recreates the stale-state failure that injured Veda, so Greg strips the artifacts back to **location only**. The tabs reduce visual reacquisition cost without pretending to know current state. Over months of drills Greg also learns to remove redundant calls: teammates speak when information changes what he should do, not to narrate everything they are already doing.
+
+### Record 062 · THE SIXTH
+Contractor Hara Venn pays for the full six-person roster at Harrow Fen: Greg, Aren, Sella, Jessa, Corin, and Varo. Six is now intentional rather than an overlap accident. During a culvert failure Greg initially moves toward visibly fallen Corin, but Corin has better local information and calls Aren's name because Aren is the actual immediate failure point. Greg follows the correction and succeeds. The party begins using **local priority calls**: a nearby teammate can surface a person or problem Greg is underweighting without commanding Greg's support. Judgment begins moving sideways through the party.
+
+### Record 063 · THE FILTER
+Jessa leaves temporarily for a family birth and B-class caster Dace joins the Harrow Fen extension. Sella and Aren teach Dace the party's method before Greg can, proving the method now exists outside Greg. Sella articulates the key compression better than Greg: do not report everything you know; report what changes what Greg should do. Local people solve or filter local state, escalate consequences rather than diaries, and preserve uncertainty/no as meaningful signals. Greg begins relinquishing the impossible goal of personally knowing everything.
+
+### Record 064 · THE GENERALIST
+Back in Vey, Greg pays Sel Aven to train the conventional areas that defeated him at the first B evaluation. Across months of work he practices static formation support, unfamiliar-team work, basic emergency stabilization, contamination barriers, retreat cover, and maintaining self-aura unless there is a specific reason to open. Sel repeatedly forces him to **do the broad, less optimized version safely** when he lacks enough information for precision. She remains clearly better at generic emergency and civilian disaster support. Greg becomes safe/competent enough in those areas without abandoning his specialty, then finally accepts the second B evaluation.
+
+### Record 065 · THE RE-EVALUATION
+Eleven months after his first failure, Greg takes the B-class evaluation again. Static formation, emergency stabilization, self-protection, and unfamiliar-team movement are now acceptable rather than exceptional. The specialty phase gives him six unfamiliar people and only ten minutes to establish a temporary protocol; he uses location-only tabs, explicit current consent, changed-intent calls, and local priority information rather than trying to build Red Basin instantly. His emergency breadth remains below B median, but his baseline is now safe and portable enough that contractors no longer need to pre-build an ecosystem around him before his specialty has value. The board passes him. Greg is officially **B-class support**. The next morning multiple contracts specifically request Greg Vane, including one that omits class entirely.
+
 ## Approved First-Life climb pressure
 
 Durable development direction:
 
-Barrier specialization -> study what defeats Barrier -> Draw as ward-drain/counter-technique -> controlled relief of allied magical pressure -> redistribution/cycling -> reciprocal party adaptation -> roster architecture as temporary scaffold -> linking -> multi-person capability architecture.
+Barrier specialization -> study what defeats Barrier -> Draw as ward-drain/counter-technique -> controlled relief of allied magical pressure -> redistribution/cycling -> reciprocal party adaptation -> roster architecture as temporary scaffold -> distributed party cognition -> portable B-class baseline -> linking -> multi-person capability architecture.
 
 The approved design lives in `docs/superpowers/specs/2026-09-15-first-life-open-circuit-support-design.md` and is mirrored in `brain/OPEN_CIRCUIT.md` on the working branch.
 
@@ -99,7 +119,9 @@ Important constraints:
 - Greg's C-class warrior history gives him a movement chassis, not secret elite combat ability;
 - mana cycling never creates mana; it reallocates existing reserve and otherwise-idle regeneration opportunity;
 - recovery itself has conditions and costs; a full reserve can suppress additional recovery without making fullness inherently wasteful;
-- reciprocal adaptation is now party knowledge, not only Greg's insight;
+- reciprocal adaptation is party knowledge, not only Greg's insight;
+- distributed judgment/information filtering is now party knowledge too: Greg does not need to be the sole brain of an operation;
+- location-only locator tabs are cheap reacquisition aids, not magical state-sharing or proto-telepathy;
 - knowing a teammate's emotional/performance state does not grant Greg ownership or permission to manipulate it without boundaries;
 - Greg's open-aura state requires party compensation and formation consent, preserving a real vulnerability;
 - early Greg benefits enormously from deliberately complementary rosters because staggered demand reduces his switching, concurrency, and resolution burden;
@@ -107,31 +129,32 @@ Important constraints:
 - stronger and better teammates should ultimately provide mature Greg with more wiggle room: more reserve, speed, self-protection, recovery options, and capability margins to allocate;
 - therefore Corin being easier than Varo at this stage reflects Greg's current limitations, not a claim that Corin is categorically more valuable than a stronger fighter;
 - as Greg matures, overlapping strength becomes a problem to exploit rather than avoid;
-- Greg is improving portability, but he still gets worse when personnel change and must retrain around actual current people rather than stale models;
+- Greg is improving portability, but personnel change still creates real relearning costs and stale personal models remain dangerous;
+- Greg is now B-class because his baseline is safely portable, not because the Guild conceded his specialty was secretly correct all along;
+- Sel Aven should remain evidence that a broad conventional support can still outperform Greg in genuinely broad emergency contexts;
 - S-class people eventually value Greg because he can release capacity trapped behind actual bottlenecks rather than merely add raw power;
 - Arcrutus Dray is catalyst, not conventional mentor;
 - the First-Life climb is relational and outward. Life-Two revenge later turns the same intelligence toward increasingly closed/self-contained loops.
 
-## Pressure for Record 061
+## Pressure for Record 066
 
-Do not immediately cash the B-class re-evaluation invitation into a badge.
+Do not immediately convert B-class into A-class momentum or mature linking.
 
-Greg now has stronger evidence than he had at 055, but the more important development is that he has finally separated two ideas that looked similar:
-- **party architecture can make current Greg much better**;
-- **mature Greg must eventually stop needing the party pre-optimized for him**.
+B changes the kind of work Greg can legally/professionally be hired for and increases expectations. The next stretch should exploit that pressure rather than treating the badge as an endpoint.
 
 Useful next pressure includes:
-- Greg deliberately attacking his resolution/concurrency ceiling rather than merely selecting around it;
-- another strong but overlapping teammate exposing how much useful capability Greg still leaves untouched;
-- low-level artifacts, markers, or techniques beginning to reduce reacquisition/switching cost without becoming a magical network yet;
-- Greg deciding what information belongs in shared party language versus what only he should track;
-- another trained member teaching a newcomer or correcting Greg;
-- Greg selectively repairing breadth failures exposed by Sel rather than becoming a generic support;
-- contractors or Guild evaluators trying to formalize a method that depends on relationships and current state;
-- stronger people asking for Greg by name while his official class continues to lag field reputation;
-- calendar time, money, recovery, friendships, contract endings, and ordinary life continuing to make the climb feel lived.
+- tougher contracts arriving because Greg is now B on paper and already requested above paper;
+- Greg encountering genuinely stronger/overlapping parties where the old complementary-roster scaffold is unavailable or undesirable;
+- the six-capacity ceiling becoming more explicit: observation, resolution, throughput, concurrency, latency, duration;
+- low-level reacquisition aids becoming more disciplined without turning into a magical network too early;
+- Greg learning which decisions can be delegated, which information can be filtered, and which support decisions must remain his because he bears the magical cost;
+- another support professional learning pieces of Greg's method, potentially exposing what is actually teachable versus Greg-specific;
+- Greg's new B-class rate, money, contract choice, and reputation changing ordinary life around him;
+- repeat party members continuing to take separate work, age, heal, form relationships, and return changed;
+- someone stronger than Greg's current processing comfort becoming clearly valuable rather than merely difficult;
+- Greg beginning to ask how to keep a connection cheap after release, but **not yet solving mature linking**.
 
-Do not jump to A-class or mature linking. B-class should be earned through broader operational proof rather than granted as vindication for the earlier failure.
+B-class should last long enough to feel like a real professional tier. A-class must require broader operational proof, higher concurrency, lower switching cost, and stronger arbitrary-party performance.
 
 ## Prose lock
 
@@ -146,6 +169,6 @@ Do not jump to A-class or mature linking. B-class should be earned through broad
 
 ## Do not force
 
-Do not force preserved 061-079 developmental material into its old numbered position. Salvage concepts when useful, but current prose and approved authority win.
+Do not force preserved 066-079 developmental material into its old numbered position. Salvage concepts when useful, but current prose and approved authority win.
 
-Do not write Record 061 without a new bounded approval gate.
+Do not write Record 066 without a new bounded approval gate.
