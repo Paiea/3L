@@ -1,437 +1,647 @@
 ## RECORD 073
 
-## THE EXAMINER
+## THE RELIEF
 
-The first person I failed looked exactly like someone I would have passed at nineteen.
+Pava's hand started shaking on the third day below the first landing.
 
-That made it worse.
+Not badly.
 
-His name was Dalen Marr.
+That mattered.
 
-Twenty.
+Bad shaking would have ended the question.
 
-Strong C-class.
+This was the kind you could explain away if you wanted to keep working.
 
-Fast reinforcement.
+She did.
 
-Good field scores.
+The pressure rods did not care.
 
-No serious disciplinary record.
+The short ones had done most of the mapping above.
 
-He walked into the licensing hall smiling like the room had already agreed with him.
+Lower down, the galleries widened and the old material got denser.
 
-I knew that smile.
+Whatever had built the place expected larger forces here.
 
-Not from him.
+Pava needed the long rod again.
 
-From mirrors.
+The one that had already shown us what it did to her forearm.
 
-The Guild asked me to sit on regional practical licensing because apparently teaching badly enough for long enough qualifies you to judge other people.
+She seated it against a black band running through the floor.
 
-I objected.
+Mael checked the station.
 
-Aven said, “You have written training standards used in four districts.”
+The survey lead checked the remote needles.
 
-“Copied training standards.”
+Arcrutus stood thirty feet back because for once nobody needed him touching anything.
 
-“Worse. That means people actually use them.”
+He looked disappointed.
 
-Cruel logic.
+Pava said, "Medium pulse."
 
-The panel had three examiners.
+Mael looked at her right hand.
 
-One trade board member.
+"Low."
 
-One district operator.
+"We already have low."
 
-Me.
+"Then we already have data."
 
-The practical test was deliberately boring.
+"Not enough at this depth."
 
-No monster.
+"Low."
 
-No collapsing bridge.
+Pava stared at him.
 
-No trapped child because licensing boards that manufacture emotional emergencies are run by idiots.
+Mael stared back.
 
-We gave candidates a mocked pressure station with three faults.
+S-class disagreement was disappointingly similar to ordinary disagreement.
 
-One obvious.
+Just with better posture.
 
-One irrelevant.
+Pava flexed her fingers.
 
-One dangerous only if the candidate assumed the drawing was current.
+"Hand is fine."
 
-Dalen found the obvious fault immediately.
+Mael said, "Your hand is lying."
+
+I looked away because smiling felt dangerous.
+
+Pava saw anyway.
+
+"You have something to add?"
+
+"No."
+
+"Good."
+
+She pulsed low.
+
+The floor answered.
+
+Three remote needles jumped.
+
+A fourth did not.
+
+The black band beneath the rod brightened for less than a second.
+
+Pava released.
+
+Her fingers opened late.
+
+Very late if you knew what late looked like.
+
+Mael said, "Done."
+
+Pava swore.
+
+"We need one stronger pulse."
+
+"Then we wait."
+
+"How long?"
+
+The healer crouched beside her and touched two fingers to the inside of her wrist.
+
+Pava tolerated this with the dignity of a cat being examined.
+
+The healer said, "Minimum six hours before another low pulse. Longer for medium."
+
+Pava said, "We do not have six hours."
+
+That was the first time I spoke.
+
+"Why?"
+
+Everyone looked at me.
+
+Insurance had made a noise.
+
+The survey lead pointed at the wall.
+
+A line of chalk we had drawn that morning was no longer straight.
+
+Not much.
+
+A quarter inch over twelve feet.
+
+The deep load was moving faster.
+
+We did not know why.
+
+We did know the safe geometry of the gallery was changing.
+
+Mael said, "We leave this branch in four hours whether mapping is complete or not."
+
+Pava looked at the rod.
+
+Then at her hand.
+
+"One medium pulse gives us the lower transfer direction."
+
+The healer said, "It may also give you a month of numb fingers."
+
+Pava said nothing.
+
+That was worse than arguing.
+
+I knew that calculation.
+
+Not hers specifically.
+
+The shape.
+
+Capability available.
+
+Body refusing the price.
+
+Most people see that and ask whether the capability is worth the injury.
+
+Support people get paid to ask a different question.
+
+Does the price have to be paid there?
+
+I looked at Mael.
+
+"I can take some of the release load."
+
+No one moved.
+
+Then Arcrutus smiled.
+
+Of course he did.
+
+Mael did not.
+
+"Explain exactly."
 
 Good.
 
-A worn bypass seal.
+No faith.
 
-He found the irrelevant one too.
+I pointed at Pava's rod.
 
-Old discoloration on a dead branch.
+"The pressure pulse itself is not the problem. Her channels can produce it."
 
-Called it cosmetic.
+The healer nodded once.
 
-Also good.
+"The return is."
 
-Then he reached the third.
-
-Drawing showed north return isolated.
-
-Actual valve tag showed service revision six months earlier.
-
-One small brass marker.
-
-Easy to miss.
-
-Dalen missed it.
-
-He opened the simulated regulator housing.
-
-The operator examiner asked, “Safe?”
-
-“Yes.”
-
-“Why?”
-
-“North return isolated.”
-
-“Evidence?”
-
-“Plan.”
-
-There it was.
-
-The test stopped.
-
-No fake pressure release.
-
-No trick injury.
-
-We do not teach consequences by injuring applicants.
-
-Apparently civilization had learned one thing.
-
-Dalen looked confused.
-
-Then saw the brass marker.
-
-His face changed.
-
-“Revision.”
-
-“Yes,” I said.
-
-He looked at the plan again.
-
-“Plan wasn't updated.”
-
-“No.”
-
-“So the test is wrong.”
-
-There it was again.
-
-Not the mistake.
-
-The reaction.
-
-The board member said, “Explain.”
-
-Dalen pointed at the drawing.
-
-“You gave me incorrect information.”
-
-“We gave you the current site and an outdated drawing.”
-
-“That is unfair.”
-
-I almost laughed.
-
-Not because he was stupid.
-
-Because I had said versions of that sentence for years.
-
-Reality should provide cleaner inputs.
-
-Very reasonable request.
-
-Reality declined.
-
-The operator examiner asked, “What would you do on a real site if plan and tag disagreed?”
-
-Dalen hesitated.
-
-“Verify.”
-
-“Before opening?”
-
-“Yes.”
-
-“You did not.”
-
-“No.”
-
-He recovered after that.
-
-Good candidate.
-
-Completed the rest carefully.
-
-Passed the written section.
-
-Passed reinforcement control.
-
-Passed emergency stop procedure.
-
-Failed practical safety.
-
-One failure.
-
-Enough.
-
-The panel voted two to one for deferred license.
-
-I was one of the two.
-
-Dalen waited outside while we decided.
-
-When he came back in, I gave the finding.
-
-“Deferred thirty days. Repeat practical only.”
-
-His jaw tightened.
-
-“For one missed tag?”
-
-“Yes.”
-
-“I corrected it.”
-
-“After the housing was open.”
-
-“In a simulation.”
-
-“Yes.”
-
-“I would be more careful on a real job.”
-
-Maybe.
-
-I hated that answer because I had relied on it myself.
-
-The board member said, “The simulation is where we test whether that claim is true before a real job.”
-
-Dalen looked at me.
-
-“You never made mistakes?”
-
-There it was.
-
-The hypocrisy question.
-
-Good question.
-
-“Many.”
-
-“Then why fail me for one?”
-
-Because I survived mine.
-
-Because other people absorbed some of them.
-
-Because nobody had stopped nineteen-year-old Greg from climbing toward danger because he was capable enough to keep getting away with it.
-
-None of that was a licensing rule.
-
-I answered the question he actually asked.
-
-“Because this mistake creates a class of harm your license would authorize you to create alone.”
-
-He stared.
-
-“That sounds dramatic.”
-
-“It is plumbing.”
-
-The operator examiner coughed.
+Pava looked at me more carefully.
 
 I continued.
 
-“You are not being judged as a person. You are being judged for independent authority today.”
+"When the rod releases, the instrument gives part of the pressure back through her grip before the sleeve bleeds the rest into the floor."
 
-“I am qualified.”
+Pava said, "That is by design."
 
-“Mostly.”
+"I know."
 
-“That should count.”
+"Removing it changes calibration."
 
-“It does. That is why you repeat one section instead of the whole qualification.”
+"I am not proposing removing it."
 
-He hated me.
+The survey lead said, "Then what?"
 
-Reasonable.
+I pointed to the remaining expedition pressure anchor.
 
-I would have hated me too.
+The only one.
 
-Thirty days later he returned.
+Arcrutus's second one should have been in the bag with us.
 
-Different expression.
+Instead I had occupied that volume.
 
-Not humbled.
+"Catch the excess after calibration return. Route part of that into the anchor before it finishes crossing her forearm."
 
-Good.
+Mael said, "Draw from Pava?"
 
-Humiliation is not training.
+"Not reserve."
 
-Prepared.
+"Still Draw."
 
-He walked the entire mock station before touching anything.
+"Yes."
 
-Checked tags against plans.
+Pava asked, "How much?"
 
-Asked when revisions were last verified.
+"Small."
 
-Found a deliberately mismatched drain label we had added for the second test.
+"Useful number."
 
-Stopped.
+"Ten percent first. Maybe fifteen. Enough to reduce peak return without changing the instrument's initial response."
 
-Asked for current field book.
+The survey lead looked at the rod.
 
-Good.
+"You can separate initial instrument return from channel recoil that cleanly?"
 
-He passed.
+"Usually."
 
-Afterward he said, “Still think the first test was unfair.”
+Mael said, "No."
 
-I smiled.
+That was fast.
 
-“That is allowed.”
+I nodded.
 
-“You agree?”
+"Okay."
 
-“No.”
+Pava looked at him.
 
-“Asshole.”
+"Why?"
 
-Also allowed.
+"Because usually is not a procedure."
 
-A year later Dalen was working with a municipal crew in West Bell.
+Also fair.
 
-I ran into him on an inspection.
+I sat back.
 
-He had stopped a branch because a field modification did not match the district drawing.
+Insurance returned to silence.
 
-The modification was safe.
+Thirty seconds passed.
 
-Recent.
+The chalk line moved another fraction.
 
-Paperwork lagged.
+Pava said, "What would make it a procedure?"
 
-His stop delayed service two hours.
+Mael looked at her.
 
-Nobody thanked him.
+Then at me.
 
-The foreman complained.
+"Demonstration below harmful threshold."
 
-Dalen showed me the tag.
+The survey lead said, "On this instrument?"
 
-“Could have been nothing.”
+"Yes."
 
-“Yes.”
+"We cannot spend another Pava pulse."
 
-“Was nothing.”
+Arcrutus raised a hand.
 
-“Yes.”
+Nobody had asked him to.
 
-“Still stop?”
+"No," Mael said.
 
-I looked at him.
+"You don't know what I was going to say."
 
-He was asking.
+"You were going to volunteer."
 
-Not permission.
+"Yes."
 
-Calibration.
+"No."
 
-“What did you know at the time?”
+"Wasteful."
 
-“Mismatch. No verified revision. Branch pressure active.”
+"You are not instrument-calibrated."
 
-“Then yes.”
+Arcrutus lowered his hand.
 
-He nodded.
+I said, "The rod can discharge against the pressure anchor without Pava driving it."
 
-Good.
+Pava's eyes narrowed.
 
-Licensing work continued occasionally.
+"Not enough to match live return."
 
-I failed people.
+"Doesn't need to. I need timing, not magnitude."
 
-Passed people.
+The survey lead understood first.
 
-Deferred more than I failed outright.
+"Bench return."
 
-The power felt wrong every time.
+"Exactly."
 
-That was probably healthy.
+Mael considered.
 
-Not because authority is inherently corrupt.
+Then pointed at me.
 
-Because comfort with consequential authority is dangerous if it becomes invisibility.
+"One test. No live link to Pava."
 
-I started writing one question at the top of every candidate sheet.
+"Fine."
 
-WHAT EXACTLY ARE WE AUTHORIZING THIS PERSON TO DO WITHOUT ASKING US?
+"No person-to-person routing."
 
-That helped.
+"Fine."
 
-Sometimes the answer was narrow.
+"You exceed the prepared sink limit, I stop you."
 
-Operate a municipal pressure desk alone.
+"You say that like I could stop you stopping me."
 
-Inspect low-load private lines.
+Arcrutus laughed once.
 
-Perform reinforcement work under a certified lead.
+Mael did not.
 
-Sometimes broad.
+We set the anchor on the floor.
 
-Approve district isolation.
+It was ugly compared with Pava's instruments.
 
-Lead legacy access.
+Dense iron frame.
 
-Sign live pressure alterations.
+Layered ceramic throat.
 
-The broader the authority, the less impressed I became by talent alone.
+Three sacrificial bands around the base.
 
-This annoyed talented people.
+Designed to accept pressure nobody wanted traveling farther.
 
-I understood.
+The survey lead connected the rod to a manual charge sleeve.
 
-First-life Greg had accumulated permission by surviving increasingly dangerous work.
+Pava watched from six feet away with her injured pride and healthy hand.
 
-Survival looked like qualification from inside the body doing it.
+The healer watched me.
 
-It was not nothing.
+I lowered my aura.
 
-It was also not the same as proving other people should trust your decisions when they could not watch you.
+That old vulnerability still felt wrong in front of strangers.
 
-I learned that late.
+Less wrong than it had at thirty-five.
 
-So I became the man who denied younger people some of the freedom I had taken.
+The route opened.
 
-Hypocritical?
+Not person to person.
 
-A little.
+Rod to my controlled boundary.
 
-Necessary?
+Boundary to anchor.
 
-Sometimes.
+Simple by then.
 
-Both can be true.
+Simple did not mean easy.
 
-Ithar would have liked that answer too much.
+The survey lead released the bench charge.
 
-I never told him.
+The rod kicked.
+
+I caught the return after the first instrument ring discharged.
+
+Too late.
+
+The anchor barely moved.
+
+Mael said, "Again?"
+
+I shook my head.
+
+"I know the miss."
+
+Pava said, "You waited for the sleeve."
+
+"Yes."
+
+"Return starts before visible bleed."
+
+"Yes."
+
+"I could have told you that."
+
+"You could have."
+
+"You did not ask."
+
+I hated experts.
+
+Useful people.
+
+Terrible personalities.
+
+Mael looked at the moving chalk line.
+
+"One more bench test."
+
+Second charge.
+
+This time I entered on pressure change, not sleeve discharge.
+
+Caught the rising return.
+
+Let the rod keep the portion it needed for calibration.
+
+Took the excess edge.
+
+Moved it sideways.
+
+The anchor gave a low metallic knock.
+
+One sacrificial band warmed.
+
+The rod trace stayed inside its expected calibration range.
+
+The survey lead read it twice.
+
+"No meaningful shift in initial profile."
+
+Pava said, "Peak return?"
+
+"Down twelve percent at the grip simulator."
+
+Pava looked at me.
+
+Not impressed.
+
+Interested.
+
+Different.
+
+Mael said, "Live test at low pulse only."
+
+Pava immediately said, "Medium."
+
+"Low."
+
+"We already know low route."
+
+"Then demonstrate low safely or we do nothing."
+
+Pava swore again.
+
+Then accepted the rod.
+
+We built the connection slowly.
+
+No improvising.
+
+She told me exactly what the rod did in her hand.
+
+Where the return arrived.
+
+Which fingers went numb first.
+
+What changed when her wrist angle drifted.
+
+The healer marked her baseline.
+
+The survey lead marked the rod.
+
+Mael marked the maximum anchor temperature.
+
+Arcrutus offered to mark something.
+
+Nobody let him.
+
+Pava pulsed low.
+
+I caught the return.
+
+Not her mana.
+
+Not her casting pressure.
+
+The cost after the useful action.
+
+A narrow ugly thing that had nowhere good to go.
+
+I gave it somewhere better.
+
+The anchor knocked.
+
+Pava's fingers opened on time.
+
+The healer checked her.
+
+"Better."
+
+Pava said, "How much?"
+
+"Enough."
+
+"Medical term?"
+
+"Yes."
+
+Mael looked at the survey trace.
+
+Then at the wall.
+
+The chalk line had moved again.
+
+"Medium," he said.
+
+Pava did not smile.
+
+She was too professional.
+
+I smiled for her.
+
+She saw.
+
+"Don't make me regret this."
+
+"I would prefer not to."
+
+Medium pulse.
+
+The whole gallery pressed against my skin from the inside.
+
+Pava's rod drove downward.
+
+The black band under it lit three yards in both directions.
+
+The return came hard.
+
+I opened the route.
+
+For half a second the pressure wanted to use me because I was between things.
+
+That was always the danger.
+
+I did not hold it.
+
+Holding was how support people became walls.
+
+I gave it direction.
+
+Pava to boundary.
+
+Boundary to anchor.
+
+The anchor took the edge.
+
+One sacrificial band cracked.
+
+Not failed.
+
+Spent.
+
+The remote slates jumped.
+
+North branch.
+
+West branch.
+
+Central shaft.
+
+Then something much deeper answered.
+
+The answer was not stronger than before.
+
+It was cleaner.
+
+One line.
+
+Down.
+
+The survey lead stared at the slate.
+
+"There."
+
+Mael was already beside her.
+
+Pava released the rod.
+
+Her hand opened.
+
+No delay.
+
+The healer touched her wrist.
+
+"Stop for today."
+
+Pava nodded.
+
+No argument.
+
+That told me more than the measurements.
+
+Mael looked at the cracked sacrificial band on the anchor.
+
+"Cost?"
+
+The technical crew checked it.
+
+"Anchor remains usable. One band gone. Two left."
+
+Mael looked at Arcrutus.
+
+Arcrutus looked at me.
+
+I said, "Don't."
+
+He smiled anyway.
+
+The second anchor he had left behind would have mattered.
+
+So had I.
+
+Both statements were now true.
+
+That was uncomfortable.
+
+Mael pointed at the slate.
+
+"You bought us a direction. Not command authority."
+
+"I know."
+
+"You remain insurance."
+
+"I know."
+
+Pava flexed her hand.
+
+"Good insurance."
+
+That was the first compliment she had given me.
+
+I wrote it down later because I am petty.
+
+Then we packed the rod.
+
+Marked the spent band.
+
+Adjusted the route.
+
+And followed the load lower.
