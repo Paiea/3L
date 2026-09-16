@@ -1,0 +1,42 @@
+{
+  "record": "034",
+  "source_sha256": "b2b682537b9fdfbe1b22272d3111b1258f30c925f6676146073fcc24440355f7",
+  "routing_mode": "exact_quote_locked",
+  "segments": [
+    {
+      "index": 26,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Cheap administration transferred imprecision to households.\n\nNo corruption.\n\nJust tradeoffs all the way down.\n\nThe hearing did not resolve anything.\n\nThat was not its job, apparently.\n\nThe proposal went back for revision.\n\nHalden was angry afterward.\n\nNot at the public.\n\nAt the problem.\n\n\"I need twenty-two silver a month.\"\n\n\"Then charge buildings.\"\n\n\"That was the proposal.\"\n\n\"No. Charge building service, not units.\"\n\n\"Landlords pass it through anyway.\"\n\n\"Yes.\"\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 27,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "\"But larger buildings distribute more.\"\n\n\"Maybe.\"\n\n\"Commercial mixed-use becomes ugly.\"\n\n\"Yes.\"\n\nHe looked at me.\n\n\"You have become very helpful.\"\n\n\"Thank you.\"\n\n\"That was not praise.\"\n\nWe spent two weeks making the proposal worse in more sophisticated ways.\n\nLower residential base.\n\nHigher commercial tiers.\n\nDiscount for buildings with verified hardship status through existing city relief rolls.\n\nNo new income bureaucracy.\n\nPublic housing covered through city allocation.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 28,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Small landlords could not itemize more than actual assessment in rent notices.\n\nSenn objected to that last one.\n\nOf course.\n\nThen admitted it was reasonable.\n\nThe revised plan raised slightly less money than Halden wanted.\n\nDistrict delayed one equipment purchase.\n\nKept the two positions.\n\nTova insisted people mattered before instruments.\n\nI agreed.\n\nInteresting change.\n\nThe second hearing was still angry.\n\nBetter informed anger.\n\nThe assessment eventually passed.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 29,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Not unanimously.\n\nNot cleanly.\n\nMy parents paid two copper more per month under their building share.\n\nMy mother complained.\n\nI explained what it funded.\n\nShe said, \"I know what it funds. I still pay it.\"\n\nThat was the lesson.\n\nUnderstanding a cost does not make it disappear.\n\nOur own household paid too.\n\nNessa entered it in the ledger beneath coal and above soap.\n\nLINE ASSESSMENT.\n\nTwo words.\n\nThree copper.\n\n",
+      "pause_after_ms": 450
+    },
+    {
+      "index": 30,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "transcript": "Mira sounded out the first word because she had begun recognizing letters badly enough to be proud of it.\n\n\"Line.\"\n\n\"Yes.\"\n\n\"For your work?\"\n\n\"Some of it.\"\n\n\"We pay you?\"\n\n\"Not exactly.\"\n\n\"Why?\"\n\nI looked at Nessa.\n\nShe was already smiling.\n\nCoward.\n\n\"We pay for the stations to keep working.\"\n\nMira looked toward the wall as though East Four might be visible through it.\n\n\"Sera station?\"\n\n\"Yes. And the others.\"\n\n\"Dera district?\"\n\n\"Also yes.\"\n\nSatisfied.\n\n",
+      "pause_after_ms": 450
+    }
+  ]
+}
