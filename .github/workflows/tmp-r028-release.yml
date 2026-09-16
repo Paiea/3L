@@ -1,0 +1,33 @@
+name: Temporary Record 028 Release
+on:
+  push:
+    branches: [audio/record-028-release]
+    paths: [.github/workflows/tmp-r028-release.yml]
+permissions: {contents: write}
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: audio/record-028-release, fetch-depth: 0}
+      - name: Import verified 028 audio
+        run: |
+          git fetch origin audio/record-028-production
+          git checkout origin/audio/record-028-production -- audio/routing/record-028.json audio/production/record-028 audio/assets/record-028-quote-locked-v2.mp3
+          rm -f audio/production/record-028/.DS_Store
+          python - <<'PY'
+          import hashlib,json
+          from pathlib import Path
+          expected_source='ac4e02e650c1403bdf7d67d035891d238729e5e4a6170c5198e4a1974aa1482e'; expected_audio='d0f27055588dfcdc7b108a114ab000bf9e8b8e02f00e0820f3cdcb6b50900b1c'
+          assert hashlib.sha256(Path('manuscript/records/028/current.md').read_bytes()).hexdigest()==expected_source
+          a=Path('audio/assets/record-028-quote-locked-v2.mp3'); assert hashlib.sha256(a.read_bytes()).hexdigest()==expected_audio
+          v=Path('audio/production/record-028/verification-v2.json'); d=json.loads(v.read_text()); assert d['source_sha256']==expected_source and d['sha256']==expected_audio and d['segment_count']==30 and d['duration_seconds']==812.616; d['status']='published_unlistened'; v.write_text(json.dumps(d,indent=2)+'\n')
+          m=Path('audio/manifest.json'); x=json.loads(m.read_text()); assert 'r028' not in x['records']; x['records']['r028']={'status':'published','src':'audio/assets/record-028-quote-locked-v2.mp3','source_sha256':expected_source,'audio_sha256':expected_audio,'duration_seconds':812.616,'routing_mode':'exact_quote_locked','listened':False}; m.write_text(json.dumps(x,indent=2)+'\n')
+          PY
+          python scripts/check_repo.py
+          python -m unittest discover -v
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio
+          git commit -m 'Publish Record 028 audio'
+          git push origin HEAD:audio/record-028-release
