@@ -29,23 +29,26 @@ jobs:
           text = text.replace(old_hero, new_hero)
 
           css_marker = '.lineage{display:grid;grid-template-columns:1fr 1fr 1fr;gap:.7rem;margin-top:2.7rem;font-family:ui-sans-serif,system-ui,sans-serif}'
-          nhal_css = '''.nhal-card{margin:2.7rem 0 0;overflow:hidden;border-radius:20px;background:var(--night);color:#f7efe3;box-shadow:0 18px 46px rgba(38,29,20,.14)}
-.nhal-card img{display:block;width:100%;height:auto;max-height:42rem;object-fit:cover;object-position:center}
-.nhal-card figcaption{padding:1rem 1.15rem 1.15rem;font-family:ui-sans-serif,system-ui,sans-serif}
-.nhal-card figcaption .eyebrow{color:#c9ae89}
-.nhal-card strong{display:block;margin-top:.18rem;font-size:1rem;letter-spacing:.04em}
-'''
+          nhal_css = (
+              '.nhal-card{margin:2.7rem 0 0;overflow:hidden;border-radius:20px;background:var(--night);color:#f7efe3;box-shadow:0 18px 46px rgba(38,29,20,.14)}\n'
+              '.nhal-card img{display:block;width:100%;height:auto;max-height:42rem;object-fit:cover;object-position:center}\n'
+              '.nhal-card figcaption{padding:1rem 1.15rem 1.15rem;font-family:ui-sans-serif,system-ui,sans-serif}\n'
+              '.nhal-card figcaption .eyebrow{color:#c9ae89}\n'
+              '.nhal-card strong{display:block;margin-top:.18rem;font-size:1rem;letter-spacing:.04em}\n'
+          )
           if css_marker not in text:
               raise SystemExit('lineage CSS marker missing')
           text = text.replace(css_marker, nhal_css + css_marker, 1)
 
           html_marker = '<div class="toc"><details><summary>All readable records</summary><div class="toc-list" id="tocList"></div></details></div>\n<nav class="lineage" aria-label="Peg-Leg Greg editions">'
-          nhal_html = '''<div class="toc"><details><summary>All readable records</summary><div class="toc-list" id="tocList"></div></details></div>
-<figure class="nhal-card">
-  <img src="./visual/3l2.png" alt="Nhal, a massive leonine ancient being bound within a luminous load-bearing lattice." loading="lazy" decoding="async">
-  <figcaption><span class="eyebrow">Deeper in the record</span><strong>Nhal · The Bound One</strong></figcaption>
-</figure>
-<nav class="lineage" aria-label="Peg-Leg Greg editions">'''
+          nhal_html = (
+              '<div class="toc"><details><summary>All readable records</summary><div class="toc-list" id="tocList"></div></details></div>\n'
+              '<figure class="nhal-card">\n'
+              '  <img src="./visual/3l2.png" alt="Nhal, a massive leonine ancient being bound within a luminous load-bearing lattice." loading="lazy" decoding="async">\n'
+              '  <figcaption><span class="eyebrow">Deeper in the record</span><strong>Nhal · The Bound One</strong></figcaption>\n'
+              '</figure>\n'
+              '<nav class="lineage" aria-label="Peg-Leg Greg editions">'
+          )
           if html_marker not in text:
               raise SystemExit('landing insertion marker missing')
           text = text.replace(html_marker, nhal_html, 1)
@@ -58,7 +61,7 @@ jobs:
           python - <<'PY'
           from pathlib import Path
           text = Path('index.html').read_text(encoding='utf-8')
-          assert 'https://paiea.github.io/3L/visual/3l1.png' in text
+          assert text.count('https://paiea.github.io/3L/visual/3l1.png') == 3
           assert 'peg-leg-greg-reader/3l/assets/images/hero/dragon-bargain.png' not in text
           assert './visual/3l2.png' in text
           assert 'Nhal · The Bound One' in text
