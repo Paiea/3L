@@ -1,0 +1,86 @@
+name: Temporary Record 029 Clean Release
+
+on:
+  push:
+    branches: [audio/record-029-release]
+    paths:
+      - .github/workflows/tmp-r029-release.yml
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-029-release
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Import verified Record 029 production artifacts
+        run: |
+          set -euo pipefail
+          git fetch origin audio/record-029-production
+          git checkout origin/audio/record-029-production -- \
+            audio/assets/record-029-quote-locked-v2.mp3 \
+            audio/production/record-029 \
+            audio/routing/record-029.json
+      - name: Advance audio manifest
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          manifest_path=Path('audio/manifest.json')
+          verification_path=Path('audio/production/record-029/verification-v2.json')
+          manifest=json.loads(manifest_path.read_text(encoding='utf-8'))
+          verification=json.loads(verification_path.read_text(encoding='utf-8'))
+          assert verification['record']=='029'
+          assert verification['status']=='assembled_unlistened'
+          manifest['records']['r029']={
+              'status':'published',
+              'src':verification['asset'],
+              'source_sha256':verification['source_sha256'],
+              'audio_sha256':verification['sha256'],
+              'duration_seconds':verification['duration_seconds'],
+              'routing_mode':verification['routing_mode'],
+              'listened':False,
+          }
+          manifest_path.write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          print(json.dumps(manifest['records']['r029'],indent=2))
+          PY
+      - name: Verify clean release contract
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -v
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          v=json.loads(Path('audio/production/record-029/verification-v2.json').read_text())
+          m=json.loads(Path('audio/manifest.json').read_text())['records']['r029']
+          assert m['status']=='published'
+          assert m['src']==v['asset']
+          assert m['source_sha256']==v['source_sha256']
+          assert m['audio_sha256']==v['sha256']
+          assert m['duration_seconds']==v['duration_seconds']
+          assert m['routing_mode']=='exact_quote_locked'
+          assert m['listened'] is False
+          print('Record 029 clean release verification passed')
+          PY
+      - name: Commit clean release
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            audio/assets/record-029-quote-locked-v2.mp3 \
+            audio/production/record-029 \
+            audio/routing/record-029.json \
+            audio/manifest.json
+          if git diff --cached --quiet; then
+            echo "No clean release changes"
+          else
+            git commit -m "Stage Record 029 audio release"
+            git push origin HEAD:audio/record-029-release
+          fi
