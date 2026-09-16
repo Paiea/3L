@@ -26,9 +26,10 @@ class SitePresentationTests(unittest.TestCase):
         self.assertIn("visual/3l2.webp", self.html)
         self.assertTrue((ROOT / "visual" / "3l2.webp").exists())
 
-    def test_controls_are_restrained_not_pill_heavy(self):
-        self.assertNotIn("border-radius:999px", self.html)
+    def test_hero_controls_are_restrained_not_pill_heavy(self):
         self.assertIn(".hero-actions a{", self.html)
+        self.assertIn("border-radius:6px", self.html)
+        self.assertNotIn(".hero-actions a{display:inline-flex;align-items:center;justify-content:center;min-height:2.85rem;padding:.62rem 1rem;border-radius:999px", self.html)
 
 
 if __name__ == "__main__":
