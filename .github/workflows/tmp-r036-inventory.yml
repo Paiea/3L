@@ -1,0 +1,59 @@
+name: Temporary Record 036 Quote Inventory
+
+on:
+  push:
+    branches: [audio/record-036-production]
+    paths:
+      - .github/workflows/tmp-r036-inventory.yml
+
+permissions:
+  contents: write
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-036-production
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build exact quote inventory
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import json
+          from collections import Counter, defaultdict
+          from pathlib import Path
+          from scripts.audio_route import manuscript_body, quoted_spans
+          source=Path('manuscript/records/036/current.md').read_text(encoding='utf-8')
+          body=manuscript_body(source)
+          spans=list(quoted_spans(body))
+          total=Counter(q for _,_,q in spans)
+          seen=defaultdict(int)
+          rows=[]
+          for i,(start,end,q) in enumerate(spans,1):
+              seen[q]+=1
+              rows.append({
+                'quote_index':i,
+                'text':q,
+                'occurrence':seen[q],
+                'total_occurrences':total[q],
+                'start':start,
+                'end':end,
+              })
+          out=Path('audio/production/record-036/quote-inventory.json')
+          out.parent.mkdir(parents=True,exist_ok=True)
+          out.write_text(json.dumps({'record':'036','quote_count':len(rows),'quotes':rows},indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          print(f'Wrote {len(rows)} quotes')
+          PY
+          python scripts/check_repo.py
+      - name: Commit quote inventory
+        run: |
+          set -euo pipefail
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio/production/record-036/quote-inventory.json
+          git commit -m 'Inventory Record 036 dialogue quotes'
+          git push origin HEAD:audio/record-036-production
