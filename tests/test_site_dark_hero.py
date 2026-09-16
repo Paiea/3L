@@ -3,6 +3,8 @@ import unittest
 
 
 class DarkHeroPresentationTests(unittest.TestCase):
+    """Presentation contract for the dark 3L landing hero."""
+
     @classmethod
     def setUpClass(cls):
         cls.html = Path("index.html").read_text(encoding="utf-8")
