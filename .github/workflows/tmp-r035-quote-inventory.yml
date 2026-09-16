@@ -1,0 +1,47 @@
+name: Temporary Record 035 Quote Inventory
+
+on:
+  push:
+    branches: [audio/record-035-production]
+    paths:
+      - .github/workflows/tmp-r035-quote-inventory.yml
+
+permissions:
+  contents: write
+
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: audio/record-035-production
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build exact quote inventory
+        run: |
+          python - <<'PY'
+          import json
+          from collections import defaultdict
+          from pathlib import Path
+          from scripts.audio_route import manuscript_body, quoted_spans
+          source=Path('manuscript/records/035/current.md').read_text(encoding='utf-8')
+          body=manuscript_body(source)
+          seen=defaultdict(int)
+          rows=[]
+          for i,(_,_,q) in enumerate(quoted_spans(body),1):
+              seen[q]+=1
+              rows.append({'quote_index':i,'text':q,'occurrence':seen[q]})
+          out=Path('audio/production/record-035')
+          out.mkdir(parents=True,exist_ok=True)
+          (out/'quote-inventory.json').write_text(json.dumps(rows,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          print(f'{len(rows)} quotes inventoried')
+          PY
+      - name: Commit inventory
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add audio/production/record-035/quote-inventory.json
+          git commit -m 'Inventory Record 035 exact quotes'
+          git push origin HEAD:audio/record-035-production
