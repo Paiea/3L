@@ -16,7 +16,9 @@ Read `PROJECT.json` first. It tells you which mode is active and the smallest co
 
 The current default mode is rehearsal/restoration beginning at Record 011. Follow `PROJECT.json.modes.rehearsal.read_first` before loading deeper files.
 
-Records 001–010 are the prose-quality reference. Records 011–079 are valid story material that may need restoration. Do not discard their events merely because their prose is thinner.
+Records 001–010 are the prose-quality reference. Records after 010 are valid story material whose individual prose state must be read from `manuscript/manifest.json`. Do not infer that every record after the rehearsal target has the same status. Later records may already be restored while an earlier unresolved gap keeps the contiguous rehearsal frontier lower.
+
+`PROJECT.json.frontiers.restored_through` is the highest contiguous seam-checked frontier from the beginning, not the numerically highest record marked `restored`. `rehearsal_target` is the first unresolved record to work next.
 
 ## Rehearsal behavior
 
