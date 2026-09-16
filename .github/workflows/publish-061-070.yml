@@ -1,0 +1,79 @@
+name: Publish Records 061-070 Clean Release
+
+on:
+  push:
+    branches:
+      - release/records-061-070
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Restore approved prose onto current main release branch
+        run: |
+          git fetch origin story/061-065-distributed-support:refs/remotes/origin/story/061-065-distributed-support
+          for n in $(seq -w 61 70); do
+            git show "origin/story/061-065-distributed-support:manuscript/records/${n}/current.md" > "manuscript/records/${n}/current.md"
+          done
+          git show "origin/story/061-065-distributed-support:brain/CURRENT.md" > brain/CURRENT.md
+
+      - name: Advance publication metadata and contract
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          manifest_path = Path('manuscript/manifest.json')
+          manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+          by_id = {r['id']: r for r in manifest['records']}
+
+          for i in range(61, 71):
+              slot = f'{i:03d}'
+              path = Path(f'manuscript/records/{slot}/current.md')
+              text = path.read_text(encoding='utf-8')
+              lines = text.splitlines()
+              titles = [line[3:].strip() for line in lines if line.startswith('## ') and not line.startswith('## RECORD ')]
+              if not titles:
+                  raise SystemExit(f'No title heading found for {slot}')
+              rec = by_id[f'r{slot}']
+              rec['title'] = titles[0]
+              rec['story_status'] = 'valid'
+              rec['prose_status'] = 'restored'
+              rec['published'] = True
+              rec['word_count'] = len(re.findall(r'\S+', text))
+
+          manifest_path.write_text(json.dumps(manifest, separators=(',', ':')) + '\n', encoding='utf-8')
+
+          test_path = Path('tests/test_repo_contract.py')
+          test = test_path.read_text(encoding='utf-8')
+          old_a = 'self.assertTrue(all(r["published"] for r in records[:60]))'
+          old_b = 'self.assertTrue(all(not r["published"] for r in records[60:]))'
+          if old_a not in test or old_b not in test:
+              raise SystemExit('Publication contract did not match expected 060 frontier')
+          test = test.replace(old_a, 'self.assertTrue(all(r["published"] for r in records[:70]))')
+          test = test.replace(old_b, 'self.assertTrue(all(not r["published"] for r in records[70:]))')
+          test_path.write_text(test, encoding='utf-8')
+          PY
+
+      - name: Verify release
+        run: |
+          python scripts/check_repo.py
+          python -m unittest discover -s tests -p 'test_*.py'
+
+      - name: Commit clean release payload
+        run: |
+          rm .github/workflows/publish-061-070.yml
+          git config user.name "Paiea"
+          git config user.email "paiea.tv@gmail.com"
+          git add brain/CURRENT.md manuscript/manifest.json manuscript/records/061/current.md manuscript/records/062/current.md manuscript/records/063/current.md manuscript/records/064/current.md manuscript/records/065/current.md manuscript/records/066/current.md manuscript/records/067/current.md manuscript/records/068/current.md manuscript/records/069/current.md manuscript/records/070/current.md tests/test_repo_contract.py .github/workflows/publish-061-070.yml
+          git commit -m "publish: records 061-070"
+          git push origin HEAD:release/records-061-070
