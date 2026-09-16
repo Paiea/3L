@@ -1,525 +1,781 @@
 ## RECORD 059
 
-## THE LOSER
+## THE OPEN SIDE
 
-The contract that hurt us most paid exactly on time.
-
-That was rude.
-
-No collection problem.
-
-No dishonest client.
-
-No bureaucratic delay.
-
-We lost money because I told a reasonable person the wrong price and signed my name underneath it.
-
-The job was a boarding school outside Hillcross.
-
-Three dormitories.
-
-One kitchen.
-
-One washhouse.
-
-Old central heat plant connected through newer branch work installed over forty years by people who apparently believed future mechanics enjoyed puzzles.
-
-The school wanted summer replacement of two failing pressure regulators and balancing across the dormitory loops.
-
-Straightforward.
-
-I walked the site.
-
-Lorn walked it.
-
-Rin took measurements.
-
-Plans existed.
-
-Recent ones.
-
-Luxury.
-
-We estimated twelve working days.
-
-Materials thirty-eight silver.
-
-Labor forty-two.
-
-Outside fabrication eight.
-
-Contingency ten.
-
-Profit fifteen if nothing became interesting.
-
-Total one hundred thirteen.
-
-The school bursar negotiated us to one hundred eight.
-
-I accepted.
-
-Lorn looked at me afterward.
-
-“Why?”
-
-“Good client.”
-
-“New client.”
-
-“Good institution.”
-
-“You don't know them.”
-
-“Schools pay.”
-
-“That is not pricing.”
-
-Everyone had stolen that sentence.
-
-I still signed.
-
-Day one went well.
-
-Dangerous.
-
-Day two we opened the north dormitory branch wall and found the modern line did not continue where the plan said.
-
-It dropped.
-
-Straight down into older masonry.
-
-Rin looked at me.
-
-“No.”
-
-“I haven't said anything.”
-
-“You have the old-Line face.”
-
-Apparently she learned too.
-
-We traced.
-
-The branch passed through a buried service trench not on current drawings.
-
-Not ancient.
-
-Maybe eighty years.
-
-Still old enough to hate us.
-
-One regulator fed two dormitories through a cross-connection nobody had included in load calculations.
-
-That made our replacement design wrong.
-
-Not unsafe.
-
-Incomplete.
-
-We could have installed as specified.
-
-The system would probably work badly every winter and somebody else would curse us later.
-
-I disliked future curses.
-
-We redesigned.
-
-Three extra days.
-
-More pipe.
-
-Two additional valves.
-
-Contingency consumed.
-
-Still survivable.
-
-Then the washhouse branch failed pressure test.
-
-Not our work.
-
-Existing line.
-
-Pinholes along a seam hidden in a chase.
-
-The school could have hired someone else.
-
-Except the plant was already isolated.
-
-Students returned in three weeks.
-
-Our crew was there.
-
-The bursar asked for price.
-
-I gave materials plus two days labor.
+The first time Jessa noticed my aura disappear, she thought I had been hit.
 
 Reasonable.
 
-Then the seam continued farther than expected.
+We were halfway through Red Basin.
 
-Four days.
+Third month.
 
-Then the kitchen branch isolation valve cracked when reopened.
+Cold mornings by then.
 
-Old casting.
+Iron water freezing orange along the ditch edges.
 
-No fault.
+The party had become good enough together that dangerous work sometimes looked boring from far away.
 
-Still our schedule.
+That is when people should worry.
 
-Replacement unavailable locally.
+We were clearing an abandoned weigh station where burrowers had taken the lower storage rooms.
 
-Our parts network found one in Bellwater.
+Burrowers were worse than crawlers in one important respect.
 
-Cart fee.
+They had tails.
 
-Rush handling.
+Evolution had apparently looked at teeth and wanted a second opinion.
 
-Hema modified flange pattern.
+Aren and Noll were inside the main room.
 
-More money.
+Sella held the stair mouth.
 
-Day twelve became day nineteen.
+Jessa stood outside because the ceiling did not deserve her full casting indoors.
 
-Then twenty-three.
+I moved between.
 
-Employees paid.
+One burrower hit Sella.
 
-Outside trades paid.
+Normal.
 
-The school approved each written change except one.
+I reinforced her rear leg.
 
-The buried cross-connection redesign.
+Release.
 
-Bursar argued it belonged inside original scope because we had contracted balancing, not simply component replacement.
+Noll spent hard driving another away from Aren's flank.
 
-I reread the contract.
+Aren had reserve.
 
-He had a point.
+Two fingers.
 
-Bad wording.
+I dropped my aura.
 
-Mine.
+Draw.
 
-Lorn said we should dispute.
+Jessa shouted, "Greg!"
 
-Minae said maybe.
+I flinched.
 
-Guild contract reviewer said we had a plausible claim but not a clean one.
+Bad during Draw.
 
-The value was nineteen silver.
+The connection smeared.
 
-The dispute would cost time and maybe relationship.
+Foreign flow caught against my own channel edge.
 
-We absorbed it.
+I released immediately.
 
-Then I made the worse mistake.
+Nothing dangerous.
 
-I decided I would absorb it personally.
+Painful enough.
 
-Not partnership.
+Aren killed the animal in front of him.
 
-Me.
+Sella looked over.
 
-I wrote the final job loss against my partner draw and capital share.
+"What happened?"
 
-Lorn saw it before I told him.
+"Jessa loved me loudly."
 
-Of course.
+"Your aura vanished," Jessa said.
 
-“What is this?”
+"Yes."
 
-“My pricing error.”
+"Why?"
 
-“Our contract.”
+I stared at her.
 
-“I wrote it.”
+We had worked together for ten weeks.
 
-“We both signed.”
+Apparently I had never explained that part cleanly.
 
-“I set the number.”
+Bad support.
 
-“I agreed.”
+"Draw routes cleaner without personal reinforcement running."
 
-“You objected.”
+Jessa blinked.
 
-“I object to most prices.”
+"How much cleaner?"
 
-“You were right.”
+"Enough."
 
-“That does not make the partnership retroactively yours.”
+"And you turn it off in live work?"
 
-I hated the sentence.
+"Briefly."
 
-“It was my mistake.”
+"How briefly?"
 
-“Yes.”
+A burrower screamed from the lower room.
 
-“So I carry it.”
+Aren said, "Maybe after?"
 
-“No.”
+Correct.
 
-“Why?”
+We finished first.
 
-Lorn leaned on the bench.
+At camp Jessa made me demonstrate.
 
-“Because if you get all the blame, you also get all the authority.”
+Not Draw.
 
-That stopped me.
+Aura.
 
-He continued.
+Full reinforcement first.
 
-“If losses become Greg's when Greg made the estimate, then estimates become Greg's decision. Then why am I partner?”
+Skin pressure changed.
 
-“That is not what I mean.”
+Joints slightly held.
 
-“Meaning is not accounting.”
+Impact distributed.
 
-Nessa had infected him deeply.
+Nothing dramatic.
 
-“We agreed good-faith errors belong to partnership,” he said.
+The constant little protection almost every field professional used because rocks, blades, falls, and accidents remained rude.
 
-“Yes.”
+Then off.
 
-“This was a good-faith error.”
+Cold arrived first.
 
-“Yes.”
+Wind through shirt.
 
-“Then stop trying to buy control with pain.”
+Boot seam against heel.
 
-That one landed badly.
+A bruise on my thigh from three days earlier became specific.
 
-Because he was right.
+Jessa flicked one finger against my shoulder.
 
-Again.
+"Ow."
 
-My instinct to personally carry consequences looked noble from inside.
+"That hurt?"
 
-Sometimes.
+"More."
 
-It also preserved a world where my decisions remained uniquely mine.
+"And you do this around things with tails."
 
-I could be martyr and owner at once.
+"Only during the pull."
 
-Efficient.
+Aren was cleaning his spear nearby.
 
-Unhealthy.
+"He also runs during it sometimes."
 
-We moved the loss back to partnership.
+Jessa looked at me.
 
-By share.
+"Why do I work with you?"
 
-Seventy-two percent mine.
+"You requested it."
 
-Twenty-eight Lorn.
+"Past Jessa was stupid."
 
-Still hurt.
+Sella said, "Current Jessa isn't making a strong case either."
 
-More honestly.
+Good camp.
 
-The final numbers were ugly.
+The technical problem was older than the party.
 
-Revenue one hundred thirty-seven after approved changes.
+Personal aura wanted mana to remain me-shaped.
 
-Actual cost one hundred sixty-three.
+Stable.
 
-Twenty-six silver loss.
+Local.
 
-Nearly three months of retained profit.
+Protective.
 
-Not bankruptcy.
+Draw wanted foreign flow to enter, cross, and leave without being interpreted as injury or captured by the reinforcement loop.
 
-Not close.
+I could do both at once.
 
-Enough to cancel equipment purchases and freeze partner draws for two months.
+Badly.
 
-Our payroll reserve survived.
+I had spent years getting from impossible to merely expensive.
 
-That mattered more than my pride.
+The cleanest route still happened when I opened myself.
 
-Household money also survived because Nessa's income remained steady.
+Not metaphorically.
 
-That mattered too.
+Unfortunately.
 
-I disliked it.
+Jessa asked, "Why not just accept the loss?"
 
-There it was.
+"Sometimes I do."
 
-Not her success.
+"No. Why keep trying to make the cleaner route usable if the price is being naked in combat?"
 
-Not earning less.
+"I'm wearing trousers."
 
-The fact that my professional mistake could land against shared life and her stable career would keep rent boring.
+She stared.
 
-I wanted to be grateful.
+"Metaphorically."
 
-I was.
+"Still wearing those too."
 
-Also ashamed.
+Aren said, "Answer her."
 
-Nessa noticed because apparently shame had a face too.
+I thought.
 
-“We are fine,” she said.
+"Because at small scale, the loss is annoying. At larger scale, it becomes the whole problem."
 
-“I know.”
+Sella looked up.
 
-“You say it like an accusation.”
+"Larger how?"
 
-“I lost twenty-six silver.”
+"More transfers. More switching. Longer operation. Stronger people. If every exchange loses half, then the method only works when we don't need it much."
 
-“The shop did.”
+Noll nodded.
 
-“Yes.”
+Of course he did.
 
-“You still have payroll reserve.”
+He understood boring arithmetic.
 
-“Yes.”
+I continued.
 
-“House reserve.”
+"And aura costs attention even when nothing hits me."
 
-“Yes.”
+Jessa's expression changed.
 
-“Work booked next month.”
+"There it is."
 
-“Yes.”
+"What?"
 
-“Then what is the emergency?”
+"You don't only want cleaner Draw."
 
-“No emergency.”
+I stopped.
 
-“Good.”
+She was right.
 
-I hated that calm.
+I had been treating the two problems separately because professional doctrine treated them separately.
 
-“You don't care?”
+Self-protection requirement.
 
-Nessa looked offended.
+External support requirement.
 
-“I care. I just don't need your mistake to threaten our home before I'm allowed to take it seriously.”
+Maintain yourself so you can maintain others.
 
-There it was.
+Correct.
 
-I had unconsciously wanted consequence to prove importance.
+But my control had become crowded.
 
-If the loss hurt only business savings, maybe I had not paid enough.
+Personal aura humming all the time.
 
-First-life logic again.
+Barrier acquisition.
 
-Pain as evidence.
+Release.
 
-Bad habit.
+Draw.
 
-Nessa opened the household ledger.
+Foreign flow.
 
-“Rent is covered.”
+Position.
 
-“Yes.”
+Four people.
 
-“Parents.”
+Terrain.
 
-“Covered.”
+The stronger the party became, the more expensive my own constant reinforcement felt.
 
-“Food.”
+Not mana-expensive.
 
-“Yes.”
+Attention-expensive.
 
-“Future children you have theoretically agreed to but not produced tonight?”
+"I don't know yet," I said.
 
-I looked at her.
+Jessa smiled.
 
-“Why is that a line?”
+"Good."
 
-“It isn't.”
+Aren said, "He likes that answer too much."
 
-“Good.”
+"Because it's usually expensive later."
 
-“Yet.”
+Correct.
 
-Cruel woman.
+We tested the open interval in camp.
 
-She closed the book.
+Not heroically.
 
-“The shop lost money. Learn from shop.”
+Timing glass.
 
-Not family.
+One second aura down while standing.
 
-Not body.
+Then walking.
 
-Not identity.
+Then with a tiny Draw from Noll.
 
-Shop.
+Then turning.
 
-Useful boundary.
+Then Barrier immediately after.
 
-We did the postmortem properly.
+Jessa threw pebbles at me.
 
-Not whose fault.
+This was not in the training plan.
 
-Where estimate failed.
+It became part of the training plan.
 
-Hidden-path risk underweighted.
+"Stop."
 
-Fixed-price balancing scope too broad.
+"You said surprise impact."
 
-Change-order language unclear around undocumented existing systems.
+"Not face."
 
-Schedule contingency too small for institutional sites with hard reopening dates.
+"Your face is impact-capable."
 
-Material rush costs not passed through cleanly.
+Aren approved.
 
-We changed estimates.
+I began counting what happened during the open interval.
 
-Legacy uncertainty allowance became explicit.
+Balance worse.
 
-Exploratory opening before fixed-price commitment on older sites when practical.
+Footing information better but less forgiving.
 
-Undocumented cross-connections treated as changed condition.
+Cold distracting.
 
-School reopening deadlines priced for overtime risk.
+Minor impacts much louder to the body.
 
-Clients complained new bids were higher.
+Draw cleaner.
+
+Release cleaner.
+
+Reacquisition faster because I was not peeling foreign flow through an active reinforcement loop.
+
+Then aura back.
+
+The flick itself had cost.
+
+Not much.
+
+Repeated fifty times, more.
+
+Everything charged rent eventually.
+
+Sella asked the important question.
+
+"What do you need from us while you're open?"
+
+I almost answered nothing.
+
+Old reflex.
+
+Support protects itself so nobody else has to.
+
+Then White Stair came back to me.
+
+Why only one direction?
+
+"Space," I said.
+
+"How much?"
+
+"Depends."
+
+Everyone groaned.
+
+"Half step," I said. "Usually. If I'm moving, maybe one. I need nobody making me change direction during the pull. And if I get hit, assume Draw is gone. Don't try to save the transfer."
+
+"Good," Sella said.
+
+"Why good?"
+
+"Because now I know what failure looks like."
+
+That sentence mattered.
+
+We trained it.
+
+Sella started treating my open interval like a small moving gap in the formation.
+
+Not protecting me continuously.
+
+Only when it mattered.
+
+Noll learned to delay crossing behind me until aura returned.
+
+Aren adjusted one spear recovery so his retreat line closed my exposed side for less than a second.
+
+Jessa hated all of this conceptually and became excellent at it operationally.
+
+She began calling "open" when she saw my aura drop.
+
+Not warning me.
+
+Warning everyone else.
+
+The first live use went clean.
+
+Two fingers from Noll.
+
+Aura down.
+
+"Open."
+
+Sella shifted half a step.
+
+Draw.
+
+Barrier to Aren.
+
+Release.
+
+Aura up.
+
+"Closed."
+
+Maybe one and a half seconds.
+
+Nobody celebrated.
 
 Good.
 
-Some hired cheaper firms.
+Second use clean.
 
-Also good.
+Third clean.
 
-We were not supposed to win every job.
+Fourth taught the price.
 
-That lesson took twenty-six silver.
+We were escorting surveyors across an old ore bridge.
 
-Could have been worse.
+Not a bridge over water.
 
-The boarding school hired us again two years later.
+A timber deck across a cut where carts had once moved between shelves.
 
-Smaller job.
+Thirty feet down.
 
-I priced it higher than felt polite.
+Rotten side rails.
 
-The same bursar read the estimate.
+Wind.
 
-“You learned.”
+Of course animals came then.
 
-“Yes.”
+Three ridge scavengers from the far shelf.
 
-“So did we.”
+Long-bodied things with hooked forelimbs and enough sense to wait until people were strung across bad footing.
 
-He approved it.
+Sella was ahead with two surveyors.
 
-The job made money.
+Aren center.
 
-Nothing interesting happened.
+Jessa behind me.
 
-Beautiful.
+Noll at the rear.
 
-I kept the original loss sheet.
+First scavenger hit Aren.
 
-Not as punishment.
+He did not need me.
 
-Evidence.
+Second tried around him toward Sella.
 
-Of what?
+Barrier at the rail gap.
 
-That a business can survive being wrong if the people inside it are not required to pretend one man's suffering is the safety system.
+It checked.
+
+Sella turned and caught it.
+
+Third came from below.
+
+I heard claws on timber before I saw it.
+
+Noll spent hard knocking it off the underside.
+
+His reserve dropped.
+
+Aren finished the first.
+
+Two fingers.
+
+Good window.
+
+Sella was spending steadily now.
+
+I dropped aura.
+
+"Open," Jessa called.
+
+Draw from Aren.
+
+The bridge kicked.
+
+Not magic.
+
+Noll landed badly after the underside strike.
+
+One plank cracked.
+
+Everyone shifted instinctively.
+
+Including me.
+
+Exactly what we had trained not to do.
+
+My right foot slid.
+
+The third scavenger came back over the rail.
+
+Its hooked forelimb caught my upper arm.
+
+With aura, probably bruise.
+
+Without it, claws entered.
+
+Not deep.
+
+Deep enough.
+
+Pain erased the Draw route.
+
+I released.
+
+Foreign flow dumped badly.
+
+My Barrier to Sella never formed.
+
+Good.
+
+Because trying to save it would have been worse.
+
+"Closed!" I shouted.
+
+Aura up.
+
+Late.
+
+The reinforcement hit around an already-open wound and nearly made me vomit.
+
+Aren turned.
+
+That was the dangerous part.
+
+He saw blood.
+
+His body wanted to come back for me.
+
+Old party logic.
+
+Protect support.
+
+Instead Sella shouted, "Stay!"
+
+Aren stayed.
+
+Noll stepped into my open side.
+
+Not heroic.
+
+Exactly where he had trained to be if my route failed.
+
+Jessa put one pressure lance through the scavenger climbing the rail.
+
+Too much force.
+
+The body left the bridge.
+
+Part of the rail followed.
+
+"Road," Hollen's observer yelled from the far side.
+
+"Rail," Jessa corrected.
+
+Not important.
+
+Sella crossed the last surveyor.
+
+Aren backed out.
+
+Noll kept me moving.
+
+We reached stone.
+
+Then my arm started bleeding properly.
+
+Jessa looked at it.
+
+"Naked."
+
+"Still trousers."
+
+"I hate you."
+
+Healer at the survey camp gave me eight stitches.
+
+No tendon damage.
+
+No serious channel injury.
+
+Three days without hard casting because the aura around the wound pulled badly if I over-reinforced.
+
+Embarrassing.
+
+Useful.
+
+Hollen wanted the open-aura practice suspended.
+
+Fair.
+
+The party argued with him.
+
+That surprised me.
+
+Not because they wanted risk.
+
+Because they did not think the failure proved the entire method wrong.
+
+Sella went first.
+
+"We trained the failure. It failed the way we trained."
+
+Hollen pointed at my arm.
+
+"He got cut."
+
+"Yes."
+
+"That is usually bad."
+
+"Also yes."
+
+Noll said, "If he had tried to preserve the transfer, Sella would have received late support and Greg might have held foreign flow during impact. He released immediately."
+
+Jessa said, "I was loud."
+
+Everyone looked at her.
+
+"What?"
+
+"I mean the call worked."
+
+Aren stayed quiet longest.
+
+Then said, "The open interval is a weakness."
+
+Hollen nodded.
+
+"Finally."
+
+Aren continued.
+
+"So is Jessa recovering after a full lance. So is Sella rotating off a sustained hold. So am I after a deep second commitment. We already build around weaknesses. This one is just his."
+
+Nobody said anything for a moment.
+
+I did not like hearing myself discussed as terrain.
+
+Then remembered White Stair.
+
+Fair.
+
+Hollen looked at me.
+
+"You agree?"
+
+"Yes."
+
+"You like being stabbed?"
+
+"No."
+
+"Good."
+
+We changed the rule.
+
+No open-aura Draw on unstable footing unless the party specifically called the window.
+
+Not me alone.
+
+That mattered.
+
+I could identify reserve.
+
+I could not always identify whether the formation could afford my vulnerability.
+
+So the group gained a second consent.
+
+Not only source consent.
+
+Formation consent.
+
+Jessa's call changed too.
+
+"Open" became a question if conditions were bad.
+
+"Open?"
+
+If Sella or Aren said no, aura stayed up.
+
+No debate.
+
+No cleverness.
+
+The next week we used the open interval less.
+
+Efficiency dropped.
+
+Injury count remained zero.
+
+Good trade.
+
+Then we got better.
+
+Aren began shaping movement to create windows instead of merely covering them.
+
+Noll learned to offer reserve only when my footing was already settled.
+
+Sella sometimes moved one step early so I could open behind her shield transition.
+
+Jessa started holding one low-cost pressure screen for exactly the second I was unreinforced.
+
+Not because support had become fragile.
+
+Because the party had decided one second of her attention could buy several seconds of mine elsewhere.
+
+That was the reversal again.
+
+Only deeper.
+
+They were spending resources on the support.
+
+Not as charity.
+
+As allocation.
+
+Near the end of Red Basin we cleared a long extraction cut with two simultaneous hazard lines.
+
+Aren and Sella forward.
+
+Noll right.
+
+Jessa elevated on the old cart shelf.
+
+Me moving between all four.
+
+I opened five times in twelve minutes.
+
+Five.
+
+Not constant.
+
+Never on bad footing.
+
+Never without a clear closure route.
+
+No transfer larger than necessary.
+
+No one got hurt.
+
+The observer's report said:
+
+VANE'S SELF-AURA IS INTERMITTENT DURING SPECIALTY OPERATION. PARTY COMPENSATES DELIBERATELY.
+
+Then beneath it:
+
+THIS APPEARS UNSAFE UNDER STANDARD FORMATION ASSUMPTIONS.
+
+Correct.
+
+And beneath that:
+
+STANDARD FORMATION ASSUMPTIONS DO NOT FULLY DESCRIBE THIS PARTY.
+
+I read that one twice.
+
+Not because it praised me.
+
+Because it included them.
+
+For years I had been trying to become a support capable of carrying more people.
+
+Red Basin was the first time I understood the people might eventually have to carry parts of the support too.
