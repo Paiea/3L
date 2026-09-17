@@ -1,599 +1,649 @@
 ## RECORD 074
 
-## THE DISSENTER
+## THE ANCHOR
 
-Tomas corrected me in front of thirty-seven people.
+Nhal did not ask us to free her.
 
-He was right.
+That bothered everyone differently.
 
-I considered firing him anyway.
+Pava became quieter.
 
-Briefly.
+Mael became more exact.
 
-Professionally.
+Arcrutus stopped making jokes for almost six minutes.
 
-Mostly.
+I started asking questions.
 
-The argument was about isolation order.
+This surprised nobody.
 
-That sounds small.
+“How long?” I asked.
 
-Small things are where procedures hide teeth.
+Nhal’s eyes shifted toward me.
 
-We were running a regional training day at South Fen.
+“Long.”
 
-Operators.
+“Useful.”
 
-Contractors.
+“You asked an imprecise question.”
 
-District mechanics.
+Fair.
 
-Two licensing officers.
+“How long have you been attached to this structure?”
 
-One engineer who took notes whenever people swore, which kept her busy.
+“Longer than your current nations.”
 
-I was teaching the legacy-entry sequence we had refined over years.
+The surveyor inhaled sharply.
 
-For old pressure galleries with uncertain cross-connections, our standard was:
+Nhal looked toward her.
 
-reduce active load,
-
-close local branch,
-
-verify downstream zero,
-
-then test for backfeed before opening access.
-
-Reasonable.
-
-Had worked.
-
-Had prevented injuries.
-
-I liked it.
-
-That should have warned me.
-
-Tomas raised his hand.
-
-He no longer needed to.
-
-Habit.
-
-“Yes?”
-
-“Order is wrong for shared returns.”
-
-Thirty-seven people became quieter.
-
-Not silent.
-
-The engineer’s pencil moved.
-
-I said, “No.”
-
-Excellent opening.
-
-Tomas did not sit down.
-
-“At Bellwater Three, if you close local branch before checking return balance, you can trap pressure between the branch check and shared return.”
-
-“Only if the return valve leaks.”
+“Still imprecise?” I asked.
 
 “Yes.”
 
-“That is why we test backfeed.”
-
-“After closure.”
-
-“Yes.”
-
-“That is the problem.”
-
-I hated him.
-
-Not actually.
-
-A little.
-
-“Show me.”
-
-Good sentence.
-
-Better late.
-
-He had brought records.
-
-Of course.
-
-My fault.
-
-Three Bellwater jobs.
-
-Two South Fen.
-
-One municipal wash plant.
-
-Six cases where shared-return pressure rose after local branch closure because the closure changed flow balance upstream.
-
-In four, rise was small.
-
-In two, enough that downstream-zero verification passed before pressure reappeared from the return side.
-
-No injuries.
-
-One near miss.
-
-Hali’s handwriting on that report.
-
-Of course.
-
-Tomas pinned the pressure traces to the board.
-
-“We are creating the condition before we test for it.”
-
-There it was.
-
-Not theoretical disagreement.
-
-Mechanism.
-
-Current evidence.
-
-My own training method standing in front of me wearing a younger man’s face.
-
-I looked at the traces.
-
-Then again.
-
-The room waited.
-
-Thirty-seven people is enough to make pride feel public.
-
-Bad teachers defend themselves because everyone is watching.
-
-Good teachers become good slightly later than is comfortable.
-
-“How often?” I asked.
-
-“Six observed in eighteen shared-return sites.”
-
-“Same valve family?”
-
-“Four. Two different.”
-
-“Only old systems?”
+“Can you give us years?”
 
 “No.”
 
-“Load range?”
+“Do you not know?”
 
-He had that too.
+“I know. Your year is not the unit I used.”
 
-Asshole.
+Also fair.
 
-I looked at the standard written behind me.
+I disliked ancient beings immediately.
 
-Reduce active load.
+Arcrutus smiled.
 
-Close local branch.
+“You like her.”
 
-Verify downstream zero.
+“Shut up.”
 
-Test backfeed.
+Nhal’s tail shifted beneath one black band.
 
-I had taught it for four years.
+Metal complained.
 
-Copied into seven districts by then.
+“Does he obey you often?” she asked.
 
-There is a particular kind of fear that comes when your mistake has distribution.
+“No.”
 
-Personal errors are intimate.
+“Then perhaps conserve effort.”
 
-Standards travel.
+I liked her more.
 
-“Proposed order?” I asked.
+Mael took control before the expedition became social.
 
-Tomas stood.
+“We need to understand the structure.”
 
-“Reduce load. Measure return pressure before closure. If shared return exists or is uncertain, isolate or monitor return before branch closure. Then close branch. Verify both sides. Then access.”
+Nhal looked at him.
 
-The engineer asked, “Does that increase shutdown time?”
+“You need to leave.”
 
-“Yes.”
+“Probably.”
 
-“How much?”
+That answer interested her.
 
-“Usually ten minutes.”
+He continued.
 
-Someone in the back said, “Usually.”
+“We also need to know whether leaving without action creates immediate danger.”
 
-Tomas nodded.
+“No.”
 
-“Could be longer if return isolation is remote.”
+“Danger on what horizon?”
 
-A municipal operator said, “That can add an hour.”
+“Better.”
 
-“Yes.”
+Mael waited.
 
-“Then your method costs service.”
+Nhal’s head lowered onto one forelimb.
 
-“Yes.”
+The movement shifted three load bands.
 
-Good.
+Black lines throughout the pit responded.
 
-No pretending.
+Pressure went somewhere below.
 
-I asked, “Evidence of actual pressure harm under current method?”
+I felt it.
 
-Tomas pointed to Hali’s report.
+Faint.
 
-Near miss.
+Huge.
 
-Worker opened an access plate after downstream zero.
+“Your lives?” she said. “Probably not.”
 
-Return pressure rebuilt six percent before the first bolt came free.
+The healer asked, “Probably?”
 
-Hali caught gauge movement.
+Nhal closed her eyes.
 
-Stopped.
+“Nothing carrying this much is certain.”
 
-No injury.
+There.
 
-Six percent would not have killed anyone.
+A sentence I trusted.
 
-Could have burned hands.
+We spent the next three hours proving that captivity can be an engineering condition.
 
-Thrown the plate.
+Not because captivity stopped mattering.
 
-Enough.
+Because it mattered enough not to make it worse.
 
-I looked at Hali.
+The black bands across Nhal’s shoulders and hips were not simple restraints.
 
-Second row.
+Each accepted load from a different bundle of lines.
 
-“You knew about this?”
+Some pressure came from above.
 
-“Yes.”
+Rooms.
 
-“Why did I not?”
+Passages.
 
-“Report filed.”
+Old human repairs.
 
-That hurt.
+Some came laterally from outside the mapped complex.
 
-My archive.
+Far outside, according to Pava.
 
-My system.
+Some came from below.
 
-I had not read every report anymore because there were too many.
+That was the problem.
 
-Once, knowing everything had been my job.
+We could not map below.
 
-Then I built enough people and systems that knowing everything became impossible.
+Pava stood at the gallery railing with her rod resting horizontally across both palms.
 
-I had asked for leverage and received blindness as part of the package.
+No contact.
 
-Tomas said, “I was reviewing shared-return incidents for training notes.”
+Passive only.
 
-Of course he was.
+“Lower load changes slower,” she said.
 
-“Any evidence your proposed order creates different hazards?”
+“How much slower?” Mael asked.
 
-“Not enough data.”
+“Hours maybe.”
 
-Excellent answer.
+“Source?”
 
-I turned to the room.
+“Unknown.”
 
-“Current standard suspended for shared or uncertain returns.”
+“Magnitude?”
 
-The licensing officer said, “You can do that?”
+She laughed once.
 
-“No idea.”
+Not happy.
 
-She stared.
+“Large.”
 
-I corrected.
+Arcrutus leaned against the wall.
 
-“I am suspending my instruction. Districts can decide formal authority.”
+“Technical term.”
 
-Better.
+Pava ignored him.
 
-The engineer was still writing.
+“Larger than the complex.”
 
-I pointed at Tomas.
+The surveyor said, “How?”
 
-“Until review, use his sequence where site authority permits.”
+Pava looked at me.
 
-Tomas looked surprised.
+I hated when people did that.
 
-Good.
+“Maybe the complex is a valve,” I said.
 
-He should be.
+“Maybe,” Mael repeated.
 
-I was surprised too.
+“Yes. Maybe.”
 
-The rest of the training day became less about legacy entry and more about what happens when a standard is wrong.
+Nhal opened one eye.
 
-Useful day.
+“Closer.”
 
-Uncomfortable.
+Everyone looked at her.
 
-Very useful.
+She did not elaborate.
 
-Afterward Tomas found me packing diagrams.
+Ancient beings enjoy leverage too.
 
-“You’re angry.”
+I said, “Not a valve.”
 
-“Yes.”
+Nhal waited.
 
-“At me?”
+“A boundary.”
+
+Her eye focused on me.
+
+“Everything is a boundary if you become tedious enough.”
+
+Arcrutus laughed.
+
+I pointed at him without looking.
+
+“Do not encourage her.”
+
+“Too late.”
+
+I tried again.
+
+“The system is deciding what crosses.”
+
+Nhal’s expression changed.
+
+Small.
+
+There.
+
+“Load comes in through different routes. It does not simply rest on you. It crosses through the restraint network, through your body or around it, then leaves somewhere else.”
 
 “Some.”
 
-He laughed.
-
-I appreciated that less than he did.
-
-“Why?”
-
-“Because you were right in public.”
-
-“That is childish.”
+“Some stays.”
 
 “Yes.”
 
-He waited.
+“For how long?”
 
-“And?”
+“Varies.”
 
-“And because the report existed and I missed it.”
+“What determines release?”
 
-“That is not your job anymore.”
+Nhal looked down.
 
-I stopped packing.
+Not at the bands.
 
-“What?”
+At herself.
 
-“You built the archive so other people could read it too.”
+“I do.”
 
-There it was.
+Silence.
 
-A correction inside the correction.
+Pava lowered the rod.
 
-I had spent years trying to make knowledge survive my absence.
+Mael said, “Voluntarily?”
 
-Then felt guilty when knowledge improved without passing through me.
+Nhal looked back up.
 
-Stupid.
+“Do you voluntarily balance while standing?”
 
-Understandable.
+Nobody answered.
 
-Still stupid.
+“Do you voluntarily keep your heart moving?”
 
-“Who else reviewed the cases?”
+The healer said, “Not consciously.”
 
-“Hali. Mira at district. Two operators from Bellwater.”
+“Yet if it stops?”
 
-“Good.”
+“We die.”
 
-“I was going to send you the memo next week.”
+Nhal’s eyes returned to Mael.
 
-“Why next week?”
+“Your word voluntary is too small.”
 
-“I wanted the training traces first.”
+That changed the room.
 
-“Reasonable.”
+She was not merely chained into a machine.
 
-He hesitated.
+The machine had been integrated into her deeply enough that carrying it had become function.
 
-“Should I have told you before today?”
+Habit.
 
-Important question.
+Body.
 
-Not because of respect.
+Maybe survival.
 
-Because public correction can become theater.
+Maybe all three.
 
-“Did you know I was teaching the old order today?”
+I thought about support channels trained over decades.
 
-“Yes.”
+Routes practiced until the body stopped asking permission.
 
-“Then yes.”
+I thought about my own Draw architecture.
 
-He nodded.
+How repeated direction becomes structure.
 
-“Why?”
+“Can you leave?” I asked.
 
-“So we could change the material before thirty-seven people copied it again.”
+“No.”
 
-“Fair.”
+“If the bands were removed?”
 
-“Do not surprise people for effect.”
+Nhal’s tail moved once.
 
-“I wasn’t.”
+“Possibly.”
 
-“I know.”
+“Would the system remain stable?”
 
-That mattered.
+“No.”
 
-He had raised the objection because the standard was dangerous, not because correcting Greg Vale in public felt good.
+That was clean enough.
 
-Probably.
+The surveyor sat down.
 
-I allowed myself some ego protection.
+Nobody judged her.
 
-The regional review took three weeks.
+Mael said, “What fails?”
 
-Three weeks of meetings meant three weeks of calendar negotiations at home too.
+“Unknown.”
 
-That part never appeared in the revision history.
+“You do not know?”
 
-Nessa had winter scheduling.
+“I know what reaches me. I do not know every thing attached beyond it.”
 
-I had two review evenings.
+There it was again.
 
-The twins had no interest in institutional reform and continued needing dinner at exactly the wrong times.
+Distributed ignorance.
 
-The second review ran late.
+Even the prisoner did not have the whole diagram.
 
-I came home to find Nessa asleep on the couch with our daughter curled against her side and our son sprawled on the rug surrounded by wooden blocks.
+“Can the load be transferred?” Pava asked.
 
-One block rested on his forehead.
+Nhal looked at her wrapped forearm.
 
-No known mechanism.
+Then at the rod.
 
-I stood there holding a folder full of pressure traces and felt, very suddenly, like an asshole.
-
-Not because the meeting had been unnecessary.
-
-It had not.
-
-Because I had said yes to the time before checking what the time belonged to.
-
-Those were different failures.
-
-The next morning Nessa found me making breakfast.
-
-“You’re guilty.”
+“You ask because you move pressure.”
 
 “Yes.”
 
-“Stop.”
+“You move little pressure.”
 
-“I missed bedtime twice.”
+Pava’s face went blank.
 
-“You also prevented people from opening hot return lines.”
+Arcrutus turned away.
 
-“Still.”
+Coward.
 
-“Then next week I have two late nights and you get bedtime.”
+One of the Seven had just been called little.
 
-There it was.
+I bit the inside of my cheek.
 
-No moral accounting.
+Pava said, very carefully, “Relative to what?”
 
-Scheduling.
+Nhal’s gaze moved downward.
+
+Good answer.
+
+Pava followed it.
+
+Her annoyance vanished.
+
+“Right.”
+
+Mael said, “Can we measure a small transfer safely?”
+
+Nhal looked at him for a long time.
+
+“Define safely.”
+
+Mael smiled.
+
+Tiny.
+
+I had never seen that before.
+
+I liked him.
+
+“Without creating a failure we cannot arrest.”
+
+“Better.”
+
+She considered.
+
+“Perhaps.”
+
+That was how we began planning the worst good idea of my first life.
+
+Not freeing Nhal.
+
+Not yet.
+
+Understanding one relation.
+
+One band.
+
+One load path.
+
+One controlled change small enough to reverse.
+
+The technical crew chose a lateral line entering beneath Nhal’s right shoulder.
+
+It carried steady pressure.
+
+Known enough to observe.
+
+Small compared with the lower load.
+
+Pava could introduce a counterpressure without touching Nhal directly.
+
+Mael could hold the local stone geometry.
+
+Arcrutus could serve as physical arrest if the gallery shifted.
+
+He objected to the phrase physical arrest.
+
+We kept it because it annoyed him.
+
+My role was none.
+
+At first.
+
+Correct.
+
+I was insurance.
+
+I watched the plan grow around capabilities the expedition actually understood.
+
+Pava’s pressure control.
+
+Mael’s absurd physical stability.
+
+Arcrutus’s ability to make structural emergencies regret occurring.
+
+Technical instruments.
+
+Survey.
+
+Healer.
+
+No Greg-shaped hole.
+
+Good.
+
+Then Pava asked, “If I get recoil?”
+
+The technical specialist said, “Release.”
+
+“What if release returns the full change to the band?”
+
+Silence.
+
+I knew the answer before anyone looked at me.
+
+I hated that too.
+
+“Then somebody needs to catch the transition,” I said.
+
+Mael’s eyes narrowed.
+
+“Can you?”
+
+“Yes.”
+
+“Confidence?”
+
+“High.”
+
+“Method?”
+
+“Boundary only. I do not take her load. I give Pava’s release somewhere wider to resolve before it returns.”
+
+Pava said, “My arm?”
+
+“Partly. Stone too. Maybe Mael if he consents.”
+
+Mael did not flinch.
+
+“Explain before asking consent.”
+
+Good.
+
+I drew it in chalk.
+
+Pava’s pressure relation.
+
+My boundary around the release path.
+
+Mael as optional structural sink for a fraction of recoil.
+
+Not mana.
 
 Load.
 
-The word followed me everywhere.
+The same grammar that had begun with Barrier and become Draw and redistribution.
 
-Tomas’s sequence did not survive review unchanged.
+What crosses.
 
-Good.
+What does not.
 
-Engineering added a distinction between verified independent returns and shared or uncertain returns.
+Where the consequence goes.
 
-Operators added a low-load pretest that reduced unnecessary full return isolation.
+Nhal watched the whole explanation.
 
-Tova, now doing more review than field work, removed one step everyone else had duplicated.
+Not blinking.
 
-I objected.
+When I finished, she said, “You are badly named.”
 
-She was right.
+I looked at her.
 
-Terrible month.
+“What?”
 
-The final revision was better than Tomas’s proposal and much better than mine.
+“The humans classify you by support.”
 
-That was the point.
+“Yes.”
 
-At the next training day I put the old sequence on the board first.
+“That says nothing.”
 
-Then crossed it out.
+“Usually classifications say less than the people issuing them believe.”
 
-“This was mine,” I said.
+Mael glanced at my badge.
 
-People looked interested.
-
-“Worked for years.”
-
-More interest.
-
-“Then Tomas found a failure mode.”
-
-I pointed at him.
-
-He looked annoyed.
-
-Good.
-
-“No. Stand up. Suffer.”
-
-He did.
-
-We taught the revision together.
-
-Not as a morality play.
-
-As provenance.
-
-Old method.
-
-Observed failure.
-
-Proposed correction.
-
-Testing.
-
-Final revision.
-
-What remained uncertain.
-
-That last part stayed on every version afterward.
-
-WHAT WOULD MAKE THIS STANDARD WRONG?
-
-Not elegant.
-
-Useful.
-
-Years later people would cite the shared-return rule without knowing my name or Tomas’s.
-
-Good.
-
-Somebody else would eventually change it again.
-
-Better.
-
-At home the same week, my son corrected the way I stacked his cups.
-
-I informed him he was wrong.
-
-He demonstrated.
-
-He was right.
-
-I considered firing him too.
-
-Nessa would not authorize it.
-
-Ithar made a low sound that might have been amusement.
-
-“You tell that story more comfortably.”
-
-“Which one?”
-
-“The cups.”
-
-“Lower stakes.”
-
-“Were they?”
-
-I looked at him.
-
-He did not explain.
-
-Dragons enjoy making ordinary statements sound profound.
+A-class.
 
 Still.
 
-If your procedure survives because nobody is allowed to embarrass its author, you do not have a safety standard.
+Nhal said, “You think in crossings.”
 
-You have a shrine.
+That sentence stayed with me longer than several awards.
 
-If your household works only because nobody is allowed to inconvenience you, I suspected the same principle applied.
+I did not know why yet.
 
-I had already spent one life around too many shrines.
+Pava flexed her hand.
+
+“Can we try it?”
+
+Mael said, “Tomorrow.”
+
+She stared at him.
+
+“Why?”
+
+“Because your hand is tired.”
+
+“It is functional.”
+
+“Tomorrow it can be functional and rested.”
+
+“We have time?”
+
+Mael looked at Nhal.
+
+Nhal said, “You have had time for several centuries.”
+
+Arcrutus laughed.
+
+Pava muttered something impolite.
+
+We camped in the upper gallery.
+
+Not comfortable.
+
+Safer than returning all the way to the surface and crossing the network again in the dark.
+
+No open flame.
+
+Cold food.
+
+Water carefully counted.
+
+One person awake at all times watching instruments nobody fully trusted.
+
+Nhal remained below us.
+
+Sometimes sleeping.
+
+Maybe.
+
+Sometimes watching.
+
+At second watch I woke to find Arcrutus sitting at the railing eating nuts.
+
+Cashews.
+
+Of course he had brought cashews into an ancient load-bearing prison.
+
+I sat beside him.
+
+“You sacrificed a pressure anchor for me but kept nuts.”
+
+“Yes.”
+
+“Priorities.”
+
+“Correct.”
+
+Below us Nhal opened one eye.
+
+“You are both loud.”
+
+“We are whispering,” I said.
+
+“I did not mean sound.”
+
+Arcrutus offered me a cashew.
+
+I took it.
+
+Still angry.
+
+Better with food.
+
+The black lines moved faintly under Nhal’s body.
+
+Pressure crossing.
+
+Pressure held.
+
+Pressure returned.
+
+I watched the bands rise and fall with her breathing.
+
+“What happens if you stop carrying it?” I asked.
+
+Nhal did not answer immediately.
+
+Then:
+
+“I do not know.”
+
+That frightened me more than anything she had said.
+
+Not because she was ignorant.
+
+Because she was honest.
+
+The oldest thing in the room did not know what failure looked like.
+
+Arcrutus stopped eating.
+
+Mael, awake across the gallery, looked over.
+
+Nobody suggested cutting a band again.
+
+Good.
