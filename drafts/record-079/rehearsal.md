@@ -20,7 +20,7 @@ Wednesday she came home late from regional scheduling, opened the pantry, and st
 
 Our son was under the table doing something with two wooden animals that apparently required whispering.
 
-Our daughter sat at the table separating her dinner into foods she currently respected and foods she considered suspicious.
+Our daughter sat at the table separating dinner into foods she currently respected and foods she considered suspicious.
 
 I was reviewing contractor bids.
 
@@ -108,8 +108,6 @@ She put her bag down.
 
 “Who moved dinner?”
 
-I thought.
-
 She had.
 
 “Tuesday you had licensing until late.”
@@ -171,8 +169,6 @@ Our son crawled out from under the table.
 He held up one wooden animal.
 
 “Horse sick.”
-
-I looked at it.
 
 “What happened?”
 
@@ -472,7 +468,891 @@ That was not the same thing as building a household.
 
 Second Life removed the escape hatch by making me stop wanting it.
 
-Which led to another strange discovery.
+Fatherhood made the difference impossible to ignore.
+
+Two newborns did not care what I had once done beneath Vey.
+
+They did not care that I had been S-class.
+
+They cared about milk.
+
+Warmth.
+
+Being held.
+
+The exact cloth they had just thrown onto the floor.
+
+Nessa’s recovery mattered more than any memory of how useful I had once been elsewhere.
+
+For a while I barely worked outside the house.
+
+Not heroically.
+
+Necessarily.
+
+Two infants are not one infant twice.
+
+They wake separately.
+
+Cry differently.
+
+Need the same adult at the same time.
+
+One would settle against my chest if I walked.
+
+The other preferred stillness and became furious if I tried the same trick.
+
+One slept through noise and woke when a floorboard creaked.
+
+The other could sleep through nothing except the exact moment we wanted them awake.
+
+Nessa and I became specialists in two different tiny people.
+
+Work eventually returned because money existed.
+
+Also because I missed it.
+
+That admission made me feel guilty for several days.
+
+The first full field day after the twins arrived felt easier than home.
+
+Nobody cried because I put a tool down wrong.
+
+Nobody needed to eat from my body.
+
+Nobody produced mysterious fluids on a schedule designed by an enemy.
+
+I repaired a pressure manifold and thought, this is relaxing.
+
+Then missed them before lunch.
+
+Humiliating.
+
+That was the life I was living when Arcrutus Dray went out of his way to visit me at work.
+
+He had no operational reason to be there.
+
+That was the first problem.
+
+I was halfway inside a damaged transfer housing when Lorn crouched beside the access opening.
+
+“Greg.”
+
+“Busy.”
+
+“One of the Seven is here.”
+
+I stopped turning the wrench.
+
+“Which one?”
+
+Lorn looked behind him.
+
+I closed my eyes.
+
+“Of course.”
+
+Arcrutus leaned down far enough that his face appeared upside down in the opening.
+
+“Hello.”
+
+I looked at him.
+
+Then at Lorn.
+
+“Why did you tell him where I was?”
+
+“I did not.”
+
+Arcrutus said, “I asked.”
+
+That explained nothing.
+
+I went back to the coupling.
+
+Arcrutus stayed.
+
+For nearly four minutes.
+
+This was too long.
+
+“You need something?” I asked.
+
+“No.”
+
+“Then why are you here?”
+
+“Watching.”
+
+“I gathered that.”
+
+He crouched near the opening.
+
+I could see one boot.
+
+Good leather.
+
+Unnecessarily good leather for a man whose professional life involved being near things that exploded.
+
+“What are you doing?” he asked.
+
+“Working.”
+
+“I can see that.”
+
+“Excellent. Then we’re both caught up.”
+
+Silence.
+
+I tightened the lower collar.
+
+The pressure reading moved.
+
+Not enough.
+
+I loosened it again.
+
+Arcrutus said, “Why did you undo that?”
+
+I stopped.
+
+Slowly.
+
+“Do you have something against me?”
+
+“No.”
+
+“Because I am busy.”
+
+“I noticed.”
+
+“And you came all the way here.”
+
+“Yes.”
+
+“To watch me be busy.”
+
+“Yes.”
+
+I slid backward far enough to look at him properly.
+
+He looked younger than the Arcrutus I remembered.
+
+That should have been obvious.
+
+We all did.
+
+The difference bothered me more with him.
+
+First Life had given me an Arcrutus worn smooth in strange places and sharpened in others.
+
+Years of arguments.
+
+Bad camps.
+
+Tests I had not agreed to.
+
+Advice disguised as insults.
+
+Insults disguised as advice.
+
+The man in front of me had not done most of that yet.
+
+We did not have that relationship.
+
+Not anymore.
+
+He smiled.
+
+That smile had caused me problems before.
+
+Technically, not yet.
+
+“Go away,” I said.
+
+Arcrutus blinked once.
+
+Then laughed.
+
+“All right.”
+
+He stood.
+
+And left.
+
+I waited.
+
+Mostly because Arcrutus Dray had just listened to me.
+
+Then I went back to work.
+
+Lorn remained at the opening.
+
+“You told Arcrutus Dray to go away.”
+
+“He was bothering me.”
+
+“One of the Seven.”
+
+“Still bothering me.”
+
+“You don’t seem very impressed by him.”
+
+“That is not remotely true.”
+
+Lorn frowned.
+
+Good.
+
+I crawled deeper into the housing.
+
+Arcrutus was terrifyingly impressive.
+
+I knew that better than Lorn did.
+
+That did not mean I wanted him standing over my shoulder.
+
+For the next twenty minutes, nothing happened.
+
+Beautiful.
+
+I found the bad coupling.
+
+Western sleeve worn unevenly against the bracket.
+
+Under load it shifted just enough to imitate a pressure problem farther down the assembly.
+
+Mechanical.
+
+Ordinary.
+
+Fixable.
+
+Wonderful.
+
+I had both hands inside when Lorn said, “He’s back.”
+
+I stopped.
+
+“What?”
+
+A paper-wrapped bundle appeared beside my head.
+
+I stared at it.
+
+Then slid backward.
+
+Arcrutus stood there holding another.
+
+This I had not expected.
+
+“What is that?”
+
+“Food.”
+
+“I know what food looks like.”
+
+“Then why ask?”
+
+Fair.
+
+Annoying.
+
+I took the bundle.
+
+Still warm.
+
+Flatbread.
+
+Roasted meat.
+
+Pickled vegetables.
+
+Actual onions.
+
+Good onions.
+
+“I told you to go away.”
+
+“You did.”
+
+“You came back.”
+
+“Yes.”
+
+“With lunch.”
+
+“Yes.”
+
+“Why?”
+
+“You were busy.”
+
+“I am still busy.”
+
+“Yes.”
+
+I looked at the food.
+
+Then at him.
+
+The Arcrutus I remembered might have done something like this.
+
+Eventually.
+
+The current one had no reason to.
+
+That was unexpectedly kind.
+
+I distrusted it on principle.
+
+I took a bite.
+
+Very good.
+
+Fine.
+
+I shifted back into the housing and balanced the bundle beside the gauge.
+
+Still busy.
+
+Busy with food now.
+
+Better.
+
+Arcrutus sat on the stone beside the opening with his own lunch.
+
+For several minutes he let me work.
+
+Then he said, “You act like you know me.”
+
+My hand stopped.
+
+Only briefly.
+
+“That seems unlikely.”
+
+“You don’t behave like the others.”
+
+“What others?”
+
+“Young Rankers.”
+
+“I am not that young.”
+
+“You are from where I am sitting.”
+
+There he was.
+
+Asshole.
+
+“They usually stare,” he said.
+
+“I have work.”
+
+“You avoid staring.”
+
+“That sounds healthier.”
+
+“You know the stories?”
+
+“Some.”
+
+“Fan?”
+
+I looked out at him.
+
+“No.”
+
+Too quick.
+
+His eyebrow moved.
+
+Wonderful.
+
+“I don’t dislike you,” I said.
+
+“I didn’t ask that.”
+
+“I know.”
+
+He became still.
+
+There.
+
+Again.
+
+Too familiar.
+
+“You do that,” he said.
+
+“Do what?”
+
+“Answer me like we have already had the argument.”
+
+Maybe we had.
+
+Just not in a life he remembered.
+
+“You seem predictable.”
+
+“I am not.”
+
+“You left when I told you to.”
+
+“And came back.”
+
+“With food.”
+
+He smiled.
+
+I returned to the coupling before the conversation became dangerous.
+
+After a while he said, “You know Aren.”
+
+Not a question.
+
+“Yes.”
+
+“How well?”
+
+“Enough.”
+
+“And?”
+
+“What?”
+
+“What do you think of him?”
+
+That answer came easily.
+
+“He’s a good man.”
+
+Arcrutus looked down at his food.
+
+“Good fighter too,” I added.
+
+“I know that.”
+
+“Then why ask?”
+
+“I didn’t ask about the fighting.”
+
+Fair.
+
+I worked the retaining pin loose and set it beside me.
+
+“You raised a good son.”
+
+Arcrutus stared at me long enough that I felt it through the opening.
+
+Then he said, “I built one.”
+
+I looked out.
+
+He shrugged.
+
+“Started too early. Pushed too hard. Treated him like a project with legs. A weapon that complained.”
+
+He said it lightly.
+
+The lightness was false.
+
+Aren had described parts of his childhood that way in my first life.
+
+Training.
+
+Standards.
+
+Targets that moved the instant he reached them.
+
+A father who could turn breakfast into a lesson if given enough time.
+
+So Arcrutus was not inventing anything.
+
+He was still lying.
+
+Not intentionally.
+
+Arcrutus had always been hardest on himself.
+
+He could remember every place he had pressed too far and reduce years of fatherhood to the pressure.
+
+Aren could do something similar from the other side.
+
+Children remember the hand on the back differently than the person attached to the hand.
+
+Both memories can be true.
+
+Neither is the whole house.
+
+Weapons do not argue with their makers for decades and keep coming home.
+
+Projects do not disappoint you and remain loved.
+
+The Arcrutus I had known watched Aren constantly.
+
+Not controlling every movement.
+
+Knowing.
+
+He noticed when Aren’s temper made him cleaner and when it made him stupid.
+
+He knew when to needle him.
+
+Eventually, importantly, he learned when not to.
+
+I remembered Aren telling me the boundary I had needed to hear.
+
+I’m allowing you to know me.
+
+Do not confuse knowing with owning.
+
+Aren had learned that distinction somewhere.
+
+Maybe partly by having to teach it to his father.
+
+Maybe partly because his father eventually listened.
+
+“You raised a good son,” I repeated.
+
+“Despite me.”
+
+I looked at him.
+
+“That’s the part I don’t believe.”
+
+His eyes came up.
+
+Too much certainty again.
+
+I returned to the coupling.
+
+We did not know each other well enough for the real answer.
+
+Arcrutus let the silence sit.
+
+Then asked, “You have children?”
+
+“Yes.”
+
+“How many?”
+
+“Two.”
+
+“Twins?”
+
+“Yes.”
+
+He made a sound.
+
+Not sympathy.
+
+Close.
+
+“What?”
+
+“Two at once.”
+
+“Yes.”
+
+“Poor bastard.”
+
+I laughed.
+
+Actually laughed.
+
+“That is approximately what I said.”
+
+“You planned that?”
+
+“The children?”
+
+“The number.”
+
+“Do I look powerful enough to negotiate with biology?”
+
+“No.”
+
+“Then there you are.”
+
+He ate another piece of meat.
+
+“How old?”
+
+I told him.
+
+He nodded like this was operational information.
+
+Maybe to fathers it was.
+
+“One bites,” I said.
+
+Arcrutus looked over.
+
+“The boy?”
+
+“Currently.”
+
+“Currently?”
+
+“His sister believes retaliation is a legal category.”
+
+Arcrutus laughed.
+
+“Good.”
+
+“No.”
+
+“Good children.”
+
+“You do not live with them.”
+
+“That improves children.”
+
+I shook my head.
+
+First-life Greg had never had this conversation with him.
+
+Could not have.
+
+First-life Greg had no wife.
+
+No children.
+
+He had lovers.
+
+Rooms.
+
+Women whose company he wanted until the next job moved him somewhere else.
+
+Real affection sometimes.
+
+Real selfishness sometimes.
+
+No household built around staying.
+
+No small person waking him because a cup had fallen behind a bed.
+
+No argument about whether one child had bitten the other hard enough to require a healer or merely hard enough to require consequences.
+
+Second Life had given me expertise I had not known I lacked.
+
+Mostly about stains.
+
+Arcrutus said, “You like it.”
+
+“What?”
+
+“Being a father.”
+
+It was not really a question.
+
+“Yes.”
+
+He waited.
+
+I knew what he was doing.
+
+“More than I expected.”
+
+He nodded.
+
+“I knew I wanted Aren,” he said. “I did not know what having him would do to me.”
+
+That sounded more honest than the weapon story.
+
+“What did it do?”
+
+Arcrutus looked toward the yard.
+
+Workers moved around us carrying tools, arguing over a cart wheel, pretending not to look at one of the Seven eating lunch beside a maintenance opening.
+
+“It gave me something I could protect completely and control only temporarily.”
+
+I stopped working.
+
+He looked at me.
+
+“Problem?”
+
+“No.”
+
+“Then why stop?”
+
+“That was annoyingly good.”
+
+“I am occasionally excellent.”
+
+“Rarely conversationally.”
+
+He ignored that.
+
+I thought about my children.
+
+They were still small enough that control worked for many things.
+
+Do not touch the stove.
+
+Hold my hand crossing the road.
+
+Give me whatever you just put in your mouth.
+
+Those were not negotiations.
+
+But every month contained some new thing they could do without me.
+
+A cup.
+
+Shoes.
+
+A door latch I preferred they had not discovered.
+
+Fatherhood was partly a series of boundaries moving away from you.
+
+“You did all right,” I said.
+
+Arcrutus gave me a look.
+
+“With Aren.”
+
+“You have met him a handful of times.”
+
+“Enough.”
+
+“There it is again.”
+
+“What?”
+
+“You talk like you know us.”
+
+Shit.
+
+I reached for my lunch.
+
+“Maybe you are both predictable.”
+
+“Aren is not predictable.”
+
+“He is when irritated.”
+
+Arcrutus’s eyes sharpened.
+
+I had stepped too close.
+
+So I pointed at his food.
+
+“Eat.”
+
+“You told me to leave.”
+
+“You came back with lunch. Circumstances changed.”
+
+He laughed.
+
+Good.
+
+We ate.
+
+I worked.
+
+Arcrutus told me one story about Aren at four involving a training dummy, a bucket, and a decision that made less sense every time he explained it.
+
+I told him about my daughter hiding one shoe from every matching pair because she had discovered adults become very interesting when late.
+
+Then my son, who had begun putting things into pockets and forgetting which pocket.
+
+Nothing in the conversation mattered to the Line.
+
+Nothing improved my Rank.
+
+Nobody learned a technique.
+
+I fixed the coupling.
+
+That mattered to Bellwater.
+
+Arcrutus finished his lunch and stood.
+
+“You really are not a fan?”
+
+“No.”
+
+“You sure?”
+
+“I liked you better when you brought food.”
+
+He smiled.
+
+I never hated the man.
+
+That would have made him easier.
+
+He was an ass.
+
+He was also, in my first life, one of the people who shaped me most profoundly.
+
+Both things were true.
+
+This Arcrutus had not earned that place with me.
+
+Not yet.
+
+Maybe never in the same way.
+
+History had already changed too much.
+
+He left the worksite.
+
+I watched him go for exactly long enough to make sure he was actually leaving.
+
+Lorn appeared beside me.
+
+“What did he want?”
+
+“I have no idea.”
+
+“He brought you lunch.”
+
+“Yes.”
+
+“You talked for almost an hour.”
+
+“Yes.”
+
+“And you have no idea.”
+
+“Correct.”
+
+Lorn looked at the repaired housing.
+
+“You act like an old man.”
+
+“I am older than you.”
+
+“Not enough to explain you.”
+
+Fair.
+
+I had been an old man in a young body for most of Second Life.
+
+Not wise.
+
+Do not romanticize it.
+
+Just finished with certain forms of proving myself.
+
+I did not stare at famous Rankers because I had already watched legends snore, bleed, complain about food, and make terrible decisions.
+
+I did not need every invitation.
+
+I had already learned that impressive rooms often contained uncomfortable chairs and somebody trying to give you work.
+
+I went home.
+
+That was new.
+
+And apparently that made me more interesting to other people too.
 
 Once I was married, settled, and genuinely not looking, women became more interested in me.
 
@@ -736,21 +1616,55 @@ I looked at him.
 
 “Differently than what?”
 
-“Than the regulators.”
+“Than Pava.”
 
-“High praise for the children.”
+That hurt.
 
-“You remember the contents of pockets.”
+He did not mean it cruelly.
+
+Maybe that made it worse.
+
+“I remember Pava.”
 
 “Yes.”
 
-“You forgot the name of a surveyor who spent nine days beneath Vey with you.”
+“You think I do not?”
 
-“That is different.”
+“No.”
 
-“It is.”
+“Then what?”
 
-I disliked agreement more than argument sometimes.
+“You remember Pava through the operation. The rod. Her hand. Her death.”
+
+I said nothing.
+
+“You remember your son’s pockets.”
+
+I looked away.
+
+Ithar continued.
+
+“You remember your daughter assigning stories.”
+
+“Yes.”
+
+“You remember a cup color.”
+
+“Yes.”
+
+“You remember onions.”
+
+“Yes.”
+
+He waited.
+
+I understood what he was doing.
+
+The world had taught me to preserve extraordinary events.
+
+My mind had preserved breakfast.
+
+That was evidence too.
 
 The conversation with Arcrutus returned to me often during those years.
 
@@ -866,6 +1780,8 @@ Standards.
 
 Failures.
 
+Revenge.
+
 The Line.
 
 Nobody would know I had once required a written system to remember onions.
@@ -876,10 +1792,26 @@ History is reasonable that way.
 
 It cannot keep everything.
 
-But if you want to understand why I became different from the man who reached Nhal in the first life, the onions belong in the record.
+But if you want to understand why the man who survived Vey became the man who eventually did what I did in my second life, the onions belong in the record.
 
 So do the pockets.
 
 So does Nessa’s chair.
 
-Annoyingly.
+So does Arcrutus bringing lunch after I told him to go away.
+
+None of it looked like power.
+
+That was why losing it changed what I thought power was for.
+
+Ithar did not interrupt.
+
+For once.
+
+I almost wished he would.
+
+Instead he waited.
+
+I looked at the floor between us.
+
+Then said, “Now I can tell you about the job I took.”
