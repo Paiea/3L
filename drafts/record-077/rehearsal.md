@@ -1,561 +1,759 @@
 ## RECORD 077
 
-## THE CONSERVATIVE
+## THE REMAINDER
 
-I became conservative by accident.
+Pava died at 14:37 according to the healer’s clock.
 
-Not politically.
+We did not write it down until six hours later.
 
-Mechanically.
+There was work.
 
-There is a difference.
+That sounds cold.
 
-Sometimes.
+It was.
 
-The redesign came from the capital.
+Also true.
 
-That already made everyone suspicious.
+The lower route remained open.
 
-Unfair.
+Nhal carried more load than before.
 
-Probably.
+Two upper lines drifted out of phase.
 
-The proposal was elegant.
+Arcrutus’s improvised anchor had split through the center.
 
-Replace old district pressure-balancing assemblies with a standardized modular controller.
+Mael’s left knee was swelling inside his brace.
 
-Fewer moving parts.
+The healer had Pava’s blood on both hands despite there being very little external blood.
 
-Faster maintenance.
+The surveyor was crying silently while reading gauges.
 
-Lower training burden.
+One technical specialist vomited behind a stone rib, rinsed his mouth, and came back.
 
-Common spares.
+Nobody told him to be brave.
 
-Central calibration.
+He had a job.
 
-The demonstration unit was beautiful.
+So did I.
 
-I hated it immediately.
+Mael asked, “What do you need?”
 
-That is not evidence.
+I looked at everything at once.
 
-I wrote that down.
+That had once been impossible.
 
-The project engineer was twenty-nine.
+Not seeing everything.
 
-Sera Kelm.
+Prioritizing it.
 
-She walked us through the design with the controlled patience of someone accustomed to explaining new machines to older men who believed surviving old machines had made them philosophers.
+First: Nhal could not keep the diverted route indefinitely.
 
-I recognized the category.
+Second: releasing it directly returned the same lower claim that had killed Pava.
 
-Unfortunately, I was becoming one.
+Third: the chamber geometry had changed enough that our mapped retreat path was no longer guaranteed.
 
-The controller sensed branch pressure, return load, and demand slope.
+Fourth: Pava’s body remained inside my active network.
 
-Adjusted automatically.
+I hated that.
 
-Manual override remained.
+The relation did not care.
 
-Fail-safe closure on signal loss.
+A body is load whether alive or dead.
 
-Bench tests excellent.
+Support magic can be obscene in very practical ways.
 
-Pilot station ran six months without serious issue.
+“Move Pava only when I call,” I said.
 
-I still hated it.
+The healer nodded.
 
-Tova noticed.
-
-“You have the face.”
-
-“What face?”
-
-“The old man face.”
-
-“I am not even forty.”
-
-“Spiritually, you have grandchildren.”
-
-Fuck her.
-
-The insult bothered me because it was accurate in the wrong direction.
-
-I had been acting old since nineteen.
-
-Second Life made youth feel like clothes I had put back on after already wearing them out once.
-
-I did not chase rooms because important people were inside them.
-
-I did not need to prove I could lift the heaviest thing.
-
-I complained about chairs.
-
-I carried spare cloth.
-
-I checked whether people had eaten.
-
-I left events early when the twins had a morning routine I did not want to inflict on Nessa alone.
-
-One of the Seven had recently traveled out of his way to watch me work, and my primary reaction had been irritation because he was standing between me and a coupling.
-
-Young Greg would have despised me.
-
-He would also have borrowed money from me.
-
-The redesign promised to replace three local balancing tasks operators currently did by feel and schedule.
-
-That was the sales point.
-
-Less dependence on operator experience.
-
-More consistency.
-
-Normally I liked that.
-
-The problem was not automation.
-
-The problem was what the controller believed the system was.
-
-Its model assumed branch boundaries matched current maps.
-
-Reasonable.
-
-Often false.
-
-It assumed return paths were known.
-
-Better than before.
-
-Still false in older districts.
-
-It assumed demand changes originated inside the branch it controlled.
-
-That one bothered me most.
-
-Physical Line did not respect administrative ownership.
-
-We had already proven that with overlays.
-
-At East Two.
-
-Hillcross.
-
-North Reach.
-
-Dozens of small jobs.
-
-The controller saw three instruments.
-
-An experienced operator saw weather, adjacent industries, festival load, a school cooking early, a landlord opening illegal attic rooms, a washhouse changing shifts.
-
-Not magic.
-
-Context.
-
-Sera knew that.
-
-She was not stupid.
-
-The proposal included manual override and anomaly flags.
-
-“What triggers anomaly?” I asked.
-
-She showed thresholds.
-
-Pressure outside model.
-
-Return mismatch.
-
-Control hunting.
-
-Signal disagreement.
+No reaction to the name.
 
 Good.
 
-“What if the model is wrong but measurements remain plausible?”
+Later.
 
-“Then the system behaves within safe envelope.”
+“Mael, I need your left side unloaded.”
 
-“Whose envelope?”
+“My knee holds.”
 
-She looked at me.
+“I did not ask.”
 
-“Validated operating range.”
+His eyes came up.
 
-“From pilot.”
+For half a second I remembered he was one of the Seven.
 
-“And simulation.”
+Then he shifted weight right.
 
-“Pilot where?”
+Good.
 
-“Central Three.”
+“Arcrutus, the western rib is done.”
 
-New district.
+“I know.”
 
-Mapped properly.
+“Let it go.”
 
-Of course.
+“It is holding.”
 
-I said no.
+“It is lying.”
 
-Not to the whole design.
+That got him.
 
-To regional rollout.
+He looked at the split.
 
-That distinction disappeared immediately.
+Then released.
 
-A trade circular summarized the meeting:
+The rib dropped two inches.
 
-VETERAN LINE SPECIALIST OPPOSES MODERN BALANCING SYSTEM.
+A black line beneath it tightened.
 
-Veteran.
+I caught the transfer through floor instead of Arcrutus’s spine.
 
-Rude.
+Stone cracked.
 
-Opposes.
+Acceptable.
 
-Wrong.
+Everything had become acceptable in ugly units.
 
-I opposed deploying it into old mixed infrastructure without evidence.
+“Nhal.”
 
-Nobody wants that headline.
+Her eyes opened.
 
-Nessa read the circular at breakfast.
+“Can you give back any of the lower route gradually?”
 
-Our daughter was using a spoon to move porridge from one bowl to another for reasons known only to her.
+“Yes.”
 
-Our son had decided the table edge was a road.
+“How gradually?”
 
-“Conservative,” Nessa said.
+“Your word again.”
 
-“Fuck off.”
+“Small enough that I can move the consequence before it chooses a person.”
 
-“You are.”
+Nhal studied me.
 
-“Evidence-based.”
+Then nodded.
 
-“That is what old men call themselves.”
+“Small.”
 
-“I regret marriage.”
+Good.
+
+We began.
+
+Not an operation anymore.
+
+A retreat written one inch at a time.
+
+Nhal released a fraction.
+
+I routed it into the floor bundle.
+
+Mael took the structural spike.
+
+Arcrutus moved a portable brace three feet east.
+
+Technical crew watched gauges.
+
+Pause.
+
+Measure.
 
 Again.
 
-Our daughter held up the spoon.
+Each cycle lasted less than ten seconds.
 
-“Papa old.”
+Each recovery took minutes.
 
-Nessa nearly died.
+The first hour moved almost nothing.
 
-I had enemies inside the home.
+That was fine.
 
-The argument became public enough that people started assigning motives.
+Speed had lost its vote.
 
-Young contractors thought older specialists feared automation.
+At some point the healer said, “Greg.”
 
-Older operators thought capital engineers wanted to eliminate jobs.
+“Busy.”
 
-The union worried about deskilling.
+“Your nose.”
 
-District accountants liked cheaper training.
+I touched it.
 
-Manufacturers liked selling modules.
+Blood.
 
-Everybody found the proposal useful for a different argument.
+“Fine.”
 
-The device itself waited patiently.
+“No.”
 
-Machines are good at that.
+“Useful?”
 
-I asked for three more pilots.
+She glared.
 
-One mapped district.
+“Not yet dangerous.”
 
-One mixed-age district.
+“Then later.”
 
-One legacy-heavy station with uncertain return geometry.
+I hated when people used my own categories against me.
 
-Sera agreed to two.
+Pava would have enjoyed that.
 
-Not legacy-heavy.
+The thought arrived cleanly.
 
-“Why?”
+Then I had to put it somewhere else because grief was not the limiting variable yet.
 
-“Highest risk.”
+Nhal released again.
 
-“That is why.”
+I moved load.
 
-“That is why not.”
+Mael held.
 
-Good disagreement.
+Arcrutus reset.
 
-We compromised.
+The system resisted less each time.
 
-Legacy-adjacent but not critical service.
+Not because we were winning.
 
-South Fen Four.
+Because we were returning toward the shape it expected.
 
-Old foundation.
+That distinction mattered.
 
-Modern branch rebuild.
+Two hours in, Mael’s knee stopped accepting the same route.
 
-Known shared return.
+I felt it before he said anything.
 
-Good test.
+The reinforcement around the joint had begun compensating too aggressively.
 
-For three months the controller performed better than humans.
+Every transfer made the next one worse.
 
-Tighter pressure.
+“Switch stance.”
 
-Fewer manual adjustments.
+“No room.”
 
-Lower fuel draw at auxiliary boilers.
-
-Operators loved it at night because fewer nuisance interventions.
-
-I hated that too.
-
-Evidence is rude.
-
-Sera sent me the monthly report with one sentence at the top.
-
-STILL HATE IT?
-
-I wrote back:
-
-YES. LESS.
-
-Professional correspondence.
-
-Month four, a dye complex changed shift pattern.
-
-Not in district demand model.
-
-The controller adapted.
-
-Fine.
-
-Month five, market expansion opened two new service taps.
-
-Controller adapted.
-
-Fine.
-
-Month six, an old cross-feed from a neighboring branch activated during a maintenance isolation.
-
-Not on the controller map.
-
-Pressure remained within range.
-
-Return remained within range.
-
-Demand slope remained plausible.
-
-Everything looked safe.
-
-But the controller compensated for incoming cross-feed by closing its own supply further.
-
-That pushed the neighboring branch harder.
-
-Not dangerous immediately.
-
-Wrong distribution.
-
-One district’s controller made another district’s problem worse while reporting healthy local performance.
-
-There.
-
-My fear.
-
-Not explosion.
-
-Boundary blindness.
-
-Sera came to the site.
-
-We pulled logs on a crate beside the controller because the office was full of people who had suddenly become interested in the pilot.
-
-The controller had done exactly what it was designed to do.
-
-That was the problem.
-
-She stared at the graphs.
-
-“So you were right.”
-
-I wanted to enjoy that.
-
-I did.
-
-For maybe three seconds.
-
-Then she pointed at another trace.
-
-“Operator response made it worse.”
-
-I looked.
-
-Night operator saw low local supply and manually increased branch setpoint.
-
-Reasonable under old practice.
-
-With controller compensation already active, it amplified the neighbor draw.
-
-Human plus machine.
-
-Shared failure.
-
-Annoying.
-
-“So I was half right.”
-
-“Maybe sixty percent.”
-
-“Generous.”
-
-The pilot did not fail.
-
-We changed it.
-
-Added cross-boundary monitoring where neighboring branches could influence load.
-
-Added a controller state showing whether local stability depended on external contribution.
-
-Most importantly, added operator training for automation interaction rather than pretending the system removed operator judgment.
-
-Then tested again.
-
-Better.
-
-I still opposed full rollout.
-
-Now for narrower reasons.
-
-Cost of instrumentation in old districts.
-
-Unverified buried cross-feeds.
-
-Maintenance dependency on proprietary calibration tools.
-
-Sera hated that last objection.
-
-“Every specialized system has specialized tools.”
-
-“Yes.”
-
-“Your pressure gauges are specialized.”
-
-“Five workshops can repair them.”
-
-“Three can repair ours.”
+“Make room.”
 
 “Where?”
 
-She listed them.
+I looked.
 
-Two capital.
+Bad options.
 
-One South Fen.
+Arcrutus could take more.
 
-Better than I expected.
+His right shoulder was already near a limit I had learned in First Life and he had not yet learned to tell me in this room.
 
-I removed the objection from my report.
+The floor could take more.
 
-That surprised her.
+Maybe.
 
-“What?”
+Nhal could take more.
 
-“You changed your mind.”
+No.
+
+Not again.
+
+The technical crew had reinforcement, but using ordinary personnel as a sink for S-grade recoil was how you created additional bodies.
+
+I widened the network.
+
+Not stronger people.
+
+More things.
+
+The temporary anchor.
+
+Two wall ribs.
+
+A dead black line that still had structural mass even if its magical function was gone.
+
+My own Barrier wrapped around the whole relation.
+
+Mael felt it.
+
+“What are you doing?”
+
+“Making the room help.”
+
+“Can it?”
+
+“Parts of it.”
+
+“Confidence?”
+
+“Medium.”
+
+He stared.
+
+“Better than lying.”
 
 “Yes.”
 
-“Quickly.”
+Nhal said, “Use the left wall.”
 
-“You answered the question.”
+I looked down.
 
-She looked suspicious.
+“Why?”
 
-Apparently public arguments make people expect identity instead of reasoning.
+“It remembers carrying.”
 
-I was trying not to become that.
+That was not an engineering answer.
 
-The trade paper called me conservative again.
+It was the best answer available.
 
-This time I ignored it.
+I touched the boundary to the left wall.
 
-Mostly.
+Old line.
 
-Because they were not entirely wrong.
+Dead route.
 
-I had become cautious about replacing systems whose hidden failures I understood with systems whose hidden failures I did not.
+Not dead structurally.
 
-That is conservatism of a kind.
+When the next transfer came, the wall accepted six percent.
 
-It can be wise.
+Enough.
 
-It can also become laziness wearing scars as proof.
+Mael’s knee unloaded.
 
-I knew that because First Life had given me enough scars to build an entire religion around them if I wanted.
+He inhaled sharply.
 
-Second Life kept placing younger people in front of me who had not earned those scars and therefore occasionally saw things I no longer could.
+Not pain.
 
-Sera was one.
+Relief.
 
-Tomas another.
+His eyes found mine.
 
-My children, annoyingly, were beginning to join the category.
+There it was again.
 
-At home my son discovered a faster way to reach the washroom stool by moving it himself.
+The thing S-class people did when they discovered a ceiling had moved.
 
-I told him not to.
+No awe.
 
-He asked why.
+They were too experienced for awe.
 
-I opened my mouth with the authority of a man who had survived two lives.
+Calculation.
 
-Then realized I had no answer beyond I preferred where the stool had been.
+How much more could I do now?
 
-Nessa watched me.
+Dangerous expression.
 
-“Old man face,” she said.
+Useful expression.
 
-“Everyone in this family is against me.”
+“Do not get ideas,” I said.
 
-Our son moved the stool.
+Mael almost smiled.
 
-Safely.
+“Later.”
 
-The next morning I moved it back.
+Asshole.
 
-Conservatism has limits.
+Three hours after Pava died, we moved her.
 
-Ithar said, “You are proud of becoming difficult to impress.”
+The healer asked first.
 
-“No.”
+“Now?”
 
-“You sound proud.”
+I checked every relation twice.
 
-“I am proud of asking what breaks.”
+“Yes.”
 
-“That is not the same thing.”
+Mael lifted her.
 
-“No.”
+Not Arcrutus.
 
-I thought about Sera’s beautiful controller.
+I do not know why.
 
-Arcrutus sitting beside a maintenance opening because something ordinary had interested him.
+Maybe Mael had been her leader longer.
 
-My son moving a stool because the room made more sense his way.
+Maybe he was closest.
 
-Old systems did not deserve survival because I understood them.
+Maybe history invents meaning around whoever had free hands.
 
-New systems did not deserve trust because I did not.
+He picked Pava up carefully.
 
-The work was finding out which objection belonged to the mechanism and which belonged to me.
+One arm under knees.
 
-I was getting better at that.
+One behind shoulders.
 
-Not done.
+She looked smaller dead.
+
+I hated that too.
+
+Her pressure rod remained on the floor.
+
+Arcrutus picked it up.
+
+No joke.
+
+Nobody asked him to.
+
+The expedition began withdrawing from the pit while I kept Nhal connected to the network.
+
+That required something I had never attempted.
+
+Distance.
+
+Not physical distance alone.
+
+Maintaining a boundary relation while the people inside it moved through other boundaries.
+
+Doorways.
+
+Chambers.
+
+Different load bundles.
+
+The network had to bend without becoming stale.
+
+At lower levels I had treated connection like holding hands.
+
+Target there.
+
+Me here.
+
+Keep line.
+
+By then it was closer to route planning inside a moving city.
+
+Mael carried Pava.
+
+The healer walked beside him.
+
+Technical crew went ahead and called changes.
+
+Arcrutus stayed behind me with the rod.
+
+Nhal remained in the pit.
+
+I carried her load relation with us as far as the first chamber.
+
+The moment the circular boundary crossed between us, the connection distorted.
+
+Too much.
+
+I dropped it.
+
+Nhal took the remaining return herself.
+
+The floor jumped.
+
+Everyone froze.
+
+Then settled.
+
+I stood in the doorway breathing too hard.
+
+Arcrutus said, “Still A-class?”
+
+I looked back at him.
+
+“Fuck off.”
+
+“Good.”
+
+That was affection from Arcrutus Dray.
 
 Unfortunately.
+
+We reached the first marked chamber near evening.
+
+Nobody had the energy to continue to surface.
+
+Mael tried.
+
+Not physically.
+
+Operationally.
+
+“We have four hours to upper camp.”
+
+The healer said, “No.”
+
+He looked at her.
+
+“You cannot safely walk four hours,” she said.
+
+“I can.”
+
+“Your knee cannot.”
+
+Mael looked at me.
+
+Traitorous reflex.
+
+I said, “She is right.”
+
+He looked at Arcrutus.
+
+Arcrutus said, “I would enjoy watching you try.”
+
+Mael sat down.
+
+Leadership.
+
+We camped underground with one dead S-class human.
+
+There is no training for the first meal after that.
+
+Nobody was hungry.
+
+We ate anyway.
+
+Pava lay wrapped in two expedition blankets near the wall.
+
+Her rod rested beside her.
+
+The surveyor asked whether it should be packed separately.
+
+Mael said no.
+
+Then changed his mind five minutes later.
+
+“Separate. Protected.”
+
+No explanation.
+
+Nobody needed one.
+
+The world above did not know Pava Kett was dead.
+
+Down there she was also the woman who hummed when standing still.
+
+The woman who tried salt in salt-basin porridge.
+
+The woman who always said again.
+
+That was the part official notices would lose first.
+
+At second watch I woke with my hands clenched.
+
+Could not open the right one immediately.
+
+Channel strain.
+
+The healer was beside me before I called.
+
+“You knew?”
+
+“You were twitching.”
+
+“Professional dignity.”
+
+“Gone.”
+
+She worked the fingers open one at a time.
+
+Pain arrived late.
+
+Bad sign.
+
+“How bad?” I asked.
+
+“You are done casting for at least a day.”
+
+I laughed.
+
+She did not.
+
+“We have to climb out.”
+
+“Yes.”
+
+“Old system.”
+
+“Yes.”
+
+“Still coupled.”
+
+“Yes.”
+
+“So?”
+
+“So you will cast if somebody is dying and otherwise you will learn the miracle of walking.”
+
+Cruel woman.
+
+She was right.
+
+Morning came without sunlight.
+
+We packed.
+
+Mael’s knee fit badly in the brace because of swelling.
+
+Arcrutus redistributed gear without being asked.
+
+The technical crew took more of Mael’s load.
+
+I tried to take some.
+
+Everyone told me no.
+
+Humiliating.
+
+Pava traveled in a litter improvised from two pack frames.
+
+Mael objected to anyone calling it a litter.
+
+Nobody called it anything.
+
+The climb took fourteen hours.
+
+Not nine.
+
+We stopped constantly.
+
+Checked water.
+
+Checked pressure.
+
+Checked Mael.
+
+Checked me.
+
+Nobody checked Pava.
+
+That absence became louder every hour.
+
+Near the surface, one route shifted under us.
+
+Small.
+
+Ordinary compared with yesterday.
+
+The surveyor called stop.
+
+Everyone stopped.
+
+I felt the pattern with exhausted channels and knew exactly where the consequence wanted to go.
+
+I did not cast.
+
+I told Arcrutus to move left.
+
+Mael to unload right.
+
+Technical crew to wait.
+
+The system settled.
+
+No magic.
+
+Still support.
+
+That mattered later too.
+
+We reached daylight after sunset.
+
+Wrong sentence.
+
+We reached the surface after sunset.
+
+Sky still existed.
+
+Wind still existed.
+
+The salt basin looked offensively normal.
+
+Upper camp saw us coming.
+
+Then saw the wrapped shape between us.
+
+People stopped moving.
+
+No announcement needed.
+
+Three S-class humans had gone below.
+
+Two walked back.
+
+The expedition commander at upper camp looked at Mael.
+
+Mael looked at me.
+
+I hated him for that.
+
+Not because he wanted me to speak.
+
+Because I understood what he was asking without words.
+
+Mechanism.
+
+What happened.
+
+Not blame yet.
+
+Not grief yet.
+
+The record.
+
+I said, “The lower system found a temporary pressure route through Pava during controlled release. We redistributed. We could not clear the route before channel and cardiac failure.”
+
+The commander looked at the wrapped body.
+
+“Did the test exceed plan?”
+
+“No.”
+
+“Did she?”
+
+“No.”
+
+“Did anyone?”
+
+“No.”
+
+That was the worst part.
+
+There was no villain available.
+
+No satisfying stupidity.
+
+We had made a careful decision inside an incomplete model.
+
+Pava paid for the missing piece.
+
+The commander closed her eyes.
+
+Then said, “We notify Authority.”
+
+Six living S-class humans.
+
+The sentence began traveling before dawn.
+
+Mael sat beside the route slate and refused a healer until someone physically took it out of his hands.
+
+Arcrutus put Pava’s rod on the table.
+
+Then stood beside me.
+
+Neither of us spoke.
+
+For once he was not interested in making the afternoon harder.
+
+I almost wished he were.
+
+After a while he said, “You kept us alive.”
+
+I looked at him.
+
+“Pava is dead.”
+
+“Yes.”
+
+The word hit harder from him.
+
+Then he said, “Both things are true.”
+
+I hated that sentence.
+
+I still do.
+
+Nhal had taught me nothing disappears.
+
+Cost moves.
+
+Load moves.
+
+Pain moves.
+
+Sometimes the honest accounting contains a dead woman and six people who are alive because you were good enough to keep the number from becoming seven.
+
+I was still A-class on paper.
+
+Nobody below Vey cared.
