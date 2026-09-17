@@ -34,7 +34,11 @@ Preserve valid discovered story. If a structural split or merge is genuinely nee
 
 ## Timeline reorientation
 
-3L may move associatively between the present Ithar cave, First Life, and Second Life. The transition does not need to be chronological. An object, phrase, person, or idea may carry Greg into another period when the connection is emotionally or causally useful.
+Establish before interleaving. First Life, Second Life, and the present Ithar cave should each become independently legible before the narrative relies on associative movement between them. Ithar should never be used to compensate for a timeline that was never properly established.
+
+After that foundation exists, 3L may move associatively between the present Ithar cave, First Life, and Second Life. The transition does not need to be chronological. An object, phrase, person, or idea may carry Greg into another period when the connection is emotionally or causally useful.
+
+This is permission, not a cadence requirement. Do not ping-pong merely because the structure allows it. Scene continuity comes first. Associative connection comes second. Timeline experimentation comes third. If a scene is carrying its own emotional or causal weight, stay inside it.
 
 Greg owns the association. Ithar owns the coordinates.
 
@@ -51,7 +55,7 @@ Ithar should reorient because he is genuinely reconstructing Greg's causal histo
 
 On a return to the present, restore the room as well as the date. A small physical cue from Ithar, Greg, the stone, the light, or Greg's current body is usually enough to make the cave real again.
 
-Associative links are encouraged. Onions may lead to household load, household load to fatherhood, fatherhood to Arcrutus, Arcrutus to Vey, Vey to Pava, and Pava to the empty S-class seat. The narrative may wander by meaning because Ithar periodically restores the coordinates.
+Associative links are encouraged when they earn the move. Onions may lead to household load, household load to fatherhood, fatherhood to Arcrutus, Arcrutus to Vey, Vey to Pava, and Pava to the empty S-class seat. The narrative may wander by meaning because Ithar periodically restores the coordinates, but it does not need to follow every available link.
 
 Do not withhold basic chronology merely to create mystery. Confusion is not depth. Deliberate uncertainty about causality, memory, or divergence is different and may remain unresolved when the story requires it.
 
