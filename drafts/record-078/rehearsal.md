@@ -1,537 +1,919 @@
 ## RECORD 078
 
-## THE RADICAL
+## THE WITNESS
 
-Six months after people started calling me conservative, I supported replacing a practice older than the district office.
+We went back down.
 
-Everyone became annoyed.
+Not immediately.
 
-Consistency is useful mostly to people arguing against you.
+That would have been stupid.
 
-The practice was manual bleed balancing on legacy warm-water returns.
+Three days.
 
-Not glamorous.
+Long enough for my right hand to open without help.
 
-Operators adjusted small bypasses by hand to keep distant buildings from starving during peak load.
+Long enough for Mael’s knee to fit inside a different brace.
 
-Every old district had some version.
+Long enough for Authority to send six messages telling us not to touch anything and one message asking for measurements that required touching things.
 
-The work was skilled.
+Institutions contain complexity.
 
-Local.
+Pava’s body had already begun the journey home.
 
-Hard to document.
+Her rod had not.
 
-Also increasingly wrong.
+Arcrutus placed it in a locked expedition case before anyone asked.
 
-I did not see that first.
+Nobody argued over custody.
 
-Sera Kelm did.
+That would come later.
 
-Of course.
+Everything comes later if enough people survive.
 
-She arrived at Esset & Vale with a year of service data under one arm and the expression of someone who had been waiting six months to become irritating again.
+The return team was smaller.
 
-“Manual bleed losses are higher than we estimated.”
+Mael.
 
-“How much?”
+Arcrutus.
 
-“Eight to twelve percent.”
+Me.
 
-“That is not catastrophic.”
+The healer.
 
-“No.”
+One surveyor.
 
-“Then why are you smiling?”
+One technical specialist.
 
-“Because peak inequity is worse.”
+No active pressure tools.
 
-I stopped.
+No experiment.
 
-She spread the maps across our worktable.
+No attempt to alter the system.
 
-Pressure distribution by building distance.
+We were going to document the stable state, confirm Nhal had not been harmed beyond what she could tolerate, and leave.
 
-Near-load buildings stayed comfortable.
+That was the plan.
 
-Far branches lost service first.
+I believed it.
 
-Old news.
+Mostly.
 
-Then property assessments.
+The descent felt different with Pava missing.
 
-Rent bands.
+Of course it did.
 
-Complaint frequency.
+But memory is annoyingly specific.
 
-Not a perfect income measure.
+The places she had stood were not marked.
 
-Good enough for pattern.
+The passage did not preserve an outline.
 
-Poorer buildings clustered on cheaper outer extensions.
+The cracked column remained cracked.
 
-They lost heat more often.
+Our chalk remained on the floor.
 
-Not because anyone targeted them.
+The world does not become visibly respectful because someone important died.
 
-Because old manual balancing optimized for station stability and operator workload, not household equity.
+At the stairwell I noticed myself waiting for humming that did not come.
 
-I hated the graph.
+That hurt more than the official notice had.
 
-That is still not evidence.
+Mael heard the silence too.
 
-The evidence was the graph.
+He did not say anything.
 
-Sera tapped one outer branch.
+Arcrutus carried less gear than usual because one shoulder was still taped beneath his coat.
 
-“Families here lose heat first on peak mornings.”
+He would deny this mattered.
 
-I knew the street.
+I did not ask.
 
-Small apartments.
+Growth.
 
-Too many people using rooms built for fewer.
+The lower chamber had returned almost completely to baseline.
 
-Children waiting for school with coats on indoors when service lagged.
+Almost.
 
-I had seen it.
+The bundle we had disturbed carried two percent more load than before.
 
-Apparently seeing something repeatedly is not the same as measuring the pattern.
+Nhal’s left-side band carried three percent more.
 
-“Fix?” I asked.
+The system had remembered us.
 
-“Replace fixed bleed practice with local differential regulators and metered balancing at branch ends.”
+I hated that.
 
-“Cost?”
+Nhal was awake when we reached the gallery.
 
-“High.”
+She looked at Mael first.
 
-“Maintenance?”
+Then Arcrutus.
 
-“Moderate.”
+Then the empty space where Pava would have stood.
 
-“Failure modes?”
+“Dead,” she said.
 
-“Different.”
+Not a question.
 
-Good answer.
+Mael nodded.
 
-The proposed equipment was not the modular controller I had opposed broadly.
+“Yes.”
 
-Simpler.
+Nhal closed her eyes.
 
-Mechanical regulators.
+For several breaths nobody moved.
 
-Local instruments.
+Then she said, “I am sorry.”
 
-Repairable in district shops.
+Simple.
 
-No central model.
+No ancient philosophy.
 
-No proprietary calibration.
+Better.
 
-I still distrusted it.
+Mael’s face did something small and terrible.
 
-History had become a reflex.
+“Thank you.”
 
-We ran pilots.
+We measured.
 
-Three neighborhoods.
+Passive only.
 
-One affluent inner district.
+Nhal answered questions.
 
-One mixed.
+Not all.
 
-One outer district with chronic winter complaints.
+Some because she did not know.
 
-The new regulators worked.
+Some because she did not trust us.
 
-Not perfectly.
+Some because the answer required concepts our language did not yet contain.
 
-Two stuck.
+I respected all three categories.
 
-One gauge froze.
+The lower system remained beyond her perception except where it touched her load.
 
-A child broke a protective cover with a rock because apparently infrastructure invites criticism from all ages.
+Her containment predated every human repair we had found.
 
-But distant pressure improved.
+The later repairs were exactly that.
 
-Fuel use dropped.
+Later.
 
-Manual operator interventions fell.
+People had built rooms around an older mechanism.
 
-More importantly, service variation between near and far buildings narrowed.
+Added walls.
 
-I looked for the hidden cost.
+Columns.
 
-There was one.
+Access passages.
 
-Installation required temporary branch shutdowns.
+Patched stone.
 
-Outer districts had less political tolerance for outages because residents already experienced worse service.
+Probably never understood the original relationship.
 
-Wonderful.
+Human civilization had inherited a surface and mistaken maintenance of the surface for knowledge of the foundation.
 
-To improve inequality, we had to impose more inconvenience on the people already absorbing it.
+That sentence would become important much later.
 
-We scheduled winter installation nowhere.
+At the time it mostly made me tired.
 
-Spring only.
+The technical specialist asked whether Nhal believed the increased left-side load would recover.
 
-That delayed benefits months.
-
-Still better.
-
-The union objected next.
-
-Not to the regulators.
-
-To what replacement meant for operator jobs.
-
-Manual balancing consumed labor hours.
-
-Automation reduced them.
-
-A district accountant called that savings.
-
-The union called it layoffs.
-
-Both were describing the same line differently.
-
-I sided with the union on one part and the redesign on the other.
-
-People hated that too.
-
-“No forced reduction tied to the first deployment cycle,” I said.
-
-The accountant frowned.
-
-“Then there is no labor savings.”
-
-“Not immediately.”
-
-“Which weakens the business case.”
-
-“Then your business case was partly workers losing jobs.”
-
-Silence.
-
-Good.
-
-Not accusation.
-
-Arithmetic.
-
-The union representative, Mara Venn, looked at me.
-
-“Greg, if the system needs fewer people, pretending otherwise won’t save them forever.”
-
-“I know.”
-
-“Then what are you proposing?”
-
-“Use reduced balancing hours for inspection backlog and training while attrition changes staffing naturally.”
-
-The accountant said, “That costs more.”
-
-“For a while.”
+“Yes.”
 
 “How long?”
 
-“Depends.”
+“Years.”
 
-He hated me.
+He went pale.
 
-Reasonable.
+Nhal noticed.
 
-We built the transition estimate.
+“Perhaps fewer.”
 
-Two years.
+“That is not comforting.”
 
-Maybe three.
+“It was not intended to be.”
 
-Retirements.
+I liked her.
 
-Open vacancies.
+Still.
 
-Training transfers.
+Mael finished the official questions.
 
-No guarantee.
+Then did something I did not expect.
 
-Better than surprise layoffs disguised as efficiency.
+He bowed his head.
 
-That argument followed me home because money had stopped being theoretical there too.
+Not deeply.
 
-Four people cost more than two.
+Not ceremonial.
 
-This should not have surprised me.
+Respect.
 
-It did anyway.
+“We will not attempt another transfer.”
 
-Shoes appeared to reproduce only when too small.
+Nhal studied him.
 
-Food vanished faster than expected.
+“You say that now.”
 
-Healer visits happened in clusters.
+“I say it as expedition lead.”
 
-One child needed something the same week the other destroyed something.
+“Your successors may be stupider.”
 
-Nessa and I both worked.
+“Likely.”
 
-We were not poor.
+Arcrutus made a sound.
 
-We were also no longer able to pretend every professional choice affected only the professional person making it.
+Mael ignored him.
 
-So when the accountant called two years of protected staffing “expensive transition,” I understood him.
+“We will record the site as active foundational hazard and restrict access.”
 
-Transitions are expensive.
-
-That does not make surprise cheaper for the person receiving it.
-
-The bigger fight came from veteran operators.
-
-They did not trust the regulators.
-
-Some for good reasons.
-
-Some because the old method was theirs.
-
-I understood that too well.
-
-At East Four, an older operator named Kelson told me, “You are replacing judgment with brass.”
+“Will that stop humans?”
 
 “No.”
 
-“Then why install it?”
+Good answer.
 
-“Because judgment is currently compensating for a distribution problem we can reduce physically.”
+Nhal’s mouth moved in what might have been amusement.
 
-“Machines fail.”
+“Then perhaps you are learning.”
 
-“Yes.”
+We should have left then.
 
-“People see things.”
+We almost did.
 
-“Yes.”
+The others began packing instruments.
 
-“So?”
+I stayed at the railing.
 
-“So people should spend judgment on failures, not manually recreate balance every morning because the network is badly tuned.”
+Nhal looked at me.
 
-He stared.
-
-“You sound like the capital.”
-
-Cruel.
-
-I survived.
-
-The strongest objection came from Tova.
-
-Of course.
-
-She had spent decades warning me not to touch old infrastructure just because a new method looked cleaner.
-
-Now I was advocating broad replacement.
-
-“What changed?” she asked.
-
-“Evidence.”
-
-“Specific.”
-
-“Distribution inequity. Fuel loss. Pilot reliability. Repairability. Known failure modes.”
-
-“Unknown ones?”
+“You have another question.”
 
 “Yes.”
 
-“Then why broad rollout?”
+“Many.”
 
-“Because the old method has known harm too.”
+“Yes.”
 
-She nodded once.
+“Choose one.”
+
+Unfair.
+
+I thought about the lower system.
+
+Pava.
+
+The black lines.
+
+Everything I did not know.
+
+Then asked the wrong question.
+
+“Can you ever leave?”
+
+Nhal became still.
+
+Not offended.
+
+Not hopeful.
+
+Old.
+
+“I do not know.”
+
+I nodded.
+
+That was enough.
+
+Then she asked, “Why did you come here?”
+
+“Today?”
+
+“No.”
+
+I looked at Arcrutus.
+
+He was pretending not to listen.
+
+“Kidnapped.”
+
+Nhal’s eyes moved to him.
+
+“I suspected.”
+
+Arcrutus looked offended.
+
+I continued.
+
+“I wanted the expedition. I was denied.”
+
+“Why?”
+
+“They had three S-class humans already.”
+
+Nhal looked around the chamber.
+
+“Did that help?”
+
+Mael laughed.
+
+Actual laugh.
+
+Short.
+
+Painful.
+
+Arcrutus pointed at Nhal.
+
+“I like her.”
+
+“You like anyone who insults institutions,” I said.
+
+“Correct.”
+
+Nhal returned her attention to me.
+
+“You are not like them.”
+
+“The S-class?”
+
+“Yes.”
+
+“No.”
+
+“Yet they arranged themselves around you when the system failed.”
+
+I did not answer.
+
+That image bothered me.
+
+Two of the strongest humans alive taking positions where I told them because I could see how their strength fit together.
+
+Pava had too.
+
+Before.
+
+Nhal said, “You think that means you are weaker.”
+
+“I am weaker.”
+
+“Personally.”
+
+“Yes.”
+
+“Humans enjoy measuring the container and ignoring the network.”
+
+I looked at her bands.
+
+“Rich criticism from you.”
+
+Her teeth showed.
+
+Arcrutus laughed again.
+
+Good.
+
+The room needed one.
+
+Nhal shifted her head toward the dark below.
+
+“There are structures older than your categories.”
+
+“I noticed.”
+
+“There are beings who understand them better than I do.”
+
+That got my attention.
+
+“Who?”
+
+Nhal watched me for a long time.
+
+Then looked at the black lines around us.
+
+Maybe deciding something.
+
+Maybe regretting it already.
+
+“One will listen if you reach him correctly.”
+
+“Who?”
+
+She gave me a name.
+
+Not Ithar.
+
+Not the sound humans later used.
+
+Something underneath it.
+
+A hidden name built from a sequence I could barely hold in memory.
+
+The moment I heard it, part of my support-trained mind recognized structure in the sound.
+
+Boundary.
+
+Permission.
+
+Direction.
+
+A name that was also an access condition.
+
+Ithar moved in the present cave.
+
+Not small this time.
+
+His head rose.
+
+Stone grated beneath one foreclaw.
+
+“I remember that name,” he said.
+
+“I assumed.”
+
+“You did not speak it in Record Two.”
+
+“No.”
+
+“Good.”
+
+The word held more weight than praise.
+
+Back beneath Vey, Nhal continued.
+
+She gave me a route.
+
+Not a map.
+
+A sequence of places and conditions.
+
+Where to begin.
+
+What not to carry.
+
+Which boundary must be crossed without force.
+
+What sign meant turn back.
+
+How to ask for entry without pretending entry was owed.
+
+Some of it made no sense for years.
+
+Some of it only made sense when the western Line began failing in my second life.
+
+“Why give me this?” I asked.
+
+Nhal looked at my hands.
+
+“You ask where cost goes.”
+
+“That is enough?”
+
+“No.”
+
+“What else?”
+
+“You listened when the answer was I do not know.”
+
+That surprised me.
+
+She continued.
+
+“And you understand that a boundary is not only a wall.”
+
+The words landed somewhere deep.
+
+Barrier.
+
+Draw.
+
+Links.
+
+Consent.
+
+Load.
+
+Nhal.
+
+Everything I had built from one cheap spell suddenly looked like one long argument with the same idea.
+
+“What will he do?” I asked.
+
+“I do not know.”
+
+“Will he help?”
+
+“I do not know.”
+
+“Does he like humans?”
+
+Nhal looked amused.
+
+“Poor question.”
+
+Fair.
+
+“What does he care about?”
+
+“That is for him.”
+
+“Then what exactly are you giving me?”
+
+“A door.”
+
+“Not an answer.”
+
+“No.”
+
+Good.
+
+I carried the gift out of Vey and did not use it for years.
+
+That was the strange part.
+
+People expect gifts in stories to matter immediately.
+
+Sword arrives.
+
+Sword kills something.
+
+Key arrives.
+
+Door opens.
+
+Knowledge can sit quietly inside a person for decades before the question appears that makes it useful.
+
+We left Nhal there.
+
+I need to say that plainly.
+
+We left her trapped.
+
+Not because we stopped caring.
+
+Because caring did not make us capable of freeing her safely.
+
+That was one of the hardest professional decisions of my first life.
+
+Maybe personal too.
+
+We sealed the upper access differently.
+
+Not hidden completely.
+
+Protected.
+
+Recorded.
+
+Restricted at Authority level.
+
+We left monitoring instruments at distances that did not load the system.
+
+We wrote warnings that sounded dramatic because the truth was dramatic.
+
+DO NOT ALTER BANDS.
+
+DO NOT INTRODUCE ACTIVE PRESSURE WITHOUT S-LEVEL AUTHORIZATION AND SITE-SPECIFIC REVIEW.
+
+SYSTEM LOAD EXTENDS BEYOND MAPPED COMPLEX.
+
+LIVING OCCUPANT IS INTEGRATED INTO LOAD PATH.
+
+That last sentence took six hours of argument.
+
+Not because it was inaccurate.
+
+Because institutions dislike sentences that change what kind of problem they own.
+
+We returned to the surface.
+
+Then to hearings.
+
+Statements.
+
+Measurements.
+
+Pava’s death review.
+
+Months of people asking whether one different decision would have saved her.
+
+Some questions were good.
+
+Some were grief wearing a technical coat.
+
+The finding did not blame Pava.
+
+Did not blame Mael.
+
+Did not blame me.
+
+Did not call the event unavoidable either.
+
+Incomplete model.
+
+Unobserved delayed lower-system response.
+
+Temporary intervention path became load-bearing route.
+
+Future active manipulation prohibited pending foundational understanding.
+
+Accurate.
+
+Unsatisfying.
+
+That is often what truth looks like after people die.
+
+Then came the classification fight.
+
+I wanted none of it.
+
+This was not humility.
+
+I was tired.
+
+Pava was dead.
+
+A letter beside my name felt obscene.
+
+Mael disagreed.
+
+So did Arcrutus.
+
+The Authority review panel asked whether my support performance at Vey exceeded A-class criteria.
+
+I said, “Probably.”
+
+Mael said, “Yes.”
+
+Arcrutus said, “Obviously.”
+
+The panel liked their answers more.
+
+One reviewer asked whether the death created an opening among the Seven.
+
+Mael’s face went cold.
+
+“No.”
+
+The reviewer corrected immediately.
+
+“I mean numerically.”
+
+“I know what you meant.”
+
+There were six living S-class humans.
+
+That fact created political pressure.
+
+It did not create capability in me.
+
+Arcrutus leaned forward.
+
+“If Pava had lived, Greg would still have done S-class work under Vey.”
+
+The reviewer said, “He was supporting S-class personnel.”
+
+“Yes.”
+
+“That does not automatically make the support S-class.”
+
+“Correct.”
+
+Arcrutus smiled.
+
+Dangerous.
+
+“So measure what happened.”
+
+They did.
+
+Not my destructive output.
+
+Embarrassing.
+
+Not my solo reinforcement.
+
+Also embarrassing.
+
+Not how long I could stand inside an S-class impact without help.
+
+Very embarrassing.
+
+They measured what the expedition became when I was attached.
+
+Pava held relations longer before the failure.
+
+Mael redistributed forces his body normally had to absorb alone.
+
+Arcrutus used himself as structure repeatedly without accumulating the expected damage.
+
+After Pava died, I maintained a moving multi-person support network under a foundational load event that had just killed an S-class human.
+
+I kept two surviving S-class humans, ordinary expedition personnel, and the retreat route functional while managing a live relation with Nhal’s containment.
+
+The panel could call that A-class if it wanted.
+
+Eventually the letter became dishonest.
+
+I was recognized S-class in support.
+
+Not warrior.
+
+Never warrior.
+
+Support.
+
+There were seven again.
+
+I hated that sentence.
+
+Pava had not died to make room for me.
+
+The Authority did not keep a quota.
+
+For a while there had been six.
+
+Then the system finally admitted what I had demonstrated and there happened to be seven living humans it called S-class again.
+
+History enjoys neat numbers more than life does.
+
+Mael attended the recognition.
+
+Arcrutus attended because free food had been provided.
+
+He claimed.
+
+Afterward he handed me a small bag of cashews.
+
+I stared at it.
+
+“Really?”
+
+“Yes.”
+
+“Is this a joke?”
+
+“Yes.”
+
+“About what?”
+
+“You will figure it out.”
+
+I never did.
+
+Or there was no joke.
+
+With Arcrutus those possibilities remained equally likely.
+
+Present Ithar had gone very still.
+
+Not listening-still.
+
+Thinking-still.
+
+I knew the difference by then.
+
+Finally he said, “You met Nhal at forty-eight or forty-nine.”
+
+“Yes.”
+
+“In your first life.”
+
+“Yes.”
+
+“The containment was already ancient.”
+
+“Yes.”
+
+“Before the histories diverged.”
 
 There it was.
 
-Not agreement.
-
-Recognition.
-
-Old systems do not become neutral because their failure modes are familiar.
-
-That was the trap.
-
-I had nearly fallen into it.
-
-We approved phased replacement.
-
-Not universal.
-
-District by district.
-
-Outer chronic-loss areas first.
-
-Then mixed zones.
-
-Inner districts later unless their failure data justified earlier work.
-
-Political nightmare.
-
-Affluent districts complained they paid more tax and were receiving later upgrades.
-
-Poorer districts complained they had been used as test beds for years and now deserved more than first installation headaches.
-
-Both had arguments.
-
-No schedule erased resentment.
-
-The first full season after rollout showed improvement.
-
-Fuel down.
-
-Complaint variance down.
-
-Outer-branch heat stability up.
-
-Maintenance calls changed rather than disappeared.
-
-Regulator cleaning.
-
-Gauge checks.
-
-Spring calibration.
-
-Different work.
-
-Not less work exactly.
-
-More predictable.
-
-Kelson admitted this by saying, “I still don’t like them.”
-
-High praise.
-
-The trade paper ran another headline.
-
-VALE BACKS REGION-WIDE MODERNIZATION AFTER EARLIER AUTOMATION OPPOSITION.
-
-Nessa read it aloud at breakfast.
-
-Our son was trying to cut bread with the wrong side of a spoon.
-
-Our daughter had somehow acquired my folded copy of the earlier conservative headline.
-
-She held one in each hand.
-
-Nessa looked at the papers.
-
-“You contain multitudes.”
-
-“I contain breakfast.”
-
-“You’re a radical now.”
-
-“I am nothing.”
-
-“Very compelling political platform.”
-
-“I opposed one machine and supported another.”
-
-“Nuance.”
-
 “Yes.”
 
-“Terrible for newspapers.”
+His eyes narrowed.
 
-She was right.
-
-People wanted consistency of identity.
-
-Pro-innovation.
-
-Anti-innovation.
-
-Labor.
-
-Management.
-
-Old school.
-
-Modernizer.
-
-The work kept refusing.
-
-My children refused too.
-
-The son who needed me beside him every night for a month suddenly announced I was not allowed to help with his boots.
-
-My daughter, who had rejected being carried for weeks, fell asleep on my chest the same evening.
-
-Human systems are inconvenient for categories.
-
-Sometimes preserving an old system was disciplined caution.
-
-Sometimes preserving it was fear with a maintenance history.
-
-Sometimes replacing it was reckless.
-
-Sometimes replacement was the conservative act because known harm had become more expensive than transition risk.
-
-There was no permanent side.
-
-Only mechanisms.
-
-Evidence.
-
-Costs.
-
-People.
-
-Ithar said, “You are very interested in describing the regulator.”
-
-“It mattered.”
-
-“I did not say it did not.”
-
-I knew that tone by then.
-
-“What?”
-
-“You remember which twin changed his mind about boots.”
-
-I looked away.
-
-“Also relevant.”
-
-“To pressure balancing?”
+“In this history, the expedition did not reach her.”
 
 “No.”
 
-“To you?”
+“Then the containment did not cease.”
 
-Annoying dragon.
+I said nothing.
+
+He had reached it himself.
+
+Nhal was not merely a story from a dead timeline.
+
+She was under the salt flats now.
+
+Maybe still carrying the same load.
+
+Maybe carrying more.
+
+Maybe alive.
+
+Maybe not.
+
+Ithar’s claws pressed into the stone.
+
+“Why did you not begin with this?”
+
+“I did.”
+
+His head turned sharply.
+
+“Record Two,” I said. “I told you her name. I told you she was trapped. You said you were not asking for the whole story yet.”
+
+Silence.
+
+Then Ithar closed his eyes.
+
+“Correct.”
+
+Dragons admitting error should be preserved in museums.
+
+I did not say that.
+
+His eyes opened.
+
+“The western Line.”
 
 “Yes.”
 
-The public argument had been about whether I was conservative or radical.
+“Nhal’s load system.”
 
-The private truth was less tidy.
+“Yes.”
 
-I had built a life full of things I did not want reduced to slogans.
+“You believe they are related.”
 
-A wife.
+“I believe they rhyme.”
 
-Two children.
+“That is not engineering.”
 
-A business.
+“No.”
 
-People whose jobs mattered because their rent did.
+“Explain.”
 
-Neighborhoods whose service mattered because somebody woke cold when it failed.
+“Boundaries. Load transfer. Ancient infrastructure humans maintain from the surface without understanding the foundation. Failure appearing somewhere other than where cost originates.”
 
-Evidence did not make those decisions emotionless.
+Ithar looked toward the cave wall as though he could see through miles of earth.
 
-It made the costs harder to hide.
+“Nhal may still be there.”
 
-I could live with that.
+“Yes.”
+
+That was the first time his problem and mine became the same shape.
+
+Not the same motive.
+
+I wanted the Line to stop failing because people lived on it.
+
+Ithar had never pretended anonymous human scale obligated him.
+
+But I had finally named someone who did.
+
+Nhal.
+
+He looked back at me.
+
+“And after losing your family, you used what you learned at Vey to become something else.”
+
+There it was.
+
+The reason we had taken this detour through my first life.
+
+Power.
+
+What I meant when I said I needed it.
+
+“Yes.”
+
+I looked down at my ruined leg.
+
+“But before that,” I said, “you need the onions.”
+
+Ithar stared at me.
+
+“The what?”
+
+“The onions.”
+
+“No.”
+
+“Yes.”
+
+“You have just told me an ancient being may remain trapped inside foundational machinery and you want to discuss vegetables.”
+
+“Correct.”
+
+“Why?”
+
+“Because otherwise you will misunderstand what I lost.”
+
+That stopped him.
+
+Good.
+
+Finally.
