@@ -1,560 +1,753 @@
 ## RECORD 075
 
-## THE REVISER
+## THE NETWORK
 
-Changing a procedure turned out to be more work than writing the wrong one.
+The first test lasted eleven seconds.
 
-That felt unfair.
+That was enough to change three careers and nearly ruin one forearm.
 
-The shared-return correction should have been simple.
+Good morning.
 
-Old sequence wrong in one condition.
+We began after food.
 
-New sequence better.
+Not because anyone was hungry.
 
-Replace card.
+Because Mael refused to let people attempt ancient-system interventions on empty stomachs.
 
-Continue civilization.
+Leadership is often less glamorous than history prefers.
 
-No.
+Pava ate with both hands.
 
-The old sequence lived in seven districts.
+That was the first thing I checked.
 
-Four contractor manuals.
+She noticed.
 
-Two licensing packets.
+“Better.”
 
-At least one station had copied it onto a wall in paint.
+“Good.”
 
-I found that one personally.
+“You sound disappointed.”
 
-East Bell pump hall.
+“I enjoy being unnecessary.”
 
-STOP.
+“No you don’t.”
 
-LOOK.
+Fair.
 
-ASK.
+Nhal watched from the pit.
 
-MEASURE.
+Her head rested on crossed forelimbs.
 
-Then my obsolete isolation order in letters six inches high.
+The black bands over her shoulders rose and fell with each breath.
 
-I stared at it.
+She looked like a giant cat pretending not to care about a room full of people rearranging instruments around her prison.
 
-The operator beside me said, “You wrote that.”
+The tail ruined the comparison.
 
-“I know.”
+So did the face.
 
-“Want me to paint over it?”
+Mael reviewed the sequence.
 
-“Yes.”
+No improvisation.
 
-“Maintenance request.”
+No extension beyond planned duration.
 
-“What?”
+Pava establishes counterpressure against one lateral route.
 
-“Wall paint is facilities.”
+Technical crew measures change at three points.
 
-I hated institutions.
+Mael takes structural recoil only if called.
 
-Correctly, in this case.
+I maintain a release boundary around Pava’s path and the nearby stone.
 
-We filed the request.
+Arcrutus stands physical arrest at the gallery support.
 
-The wall remained wrong for nine days.
-
-So we hung paper over it.
-
-The paper fell twice.
-
-Knowledge management.
-
-The revision committee met at South Fen because nobody trusted the capital to understand what an isolation valve looked like anymore.
-
-That was unfair to the capital.
-
-Probably.
-
-Tova chaired.
-
-Tomas attended.
-
-Hali.
-
-Three district operators.
-
-Two licensing officers.
-
-A union representative.
-
-One contractor besides us.
-
-And an engineer named Bel who had the unsettling habit of asking what evidence would falsify every confident statement.
-
-I liked her immediately.
-
-Then less.
-
-Then more.
-
-The first argument was not technical.
-
-It was about scope.
-
-“Do we revise only shared-return isolation?” one licensing officer asked.
-
-“Yes,” I said.
-
-Bel said, “Why?”
-
-“Because that is the identified failure.”
-
-“Your near miss also involved outdated site records.”
-
-Different problem.
-
-“Already addressed elsewhere.”
-
-“Is it?”
-
-She had three reports.
-
-Of course.
-
-Two sites still using obsolete diagrams after field modifications.
-
-One where the correct revision existed but had not reached the contractor copy.
-
-The union representative said, “If we open the whole procedure set, this takes six months.”
-
-Tova nodded.
-
-“And during six months, shared-return hazard remains.”
-
-There it was.
-
-Improvement has sequencing too.
-
-We narrowed scope.
-
-Shared returns now.
-
-Record control later.
-
-Not because records mattered less.
-
-Because trying to repair everything at once would delay the thing already shown to hurt someone.
-
-That lesson repeated in life often enough to become annoying.
-
-It also followed me home.
-
-The week the committee began, one of the twins had a cough.
-
-Not a dangerous cough.
-
-The kind healers call ordinary after they have slept normally and are not the ones listening to it at two in the morning.
-
-Nessa and I had three things we wanted to fix at once.
-
-Sleep.
-
-The cough.
-
-Our daughter’s sudden refusal to eat anything shaped like a circle.
-
-We solved none of them completely.
-
-We solved what mattered first.
-
-Fluids.
-
-Rest.
-
-Healer if the breathing changed.
-
-Everything else later.
-
-I did not tell the revision committee that childcare had improved my scope discipline.
-
-Professional dignity has limits.
-
-The technical revision took two days.
-
-The deployment took eleven weeks.
-
-First we had to identify every current copy.
-
-Impossible.
-
-So we identified every official copy.
-
-Different sentence.
-
-Then every licensed contractor required to use it.
-
-Then every training provider.
-
-Then active apprentices.
-
-Then inspectors.
-
-Then station leads.
-
-Then somebody asked about translated versions in the border districts.
-
-Of course.
-
-There were two.
-
-One translated badly.
-
-The phrase return pressure became backward pressure, which sounded reasonable until an operator interpreted it as directional flow rather than pressure source.
-
-We fixed that too.
-
-The old procedure had traveled farther than I knew.
-
-That was flattering for about four seconds.
-
-Then terrifying.
-
-Influence becomes responsibility after distribution.
-
-Nobody puts that on the first publication page.
-
-We issued three things.
-
-A revised pocket card.
-
-A technical note explaining why.
-
-A withdrawal notice listing obsolete versions.
-
-I wanted the technical note long.
-
-Everyone stopped me.
-
-Tomas wrote the first draft.
-
-Two pages.
-
-Hali cut it to one.
-
-Bel added one diagram.
-
-Tova removed my historical paragraph.
-
-“It explains provenance.”
-
-“It explains your feelings.”
-
-“History matters.”
-
-“Put it in the archive.”
-
-Cruel woman.
-
-She was right.
-
-The field note read:
-
-OBSERVED CONDITION:
-shared or uncertain return connections may rebuild pressure after local branch closure.
-
-RISK:
-downstream zero reading can become invalid before access begins.
-
-REVISED ACTION:
-measure return condition before closure; isolate or monitor shared return as site requires; verify both sides after closure.
-
-EVIDENCE:
-six observed sites; one near miss; no injuries.
-
-LIMIT:
-not validated for all legacy return geometries.
-
-That last line mattered most to me.
-
-Not validated for all.
-
-No pretending the new thing was final because it corrected the old thing.
-
-We sent it.
-
-Then discovered sending was not adoption.
-
-One district replaced cards immediately.
-
-Another waited for monthly training.
-
-A contractor acknowledged receipt and changed nothing because the supervisor put the notice in a drawer.
-
-One station lead crossed out the old line by hand and wrote SEE NEW CARD in red.
-
-Good enough.
-
-Another station kept both cards on the wall.
-
-Not good enough.
-
-We built a receipt system.
-
-Of course we did.
-
-NOTIFY.
-
-ACKNOWLEDGE.
-
-REMOVE OLD.
-
-TRAIN IF NEEDED.
-
-CONFIRM FIELD USE.
-
-Five steps.
-
-Too many.
-
-Necessary.
-
-The union representative insisted training time be paid.
-
-Correct.
-
-One district objected to cost.
-
-Also predictable.
-
-Workers reading revised safety procedures are working.
-
-That sentence took a meeting.
-
-We won.
-
-Not morally.
-
-Contractually.
-
-Better.
-
-The meeting that settled it was scheduled after dinner.
-
-I declined the first date.
-
-The district clerk sounded surprised.
-
-“You have a conflict?”
-
-“Yes.”
-
-“What?”
-
-“Home.”
-
-Silence.
-
-A few years earlier I would have invented a more respectable answer.
-
-Existing client work.
-
-Medical appointment.
-
-Prior professional commitment.
-
-Something that sounded immovable because work respects work more easily than it respects a family eating together.
-
-Instead I said home.
-
-They moved the meeting one day.
-
-Civilization survived again.
-
-The most useful deployment failure happened at Market Five.
-
-Supervisor acknowledged the revision.
-
-Removed old cards.
-
-Briefed crew.
-
-Perfect.
-
-Three weeks later a night contractor arrived with his own laminated copy of the old procedure.
-
-Personal copy.
-
-Not official.
-
-Nobody had thought about personal copies.
-
-He followed it until a station hand stopped him.
-
-No incident.
-
-The station hand was twenty-three.
-
-Name I did not know.
-
-She had learned the revision in shift briefing.
-
-That was the system working.
-
-Not because every bad document vanished.
-
-Because knowledge existed in more than one person.
-
-We added obsolete version numbers to the top of future withdrawal notices.
-
-People could identify bad copies without trusting memory.
-
-Bel looked pleased.
-
-I asked why.
-
-“Error produced design.”
-
-“Do not sound happy about errors.”
-
-“I am happy about learning.”
-
-“Same face.”
-
-She smiled.
-
-Months later the licensing board updated the practical exam.
-
-Candidates now received one drawing and one revision notice.
-
-They had to reconcile them before work.
-
-Dalen Marr heard about that and sent me a note.
-
-YOU’RE WELCOME.
-
-Asshole.
-
-I kept it.
-
-The shared-return revision eventually became normal.
-
-That is the strange part.
-
-At first everyone talked about it.
-
-Greg’s old rule.
-
-Tomas’s objection.
-
-South Fen review.
-
-Near miss.
-
-Then new workers arrived who had never known the previous sequence.
-
-For them the revised order was simply how the job was done.
-
-No drama.
-
-No story.
-
-Just normal work.
-
-That is one of the best things a correction can become.
-
-Boring.
-
-At home the same thing happened faster.
-
-The twins grew into rules that had once required discussion.
-
-Shoes by the door.
-
-Cup at the table.
-
-One story each, not four stories total because apparently that distinction mattered greatly.
-
-Tell somebody before climbing the shelf.
-
-Do not feed the other twin something you found outside.
-
-The rules stopped feeling invented.
-
-They became how our house worked.
-
-Some were good.
-
-Some changed.
-
-Some turned out to have been written for a younger child and became ridiculous six months later.
-
-Parenthood had version control too.
-
-Nobody labeled it properly.
-
-Years later I saw a trainee teach the revised isolation sequence at a station I had never visited.
-
-She got one phrase wrong.
-
-Not dangerously.
-
-I almost corrected her.
-
-Her instructor did first.
+He still hated the phrase.
 
 Good.
 
-I kept walking.
+If anything changes outside modeled range, everyone releases in order.
 
-The system no longer required me to hear every mistake.
+Pava.
 
-That was the point.
+Me.
 
-Hard point.
+Mael.
 
-Still the point.
+Arcrutus only if the structure itself moves.
 
-Old Greg liked being necessary.
+Nhal said, “You have created a ritual around touching one thread.”
 
-First-life Greg had built an entire identity around being necessary at impossible places.
+“Yes,” Mael said.
 
-Second-life Greg spent years building things that worked when he was somewhere else.
+“Good.”
 
-A crew.
+Praise from ancient prisoners is dangerous for morale.
 
-A procedure.
+Pava stepped to the mark.
 
-A household routine.
+I stood two paces behind and left.
 
-Children who could eventually do things without asking me.
+Close enough to catch her release.
 
-I did not always enjoy the proof.
+Far enough not to become part of her technique by accident.
 
-Ithar said, “You describe absence as success now.”
+Mael planted both feet against the raised rib.
 
-“Sometimes.”
+No dramatic stance.
 
-“You spent your first life making absence impossible.”
+He looked like a man waiting for a bus that weighed a mountain.
 
-I looked at him.
+Arcrutus leaned one shoulder against the gallery brace.
 
-“That sounds judgmental.”
+Casual.
 
-“It was descriptive.”
+Too casual.
 
-“Worse.”
+The technical crew counted down.
 
-He waited.
+“Three.”
 
-I thought about the station hand whose name I never learned.
+Pava inhaled.
 
-The twins putting their own shoes by the door.
+“Two.”
 
-Nessa attending a meeting without leaving me a list of every household thing that could happen while she was gone.
+Her right hand closed around the rod.
 
-Being needed was good.
+“One.”
 
-Being the only person who could keep a system alive was not always the same thing.
+Contact.
 
-It took me two lives to stop confusing them.
+The chamber changed.
+
+Not visibly.
+
+Pressure came up through the rod and into Pava’s arms.
+
+She redirected it left.
+
+The lateral black line beneath Nhal’s shoulder answered.
+
+For one heartbeat the band over her shifted less.
+
+That was all.
+
+Then recoil arrived.
+
+I caught it.
+
+Barrier had begun as a cheap spell for rain, dust, blood, sex, and other things people preferred on one side of a boundary.
+
+By then I could make the boundary care about stranger things.
+
+Not stop the recoil.
+
+Stopping was too expensive.
+
+Decide where it was allowed to cross.
+
+Pava’s forearm wanted to take the whole return.
+
+I widened the route.
+
+Stone.
+
+Floor.
+
+A fraction into Mael’s prepared reinforcement.
+
+He grunted.
+
+Not pain.
+
+Information.
+
+The recoil spread.
+
+Pava’s hand stayed steady.
+
+She looked back at me.
+
+“Do not look at me,” I said.
+
+“Why?”
+
+“Because you are working.”
+
+She smiled.
+
+Asshole.
+
+“Six seconds,” the specialist called.
+
+The black line shifted.
+
+Pava adjusted.
+
+I adjusted with her.
+
+That was the first surprise.
+
+I had expected to catch her release.
+
+Instead I could feel her intent before the release happened.
+
+Not mind reading.
+
+Structure.
+
+Her pressure route changed shape.
+
+The load announced where it wanted to go.
+
+I made room.
+
+Eight seconds.
+
+Nhal’s eye opened.
+
+Nine.
+
+The band moved half an inch.
+
+The entire chamber tightened.
+
+Ten.
+
+“Release,” Mael said.
+
+Pava released.
+
+I opened the boundary wider.
+
+Recoil crossed into floor, wall, Mael, then back into the system in a shallow wave.
+
+Eleven.
+
+Nothing broke.
+
+Everyone remained alive.
+
+Excellent science.
+
+Pava stared at her hand.
+
+No shake.
+
+Then at me.
+
+“What did you do?”
+
+“Made your mistake everybody’s problem.”
+
+Mael looked offended.
+
+“Poor wording.”
+
+“Accurate wording.”
+
+Nhal made a sound.
+
+I realized she was laughing.
+
+Not loudly.
+
+A rough vibration through the pit.
+
+Pava flexed her fingers again.
+
+“My arm should hurt.”
+
+“Does it?”
+
+“Yes.”
+
+“Then success.”
+
+“Less.”
+
+“Also success.”
+
+Mael looked at me.
+
+“How much did you take?”
+
+“Almost none.”
+
+“Then where did it go?”
+
+I pointed.
+
+Everywhere.
+
+Not literally.
+
+Enough places that no one place became the failure.
+
+That was the whole profession eventually.
+
+The technical specialist checked gauges.
+
+Local stone load had risen four percent for two seconds.
+
+Mael had taken a sharp reinforcement spike but no joint strain.
+
+Pava’s rod channel had carried less recoil than predicted.
+
+The target line under Nhal’s shoulder had shifted eleven percent before returning.
+
+Eleven seconds.
+
+Tiny change.
+
+Huge information.
+
+Nhal said, “Again.”
+
+Mael looked at her.
+
+“You criticized the ritual.”
+
+“I criticize many useful things.”
+
+I liked her.
+
+Pava said, “Again.”
+
+Mael looked at Pava’s hand.
+
+Then at me.
+
+“Not now.”
+
+Two people became annoyed simultaneously.
+
+Leadership.
+
+We spent three hours measuring the consequences of eleven seconds.
+
+This was less exciting.
+
+Also more important.
+
+The lateral route recovered slowly.
+
+No hidden pressure spike appeared above.
+
+Two lines in another chamber changed phase.
+
+One human repair near the upper passage warmed slightly.
+
+That last one bothered everyone.
+
+Our tiny intervention had reached hundreds of feet away.
+
+Coupled system.
+
+Confirmed.
+
+Good and bad.
+
+Nhal said nothing while we worked.
+
+Her gaze followed me occasionally.
+
+I pretended not to notice.
+
+Ancient beings and S-class humans share one dangerous trait.
+
+Attention from them tends to become work.
+
+The second test happened the next day.
+
+Different route.
+
+Different geometry.
+
+Same eleven-second ceiling.
+
+This time Mael asked me to connect him deliberately before Pava began.
+
+Not mana.
+
+Load relation.
+
+I built the boundary between his reinforcement and Pava’s recoil path.
+
+He looked at the spellwork.
+
+“Thin.”
+
+“Cheap is good.”
+
+“Thin breaks.”
+
+“Thick fights the system.”
+
+He considered.
+
+Then nodded.
+
+Trust from Mael came in units small enough to measure with precision instruments.
+
+Pava started.
+
+Recoil came harder.
+
+Mael took it.
+
+Not all.
+
+Never all.
+
+His legs loaded through the floor.
+
+The stone under his left heel cracked.
+
+I moved three percent of the return into a second route before the crack propagated.
+
+Arcrutus caught the brace when it shifted.
+
+His hand closed around a stone support thicker than my torso.
+
+The support stopped moving.
+
+Not because Arcrutus had frozen it magically.
+
+Because he had become the better structure.
+
+For four seconds.
+
+Four seconds was plenty.
+
+The technical crew reset their anchor.
+
+Pava released.
+
+I handed recoil into Mael, floor, new anchor.
+
+Arcrutus let the brace settle.
+
+Eleven seconds.
+
+Again.
+
+Safe.
+
+Mostly.
+
+Mael looked at the cracked floor.
+
+“Why there?”
+
+“Your left side took more.”
+
+“I was balanced.”
+
+“You were.”
+
+“Then?”
+
+“Your knee.”
+
+He stared at me.
+
+The clicking one.
+
+Tiny compensation.
+
+Not weakness.
+
+Body adapting around old damage.
+
+His stance looked symmetrical.
+
+His load was not.
+
+Mael glanced down at his knee.
+
+Then back at me.
+
+“You saw that from two tests?”
+
+“I heard it on the surface.”
+
+Pava laughed.
+
+Mael did not.
+
+“Can you correct it?”
+
+“Yes.”
+
+“Should you?”
+
+Good question.
+
+“Not automatically.”
+
+“Why?”
+
+“Because your body has been solving that knee longer than I have been standing beside you. If I flatten the compensation without understanding what else it protects, I may improve the wrong thing.”
+
+Mael’s expression changed.
+
+Approval.
+
+Tiny.
+
+Annoyingly effective.
+
+“Good.”
+
+One word.
+
+Still worked.
+
+Arcrutus said, “He is useful.”
+
+“I know,” Mael said.
+
+I looked between them.
+
+“You can discuss me when I leave.”
+
+“No,” Arcrutus said.
+
+“Why?”
+
+“Less fun.”
+
+Asshole.
+
+By the fourth test, the three S-class humans had stopped treating my support as something attached after their decisions.
+
+That mattered.
+
+Pava told me where she intended to send pressure before she moved it.
+
+Mael adjusted stance to give me cleaner structural routes.
+
+Arcrutus, horrifyingly, began asking where I wanted him.
+
+Not often.
+
+Enough.
+
+The first time, I thought I had misheard.
+
+“Say that again.”
+
+“No.”
+
+“Coward.”
+
+He smiled.
+
+We were not making them stronger.
+
+That is the lazy version people told later.
+
+Pava remained Pava.
+
+Mael remained Mael.
+
+Arcrutus remained an ass.
+
+Their reserves did not magically multiply.
+
+What changed was access.
+
+Pava could hold a pressure relation longer because her forearm stopped paying the full recoil cost.
+
+Mael could commit more force because I could keep one bad knee from becoming the reason the entire stance had to end.
+
+Arcrutus could become a temporary structural answer without taking every consequence through the same shoulder and spine path.
+
+They already had absurd capability.
+
+I made some of the reasons not to use it negotiable.
+
+That felt different to them.
+
+I could tell.
+
+S-class people know their ceilings intimately.
+
+Most have spent decades pressing against the same private limits.
+
+Hand.
+
+Joint.
+
+Channel.
+
+Recoil.
+
+Recovery.
+
+The exact second where another attempt becomes stupid.
+
+Then a support they had initially not needed moves the ceiling half a step.
+
+Pava became greedy first.
+
+“Again.”
+
+Always again.
+
+Mael pretended not to be greedy.
+
+He began asking for measurements that required another test.
+
+Same disease.
+
+Arcrutus had already been infected before the expedition.
+
+That was why I had been in the bag.
+
+Nhal watched them become worse.
+
+On the fifth day she said, “They like you.”
+
+“They tolerate me.”
+
+Pava, ten feet away, said, “We can hear you.”
+
+“I know.”
+
+Nhal’s eyes narrowed in amusement.
+
+“You reduce cost.”
+
+“Yes.”
+
+“No.”
+
+I waited.
+
+“You move cost.”
+
+Better.
+
+“Yes.”
+
+“Humans praise the reduction because they dislike seeing where consequence went.”
+
+That sentence landed unpleasantly.
+
+I looked at the network we had drawn in chalk.
+
+Every successful test had a destination.
+
+Stone warmed.
+
+Mael’s reinforcement spiked.
+
+My channels strained.
+
+Pava’s arm hurt less, not zero.
+
+Nothing vanished.
+
+Mana cycling never created mana.
+
+Load transfer never created absence.
+
+Someone or something paid.
+
+“What is paying for you?” I asked Nhal.
+
+She stopped smiling.
+
+“Some things below.”
+
+“What things?”
+
+“I do not know their names.”
+
+“Alive?”
+
+“I do not know.”
+
+“Do they know about you?”
+
+“I do not know.”
+
+That was three honest unknowns from a being older than our nations.
+
+I trusted them more than certainty.
+
+Mael joined us at the railing.
+
+“We have enough to report.”
+
+“Yes,” I said.
+
+Pava turned.
+
+“Enough to leave?”
+
+There it was.
+
+Nobody wanted to leave anymore.
+
+Not because we were reckless.
+
+Because we had found a solvable edge around an impossible problem.
+
+That is the most dangerous kind of discovery.
+
+Mael knew it.
+
+“We report,” he said. “Then decide.”
+
+Nhal closed her eyes.
+
+“You will decide to touch more.”
+
+Arcrutus said, “Probably.”
+
+Mael looked at him.
+
+“What?”
+
+“Honesty.”
+
+Nhal laughed again.
+
+We should have listened harder.
+
+Not because the next decision was obviously wrong.
+
+It was careful.
+
+Measured.
+
+Defensible.
+
+Those are the decisions that hurt most later.
+
+The next proposal was not to free Nhal.
+
+Not even close.
+
+It was to shift one larger load route long enough to map what lay below her.
+
+Thirty seconds.
+
+Maybe less.
+
+Three S-class humans.
+
+An A-class support.
+
+A prisoner who understood the system from inside.
+
+Every safety limit we knew how to write.
+
+It looked responsible on paper.
+
+That mattered.
+
+It just did not make the paper correct.
