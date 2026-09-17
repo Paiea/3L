@@ -32,6 +32,29 @@ Check:
 
 Preserve valid discovered story. If a structural split or merge is genuinely needed, treat it as an explicit manifest-order decision rather than silently renumbering later records.
 
+## Timeline reorientation
+
+3L may move associatively between the present Ithar cave, First Life, and Second Life. The transition does not need to be chronological. An object, phrase, person, or idea may carry Greg into another period when the connection is emotionally or causally useful.
+
+Greg owns the association. Ithar owns the coordinates.
+
+When a jump materially changes more than one timeline variable, re-anchor the reader quickly. Useful coordinates include:
+- which life
+- Greg's approximate age or career era
+- before or after a major marker such as Vey, S-class recognition, marriage, the twins, or the family catastrophe
+- whether Nessa or another central person is alive/present in that period
+- the physical present cave when the narration returns to Ithar
+
+The anchor may be one line. Do not turn every transition into a label card. If the context is already unmistakable, let it breathe. If several variables changed at once, prefer explicit orientation even when a careful reader could infer it.
+
+Ithar should reorient because he is genuinely reconstructing Greg's causal history, not because he becomes an exposition device. He may interrupt with questions such as which life, how old Greg was, whether an event happened before or after Vey, or whether Nessa and the children existed yet. His questions should sometimes reveal what he thinks matters.
+
+On a return to the present, restore the room as well as the date. A small physical cue from Ithar, Greg, the stone, the light, or Greg's current body is usually enough to make the cave real again.
+
+Associative links are encouraged. Onions may lead to household load, household load to fatherhood, fatherhood to Arcrutus, Arcrutus to Vey, Vey to Pava, and Pava to the empty S-class seat. The narrative may wander by meaning because Ithar periodically restores the coordinates.
+
+Do not withhold basic chronology merely to create mystery. Confusion is not depth. Deliberate uncertainty about causality, memory, or divergence is different and may remain unresolved when the story requires it.
+
 ## Layer 2 · Performance rehearsal
 
 Enact the record.
