@@ -1,541 +1,683 @@
 ## RECORD 071
 
-## THE RECRUITER
+## THE DESCENT
 
-The northern expedition did not happen in my second life.
+The passage was colder in the morning.
 
-Not like that.
-
-No bag.
-
-No Nhal.
-
-No three S-class monsters disappearing under the salt with me wedged between them wondering which part of the world was going to break first.
-
-Ithar watched me from across the cave.
-
-“You sound disappointed.”
-
-“I was kidnapped.”
-
-“That was not an answer.”
-
-“No.”
-
-I looked at my hands.
-
-Second Life had given me other things instead.
-
-A wife.
-
-Two children.
-
-A shoulder that clicked before rain.
-
-A business that employed enough people that strangers had begun arriving because they had heard my name.
-
-That last one was less charming than the first three.
-
-The strongest applicant we interviewed did not get the job.
-
-He could lift more than me by then.
-
-That was not difficult.
-
-My shoulder had opinions.
-
-He was B-class.
-
-Young.
-
-Fast.
-
-Excellent reinforcement control.
-
-Two hazard crews.
-
-One construction team.
-
-Good references.
-
-He came in wearing a clean field coat with the sleeves rolled exactly far enough to show the reinforcement marks at his wrists.
-
-Not showing off.
+Not actually.
 
 Probably.
 
-At his age I would have noticed the same marks and immediately wanted someone to notice mine.
+Everything underground feels colder after breakfast.
 
-I had been old for a surprisingly long time by then.
+Especially bad breakfast.
 
-Not physically.
+Pava had improved the porridge by not touching it.
+
+Arcrutus had found another piece of dried fruit.
+
+I remained offended.
+
+Mael finished eating, folded the route slate shut, and said, “We descend for six hours.”
+
+Nobody complained.
+
+This was how I knew the expedition was serious.
+
+Ordinary people hear six hours underground and ask what happens after six hours.
+
+Experienced people ask how much water the return requires.
+
+The answer was enough that everyone repacked.
+
+One bag each.
+
+Still.
+
+Nothing had become lighter overnight because we were closer to the interesting part.
+
+The technical crew redistributed two instrument cases.
+
+The healer moved emergency fluid higher in her pack.
+
+Pava wrapped her right forearm before anyone asked.
+
+Mael noticed.
+
+Of course.
+
+“Pain?”
+
+“Stiff.”
+
+“Same thing later.”
+
+“Not yet.”
+
+He accepted that.
+
+For now.
+
+Arcrutus checked the empty space where his second pressure anchor should have been.
+
+Then looked at me.
+
+I looked away.
+
+Not guilt.
 
 Mostly.
 
-One of the twins had woken me before dawn because a cup had fallen behind the bed and apparently retrieval could not wait for civilization to begin.
+He had chosen to spend the space on kidnapping me.
 
-I had eaten half a piece of toast standing over the sink.
+I had not filled his bag voluntarily.
 
-My good pencil was missing because my son had discovered pockets.
+That did not make the missing anchor less missing.
 
-My daughter had objected to socks on philosophical grounds.
+The opening behind the fitted wall dropped at a shallow angle for the first hundred feet.
 
-Then I went to work and interviewed Rankers.
+Stone floor.
 
-Twenty-year-old Greg would have considered this a tragedy.
+Black mineral lines along both sides.
 
-Second-life Greg considered it Thursday.
+Old fittings every twelve paces.
 
-On paper, the applicant was absurdly qualified for Esset & Vale.
+No dust in the center.
 
-Lorn liked him immediately.
+Air moved inward steadily enough that a thread held at shoulder height leaned toward the dark.
 
-Rin did too.
+The surveyor went first.
 
-Then we gave him the stop scenario.
+Mael behind her.
 
-Simple.
+Then one technical specialist.
 
-Mock work order.
+Pava.
 
-Client wants service restored before evening.
+Me.
 
-Pressure line shows a vibration outside ordinary range.
+Healer.
 
-No visible leak.
+Second specialist.
 
-Supervisor unreachable for thirty minutes.
+Arcrutus last.
 
-What do you do?
-
-“Keep working while someone contacts supervisor.”
-
-Rin glanced at me.
-
-I asked, “Why?”
-
-“Because there is no confirmed hazard.”
-
-“Vibration?”
-
-“Could be normal.”
-
-“Could be.”
-
-“Shutting down costs the client money.”
+“Still watching me?” I asked.
 
 “Yes.”
 
-“I’m B-class. If it ruptures, I can handle it.”
+“Good morning to you too.”
 
-There it was.
+The first two fittings were dead.
 
-Not arrogance exactly.
+Not broken.
 
-A very reasonable mistake made by capable people.
+Dead.
 
-Personal survival margin turned into operational permission.
+No pressure.
 
-First-life me understood that logic too well.
+No heat.
 
-Strong enough to survive became strong enough to proceed.
+No response to low-level probe.
 
-Strong enough to proceed became justified in deciding for everyone standing nearby.
+The third reacted.
 
-Dangerous progression.
+Pava touched the flat side of her rod to the black line.
 
-“What about Rin?” I asked.
+The entire wall answered under my boots.
 
-He looked at her.
+Not vibration.
 
-“She clears the area.”
+Transfer.
 
-“You continue?”
+Something moved somewhere else.
 
-“Yes.”
+The sensation arrived sideways through the floor.
 
-No hesitation.
+Pava pulled the rod away immediately.
 
-Honest.
+Mael said, “Report.”
 
-Good.
+“Input went north.”
 
-Still no.
+The specialist looked at the route slate.
 
-The applicant after him was barely C-class.
+“North is solid stone.”
 
-Older.
+Pava flexed her wrapped hand.
 
-Hali Dorn.
+“I know.”
 
-Municipal station background.
+We marked the fitting.
 
-Twelve years without a serious incident.
+Did not test it again.
 
-One formal reprimand.
+Good expedition.
 
-Nothing else on the page looked impressive.
+At the fourth bend the passage widened into a room that should have collapsed centuries earlier.
 
-I asked about the reprimand.
+Forty feet across.
 
-“Stopped a district pump during festival load.”
+Low ceiling.
 
-“Why?”
+Three square columns.
 
-“Bearing temperature.”
+One column cracked through the middle.
 
-“Was it failing?”
+The crack had enough width for me to put two fingers inside.
 
-“No.”
+I did not.
 
-“Then why the reprimand?”
+Growth.
 
-“Gauge was wrong.”
+The ceiling above it remained perfectly level.
 
-“Would you stop it again?”
+Mael stood beneath the crack and looked up.
 
-“Yes.”
+“Load?”
 
-“Knowing the gauge might be wrong?”
+The specialist set gauges.
 
-She frowned at me.
+One on the column.
 
-“No. Knowing what I knew then.”
+One on the floor.
 
-Better answer than the one I had asked for.
+One against the ceiling joint.
 
-“What did you know then?”
+The column carried almost nothing.
 
-“Temperature reading outside operating band. No second instrument available. Festival load high. If I kept it running and the reading was real, damage window was shorter than supervisor response.”
+The ceiling joint carried more than expected.
 
-“What did shutdown cost?”
+The floor carried less than either.
 
-“Service interruption. Angry district lead. Two food stalls lost heat.”
+Pava said, “Again.”
 
-“You knew that before stopping?”
+Mael looked at her hand.
 
-“Yes.”
+She looked back.
 
-“And you still stopped.”
+He let her.
 
-“Yes.”
+One probe.
 
-“Why?”
+Pava set the pressure rod against the ceiling seam and gave the structure the smallest question she could.
 
-“Because inconvenience was reversible.”
+The room answered somewhere behind us.
 
-There it was.
+A fitting two bends up clicked.
 
-Hired.
+Then one ahead.
 
-Lorn objected after she left.
+Then silence.
 
-“B-class kid had more field ability.”
+The cracked column did nothing.
 
-“Yes.”
+I stared at it.
 
-“Hali costs almost the same.”
+The room had columns.
+
+The columns were mostly decorative.
+
+That offended me professionally.
+
+“Hidden frame?” the specialist asked.
+
+“Maybe,” Pava said.
+
+I crouched near the floor.
+
+Black mineral line disappeared under the left wall.
+
+No corresponding line on the right.
+
+“Not frame,” I said.
+
+Everyone looked at me.
+
+I immediately regretted participating.
+
+Mael asked, “What?”
+
+“Maybe not hidden frame.”
+
+“Reason.”
+
+I pointed.
+
+“If the room were carrying load through concealed structure, I would expect the transfer to remain local or at least symmetrical around the span.”
+
+Pava crouched beside me.
+
+Her knees cracked.
+
+Comforting.
+
+Human.
+
+“The pulse ran backward and forward,” she said.
 
 “Yes.”
 
 “So?”
 
-He knew.
+“So the room might not be holding itself up.”
 
-He wanted me to say it.
+The technical specialist frowned.
 
-“Stop judgment.”
+“What is?”
 
-“Yeah.”
+I looked at the line disappearing into stone.
 
-By then our hiring decisions affected more than one shop.
+“Something that has agreed to.”
 
-Regional contractors asked who we trusted.
+Arcrutus made a quiet sound behind me.
 
-District offices asked for worker lists.
+I knew that sound.
 
-Training programs sent candidates.
+Interest.
 
-People had started treating Esset & Vale like a place where a person could become something.
+Dangerous.
 
-This was flattering right until I remembered that becoming something was not always healthy.
+Mael did not react.
 
-I started paying attention to traits I had once treated as personality.
+“Useful distinction?”
 
-Says I don’t know before guessing.
+“Potentially.”
 
-Asks where the isolation boundary actually is.
+“Potentially is cheap.”
 
-Reads old work orders.
+“Yes.”
 
-Checks who else is affected before shutdown.
+“What changes?”
 
-Will stop someone stronger.
+Good question.
 
-Will accept correction from someone lower rank.
+I thought.
 
-Shows up.
+“We stop treating each room as its own structural problem.”
 
-Writes enough down.
+Pava nodded before Mael did.
 
-Not too much.
+“If support is relational, disturbing a safe-looking section can change load somewhere we cannot see.”
 
-That last one came from everyone around me.
+“Exactly.”
 
-Apparently my influence had limits.
+Mael looked at the cracked column.
 
-We changed interviews.
+Then the ceiling.
 
-Less boasting.
+“Then nobody repairs anything.”
 
-More scenarios.
+The specialist opened her mouth.
 
-What if the client refuses shutdown?
+He raised one finger.
 
-What if your supervisor is wrong?
+“Not until we know what the repair would make responsible.”
 
-What if you are wrong?
+I liked him more again.
 
-What information changes your mind?
+We crossed the room single file.
 
-What do you do if nobody can prove the mechanism before a decision deadline?
+Nobody touched the cracked column.
 
-Applicants hated these.
+The passage beyond narrowed enough that Arcrutus had to turn one shoulder.
 
-Good.
+This improved my mood.
 
-No perfect answers.
+His bag caught on a stone lip.
 
-We wanted reasoning visible.
+Improved further.
 
-Rank still mattered.
+He looked back at me.
 
-Do not become stupid in the other direction.
+I smiled.
 
-Some jobs required physical capability.
-
-Some rescue margins needed reinforcement.
-
-Some sites legally required a Ranker.
-
-But raw class stopped being our shortcut for trust.
-
-One A-class applicant joined later on contract work and became excellent because he was willing to be ordinary when ordinary was the job.
-
-Another D-class mechanic became one of the best diagnosticians in the network because she could hear pump cavitation from a room away and never pretended that made her an engineer.
-
-Complementary competence.
-
-Good teams are inconvenient for hierarchy.
-
-The strongest lesson came six months after Hali joined us.
-
-Bellwater private job.
-
-Wet afternoon.
-
-Bad access.
-
-The regulator assembly sat behind a masonry panel somebody had designed for a worker with removable shoulders.
-
-I had one arm inside and the other braced against the wall.
-
-Hali held the lamp.
-
-I wanted to test a bypass under low pressure.
-
-“No,” she said.
-
-I looked back.
-
-Not disrespectful.
-
-Not tentative.
-
-Just no.
-
-“No why?”
-
-“Return isolation not verified.”
-
-“I checked it.”
-
-“When?”
-
-“Morning.”
-
-“Client opened wash branch at noon.”
-
-I stopped.
-
-Right.
-
-That could backfeed the return.
-
-I had forgotten.
-
-Small thing.
-
-Potentially hot thing.
-
-I pulled my arm out.
-
-“Good stop.”
-
-We rechecked.
-
-Return carried four percent pressure.
-
-Enough to hurt someone with the assembly open.
-
-Enough to throw a fitting if we got unlucky.
-
-We isolated again.
-
-No incident.
-
-No dramatic save.
-
-No scar.
-
-Good work often leaves nothing to remember except the thing that did not happen.
-
-Afterward Hali wiped her hands on a rag and said, “Was that a test?”
-
-“What?”
-
-“You hire people for stopping supervisors.”
+“Enjoying yourself?”
 
 “No.”
 
-“Good.”
+Lying is sometimes efficient.
 
-“Why?”
+Two hours down, the air changed.
 
-“I would quit.”
+Less salt.
 
-Reasonable.
+More mineral damp.
 
-We added another hiring rule informally.
+The floor stopped being fitted stone and became something poured.
 
-Do not manufacture danger to test courage.
+Not mortar.
 
-You would think this obvious.
+Not any material the technical crew recognized.
 
-Humans enjoy proving culture through rituals.
+Gray-black.
 
-Bad idea.
+Smooth where feet had never worn it.
 
-That night I got home after the twins were supposed to be asleep.
+The old fittings increased.
 
-Supposed to be.
+Every six paces now.
 
-My daughter was sitting on Nessa’s lap holding one of my work gloves.
+Then four.
 
-My son was under the table.
+Then two.
 
-No known reason.
+The black lines multiplied with them.
 
-Nessa looked at me.
+We stopped for water.
 
-“How was recruiting?”
+Nobody wanted to.
 
-“Hired the person willing to stop the machine.”
+That is why Mael ordered it.
 
-“Good.”
+Pava drank with her left hand.
 
-“You don’t know anything else about her.”
+Her right shook when she relaxed it.
 
-“I know you.”
+Still tiny.
 
-Unfair advantage.
+Still there.
 
-My son emerged from under the table and handed me a spoon.
+I sat on my bag.
 
-Not my spoon.
+Arcrutus sat on the floor because apparently furniture was a moral weakness.
 
-No context.
+The surveyor ate half a hard ration and put the other half away.
 
-I accepted it.
+One specialist checked his boot lining.
 
-This was fatherhood.
+The healer made Mael take off one glove because he had split skin across two knuckles moving the wall yesterday.
 
-Years earlier, I would have measured the day by who was strongest in the room.
+Three of the Seven beneath the earth.
 
-By then I had become the man asking whether the strongest person knew when to stop.
+One had a clicking knee.
 
-Ithar interrupted.
+One had a shaking hand.
 
-“You keep doing that.”
+One had blood on his knuckles and was missing equipment because he had packed me instead.
 
-“What?”
+Songs are bad at logistics.
 
-“Leaving the children at the edge of the account.”
+I ate.
 
-“I was talking about hiring.”
+Arcrutus looked at my ration.
 
-“You remembered the spoon.”
+“Still angry?”
 
-I looked at him.
+“Yes.”
 
-He waited.
+“You wanted to come.”
 
-Dragons are irritating when patient.
+“Yes.”
 
-“Hali became field lead two years later,” I said.
+“You are here.”
 
-Ithar’s eyes narrowed.
+“Yes.”
 
-I continued anyway.
+“Then efficient.”
 
-The B-class applicant went elsewhere.
+I stared at him.
 
-I heard he advanced quickly.
+“You kidnapped me.”
 
-Maybe became excellent too.
+“Efficiently.”
 
-Rejecting someone is not prophecy.
+Mael said, without looking up, “Do not encourage him.”
 
-Important.
+“Thank you.”
 
-We had simply decided his judgment at that moment did not fit the work we needed.
+“I meant you.”
 
-Employers enjoy rewriting hiring decisions into moral verdicts.
+Nobody respected me.
 
-He was not bad.
+We moved again.
 
-We were not superior.
+The next descent was stairs.
 
-Fit matters.
+Actual stairs.
 
-So does development.
+Too wide for humans.
 
-By then young Rankers occasionally arrived expecting Esset & Vale to be a path toward high-class work.
+Each step nearly two feet deep and low enough that walking them felt wrong.
 
-Some left disappointed.
+Made for something with a different stride.
 
-We repaired schools.
+Or made for moving equipment.
 
-Pump houses.
+Or both.
 
-Old stations.
+The walls curved inward slightly as we descended.
 
-Apartment heat.
+The black lines no longer ran beside us.
 
-Legacy galleries.
+They crossed under the stairs.
 
-Sometimes hazard sites.
+Left to right.
 
-Mostly infrastructure.
+Right to left.
 
-The people who stayed tended to like making failure boring.
+Some dead.
 
-That became our real recruitment brand.
+Some carrying faint pressure.
 
-Not glamorous.
+Some impossible to read because they seemed to move load without presenting any local source.
+
+Halfway down, the surveyor stopped so abruptly Mael nearly walked into her.
+
+She pointed at the next landing.
+
+No visible damage.
+
+No crack.
+
+No debris.
+
+Pava said, “What?”
+
+“Weight changed.”
+
+I felt nothing.
+
+Mael stepped back one pace.
+
+“From?”
+
+“Below.”
+
+That got everyone’s attention.
+
+The surveyor set her rod against the step.
+
+The instrument tipped toward the landing.
+
+Not gravity.
+
+Pressure gradient.
+
+Something below had taken more load while we stood there.
+
+Then less.
+
+Then more again.
+
+Regular enough to notice.
+
+Irregular enough not to be machinery.
+
+Pava’s humming stopped.
+
+She had been doing it under her breath for ten minutes.
+
+I had not realized until silence replaced it.
+
+Mael said, “Back two landings.”
+
+We moved.
+
+Nobody argued.
+
+The gradient weakened.
+
+Mael looked at the technical crew.
+
+“Did we trigger it?”
+
+“No active probe,” one said.
+
+Pava looked down the stairwell.
+
+“Movement maybe.”
+
+“Whose?”
+
+Nobody answered.
+
+I looked at the black crossings under our feet.
+
+One line brightened slightly when Arcrutus shifted his bag.
+
+Not light.
+
+Pressure perception.
+
+A tiny increase.
+
+Then another when Mael stepped.
+
+Then nothing when I did.
+
+I frowned.
+
+“Do that again.”
+
+Arcrutus looked at me.
+
+“Do what?”
+
+“Move your bag.”
+
+He lifted it two inches.
+
+The line changed.
+
+“Again.”
+
+He did.
+
+Pava crouched.
+
+She did not use the rod.
 
 Good.
 
-The spoon stayed in my coat pocket for three days.
+Mael shifted his weight from left foot to right.
 
-I never learned where it came from.
+Different line responded.
+
+The surveyor whispered, “It is reading us.”
+
+Maybe.
+
+I hated maybe.
+
+“Or carrying us,” I said.
+
+Everyone became quiet.
+
+The passage had not reacted because something below noticed people.
+
+The passage might simply have been doing what it was built to do.
+
+Accepting load.
+
+Redistributing it.
+
+Every footstep.
+
+Every bag.
+
+Every body.
+
+Tiny compared with whatever else the system carried.
+
+But not zero.
+
+The technical specialist looked back toward the upper rooms.
+
+“The cracked column.”
+
+“Probably never mattered,” I said.
+
+“Then why build it?”
+
+“Maybe humans did.”
+
+Nobody liked that answer.
+
+Good.
+
+We had entered something old enough to have been repaired by people who did not understand it.
+
+I knew that type of infrastructure intimately.
+
+Just usually not at this scale.
+
+Mael said, “New rule. Assume the system is coupled until proven otherwise.”
+
+Pava added, “No pressure probes without call.”
+
+The specialist nodded.
+
+Arcrutus looked at me.
+
+“Useful insurance.”
+
+“Still kidnapped.”
+
+“Yes.”
+
+We descended.
+
+Slowly now.
+
+The stairwell ended at a circular door standing open.
+
+Not broken.
+
+Open.
+
+Beyond it waited a chamber large enough that our lamps could not find the far wall.
+
+Black lines covered the floor.
+
+Hundreds.
+
+Thousands maybe.
+
+Most dark.
+
+Some carrying faint load.
+
+All converging toward somewhere beyond the reach of our light.
+
+The air moved from us into the chamber.
+
+Not wind.
+
+Breathing would have been too dramatic.
+
+I told myself that.
+
+Then one of the lines beneath my boot tightened.
+
+Not physically.
+
+Magically.
+
+A boundary taking weight.
+
+Somewhere in the dark, something else took the consequence.
+
+I had spent half my life learning to ask where load went.
+
+For the first time underground, I had the unpleasant feeling that the answer might be a who.
