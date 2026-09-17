@@ -586,97 +586,429 @@ Not because it was inaccurate.
 
 Because institutions dislike sentences that change what kind of problem they own.
 
-We returned to the surface.
+Ithar interrupted.
 
-Then to hearings.
-
-Statements.
-
-Measurements.
-
-Pava’s death review.
-
-Months of people asking whether one different decision would have saved her.
-
-Some questions were good.
-
-Some were grief wearing a technical coat.
-
-The finding did not blame Pava.
-
-Did not blame Mael.
-
-Did not blame me.
-
-Did not call the event unavoidable either.
-
-Incomplete model.
-
-Unobserved delayed lower-system response.
-
-Temporary intervention path became load-bearing route.
-
-Future active manipulation prohibited pending foundational understanding.
-
-Accurate.
-
-Unsatisfying.
-
-That is often what truth looks like after people die.
-
-Then came the classification fight.
-
-I wanted none of it.
-
-This was not humility.
-
-I was tired.
-
-Pava was dead.
-
-A letter beside my name felt obscene.
-
-Mael disagreed.
-
-So did Arcrutus.
-
-The Authority review panel asked whether my support performance at Vey exceeded A-class criteria.
-
-I said, “Probably.”
-
-Mael said, “Yes.”
-
-Arcrutus said, “Obviously.”
-
-The panel liked their answers more.
-
-One reviewer asked whether the death created an opening among the Seven.
-
-Mael’s face went cold.
-
-“No.”
-
-The reviewer corrected immediately.
-
-“I mean numerically.”
-
-“I know what you meant.”
-
-There were six living S-class humans.
-
-That fact created political pressure.
-
-It did not create capability in me.
-
-Arcrutus leaned forward.
-
-“If Pava had lived, Greg would still have done S-class work under Vey.”
-
-The reviewer said, “He was supporting S-class personnel.”
+“Still first life.”
 
 “Yes.”
 
-“That does not automatically make the support S-class.”
+“After Vey.”
+
+“Immediately after.”
+
+“Pava is dead.”
+
+I looked at him.
+
+“You could phrase that better.”
+
+“Would it alter the coordinate?”
+
+“No.”
+
+“Continue.”
+
+Dragons.
+
+We returned Pava’s rod before the service.
+
+Not to Authority.
+
+To her family.
+
+Authority objected.
+
+Not dramatically.
+
+There was a form.
+
+There is always a form.
+
+The rod was expedition evidence until the death review closed.
+
+Arcrutus read the form.
+
+Folded it once.
+
+Put it back on the desk.
+
+“No.”
+
+The clerk looked at him.
+
+This was a brave clerk.
+
+“Sir, chain of custody requires—”
+
+“No.”
+
+Mael was beside him.
+
+Also unhelpful.
+
+The rod went to Pava’s sister for the service and came back to evidence custody the next morning.
+
+Civilization survived.
+
+Pava’s service was five days after we reached the surface.
+
+Too fast.
+
+Also too slow.
+
+I had spent those five days giving statements.
+
+The first statement took four hours.
+
+The second took six because someone had decided the problem with the first was insufficient diagrams.
+
+The third included a legal observer.
+
+By the fourth, I could describe Pava’s death without my voice changing.
+
+I hated that skill.
+
+The service was held in a pressure hall she had trained in when she was young.
+
+I learned that at the door.
+
+I had assumed she chose it because it was large.
+
+There were more people than chairs.
+
+Rankers.
+
+Technicians.
+
+Municipal crews.
+
+Family.
+
+People who had known Pava before anyone used the letter S around her.
+
+That mattered.
+
+Her sister spoke first.
+
+Not about Vey.
+
+Not about the Seven.
+
+About soup.
+
+Pava apparently made terrible soup.
+
+Not bad in one specific way.
+
+Inventive bad.
+
+Too much salt.
+
+Wrong vegetables.
+
+Once something involving citrus nobody had forgiven.
+
+I remembered the basin porridge.
+
+Of course.
+
+Her sister said Pava had called home after every major assignment.
+
+Not before.
+
+After.
+
+She hated anyone worrying in advance.
+
+That also tracked.
+
+Then an old municipal operator stood up and told a story about Pava stopping a pressure test because a junior technician said a gauge looked wrong.
+
+The gauge had been wrong.
+
+The test had been safe.
+
+Pava stopped anyway.
+
+She had apparently said, “If the kid is wrong, we lose twelve minutes. If the gauge is wrong, we lose a room.”
+
+I had never heard that story.
+
+I wish I had.
+
+It would have made no difference beneath Vey.
+
+That hurt too.
+
+Mael did not speak.
+
+Neither did Arcrutus.
+
+People expected both of them to.
+
+You could feel the expectation moving around the room.
+
+They let it fail.
+
+Good.
+
+Afterward everyone wanted to say something to the expedition survivors.
+
+Most did not know what.
+
+Neither did we.
+
+One man shook my hand and said, “Thank you for bringing her back.”
+
+I almost corrected him.
+
+Mael had carried her.
+
+Then understood.
+
+He did not mean physically.
+
+I said, “Yes.”
+
+A woman I did not know touched Arcrutus’s sleeve.
+
+He looked down at her hand.
+
+She removed it.
+
+Nobody discussed the empty seat.
+
+Not there.
+
+That would have been obscene.
+
+The first message arrived that evening.
+
+Authority scheduling.
+
+Seven-class continuity review.
+
+I read the subject twice.
+
+Then deleted it.
+
+They sent another in the morning.
+
+Administration experiences grief through calendars.
+
+Ithar’s eyes narrowed in the present.
+
+“They discussed replacement the day after the service.”
+
+“They discussed continuity.”
+
+“That is the same question wearing softer language.”
+
+“Yes.”
+
+“You were angry.”
+
+“Yes.”
+
+“Why?”
+
+I thought about that.
+
+“Because they were not wrong.”
+
+He waited.
+
+“That made it worse.”
+
+The review began two weeks later.
+
+By then Pava’s death was a public fact.
+
+So was the number six.
+
+People cared about that number for reasons having almost nothing to do with Pava.
+
+Deterrence.
+
+Treaties.
+
+Emergency response.
+
+Regional prestige.
+
+Deployment coverage.
+
+Insurance.
+
+Budgets.
+
+The Seven were people when something went wrong and infrastructure when somebody wrote a policy.
+
+The state could not simply ignore that one of its major load-bearing assumptions had died under a salt basin.
+
+So there were lists.
+
+Of course there were lists.
+
+Current A-class candidates.
+
+Former near-threshold evaluations.
+
+Regional specialists.
+
+Combat outliers.
+
+Barrier specialists.
+
+One man whose entire case seemed to be that he had survived being hit by something expensive.
+
+My name appeared late.
+
+Then disappeared.
+
+Then reappeared under SPECIALTY REVIEW.
+
+I did not submit it.
+
+Mael did.
+
+I found this out because I called him to complain.
+
+“You nominated me.”
+
+“Yes.”
+
+“Why?”
+
+“Vey.”
+
+“That is not an answer.”
+
+“It is the complete answer.”
+
+“I am not replacing Pava.”
+
+“No.”
+
+The word came hard.
+
+Good.
+
+Then he said, “Stop saying that.”
+
+I stopped.
+
+Mael continued.
+
+“You are not replacing Pava. Pava is dead. There is no replacement for a person.”
+
+I said nothing.
+
+“The Authority is deciding whether it has classified you incorrectly.”
+
+“That sounds conveniently separate from the empty seat.”
+
+“It is separate.”
+
+“Politically?”
+
+“No.”
+
+“Numerically?”
+
+He was quiet.
+
+“Fuck you.”
+
+“Fair.”
+
+Arcrutus was worse.
+
+He did not nominate me.
+
+He simply started attending meetings where my name appeared.
+
+That was somehow more threatening.
+
+The first panel called my Vey performance exceptional A-class support under anomalous conditions.
+
+Reasonable.
+
+Cowardly.
+
+The second panel asked whether my output met historical S thresholds.
+
+“No,” I said.
+
+Everyone looked relieved except Arcrutus.
+
+He leaned back.
+
+One reviewer said, “Then we may be overcomplicating this.”
+
+“Yes,” I said.
+
+Arcrutus said, “No.”
+
+I closed my eyes.
+
+The reviewer turned to him.
+
+“Lord Dray.”
+
+“Do not do that.”
+
+The reviewer tried again.
+
+“Arcrutus.”
+
+“Worse.”
+
+I opened my eyes.
+
+He looked pleased.
+
+Asshole.
+
+The reviewer said, “Mr. Vale has stated his output does not meet the threshold.”
+
+“His output is not the thing you used.”
+
+Silence.
+
+There.
+
+That was the fight.
+
+Not whether I could hit like Mael.
+
+I could not.
+
+Not whether I could carry pressure like Pava.
+
+I could not.
+
+Not whether I could reinforce my own body until a mountain regretted meeting me.
+
+Arcrutus remained annoyingly competitive in that category.
+
+The question was what counted as S-class work.
+
+A reviewer asked, “You are proposing we classify a support specialist alongside the Seven.”
+
+Arcrutus looked at him.
+
+“No.”
+
+The reviewer waited.
+
+“I am proposing you classify the man who made the surviving members of the Seven functional inside a failure that killed one of them.”
+
+That landed.
+
+I hated that it landed.
+
+Another reviewer said, “Supporting S-class personnel does not automatically make the support S-class.”
 
 “Correct.”
 
@@ -688,57 +1020,269 @@ Dangerous.
 
 They did.
 
-Not my destructive output.
+That took months.
 
-Embarrassing.
+Not one meeting.
 
-Not my solo reinforcement.
+Months.
 
-Also embarrassing.
+They reconstructed the expedition.
 
-Not how long I could stand inside an S-class impact without help.
+My Links.
 
-Very embarrassing.
+Pava’s load duration.
 
-They measured what the expedition became when I was attached.
+Mael’s recoil.
 
-Pava held relations longer before the failure.
+Arcrutus’s structural use.
 
-Mael redistributed forces his body normally had to absorb alone.
+Nhal’s diverted band.
 
-Arcrutus used himself as structure repeatedly without accumulating the expected damage.
+The retreat.
 
-After Pava died, I maintained a moving multi-person support network under a foundational load event that had just killed an S-class human.
+The moving network after Pava died.
 
-I kept two surviving S-class humans, ordinary expedition personnel, and the retreat route functional while managing a live relation with Nhal’s containment.
+The near-surface correction I made without casting because the useful part had become judgment before magic.
 
-The panel could call that A-class if it wanted.
+People argued definitions.
 
-Eventually the letter became dishonest.
+People always argue definitions when reality has made the existing ones expensive.
 
-I was recognized S-class in support.
+One technical reviewer wrote that my function was “multiplicative rather than independently terminal.”
 
-Not warrior.
+I hated the sentence.
 
-Never warrior.
+It was accurate.
 
-Support.
+Another called the Vey performance “non-repeatable.”
 
-There were seven again.
+Also accurate.
 
-I hated that sentence.
+I asked whether S-class incidents were normally scheduled for repeatability.
 
-Pava had not died to make room for me.
+That did not improve my relationship with him.
 
-The Authority did not keep a quota.
+They tested me.
 
-For a while there had been six.
+Of course.
 
-Then the system finally admitted what I had demonstrated and there happened to be seven living humans it called S-class again.
+Output.
 
-History enjoys neat numbers more than life does.
+Bad.
 
-Mael attended the recognition.
+Barrier.
+
+Better.
+
+Sustained network load.
+
+Very good.
+
+Multi-target redistribution.
+
+Better than their instruments expected.
+
+Judgment scenarios.
+
+Annoyingly good.
+
+One examiner deliberately gave me a stronger candidate whose preferred intervention was wrong.
+
+I told the candidate to stop.
+
+The candidate did not.
+
+I dropped the exercise.
+
+The examiner asked why.
+
+“Because if my authority depends on physically overpowering every person I am supposed to stop, you have designed the wrong job.”
+
+That sentence escaped the room.
+
+People repeated it.
+
+I regretted giving them something quotable.
+
+The practical problem arrived after the fourth review.
+
+Authority wanted me on two S-level response rosters while the classification remained open.
+
+I declined both.
+
+A deputy director called me personally.
+
+“You have supported this level before.”
+
+“Yes.”
+
+“We need you.”
+
+“Then finish the review.”
+
+“This is temporary.”
+
+“So is bleeding.”
+
+Silence.
+
+He tried another angle.
+
+“You are refusing deployment because you want the designation.”
+
+“No.”
+
+“Then why?”
+
+“Because you want me responsible for S-level decisions while preserving the option to call my authority A-level if an S-class person disagrees.”
+
+“That is not how command works.”
+
+“It is exactly how command works when something goes wrong.”
+
+He disliked me.
+
+Fair.
+
+I continued.
+
+“If I am A-class, deploy me as A-class.”
+
+“We need your support function.”
+
+“Then classify the support function.”
+
+“We cannot allow candidates to negotiate rank through operational refusal.”
+
+“Good. Do not.”
+
+“What are you saying?”
+
+“I am saying I will not perform a job you are simultaneously arguing does not exist.”
+
+That meeting lasted another hour.
+
+Nothing improved.
+
+Then I stopped accepting those deployments.
+
+Not emergency calls.
+
+I was not going to watch people die to prove a bureaucratic point.
+
+Scheduled high-risk assignments.
+
+Review work.
+
+Anything where Authority had enough time to decide what I was before deciding it needed me.
+
+That was when the argument changed.
+
+Before, they were debating recognition.
+
+Now they were paying the cost of ambiguity.
+
+Useful.
+
+Ugly.
+
+Mael approved.
+
+Quietly.
+
+Arcrutus approved loudly enough that I asked him to stop helping.
+
+He did not.
+
+At the final panel, one reviewer asked him directly whether he believed I belonged among the Seven.
+
+Arcrutus scratched the side of his jaw.
+
+“No.”
+
+Every head turned.
+
+Including mine.
+
+He continued.
+
+“I believe if he does not, your category is measuring the wrong thing.”
+
+There it was.
+
+Asshole.
+
+The room spent forty minutes recovering.
+
+My recognition came six weeks later.
+
+Recognition.
+
+Not promotion.
+
+The distinction mattered to Authority.
+
+It eventually mattered to me.
+
+Nothing inside me changed that morning.
+
+No additional reserve.
+
+No new technique.
+
+No divine confirmation that the paperwork had found truth.
+
+I sat in a room.
+
+Signed three documents.
+
+Received an operational seal.
+
+Received access credentials.
+
+Received a revised deployment code.
+
+A clerk asked me to verify the spelling of my name.
+
+I did.
+
+There was a line on the form that still had PAVA KETT in the previous-cycle reference field.
+
+Nobody had removed it yet.
+
+I stared too long.
+
+The clerk followed my eyes.
+
+“Oh.”
+
+She reached for the page.
+
+“Leave it,” I said.
+
+She stopped.
+
+There had been Pava.
+
+Then there had been a hole where Pava had been.
+
+I was not promoted into her life.
+
+I was not handed her work.
+
+I was not made equivalent to her.
+
+The institution had finally admitted that a different kind of S-class work existed.
+
+That admission happened while one of seven familiar chairs happened to be empty.
+
+History would make those facts look cleaner than they were.
+
+There were seven recognized S-class humans again.
+
+I hated that sentence less once I stopped pretending it meant what people wanted it to mean.
+
+Mael attended.
 
 Arcrutus attended because free food had been provided.
 
@@ -760,27 +1304,53 @@ I stared at it.
 
 “You will figure it out.”
 
-I never did.
+“I hate you.”
 
-Or there was no joke.
+“No.”
 
-With Arcrutus those possibilities remained equally likely.
+“Not currently.”
 
-Present Ithar had gone very still.
+He smiled.
 
-Not listening-still.
+That was almost worse.
 
-Thinking-still.
+Ithar had gone still again.
 
-I knew the difference by then.
+Not memory-still.
 
-Finally he said, “You met Nhal at forty-eight or forty-nine.”
+Calculation-still.
+
+His tail had not moved for several minutes.
+
+Finally he said, “First life.”
 
 “Yes.”
 
-“In your first life.”
+“You met Nhal at forty-eight or forty-nine.”
 
 “Yes.”
+
+“You were recognized S-class after Vey.”
+
+“Yes.”
+
+“Before you ever met me.”
+
+“Yes.”
+
+“And you did not seek me then.”
+
+“No.”
+
+His eyes narrowed.
+
+“Why?”
+
+“Because I did not need you yet.”
+
+That offended him enough to be useful.
+
+I continued.
 
 “The containment was already ancient.”
 
@@ -788,11 +1358,7 @@ Finally he said, “You met Nhal at forty-eight or forty-nine.”
 
 “Before the histories diverged.”
 
-There it was.
-
 “Yes.”
-
-His eyes narrowed.
 
 “In this history, the expedition did not reach her.”
 
@@ -895,25 +1461,3 @@ I looked down at my ruined leg.
 “But before that,” I said, “you need the onions.”
 
 Ithar stared at me.
-
-“The what?”
-
-“The onions.”
-
-“No.”
-
-“Yes.”
-
-“You have just told me an ancient being may remain trapped inside foundational machinery and you want to discuss vegetables.”
-
-“Correct.”
-
-“Why?”
-
-“Because otherwise you will misunderstand what I lost.”
-
-That stopped him.
-
-Good.
-
-Finally.
