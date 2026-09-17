@@ -1,1231 +1,811 @@
 ## RECORD 076
 
-## THE FOOTNOTE
+## THE BREAK
 
-The first time I saw my work cited, my name was wrong.
+The plan said twenty seconds.
 
-G. VAIL.
+We never reached twenty.
 
-One L.
+That matters.
 
-Wrong vowel.
+People tell stories about disasters as though the mistake is always visible in the beginning.
 
-I stared at the page.
+Someone ignores a warning.
 
-Nessa looked over my shoulder.
+Someone gets greedy.
 
-“Famous.”
+Someone says one more time.
 
-“Incorrectly.”
+Then consequence arrives on schedule and everyone listening gets to feel wiser than the dead.
 
-“Still famous.”
+Vey was not like that.
 
-“It says Vail.”
+We changed the plan three times before touching anything.
 
-“Maybe he is better.”
+Pava rested a full day.
 
-I hated marriage.
+The healer checked her channels twice.
 
-The citation appeared in a district training circular from North Reach.
+Mael shortened the test from thirty seconds to twenty.
 
-Not a prestigious document.
+I argued for fifteen.
 
-Six copied pages about field isolation, shared returns, and record control.
+We settled on twenty with a mandatory review at ten.
 
-Page four contained a short note:
+Arcrutus wanted twelve because twelve was “a respectable number.”
 
-SEE VAIL FIELD REVISION, SOUTH FEN SERIES.
+Nobody asked what that meant.
 
-That was me.
+Nhal approved the route.
 
-Mostly.
+Not happily.
 
-Also Tomas.
+Nothing about her situation supported happiness.
 
-Hali.
+But she agreed that the selected lower bundle was stable enough to perturb briefly and broad enough to reveal whether the unseen system beneath her was a reservoir, a transfer network, or something stranger.
 
-Tova.
+We had exit conditions.
 
-Bel.
+Pressure rise above eight percent.
 
-Operators whose names did not appear anywhere in the circular.
+Pava hand instability.
 
-The citation annoyed me for three separate reasons.
+Unexpected phase change.
 
-First, spelling.
+Any unplanned movement in Nhal’s primary bands.
 
-Second, ownership.
+Any lower response faster than our release window.
 
-Third, the circular used our revised procedure correctly.
+That last one looked good in writing.
 
-That made the other two reasons less important.
+We did not know the lower response time.
 
-I still complained.
+That was why we were measuring it.
 
-Of course.
+Unknowns are rude that way.
 
-The South Fen work spread unevenly.
+The technical crew placed instruments in the upper gallery and two chambers back.
 
-Not through one grand adoption.
+The surveyor marked the retreat path again.
 
-Copies.
+The healer set up beside Pava instead of behind us.
 
-Training days.
+Mael took the main structural relation.
 
-Contractor packets.
+Arcrutus braced the western rib with a temporary anchor he had built from two pieces of equipment that had not been designed to know each other.
 
-Licensing revisions.
+Missing second anchor.
 
-Someone in Bellwater shortened the pocket sequence again.
+Still costing us.
 
-Someone in River Ward added a weather check because exposed return lines behaved differently during hard freezes.
+He had made the replacement good.
 
-A border district replaced our pressure examples with gravity-fed equivalents because half their buildings used mixed systems.
+Not equal.
 
-At first I wanted every local variation reviewed centrally.
+Important difference.
 
-Tova asked, “By whom?”
+My network was the most deliberate I had ever built.
 
-“Someone.”
+Pava to me.
 
-“Excellent office.”
+Me to Mael.
 
-She had become meaner with age.
+Me to the floor.
 
-Or I had become easier to mock.
+Floor to the western rib.
 
-Both.
+Arcrutus available as a separate arrest route rather than permanently loaded.
 
-We settled on a simpler rule.
+No direct Draw from Nhal.
 
-Local adaptations had to preserve the reason for each safety step and document what condition justified the change.
+No mana transfer unless explicitly called.
 
-Not identical wording.
+Load only.
 
-Traceable reasoning.
+Recoil.
 
-That was harder to control.
+Pressure.
 
-Also better.
+Channel stress.
 
-The first adaptation I hated came from North Reach.
+Things I understood.
 
-They removed mandatory pre-entry instrument temperature checks on one class of low-pressure stone galleries.
+I thought.
 
-I read the memo twice.
+Nhal watched me lay the final boundary.
 
-Then a third time angrily.
-
-“Idiots.”
-
-Nessa, from the other side of the table, said, “Evidence?”
-
-“I married badly.”
-
-“Answer.”
-
-“The temperature check catches hidden active load.”
-
-“In those galleries?”
+“You have made many exits.”
 
 “Yes.”
-
-“How often?”
-
-I stopped.
-
-Good question.
-
-North Reach had data.
-
-Of course they did.
-
-Seventy-three entries.
-
-Zero cases where instrument temperature found a condition visual moisture, vibration thread, or wall contact had not already flagged.
-
-The instrument added twelve minutes average because their galleries required a calibration wait in cold weather.
-
-Twelve minutes was not much.
-
-Unless crews did eight entries a day.
-
-Then it was labor.
-
-Delay.
-
-Exposure to weather.
-
-People start skipping procedures that feel pointless.
-
-That last part mattered most.
-
-North Reach proposed moving instrument temperature to conditional use after a first-stage anomaly.
-
-Not removing temperature assessment.
-
-Changing order.
-
-I hated that too.
-
-Less.
-
-I wrote three objections.
-
-They answered all three.
-
-Politely.
-
-That was irritating.
-
-I visited in spring.
-
-Not to approve them.
-
-That distinction mattered.
-
-They had already adopted the local revision under district authority.
-
-I went to understand.
-
-North Reach galleries were shallower.
-
-Drier.
-
-Most active pressure paths ran in accessible side channels rather than buried wall sleeves.
-
-Their crews could visually identify thermal exposure better than ours could.
-
-Different system.
-
-Same broad procedure family.
-
-I watched six entries.
-
-No instrument at first stage.
-
-No recklessness.
-
-Operators were actually more consistent with moisture and vibration checks because the sequence fit the work better.
-
-Annoying.
-
-The district trainer was a woman named Seli Marr.
-
-No relation to Dalen.
-
-Probably.
-
-Everyone has cousins eventually.
-
-She asked, “You still think we’re idiots?”
-
-I looked at her.
-
-“Who told you?”
-
-“Your letter said concerned three times.”
-
-“Professional word.”
-
-“Means idiot.”
-
-“Sometimes.”
-
-She smiled.
-
-“We kept the reason.”
-
-“I know.”
-
-“That was your rule.”
-
-“I know.”
-
-“You dislike it when rules work against you.”
-
-“Yes.”
-
-Good trainer.
-
-I wrote a note afterward.
-
-Not approval.
-
-Observation.
-
-NORTH REACH CONDITIONAL TEMPERATURE SEQUENCE APPEARS SUPPORTED FOR DOCUMENTED LOW-PRESSURE GALLERY CLASS. DO NOT GENERALIZE WITHOUT LOCAL EVIDENCE.
-
-That sentence got copied too.
-
-Months later a training packet from another district cited NORTH REACH MODIFICATION, WITH VAIL CAUTION.
-
-Still misspelled.
-
-At that point I gave up.
-
-Influence without control felt different from leadership.
-
-Leadership still had meetings.
-
-People looked at you.
-
-Asked.
-
-Argued.
-
-Influence happened elsewhere.
-
-Someone used a procedure you helped shape.
-
-Changed it.
-
-Attributed half of it wrong.
-
-Improved it.
-
-Misquoted the rest.
-
-Sometimes damaged it.
-
-Sometimes made it better for conditions you had never seen.
-
-You could not stand in every room.
-
-That was not failure.
-
-The thing had left you.
-
-Being known also changed rooms in smaller ways.
-
-Young workers watched me before deciding whether to disagree.
-
-Older operators sometimes introduced me with a title I had not used.
-
-People I had never met already had an opinion about what kind of man I was.
-
-A few women became unusually interested in conversations that had started about work.
-
-I noticed.
-
-I was married, not dead.
-
-But I was also busy.
-
-That distinction would become interesting later.
-
-At the time I mostly found fame inconvenient because it attracted visitors.
-
-One of them was Arcrutus Dray.
-
-Not a letter.
-
-Not an invitation.
-
-Arcrutus himself.
-
-He came to a Bellwater worksite on an afternoon when I had both arms inside a transfer housing and half my body wedged under a pipe someone had installed before ergonomics became a word.
-
-I did not see him arrive.
-
-Lorn did.
-
-Lorn crouched beside the access opening.
-
-“Greg.”
-
-“Busy.”
-
-“One of the Seven is here.”
-
-I stopped turning the wrench.
-
-“Which one?”
-
-Lorn looked behind him.
-
-I closed my eyes.
-
-“Of course.”
-
-Arcrutus leaned down far enough that his face appeared upside down in the opening.
-
-“Hello.”
-
-I looked at him.
-
-Then at Lorn.
-
-“Why did you tell him where I was?”
-
-“I did not.”
-
-Arcrutus said, “I asked.”
-
-That explained nothing.
-
-I went back to the coupling.
-
-Arcrutus stayed.
-
-For nearly four minutes.
-
-This was too long.
-
-“You need something?” I asked.
-
-“No.”
-
-“Then why are you here?”
-
-“Watching.”
-
-“I gathered that.”
-
-He crouched near the opening.
-
-I could see one boot.
-
-Good leather.
-
-Unnecessarily good leather for a man whose professional life involved being near things that exploded.
-
-“What are you doing?” he asked.
-
-“Working.”
-
-“I can see that.”
-
-“Excellent. Then we’re both caught up.”
-
-Silence.
-
-I tightened the lower collar.
-
-The pressure reading moved.
-
-Not enough.
-
-I loosened it again.
-
-Arcrutus said, “Why did you undo that?”
-
-I stopped.
-
-Slowly.
-
-“Do you have something against me?”
-
-“No.”
-
-“Because I am busy.”
-
-“I noticed.”
-
-“And you came out here.”
-
-“Yes.”
-
-“To watch me be busy.”
-
-“Yes.”
-
-I slid backward far enough to look at him properly.
-
-He looked younger than the Arcrutus I remembered.
-
-That should have been obvious.
-
-We all did.
-
-The difference bothered me more with him.
-
-First Life had given me an Arcrutus worn smooth in strange places and sharpened in others.
-
-Years of arguments.
-
-Bad camps.
-
-Tests I had not agreed to.
-
-Advice disguised as insults.
-
-Insults disguised as advice.
-
-The man in front of me had not done most of that yet.
-
-We did not have that relationship.
-
-Not anymore.
-
-He smiled.
-
-That smile had caused me problems before.
-
-Technically, not yet.
-
-“Go away,” I said.
-
-Arcrutus blinked once.
-
-Then laughed.
-
-“All right.”
-
-He stood.
-
-And left.
-
-I waited.
-
-Mostly because Arcrutus Dray had just listened to me.
-
-Then I went back to work.
-
-Lorn remained at the opening.
-
-“You told Arcrutus Dray to go away.”
-
-“He was bothering me.”
-
-“One of the Seven.”
-
-“Still bothering me.”
-
-“You don’t seem very impressed by him.”
-
-“That is not remotely true.”
-
-Lorn frowned.
-
-Good.
-
-I crawled deeper into the housing.
-
-Arcrutus was terrifyingly impressive.
-
-I knew that better than Lorn did.
-
-That did not mean I wanted him standing over my shoulder.
-
-For the next twenty minutes, nothing happened.
-
-Beautiful.
-
-I found the bad coupling.
-
-Western sleeve worn unevenly against the bracket.
-
-Under load it shifted just enough to imitate a pressure problem farther down the assembly.
-
-Mechanical.
-
-Ordinary.
-
-Fixable.
-
-Wonderful.
-
-I had both hands inside when Lorn said, “He’s back.”
-
-I stopped.
-
-“What?”
-
-A paper-wrapped bundle appeared beside my head.
-
-I stared at it.
-
-Then slid backward.
-
-Arcrutus stood there holding another.
-
-This I had not expected.
-
-“What is that?”
-
-“Food.”
-
-“I know what food looks like.”
-
-“Then why ask?”
-
-Fair.
-
-Annoying.
-
-I took the bundle.
-
-Still warm.
-
-Flatbread.
-
-Roasted meat.
-
-Pickled vegetables.
-
-Actual onions.
-
-Good onions.
-
-“I told you to go away.”
-
-“You did.”
-
-“You came back.”
-
-“Yes.”
-
-“With lunch.”
-
-“Yes.”
-
-“Why?”
-
-“You were busy.”
-
-“I am still busy.”
-
-“Yes.”
-
-I looked at the food.
-
-Then at him.
-
-The Arcrutus I remembered might have done something like this.
-
-Eventually.
-
-The current one had no reason to.
-
-That was unexpectedly kind.
-
-I distrusted it on principle.
-
-I took a bite.
-
-Very good.
-
-Fine.
-
-I shifted back into the housing and balanced the bundle beside the gauge.
-
-Still busy.
-
-Busy with food now.
-
-Better.
-
-Arcrutus sat on the stone beside the opening with his own lunch.
-
-For several minutes he let me work.
-
-Then he said, “You act like you know me.”
-
-My hand stopped.
-
-Only briefly.
-
-“That seems unlikely.”
-
-“You don’t behave like the others.”
-
-“What others?”
-
-“Young Rankers.”
-
-“I am not that young.”
-
-“You are from where I am sitting.”
-
-There he was.
-
-Asshole.
-
-“They usually stare,” he said.
-
-“I have work.”
-
-“You avoid staring.”
-
-“That sounds healthier.”
-
-“You know the stories?”
-
-“Some.”
-
-“Fan?”
-
-I looked out at him.
-
-“No.”
-
-Too quick.
-
-His eyebrow moved.
-
-Wonderful.
-
-“I don’t dislike you,” I said.
-
-“I didn’t ask that.”
-
-“I know.”
-
-He became still.
-
-There.
-
-Again.
-
-Too familiar.
-
-“You do that,” he said.
-
-“Do what?”
-
-“Answer me like we have already had the argument.”
-
-Maybe we had.
-
-Just not in a life he remembered.
-
-“You seem predictable.”
-
-“I am not.”
-
-“You left when I told you to.”
-
-“And came back.”
-
-“With food.”
-
-He smiled.
-
-I returned to the coupling before the conversation became dangerous.
-
-After a while he said, “You know Aren.”
-
-Not a question.
-
-“Yes.”
-
-“How well?”
-
-“Enough.”
-
-“And?”
-
-“What?”
-
-“What do you think of him?”
-
-That answer came easily.
-
-“He’s a good man.”
-
-Arcrutus looked down at his food.
-
-“Good fighter too,” I added.
-
-“I know that.”
-
-“Then why ask?”
-
-“I didn’t ask about the fighting.”
-
-Fair.
-
-I worked the retaining pin loose and set it beside me.
-
-“You raised a good son.”
-
-Arcrutus stared at me long enough that I felt it through the opening.
-
-Then he said, “I built one.”
-
-I looked out.
-
-He shrugged.
-
-“Started too early. Pushed too hard. Treated him like a project with legs. A weapon that complained.”
-
-He said it lightly.
-
-The lightness was false.
-
-Aren had described parts of his childhood that way in my first life.
-
-Training.
-
-Standards.
-
-Targets that moved the instant he reached them.
-
-A father who could turn breakfast into a lesson if given enough time.
-
-So Arcrutus was not inventing anything.
-
-He was still lying.
-
-Not intentionally.
-
-Arcrutus had always been hardest on himself.
-
-He could remember every place he had pressed too far and reduce years of fatherhood to the pressure.
-
-Aren could do something similar from the other side.
-
-Children remember the hand on the back differently than the person attached to the hand.
-
-Both memories can be true.
-
-Neither is the whole house.
-
-Weapons do not argue with their makers for decades and keep coming home.
-
-Projects do not disappoint you and remain loved.
-
-The Arcrutus I had known watched Aren constantly.
-
-Not controlling every movement.
-
-Knowing.
-
-He noticed when Aren’s temper made him cleaner and when it made him stupid.
-
-He knew when to needle him.
-
-Eventually, importantly, he learned when not to.
-
-I remembered Aren telling me the boundary I had needed to hear.
-
-I’m allowing you to know me.
-
-Do not confuse knowing with owning.
-
-Aren had learned that distinction somewhere.
-
-Maybe partly by having to teach it to his father.
-
-Maybe partly because his father eventually listened.
-
-“You raised a good son,” I repeated.
-
-“Despite me.”
-
-I looked at him.
-
-“That’s the part I don’t believe.”
-
-His eyes came up.
-
-Too much certainty again.
-
-I returned to the coupling.
-
-We did not know each other well enough for the real answer.
-
-Arcrutus let the silence sit.
-
-Then asked, “You have children?”
-
-“Yes.”
-
-“How many?”
-
-“Two.”
-
-“Twins?”
-
-“Yes.”
-
-He made a sound.
-
-Not sympathy.
-
-Close.
-
-“What?”
-
-“Two at once.”
-
-“Yes.”
-
-“Poor bastard.”
-
-I laughed.
-
-Actually laughed.
-
-“That is approximately what I said.”
-
-“You planned that?”
-
-“The children?”
-
-“The number.”
-
-“Do I look powerful enough to negotiate with biology?”
-
-“No.”
-
-“Then there you are.”
-
-He ate another piece of meat.
-
-“How old?”
-
-I told him.
-
-He nodded like this was operational information.
-
-Maybe to fathers it was.
-
-“One bites,” I said.
-
-Arcrutus looked over.
-
-“The boy?”
-
-“Currently.”
-
-“Currently?”
-
-“His sister believes retaliation is a legal category.”
-
-Arcrutus laughed.
 
 “Good.”
 
-“No.”
+“Still worried?”
 
-“Good children.”
+“Yes.”
 
-“You do not live with them.”
+“What are we missing?”
 
-“That improves children.”
+“If I knew, you would not be missing it.”
 
-I shook my head.
+I hated ancient beings.
 
-First-life Greg had never had this conversation with him.
+Fairly.
 
-Could not have.
+Pava rolled her right shoulder.
 
-First-life Greg had no wife.
+“No shake,” she said before I could look.
 
-No children.
+“I was not looking.”
 
-He had lovers.
+“You were about to.”
 
-Rooms.
+“Unprovable.”
 
-Women whose company he wanted until the next job moved him somewhere else.
+She smiled.
 
-Real affection sometimes.
+Not nervous.
 
-Real selfishness sometimes.
+Focused.
 
-No household built around staying.
+Pava liked difficult work.
 
-No small person waking him because a cup had fallen behind a bed.
+That did not make her suicidal.
 
-No argument about whether one child had bitten the other hard enough to require a healer or merely hard enough to require consequences.
+I need that clear.
 
-Second Life had given me expertise I had not known I lacked.
+She was one of the Seven because she had spent years being unusually good at pressure problems other people could not safely touch.
 
-Mostly about stains.
+This was exactly the kind of work for which the world had built Pava Kett.
 
-Arcrutus said, “You like it.”
+Mael looked around the gallery.
+
+“Final objections.”
+
+Nobody spoke.
+
+Not because nobody was afraid.
+
+Because fear had already been included in the plan.
+
+“Begin.”
+
+Pava set the rod.
+
+I opened the network.
+
+Nhal changed one thing inside herself.
+
+I felt it more than saw it.
+
+A primary band across her right shoulder loosened by less than an inch.
+
+The selected lower route accepted pressure.
+
+One second.
+
+Pava countered.
+
+Two.
+
+The lower bundle brightened in my perception.
+
+Three.
+
+Mael took recoil through both legs.
+
+Four.
+
+The system resisted.
+
+Not violently.
+
+Like a heavy door moving through thick oil.
+
+Five.
+
+The first lower instrument registered transfer.
+
+Six.
+
+Second instrument.
+
+Seven.
+
+No phase change.
+
+Eight.
+
+Pava’s hand steady.
+
+Nine.
+
+I felt the lower route open farther.
+
+Ten.
+
+“Hold,” Mael said.
+
+Mandatory review.
+
+Everyone froze where freezing was possible.
+
+“Pava?”
+
+“Good.”
+
+“Greg?”
+
+“Network stable.”
+
+“Technical?”
+
+“Lower response still rising. Within limit.”
+
+“Nhal?”
+
+Her eyes were closed.
+
+“Something moved.”
+
+Mael’s head turned.
 
 “What?”
 
-“Being a father.”
+“Below.”
 
-It was not really a question.
-
-“Yes.”
-
-He waited.
-
-I knew what he was doing.
-
-“More than I expected.”
-
-He nodded.
-
-“I knew I wanted Aren,” he said. “I did not know what having him would do to me.”
-
-That sounded more honest than the weapon story.
-
-“What did it do?”
-
-Arcrutus looked toward the yard.
-
-Workers moved around us carrying tools, arguing over a cart wheel, pretending not to look at one of the Seven eating lunch beside a maintenance opening.
-
-“It gave me something I could protect completely and control only temporarily.”
-
-I stopped working.
-
-He looked at me.
-
-“Problem?”
+“Expected?”
 
 “No.”
 
-“Then why stop?”
+Stop condition.
 
-“That was annoyingly good.”
+Mael said, “Release.”
 
-“I am occasionally excellent.”
+Immediately.
 
-“Rarely conversationally.”
+Correct decision.
 
-He ignored that.
+Pava began release.
 
-I thought about my children.
+I widened the return boundary.
 
-They were still small enough that control worked for many things.
+Mael softened structural load.
 
-Do not touch the stove.
+Arcrutus shifted into arrest position.
 
-Hold my hand crossing the road.
+Everything worked.
 
-Give me whatever you just put in your mouth.
+For half a second.
 
-Those were not negotiations.
+Then the lower route arrived.
 
-But every month contained some new thing they could do without me.
+Not a pressure spike.
 
-A cup.
+That would have been easier.
 
-Shoes.
+A claim.
 
-A door latch I preferred they had not discovered.
+The best word I have is claim.
 
-Fatherhood was partly a series of boundaries moving away from you.
+Something beneath Nhal had recognized the temporary path we created and treated it as available structure.
 
-“You did all right,” I said.
+The black line under Pava’s rod changed direction.
 
-Arcrutus gave me a look.
+Not toward Nhal.
 
-“With Aren.”
+Toward Pava.
 
-“You have met him a handful of times.”
+I felt the moment the system stopped seeing her technique as an intervention and started seeing her as a route.
 
-“Enough.”
+“Sever!” I shouted.
 
-“There it is again.”
+Pava had already tried.
 
-“What?”
+The rod would not release.
 
-“You talk like you know us.”
+Not physically stuck.
 
-Shit.
+Pressure-locked.
 
-I reached for my lunch.
+Her hand opened.
 
-“Maybe you are both predictable.”
+The rod stayed against her palm.
 
-“Aren is not predictable.”
+Load crossed.
 
-“He is when irritated.”
+Her reserve remained huge.
 
-Arcrutus’s eyes sharpened.
+I could feel it.
 
-I had stepped too close.
+Pointless.
 
-So I pointed at his food.
+The first failure was in her wrist.
 
-“Eat.”
+Not bone.
 
-“You told me to leave.”
+Channels.
 
-“You came back with lunch. Circumstances changed.”
+A sharp internal fold that should have ended the technique.
 
-He laughed.
+Instead the lower route used the fold.
 
-Good.
+Like water finding a crack.
 
-We ate.
+I threw the network wide.
 
-I worked.
+Mael took enough force to drive both boots through the surface crust of the gallery.
 
-Arcrutus told me one story about Aren at four involving a training dummy, a bucket, and a decision that made less sense every time he explained it.
+Arcrutus grabbed the western rib with both hands.
 
-I told him about my daughter hiding one shoe from every matching pair because she had discovered adults become very interesting when late.
+Stone exploded around his fingers.
 
-Then my son, who had begun putting things into pockets and forgetting which pocket.
+I routed into floor.
 
-Nothing in the conversation mattered to the Line.
+Wall.
 
-Nothing improved my Rank.
+Mael.
 
-Nobody learned a technique.
+Arcrutus.
 
-I fixed the coupling.
+Myself.
 
-That mattered to Bellwater.
+Anywhere.
 
-Arcrutus finished his lunch and stood.
+Everywhere.
 
-“You really are not a fan?”
+Nothing vanished.
+
+Pava screamed once.
+
+I had never heard an S-class scream.
+
+It sounded human.
+
+That was worse.
+
+The healer lunged toward her.
+
+Mael shouted, “No!”
+
+Correct.
+
+The space around Pava had become part of the load path.
+
+Touching her blindly would have added another body to the route.
+
+Nhal opened both eyes.
+
+“Do not pull her away.”
+
+“I know!”
+
+I did not know enough.
+
+I knew the grammar.
+
+Boundary.
+
+Crossing.
+
+Direction.
+
+Cost.
+
+The scale had stopped respecting my vocabulary.
+
+Pava looked at me.
+
+Conscious.
+
+Furious.
+
+“Get it off.”
+
+“I’m trying.”
+
+“Not trying.”
+
+Asshole.
+
+Even then.
+
+I changed the network.
+
+Not wider.
+
+Wider had failed.
+
+Specific.
+
+Pava’s right forearm out of the route.
+
+Shoulder instead.
+
+Then Mael.
+
+Then western rib.
+
+I created a new boundary at her elbow.
+
+For one beautiful fraction of a second the load obeyed.
+
+Her hand dropped free of the rod.
+
+The rod fell.
+
+Pava staggered back.
+
+The healer moved.
+
+Then the system followed her.
+
+That was the horror.
+
+The route was no longer in the instrument.
+
+It was in her.
+
+Years of pressure technique had made Pava a better path than the rod.
+
+The system had found the practiced architecture and kept using it.
+
+She took one step.
+
+The black line beneath the floor brightened.
+
+Her knees buckled.
+
+Ithar interrupted me in the present cave.
+
+“Wait.”
+
+I stopped.
+
+His eyes were fixed on nothing I could see.
+
+“In the early account you said one of the Seven died.”
+
+“Yes.”
+
+“You did not say how.”
 
 “No.”
 
-“You sure?”
+“Continue.”
 
-“I liked you better when you brought food.”
+I did.
 
-He smiled.
+Pava hit one knee.
 
-I never hated the man.
+Mael reached for her only after I gave him the route.
 
-That would have made him easier.
+His hand closed around her left shoulder.
 
-He was an ass.
+I linked them.
 
-He was also, in my first life, one of the people who shaped me most profoundly.
+Load slammed into him.
 
-Both things were true.
+His clicking knee finally failed to hide itself.
 
-This Arcrutus had not earned that place with me.
+He dropped half an inch.
 
-Not yet.
+Stayed standing.
 
-Maybe never in the same way.
+Arcrutus came in from the other side.
 
-History had already changed too much.
+“Route me.”
 
-He left the worksite.
+No joke.
 
-I watched him go for exactly long enough to make sure he was actually leaving.
+No argument.
 
-Lorn appeared beside me.
+I did.
 
-“What did he want?”
+The two old monsters took Pava’s load through themselves.
 
-“I have no idea.”
+For three seconds it worked.
 
-“He brought you lunch.”
+Pava breathed.
 
-“Yes.”
+The healer got a hand on her back inside my protected boundary.
 
-“You talked for almost an hour.”
+“Channels rupturing,” she said.
 
-“Yes.”
+“Where?”
 
-“And you have no idea.”
+“Right arm. Shoulder. Chest.”
 
-“Correct.”
+Chest.
 
-Lorn looked at the repaired housing.
+Bad.
 
-“Famous.”
+“Can you stabilize?”
 
-“Shut up.”
+“Not while this is crossing.”
 
-The footnotes kept spreading after that.
+“Then I stop the crossing.”
 
-A contractor form in Bellwater with STOP / CHANGE ONE THING / CHECK AGAIN.
+I said it like a fact.
 
-A station wall in South Fen with SAY WHAT YOU DON’T KNOW painted under the shift board.
+Because somebody had to.
 
-A licensing examiner asking WHAT CHANGES YOUR MIND?
+Nhal said, “You cannot stop it.”
 
-A union safety card adding WHO HAS STOP AUTHORITY? to our old sequence.
+I looked down at her.
 
-That one was excellent.
+“Helpful.”
 
-We added it back into our own training.
+“You can give it a better path.”
 
-Origin lost.
+I almost laughed.
 
-Good.
+That was my entire life.
 
-One afternoon a young mechanic visited Esset & Vale asking for a copy of “the Vale method.”
+“Where?”
 
-I said, “There isn’t one.”
+Nhal’s tail struck the floor once.
 
-She looked confused.
+A black band beneath her left hip tightened.
 
-“The stop cards.”
+“There.”
 
-“Those are regional now.”
-
-“But you wrote them.”
-
-“Some.”
-
-She waited.
-
-People enjoy clean provenance.
-
-I understood.
-
-I gave her the current packet.
-
-Twelve named contributors on the revision history.
-
-Three district offices.
-
-One union committee.
-
-No single author line.
-
-She looked disappointed.
-
-“Harder to remember.”
+“That route is carrying you.”
 
 “Yes.”
 
-“Who do I credit?”
+“If I add this?”
 
-“Use the packet title.”
+“I will carry more.”
 
-“That is boring.”
+“How much?”
 
-“Excellent.”
+“I do not know.”
 
-She left unconvinced.
+Another honest unknown.
 
-Years later, stories about my career would simplify all of this.
+We had no time.
 
-Named Ranker.
+Pava’s pulse changed under the healer’s fingers.
 
-Line specialist.
+Mael said, “Do it.”
 
-Standards.
+Nhal looked at him.
 
-Contracts.
+“I did not ask you.”
 
-People prefer one person because one person fits in a sentence.
+She looked at me.
 
-The work rarely did.
+Her prison.
 
-I still kept the first circular with G. VAIL on it.
+Her body.
 
-Nessa found it in a box later.
+Her load.
 
-“You kept the misspelled one?”
+Consent mattered even at the edge of disaster.
+
+“Do you want it?” I asked.
+
+Nhal bared her teeth.
 
 “Yes.”
 
-“Why?”
+I moved the load.
 
-Because somebody far away had found the work useful enough to copy without needing me there.
+Not all.
 
-Because Arcrutus Dray had once gone out of his way to watch me repair a boring piece of infrastructure and somehow ended up talking about sons over flatbread.
+Could not.
 
-Because influence was strange and rarely arrived in the form you expected.
+Enough.
 
-“Evidence,” I said.
+Pava’s route poured into Nhal’s left-side band.
 
-“Of what?”
+The pit shook.
 
-“That Vail guy knew some things.”
+One wing opened involuntarily beneath the restraints.
 
-She laughed.
+Stone cracked twenty feet below.
 
-I kept the page.
+Nhal roared.
+
+The sound hit my Barrier hard enough to blur my vision.
+
+But Pava’s crossing weakened.
+
+“Again,” I said.
+
+My channels were burning.
+
+Mael took more.
+
+Arcrutus took more.
+
+Nhal took more.
+
+Pava took less.
+
+That was the whole equation.
+
+Less was not zero.
+
+The healer got both hands on her.
+
+“Heart unstable.”
+
+“Fix it.”
+
+“I am.”
+
+“Fix it.”
+
+“I am.”
+
+I hated her for saying the same thing back.
+
+Then understood why.
+
+We were all already doing everything.
+
+There was no hidden effort remaining because I wanted one.
+
+Pava’s eyes found mine.
+
+Still conscious.
+
+“Greg.”
+
+“Yes.”
+
+“My hand.”
+
+I looked.
+
+It had stopped shaking.
+
+Completely.
+
+For one stupid instant I thought that was good.
+
+Then realized why.
+
+No channel activity.
+
+None.
+
+The lower route had burned the path closed behind itself.
+
+“Pava.”
+
+She knew.
+
+Of course she knew.
+
+Her whole career lived in that hand.
+
+“Fuck,” she whispered.
+
+Not grief.
+
+Assessment.
+
+Then the heart failed.
+
+The healer moved before I understood.
+
+Compression.
+
+Magic.
+
+Air.
+
+Mael lowered Pava without breaking my routes.
+
+Arcrutus knelt.
+
+Nhal held the stolen load beneath us.
+
+I kept the network open because closing it would kill everybody faster.
+
+The healer worked.
+
+Pava did not.
+
+Once.
+
+Twice.
+
+Again.
+
+Again.
+
+No dramatic last words.
+
+She had used hers already.
+
+My hand.
+
+Fuck.
+
+The healer stopped.
+
+Nobody told her to.
+
+She simply reached the point where continuing became performance.
+
+Her hands stayed on Pava’s chest for another second.
+
+Then came away.
+
+The chamber still carried load.
+
+That was obscene.
+
+Pava Kett was dead and the system did not care.
+
+Her reserve had been enormous minutes earlier.
+
+Power had not been the limiting variable.
+
+Again.
+
+Final lesson.
+
+I wanted to close everything.
+
+Drop the network.
+
+Be done.
+
+Mael looked at me.
+
+“Can we release?”
+
+I checked.
+
+No.
+
+Nhal was carrying the diverted lower route now.
+
+The selected bundle had not returned to baseline.
+
+Two upper lines were drifting.
+
+Arcrutus’s improvised anchor was cracked.
+
+Pava’s body had become dead weight inside three of my relations.
+
+“No.”
+
+One word.
+
+The worst one I had ever given him.
+
+Mael closed his eyes.
+
+Opened them.
+
+“What do you need?”
+
+There.
+
+Not grief yet.
+
+Work.
+
+Because the living remained attached to the same failure that had just killed her.
+
+I looked at the network.
+
+At Nhal.
+
+At the black lines.
+
+At Pava’s rod lying on the floor where it had fallen.
+
+There had been seven living S-class humans that morning.
+
+The world did not know yet.
+
+Underground, before any Authority notice or mourning bell or political panic, there were six.
+
+And an A-class support was holding the reason nobody else had joined her.
