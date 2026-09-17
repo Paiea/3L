@@ -2,6 +2,28 @@
 
 ## THE HOUSEHOLD
 
+Ithar looked at me.
+
+“Second life?”
+
+“Yes.”
+
+“Nessa alive.”
+
+“Yes.”
+
+“Children?”
+
+“Two.”
+
+“Already born?”
+
+“Very much.”
+
+He settled one foreclaw against the stone.
+
+“Continue.”
+
 Nessa and I nearly started a fight over onions.
 
 That was not the real problem.
@@ -284,7 +306,7 @@ Badly.
 
 The first month I paid rent twice.
 
-Landlord returned one payment.
+The landlord returned one payment.
 
 Eventually.
 
@@ -404,6 +426,36 @@ The document came back with one corner wet.
 
 No investigation identified the source.
 
+Ithar shifted.
+
+Stone whispered beneath his scales.
+
+“You are comparing this to your first life.”
+
+“Yes.”
+
+“No wife.”
+
+“No.”
+
+“No children.”
+
+“No.”
+
+“Then the comparison is not work against work.”
+
+“No.”
+
+He watched me.
+
+“It is work against something that did not exist before.”
+
+“Exactly.”
+
+He lowered his head again.
+
+“Continue.”
+
 The hardest part was not scheduling.
 
 It was accepting that home could legitimately constrain work.
@@ -472,7 +524,7 @@ Fatherhood made the difference impossible to ignore.
 
 Two newborns did not care what I had once done beneath Vey.
 
-They did not care that I had been S-class.
+They did not care that I had been S-class in a life they would never know.
 
 They cared about milk.
 
@@ -530,7 +582,51 @@ Humiliating.
 
 That was the life I was living when Arcrutus Dray went out of his way to visit me at work.
 
-He had no operational reason to be there.
+Ithar stopped me.
+
+“The Arcrutus from Vey.”
+
+“Yes.”
+
+“Same man.”
+
+“Yes.”
+
+“Different life.”
+
+“Yes.”
+
+“He did not remember Vey.”
+
+“No.”
+
+“You remembered all of it.”
+
+“Unfortunately.”
+
+Ithar considered that.
+
+“And you were already a father.”
+
+“Yes.”
+
+“Married.”
+
+“Yes.”
+
+“Not S-class.”
+
+“Not in that life.”
+
+“Good.”
+
+“Are you grading me?”
+
+“I am locating you.”
+
+Fair.
+
+Arcrutus had no operational reason to be at the worksite.
 
 That was the first problem.
 
@@ -1112,67 +1208,85 @@ Arcrutus laughed.
 
 I shook my head.
 
-First-life Greg had never had this conversation with him.
+Then he said, quieter, “You like it.”
 
-Could not have.
-
-First-life Greg had no wife.
-
-No children.
-
-He had lovers.
-
-Rooms.
-
-Women whose company he wanted until the next job moved him somewhere else.
-
-Real affection sometimes.
-
-Real selfishness sometimes.
-
-No household built around staying.
-
-No small person waking him because a cup had fallen behind a bed.
-
-No argument about whether one child had bitten the other hard enough to require a healer or merely hard enough to require consequences.
-
-Second Life had given me expertise I had not known I lacked.
-
-Mostly about stains.
-
-Arcrutus said, “You like it.”
-
-“What?”
-
-“Being a father.”
-
-It was not really a question.
+“Fatherhood?”
 
 “Yes.”
 
-He waited.
+I thought about the morning.
 
-I knew what he was doing.
+One twin had climbed into our bed before sunrise.
 
-“More than I expected.”
+The other had arrived two minutes later carrying half a blanket and a wooden spoon.
+
+No reason for the spoon.
+
+None discovered.
+
+“Yes.”
+
+“How much?”
+
+That was an Arcrutus question.
+
+Too direct.
+
+I considered lying.
+
+Did not.
+
+“More than I knew was possible.”
 
 He nodded.
 
-“I knew I wanted Aren,” he said. “I did not know what having him would do to me.”
+No joke.
 
-That sounded more honest than the weapon story.
+“I knew I wanted Aren,” he said.
 
-“What did it do?”
+That surprised me.
 
-Arcrutus looked toward the yard.
+“You did?”
 
-Workers moved around us carrying tools, arguing over a cart wheel, pretending not to look at one of the Seven eating lunch beside a maintenance opening.
+“Yes.”
 
-“It gave me something I could protect completely and control only temporarily.”
+“I would have guessed he happened to you and you declared victory afterward.”
+
+“Fuck you.”
+
+“There he is.”
+
+He ignored me.
+
+“I wanted a son. I thought I understood what that meant.”
+
+“And?”
+
+“I understood training.”
+
+Of course he did.
+
+“Protection.”
+
+Of course.
+
+“Provision.”
+
+I waited.
+
+He looked at the food in his hands.
+
+“Not the rest.”
+
+“What rest?”
+
+His eyes moved to me.
+
+“That someone can be completely yours to protect and only temporarily yours to direct.”
 
 I stopped working.
 
-He looked at me.
+Arcrutus noticed.
 
 “Problem?”
 
@@ -1186,179 +1300,125 @@ He looked at me.
 
 “Rarely conversationally.”
 
-He ignored that.
+He almost smiled.
 
-I thought about my children.
+I looked at the coupling again.
 
-They were still small enough that control worked for many things.
+Completely yours to protect.
 
-Do not touch the stove.
+Temporarily yours to direct.
 
-Hold my hand crossing the road.
+Aren had eventually phrased the same lesson differently.
 
-Give me whatever you just put in your mouth.
+Knowing was not owning.
 
-Those were not negotiations.
+Maybe children spend half their lives teaching parents where the line moved.
 
-But every month contained some new thing they could do without me.
+Maybe good parents are the ones who eventually notice.
 
-A cup.
+Maybe all of us get there late.
 
-Shoes.
+“I am going to fuck parts of this up,” I said.
 
-A door latch I preferred they had not discovered.
+“Yes.”
 
-Fatherhood was partly a series of boundaries moving away from you.
+I looked at him.
 
-“You did all right,” I said.
+No hesitation.
 
-Arcrutus gave me a look.
+“Helpful.”
 
-“With Aren.”
+“You will.”
 
-“You have met him a handful of times.”
+“Thanks.”
 
-“Enough.”
+“So did I.”
 
-“There it is again.”
+There.
 
-“What?”
+That was probably the kindness.
 
-“You talk like you know us.”
+Not reassurance.
 
-Shit.
+Company.
 
-I reached for my lunch.
-
-“Maybe you are both predictable.”
-
-“Aren is not predictable.”
-
-“He is when irritated.”
-
-Arcrutus’s eyes sharpened.
-
-I had stepped too close.
-
-So I pointed at his food.
-
-“Eat.”
-
-“You told me to leave.”
-
-“You came back with lunch. Circumstances changed.”
-
-He laughed.
-
-Good.
-
-We ate.
+He finished eating.
 
 I worked.
 
-Arcrutus told me one story about Aren at four involving a training dummy, a bucket, and a decision that made less sense every time he explained it.
+Eventually I said, “This was better.”
 
-I told him about my daughter hiding one shoe from every matching pair because she had discovered adults become very interesting when late.
+“What?”
 
-Then my son, who had begun putting things into pockets and forgetting which pocket.
+“You came back with food.”
 
-Nothing in the conversation mattered to the Line.
+“Yes.”
 
-Nothing improved my Rank.
+“Better than standing there.”
 
-Nobody learned a technique.
+“Yes.”
 
-I fixed the coupling.
+“Do not misunderstand. Still irritating.”
 
-That mattered to Bellwater.
+“Yes.”
 
-Arcrutus finished his lunch and stood.
-
-“You really are not a fan?”
+“You are very comfortable with criticism.”
 
 “No.”
 
-“You sure?”
-
-“I liked you better when you brought food.”
+I looked out.
 
 He smiled.
 
-I never hated the man.
+Asshole.
 
-That would have made him easier.
+Ithar waited until I had finished the memory.
 
-He was an ass.
-
-He was also, in my first life, one of the people who shaped me most profoundly.
-
-Both things were true.
-
-This Arcrutus had not earned that place with me.
-
-Not yet.
-
-Maybe never in the same way.
-
-History had already changed too much.
-
-He left the worksite.
-
-I watched him go for exactly long enough to make sure he was actually leaving.
-
-Lorn appeared beside me.
-
-“What did he want?”
-
-“I have no idea.”
-
-“He brought you lunch.”
+Then said, “You are using the first-life Arcrutus to interpret the second-life one.”
 
 “Yes.”
 
-“You talked for almost an hour.”
+“He had not yet become the man you are defending.”
 
-“Yes.”
+“No.”
 
-“And you have no idea.”
+“And you believed he would.”
 
-“Correct.”
+I thought about that.
 
-Lorn looked at the repaired housing.
+“Not exactly.”
 
-“You act like an old man.”
+“What exactly?”
 
-“I am older than you.”
+“I knew what he was capable of becoming.”
 
-“Not enough to explain you.”
+“That is not the same thing.”
 
-Fair.
+“No.”
 
-I had been an old man in a young body for most of Second Life.
+His gaze sharpened.
 
-Not wise.
+“You gave him credit early.”
 
-Do not romanticize it.
+“Sometimes.”
 
-Just finished with certain forms of proving myself.
+“Because you loved the later man.”
 
-I did not stare at famous Rankers because I had already watched legends snore, bleed, complain about food, and make terrible decisions.
+I looked at him.
 
-I did not need every invitation.
+Dragons should not be allowed to become conversationally competent.
 
-I had already learned that impressive rooms often contained uncomfortable chairs and somebody trying to give you work.
+“It complicated things.”
 
-I went home.
+“That was not a denial.”
 
-That was new.
+“No.”
 
-And apparently that made me more interesting to other people too.
+He let me have that.
 
-Once I was married, settled, and genuinely not looking, women became more interested in me.
+The strange thing was that settling down did not make me disappear from other people’s attention.
 
-Not all women.
-
-Enough that I noticed the pattern.
+It did the opposite.
 
 This seemed rude.
 
@@ -1370,31 +1430,55 @@ Apparently this was powerful magic.
 
 Part of it was reputation.
 
-I was known by then.
+Part of it was competence.
 
-Competent.
+Part of it was age finally catching up with the way I had acted since I was young.
 
-Established.
+I had always had old-man tendencies.
 
-People mistook certainty for mystery because I no longer explained myself to every room.
+Even when my body disagreed.
 
-Part of it was simpler.
+I did not stare at famous Rankers because I had already watched legends snore, bleed, complain about food, and make terrible decisions.
 
-I was not reaching.
+I did not need every invitation.
 
-Not auditioning.
+I had already learned that impressive rooms often contained uncomfortable chairs and somebody trying to give you work.
 
-Not trying to turn every attractive woman into evidence that I was attractive.
+I went home.
 
-Being set inside yourself changes the way people meet you.
+That was new.
 
-And part of it, I eventually realized, was Nessa.
+People noticed.
 
-Not literally.
+Women noticed too.
 
-Her place.
+Not constantly.
 
-The life around me.
+Not melodramatically.
+
+Enough.
+
+Ithar said, “How old were you?”
+
+“Old enough that nobody should have mistaken me for mysterious.”
+
+“That is not an age.”
+
+“Married. Children. Established work. More gray than I appreciated.”
+
+“Before you lost them.”
+
+The cave changed around the sentence.
+
+Not actually.
+
+My body did.
+
+“Yes.”
+
+Ithar’s head lowered a fraction.
+
+“Continue.”
 
 A woman at a regional dinner once found reasons to remain after everyone else had left.
 
@@ -1406,23 +1490,49 @@ Touched my forearm twice.
 
 Asked whether Nessa traveled often.
 
-Then asked whether I ever got tired of being “so settled.”
+I answered.
 
-There are questions whose wording contains the invitation.
+She asked whether I ever got tired of being so settled.
 
-I knew that much in both lives.
+That one finally reached me.
 
-“No,” I said.
+“Settled?”
 
-She smiled like I had misunderstood.
+“You know.”
 
-I had not.
+I did not.
+
+Apparently.
+
+She smiled.
+
+I changed the subject.
+
+Not because I was horrified.
+
+I was not.
+
+Being wanted feels good.
+
+That remained true after marriage.
+
+I noticed attractive women.
+
+Also true.
+
+Occasionally attention landed at exactly the right angle and some stupid part of me stood a little straighter.
+
+Human.
+
+Fine.
+
+The useful distinction was that feeling wanted did not make me want to leave.
 
 I went home.
 
-Nessa was awake at the table finishing a schedule.
+That was the important part.
 
-I told her.
+I told Nessa about the conversation.
 
 Not as confession.
 
@@ -1444,45 +1554,45 @@ I was genuinely confused.
 
 “You really are old.”
 
-“Explain.”
+“I am younger than you.”
 
-“She sees you now.”
+“Spiritually, you are eighty.”
 
-“I was visible before marriage.”
+Fair.
 
-“Debatable.”
+Then I understood what she meant.
 
-“Nessa.”
+The woman had not only been interested in me.
 
-“She sees a man who knows where he is going home. Stable work. Reputation. Children you talk about when nobody asked. A wife you clearly like.”
+She was interested in the version of me that existed inside a life.
 
-“I clearly like you?”
+Steady work.
 
-“Do not fish.”
+Reputation.
 
-“Sorry.”
+Home.
 
-Nessa tapped her pen against the table.
+Children.
 
-“Some people see the finished house and think they want to move in.”
+A man who left dinners because somebody expected him.
 
-That stayed with me.
+A man who did not appear hungry for validation because most of the things he cared about were already waiting somewhere else.
 
-The finished house.
+Some people see a finished house and imagine moving in.
 
-Except it was not finished.
+Except the house was not finished.
 
-It leaked occasionally.
+And Nessa had built half of it.
 
-Forgot onions.
+Probably more during certain months.
 
-Paid rent twice.
+The confidence was partly her work.
 
-Argued about calendars.
+The stability was partly her work.
 
-Had children who treated clean walls as invitations.
+The clothes without mysterious stains were sometimes literally her work.
 
-The thing being admired from outside was partly the product of work nobody outside could see.
+The ability to leave a meeting because I knew the household would still exist when I returned came from years of us making that household reliable together.
 
 Nessa’s work too.
 
@@ -1494,235 +1604,109 @@ Sometimes they wanted Nessa’s place.
 
 That made the attention less flattering in a useful way.
 
-Not insulting.
+It did not make every interested woman malicious.
 
-Some of those women probably did like me.
+Most were not.
 
-I was not going to pretend otherwise so I could become morally pure in retrospect.
+Some simply saw a life that looked good from outside.
 
-Attention felt good.
+I could understand that.
 
-Being wanted felt good.
+I liked the life from inside.
 
-I remained human across reincarnations.
+That was the point.
 
-But First-Life Greg had often treated wanting and opportunity as reasons enough to move closer.
+Nessa was not territorial about it in the way stories like to make wives territorial.
 
-Second-life Greg could feel the little lift of being noticed and then go home because home was not the thing preventing life.
+She was observant.
 
-Home was part of the life.
+Sometimes amused.
 
-The distinction was enormous.
+Once a younger Ranker touched my shoulder three times during a conversation.
 
-Nessa was not especially jealous about most of it.
+Nessa watched from across the room.
 
-That annoyed me slightly because vanity is stupid.
+On the walk home she said, “Three.”
 
-She trusted me.
+“What?”
 
-More dangerously, she knew me.
+“Touches.”
 
-Once, after watching a contractor flirt with me through an entire reception, she said, “You’re enjoying that.”
-
-“I am being polite.”
-
-“You are enjoying being polite.”
-
-I considered lying.
-
-“No.”
-
-“Liar.”
-
-“Fine. A little.”
-
-“Good.”
-
-That surprised me.
-
-She shrugged.
-
-“I married you. I did not blind everyone else.”
-
-Then she stole the last sweet from my plate.
-
-Marriage contained complexity.
-
-So did fidelity.
-
-It was not the absence of alternatives.
-
-That would have been easy.
-
-It was knowing alternatives existed and still understanding what they were alternatives to.
-
-The household improved.
-
-Not became perfect.
-
-That word should be illegal around shared lives.
-
-The onions appeared more reliably.
-
-I learned which market stall had good ones late in the day.
-
-Nessa stopped carrying every appointment in her head.
-
-The twins changed faster than our systems did.
-
-Our son went through a period where every pocket contained something.
-
-Stone.
-
-String.
-
-A screw I hoped had not come from our house.
-
-Our daughter developed strong opinions about which stories belonged to whom and corrected me if I assigned one incorrectly.
-
-They were twins.
-
-They were not the same child twice.
-
-This sounds obvious until you are exhausted enough to call one by the other’s name and receive two different forms of outrage.
-
-Fatherhood was harder than I expected.
-
-Also better.
-
-I did not say that at the time.
-
-At the time I said it was loud.
-
-Expensive.
-
-Sticky.
-
-Bad for sleep.
-
-Bad for privacy.
-
-Bad for any object placed lower than shoulder height.
-
-I complained constantly.
-
-Then remembered every stupid detail decades later.
-
-Ithar noticed.
-
-“You speak of them differently.”
-
-I looked at him.
-
-“Differently than what?”
-
-“Than Pava.”
-
-That hurt.
-
-He did not mean it cruelly.
-
-Maybe that made it worse.
-
-“I remember Pava.”
+“You counted?”
 
 “Yes.”
 
-“You think I do not?”
+“Why?”
 
-“No.”
+“Research.”
 
-“Then what?”
+I laughed.
 
-“You remember Pava through the operation. The rod. Her hand. Her death.”
+“She may just touch people.”
 
-I said nothing.
+“She did not touch Mael.”
 
-“You remember your son’s pockets.”
+“Nobody touches Mael.”
 
-I looked away.
+“Correct.”
 
-Ithar continued.
+Another time someone asked whether Nessa was “always traveling this much.”
 
-“You remember your daughter assigning stories.”
+Nessa heard.
 
-“Yes.”
+She waited until we were alone.
 
-“You remember a cup color.”
+“Chair.”
 
-“Yes.”
+“I know now.”
 
-“You remember onions.”
+“Growth.”
 
-“Yes.”
+I liked being married to someone who could make a category out of attempted seduction.
 
-He waited.
+It kept things efficient.
 
-I understood what he was doing.
+The deeper lesson was less funny.
 
-The world had taught me to preserve extraordinary events.
+First Life had given me relationships.
 
-My mind had preserved breakfast.
+Real ones.
 
-That was evidence too.
+Some loving.
 
-The conversation with Arcrutus returned to me often during those years.
+Some messy.
 
-He had called Aren a project.
+Some I had damaged by keeping one foot pointed toward the door.
 
-A weapon he had tried to build.
+Second Life gave me a household.
 
-I had thought he was lying about himself.
+Different structure.
 
-Not about the pressure.
+Different obligation.
 
-He had pushed Aren hard.
+Different reward.
 
-Aren himself had told that story.
+I had once thought commitment meant reducing options.
 
-But Arcrutus remembered his failures with more fidelity than his restraint.
+It did.
 
-Hard on everyone.
+That was not the interesting part.
 
-Hardest on himself.
+The interesting part was discovering that fewer options could create more life.
 
-Then he had said something better over lunch while I was still half inside a transfer housing.
+You stop preserving every possible exit.
 
-A child could be yours to protect completely and yours to control only temporarily.
+Then you can build things in the space the exits were using.
 
-I understood the sentence more every year.
+The cave was quiet.
 
-My twins required control when they were small.
+Ithar did not interrupt.
 
-Stop meant stop near a road.
+Good.
 
-Hot meant no.
+Not every memory needed coordinates.
 
-Give me whatever is in your mouth was not a democratic process.
-
-But the job was not to become more efficient at controlling them.
-
-The job was to keep moving the boundary as they became capable.
-
-That was harder.
-
-Aren’s old sentence belonged here too.
-
-Knowing was not owning.
-
-Parenthood involved knowing someone with terrifying intimacy while slowly accepting that the person remained theirs.
-
-Not yours.
-
-The phrase changed meaning once I had children.
-
-I never told Aren that.
-
-Different life.
-
-Different relationship.
-
-Some things reincarnation did not return just because I remembered them.
+Some needed room.
 
 Nessa and I eventually started talking about another child.
 
@@ -1730,67 +1714,149 @@ Not immediately.
 
 We were not insane.
 
-Probably.
+The twins became less likely to die from ordinary household geometry.
 
-But the idea appeared.
+Sleep improved.
 
-First as a joke when the twins had one unusually easy week.
+Money improved.
 
-Then again months later without the joke.
+Our work schedules became less stupid.
 
-We had survived infancy.
+One evening after the children were down, Nessa put both feet in my lap and said, “Maybe.”
 
-Mostly.
+I knew what she meant.
 
-The apartment already felt too small.
+“No.”
 
-Money would become tighter.
+She kicked me.
 
-Sleep would become theoretical again.
+Not hard.
 
-And neither of us said no quickly enough.
+“Coward.”
 
-That was how I knew.
+“We just survived the first two.”
 
-I had not merely endured fatherhood.
+“They are not a storm.”
 
-I wanted more of that life.
+“They are exactly a storm. There are two fronts and no reliable forecast.”
 
-First-life Greg would not have understood the sentence.
+She smiled.
 
-He would have understood wanting more capability.
+Then became serious.
 
-More reach.
+“Maybe.”
 
-More difficult work.
+I looked toward the children’s room.
+
+One of them coughed.
+
+Both of us listened.
+
+Nothing followed.
+
+Parenthood.
+
+“I want another one,” I said.
+
+The sentence surprised me after I said it.
+
+Not because it was false.
+
+Because First-Life Greg would not have recognized the desire.
+
+He understood wanting more capacity.
+
+More money.
+
+More authority.
+
+A stronger team.
+
+A better contract.
 
 A higher room.
 
-A stronger team.
+A wider margin.
 
 Second-life Greg wanted another chair at a crowded table.
 
 That may have been the larger transformation.
 
+Nessa squeezed my hand with her foot.
+
+“Not tomorrow.”
+
+“Excellent.”
+
+“Maybe next year.”
+
+“Still suspicious.”
+
+“We can discuss.”
+
+“Impact review.”
+
+She threw a cushion at me.
+
+Ithar’s tail moved in the present cave.
+
+Once.
+
+Slowly.
+
+“So this is still before the catastrophe.”
+
+“Yes.”
+
+“Second life.”
+
+“Yes.”
+
+“You have Nessa.”
+
+“Yes.”
+
+“The twins.”
+
+“Yes.”
+
+“You are discussing another child.”
+
+“Yes.”
+
+“And Arcrutus is alive.”
+
+“Yes.”
+
+He watched me for a long time.
+
+“You are giving me the full load before the failure.”
+
+I looked at him.
+
+There it was.
+
+Exactly.
+
+“Yes.”
+
 Years later, people would know me for larger decisions.
 
-Contracts.
+Rank decisions.
 
-Standards.
+Line decisions.
+
+People would count bodies.
+
+Cities.
 
 Failures.
 
-Revenge.
+They would ask why I crossed one boundary and not another.
 
-The Line.
+Why I wanted power.
 
-Nobody would know I had once required a written system to remember onions.
-
-Nobody would care that my son collected pocket garbage or my daughter had assigned ownership to bedtime stories.
-
-History is reasonable that way.
-
-It cannot keep everything.
+Why I stopped believing certain costs were acceptable.
 
 But if you want to understand why the man who survived Vey became the man who eventually did what I did in my second life, the onions belong in the record.
 
@@ -1800,18 +1866,26 @@ So does Nessa’s chair.
 
 So does Arcrutus bringing lunch after I told him to go away.
 
+So does a blue cup.
+
+So does Pava’s terrible soup.
+
 None of it looked like power.
 
 That was why losing it changed what I thought power was for.
 
-Ithar did not interrupt.
+Ithar did not move.
 
-For once.
+Neither did I.
 
-I almost wished he would.
+Finally he said, “Now.”
 
-Instead he waited.
+I knew what he meant.
 
-I looked at the floor between us.
+The room felt colder.
 
-Then said, “Now I can tell you about the job I took.”
+Probably not actually.
+
+“Now,” I said.
+
+I told him about the job I took.
