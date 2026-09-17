@@ -1,635 +1,735 @@
 ## RECORD 072
 
-## THE TRAINER
+## THE LOAD
 
-The first training manual I wrote was forty-eight pages.
+The chamber was not dark.
 
-Nobody finished it.
+That took me too long to notice.
 
-That was useful feedback.
+Our lamps made darkness obvious.
 
-I did not receive it gracefully.
+Yellow circles.
 
-Hali put the pages on my desk.
+Black beyond them.
 
-All forty-eight.
+But farther in, the black mineral lines carried their own almost-light.
 
-Unmarked after page eleven.
+Not enough to see by.
 
-“What happened?” I asked.
+Enough to make the floor look wet from certain angles.
 
-“I stopped.”
+Pava crouched at the threshold.
 
-“I can see that.”
+Did not cross.
 
-“Good.”
+Good.
 
-“Why?”
+Mael said, “Map first.”
 
-“Page twelve.”
+The surveyor unpacked chalk.
 
-I opened it.
+Arcrutus said, “That will help.”
 
-LEGACY PRESSURE INTERFACE: PRELIMINARY FIELD CLASSIFICATION.
+She looked at him.
 
-Reasonable heading.
+“It helps us.”
 
-Under it were seven categories.
+“Exactly.”
 
-Each category had conditions.
+Old structures rarely care about chalk.
 
-Each condition had exceptions.
+People do.
 
-Some exceptions had footnotes because apparently I hated workers.
+The first twenty feet took an hour.
 
-“What is wrong with page twelve?”
+Not because anything attacked us.
 
-Hali stared at me.
+Nothing moved.
 
-“Do you want the polite answer?”
+Nothing screamed.
 
-“No.”
+No ancient trap tried to prove it had survived longer than the civilization that built it.
 
-“I was standing in a pump room when I tried to read it.”
+The floor was simply carrying too many relationships.
 
-“That is where it is supposed to be used.”
+Each black line behaved differently.
 
-“Yes.”
+Some accepted pressure from our weight.
 
-“So?”
+Some ignored us.
 
-“I had gloves on.”
+Some changed when another line changed.
 
-I waited.
+Some appeared dead until Mael stepped across them.
 
-“Greg.”
+One responded only when Pava’s rod came within a handspan.
 
-“What?”
-
-“I am not reading a fucking essay beside a live regulator.”
-
-Fair.
-
-Annoying.
-
-Fair.
-
-The manual had started because regional offices wanted something more formal than apprenticeship by proximity.
-
-Too many sites.
-
-Too many old interfaces.
-
-Too few Tovas, Osas, Hal i s, and whatever category I had become.
-
-We had already learned the bad version of scaling.
-
-Send Greg.
-
-Send Tova.
-
-Send somebody who has seen it before.
-
-That works until three places need the same person.
-
-Or the person is sick.
-
-Or home with two children who have independently decided not to sleep.
-
-Or old.
-
-Or dead.
-
-I disliked that last one enough to write forty-eight pages.
-
-Apparently mortality creates prose problems.
-
-I brought the manual home.
-
-Nessa read it at the kitchen table while I tried to feed the twins.
-
-Tried is doing work there.
-
-Our son had decided peas were individually suspicious and required inspection before consumption.
-
-Our daughter had decided food tasted better from someone else’s bowl.
-
-They were both correct often enough to remain dangerous.
-
-Nessa reached page nine.
-
-“Why are there four definitions of warm?”
-
-“Because hand-warm and instrument-warm are different.”
-
-“Then write that.”
-
-“I did.”
-
-“You wrote comparative thermal deviation.”
-
-“That is more precise.”
-
-“No. That is more words.”
-
-Our daughter slapped a pea onto page ten.
-
-Nessa looked at the green mark.
-
-“Editorial note.”
-
-“She cannot read.”
-
-“Still improved it.”
-
-Nobody respected me.
-
-The second version was twenty-six pages.
-
-Hali finished eighteen.
+She did not touch it.
 
 Progress.
 
-The third version was not a manual.
+We marked every reaction.
 
-That was the breakthrough.
+White chalk for known response.
 
-It was a sequence.
+Red for coupled.
 
-Not what to know.
+Blue for no detectable activity.
 
-What to do first.
+The blue became suspicious quickly.
 
-STOP.
+Anything that old and quiet deserves mistrust.
 
-LOOK.
+The technical crew built a path through the first section.
 
-ASK.
+Not safe.
 
-MEASURE.
+Safest observed.
 
-SAY WHAT YOU DO NOT KNOW.
+Different sentence.
 
-WHO ELSE CHANGES IF YOU ACT?
+Mael went first.
 
-SET LIMITS.
+His weight changed three lines at once.
 
-CHANGE ONE THING.
+One rose.
 
-CHECK AGAIN.
+Two fell.
 
-LEAVE A RECORD.
+No visible consequence.
 
-Hali read the first card.
+Pava followed.
 
-“Better.”
+Different response.
 
-“High praise.”
+The system cared about more than mass.
 
-“Do not get used to it.”
+Interesting.
 
-The card fit in a breast pocket.
+Bad.
 
-That mattered more than I expected.
+The surveyor crossed.
 
-A worker could pull it out with one hand.
+Almost nothing.
 
-Read it under bad light.
+Then me.
 
-Drop it.
+A line under my left foot tightened sharply.
 
-Wipe oil off it.
+I stopped.
 
-Argue with it.
+Mael turned.
 
-Forty-eight pages had been written by someone imagining knowledge.
+“Pain?”
 
-The card had been designed for a body standing somewhere inconvenient.
+“No.”
 
-We tested the sequence on new hires.
-
-Not classroom only.
-
-Real pump houses.
-
-Old galleries.
-
-Apartment manifolds.
-
-Places where nothing dramatic was happening.
-
-That mattered.
-
-Emergency training teaches people to expect emergencies.
-
-Maintenance is mostly learning how to notice the ordinary condition before it becomes unusual.
-
-The first trainee under the new sequence was a young fitter named Tomas Reed.
-
-Twenty-four.
-
-D-class.
-
-Very good hands.
-
-Terrible confidence.
-
-He apologized before touching tools.
-
-That was almost as dangerous as arrogance.
-
-At South Fen we gave him a noisy return valve.
-
-Not broken.
-
-Probably dirty.
-
-His instinct was to ask me what I thought.
-
-I pointed at the first card.
-
-STOP.
-
-He glared.
-
-Good.
-
-“Look,” he said.
-
-“Do it.”
-
-He looked.
-
-Actually looked.
-
-Not the quick glance people perform before asking the senior person anyway.
-
-Valve body clean.
-
-Pipe support intact.
-
-Condensation normal.
-
-No vibration at the upstream brace.
-
-Then ASK.
-
-He asked the operator when the noise started.
-
-Only after morning wash load.
-
-How long?
-
-Two weeks.
-
-Any changes?
-
-New laundry pump installed upstairs.
-
-There it was.
-
-Not answer.
-
-Context.
-
-MEASURE.
-
-Pressure stable.
-
-Temperature normal.
-
-Return flow pulsed every time the upstairs pump cycled.
-
-Tomas looked at me.
-
-“Shared return?”
-
-“Maybe.”
-
-He hated that answer.
-
-Good.
-
-“What do you not know?” I asked.
-
-He looked at the card.
-
-Then the pipes.
-
-“Whether they actually share after the wall.”
-
-“Good.”
-
-“Whether the pulse can damage this valve.”
-
-“Good.”
-
-“Whether cleaning changes anything.”
-
-“Good.”
-
-“Whether I am allowed to open the wall.”
-
-“Excellent.”
-
-Lorn smiled from across the room.
-
-History had become educational material.
-
-Poor history.
-
-We set limits.
-
-No wall opening.
-
-No live disassembly.
-
-Clean strainer only.
-
-Then check.
-
-Tomas cleaned the strainer.
-
-Noise reduced but remained.
-
-That told us something.
-
-Not enough.
-
-We scheduled a second visit with building plans and authority to inspect behind the access panel.
-
-No heroics.
-
-No answer that day.
-
-Tomas looked disappointed.
-
-“You did the job,” I said.
-
-“We didn’t fix it.”
-
-“Not the same thing.”
-
-He frowned.
-
-I understood.
-
-At twenty-four, unfinished work feels like failed work.
-
-After enough years, unfinished work feels like Tuesday.
-
-After twins, Tuesday can also be unfinished laundry, half a dinner, one missing shoe, and a professional report written at the end of a table after everyone else has gone to bed.
-
-Age helps occasionally.
-
-Children accelerate certain portions of it.
-
-The training sequence spread because it was easy to copy.
-
-Not because I was famous.
-
-Cards fit in pockets.
-
-District offices copied them.
-
-Contractors copied the district copies.
-
-Someone changed NAME WHAT YOU DO NOT KNOW to SAY WHAT YOU DO NOT KNOW.
-
-Better.
-
-I stole it.
-
-Someone else added WHO ELSE GETS HURT IF THIS STOPS?
-
-Also better.
-
-Stole that too.
-
-My beautiful original authorship suffered terribly.
-
-Good.
-
-Not every job fit the sequence.
-
-Rescue work moved faster.
-
-Known routine maintenance needed less ceremony.
-
-Some faults required theory before action.
-
-Some required immediate shutdown before anybody had time to say anything elegant.
-
-The cards were not commandments.
-
-That became part of the training too.
-
-A worker asked me once, “When can I skip steps?”
-
-“When you can explain what risk the missing step normally controls.”
-
-He thought about that.
-
-“So if I cannot explain it, I should not skip it.”
+“Pressure?”
 
 “Yes.”
 
-“Even if everyone else does?”
+“From you?”
 
-“Yes.”
+I considered.
 
-“That will be annoying.”
+“No.”
 
-“Yes.”
+Pava looked back from the far side.
 
-Good trainee.
+“How do you know?”
 
-The harder part was teaching judgment that had lived in my body longer than the trainees had been alive.
+Because I had spent years listening to boundaries.
 
-What does wrong vibration feel like?
+Not a useful answer.
 
-How much wall movement matters?
+“It feels like receipt, not output.”
 
-When does a delay become more dangerous than an imperfect intervention?
+Her expression changed.
 
-I kept wanting to say you know when you know.
+“Again.”
 
-Useless sentence.
+“No.” Mael.
 
-First-life Greg had survived partly through accumulated sensation.
+Pava looked at him.
 
-He had also hoarded it.
+“He is already standing there.”
 
-Not deliberately.
+“Then observe. Do not provoke.”
 
-Experience becomes invisible to the person carrying it.
+Good leader.
 
-You stop seeing the little observations and start calling the answer instinct.
+I shifted my weight slowly.
 
-Second-life Greg had to unpack that instinct because other people could not inherit my nervous system.
+The line followed.
 
-That turned out to be the real teaching work.
+Not the foot.
 
-Not passing knowledge.
+Me.
 
-Decompressing it.
+Something about my aura architecture.
 
-Taking a conclusion that arrived in half a second and asking what observations built it.
+Or support channels.
 
-Sometimes I could answer.
+Or bad luck.
 
-Sometimes I could not.
+Arcrutus crossed behind me.
 
-When I could not, we marked it EXPERIENCE ONLY and treated it as a hypothesis requiring confirmation.
+The response weakened.
 
-That embarrassed me at first.
+He grinned.
 
-Then less.
+“Likes you.”
 
-One day Tomas asked why I refused to enter an old lower channel before checking ceiling moisture.
+“Then it has poor judgment.”
 
-I opened my mouth.
+We moved on.
 
-First-life memory had already supplied the answer emotionally.
+Forty feet into the chamber, the first line disappeared into a raised stone rib.
 
-Because wet ceilings fall.
+The rib ran across the floor and into darkness.
 
-Too simple.
+Mael tested it physically.
 
-Why that moisture?
+One hand.
 
-Why that channel?
+No magic at first.
 
-I looked again.
+The stone did not move.
 
-White salts around two joints.
+He increased reinforcement slightly.
 
-Dark line following an old support seam.
+Still nothing.
 
-Drip frequency higher near active load wall.
+Then stopped.
 
-There.
+“What?” Pava asked.
 
-Not instinct.
+“Not resisting me.”
 
-Evidence I had stopped noticing individually because the pattern was old to me.
+That made no sense.
 
-I pointed each one out.
+He placed his palm flat again.
 
-Tomas nodded.
+Pushed harder.
 
-Then asked, “If only one was there?”
+His boots did not slide.
 
-“We go slower.”
+The rib did not flex.
 
-“Two?”
+The pressure gauge beside it barely moved.
 
-“Depends which two.”
+Mael withdrew his hand.
 
-“Three?”
+“It is not taking the force here.”
 
-“Now you understand why the manual was forty-eight pages.”
+I crouched.
 
-He laughed.
+“Where?”
 
-Asshole.
+“If I knew, I would have said.”
 
-We did not rebuild the manual.
+Fair.
 
-We built examples instead.
+Pava moved her rod near the rib.
 
-Short cases.
+The black line inside it brightened in my perception.
 
-What happened.
+Her hand trembled once.
 
-What someone noticed.
+She stopped.
 
-What they believed.
+“North-east.”
 
-What was wrong.
+The surveyor checked compass.
 
-What they changed.
+“That leaves the chamber.”
 
-What the result taught and did not teach.
+“Probably.”
 
-Not laws.
+Arcrutus leaned down.
 
-Evidence with provenance.
+“What if the chamber is not the unit?”
 
-That phrase came later.
-
-The habit came first.
-
-By the time Tomas qualified for independent regional work, he no longer asked me what I thought first.
-
-He told me what he saw.
-
-Then what he thought.
-
-Then what would change his mind.
-
-That was better.
-
-The last day of his training, he handed the pocket card back.
-
-“You keep it,” I said.
-
-“I know the steps.”
-
-“That is when cards become dangerous.”
+I looked at him.
 
 He looked at me.
 
-“Because I think I know them?”
+That was my question from yesterday.
+
+He knew it.
+
+Asshole.
+
+Mael said, “Treat the whole complex as one system until evidence says otherwise.”
+
+The technical specialist sighed.
+
+Quietly.
+
+Mael heard.
+
+“Problem?”
+
+“That makes every intervention worse.”
 
 “Yes.”
 
-He put it back in his pocket.
+“Good.”
+
+Not emotionally.
+
+Operationally.
+
+We kept mapping.
+
+By midday the chamber had become a diagram on the floor around us.
+
+Chalk arrows.
+
+Numbers.
+
+Symbols.
+
+The original builders had made something incomprehensible.
+
+We improved it by drawing on it like children.
+
+Humanity.
+
+The first real problem arrived when a load pulse came from below.
+
+No warning.
+
+Every active line in the chamber tightened at once.
+
+The floor dropped.
+
+Not much.
+
+Maybe half an inch.
+
+Enough.
+
+The surveyor fell to one knee.
+
+One technical specialist stumbled toward a red-marked line.
+
+I raised Barrier around him before thinking.
+
+Not to stop his body.
+
+To give him something clean to hit.
+
+His shoulder struck the shell.
+
+The Barrier cracked.
+
+He stayed out of the line.
+
+Mael braced one hand against the raised rib.
+
+The entire chamber groaned.
+
+Pava drove her rod down.
+
+Arcrutus caught the surveyor by the back of her harness and lifted her clear like luggage.
+
+Then the pulse passed.
+
+Silence.
+
+Everyone remained where they were.
+
+Mael said, “Report.”
+
+Surveyor first.
+
+“Unhurt.”
+
+Technical crew.
+
+“Fine.”
+
+Healer.
+
+“Fine.”
+
+Me.
+
+“Barrier only.”
+
+Pava did not answer.
+
+Mael looked at her.
+
+“Pava.”
+
+“Fine.”
+
+Her right hand shook openly now.
+
+Not fine.
+
+The rod had taken the chamber question and sent it through her forearm.
+
+Reserve remained enormous.
+
+Wrong resource.
+
+Again.
+
+I said, “Let me stabilize the wrist.”
+
+Pava looked at me.
+
+Mael looked at me harder.
+
+I raised both hands.
+
+“Not Draw. No mana transfer. External load support only.”
+
+“What exactly?” Mael asked.
 
 Good.
 
-I kept one too.
+“Thin Barrier around the channel path. Not blocking flow. Giving recoil somewhere else to resolve.”
 
-For a while, one lived beside the front door at home because I emptied my pockets there.
+Pava frowned.
 
-My son stole it repeatedly.
+“You can do that?”
 
-My daughter folded it once and tried to fit it into a toy cup.
+“Probably.”
 
-Nessa finally wrote GREG’S VERY IMPORTANT WISDOM on the back.
+Mael’s face changed.
 
-I kept that copy longer than any official version.
+Wrong word.
 
-Present day, in Ithar’s cave, it was gone.
+“I have done related work. Not on her. Not here.”
 
-The habit was not.
+“Then no.”
 
-Stop.
+Fair.
 
-Look.
+Pava flexed her hand.
 
-Ask.
+“Later.”
 
-Measure.
+“Also no,” Mael said.
 
-Say what you do not know.
+She looked annoyed.
 
-Ithar lowered his head slightly.
+Better than injured.
 
-“You taught others to say what they did not know.”
+The healer wrapped heat around the forearm instead.
+
+Simple.
+
+Known.
+
+Correct.
+
+I watched and kept my mouth shut.
+
+Insurance.
+
+The floor had dropped half an inch.
+
+The raised rib had not moved at all.
+
+We measured.
+
+The chamber elevation returned slowly over seven minutes.
+
+No local mechanism.
+
+No hydraulic lift we could identify.
+
+No visible support columns taking the strain.
+
+Something elsewhere had absorbed the change and then returned it.
+
+I wrote one question in my notebook.
+
+WHAT PAID?
+
+Then underlined it.
+
+Arcrutus read over my shoulder.
+
+“Nosy.”
+
+“You are literally standing behind me.”
 
 “Yes.”
 
-“You are less enthusiastic when the unknown concerns yourself.”
+“Go bother Mael.”
 
-“I liked the paperwork more.”
+“He is less fun.”
 
-“You said you disliked the paperwork.”
+“Because he can hit you?”
 
-“I contain complexity.”
+“He can try.”
 
-“So did your manual.”
+Mael said from twenty feet away, “I can hear you.”
 
-I disliked him briefly.
+Good expedition.
 
-Not enough to stop talking.
+We ate standing up because nobody wanted food near the floor markings.
+
+The technical specialist with the bruised shoulder thanked me for the Barrier.
+
+I told him it had been cheap.
+
+He said his clavicle was also cheap and he preferred keeping it.
+
+Fair.
+
+Pava ate with her left hand again.
+
+I pretended not to watch.
+
+She noticed.
+
+“You are staring at my hand.”
+
+“No.”
+
+“You are bad at lying.”
+
+“Selective skill.”
+
+“You think you can help it.”
+
+“I think I understand part of the limitation.”
+
+“Same thing?”
+
+“No.”
+
+That answer pleased her.
+
+Good.
+
+She looked toward Mael.
+
+“Later, when we are not standing inside the unknown machine.”
+
+“Excellent policy.”
+
+“You would have tried it at twenty.”
+
+I looked at her.
+
+“Who told you?”
+
+“Your face.”
+
+Everyone had become unbearable.
+
+We resumed.
+
+The chamber narrowed toward its far end.
+
+The black lines converged.
+
+Not all at once.
+
+Groups.
+
+Bundles.
+
+Like rivers becoming fewer rivers.
+
+Every fifty feet another raised rib crossed the floor.
+
+Each carried force somewhere else.
+
+The deeper we went, the more obvious the design became without becoming understandable.
+
+This place did not resist load.
+
+It routed it.
+
+That distinction mattered.
+
+A wall holds because it refuses movement.
+
+A rope holds because tension runs through it.
+
+A body survives because bones, muscle, joints, ground, and timing decide where force goes.
+
+This system felt more like a body than a building.
+
+Not alive.
+
+I did not say alive.
+
+I had enough problems.
+
+Near the far wall we found the first damaged black line.
+
+Actually damaged.
+
+Split across three inches.
+
+The stone around it had been repaired later with pale mortar.
+
+Human work.
+
+Crude compared with the original.
+
+The repair held the stone.
+
+The line bypassed it completely.
+
+Load curved around the patch through two adjacent routes.
+
+The technical specialist swore.
+
+“Repair did nothing.”
+
+“Repair kept the wall together,” I said.
+
+“But not the system.”
+
+“No.”
+
+“Then whoever repaired it did not know.”
+
+“Probably.”
+
+Arcrutus crouched beside us.
+
+“How old?”
+
+The surveyor checked mineral growth.
+
+“Hundreds of years. Maybe more.”
+
+Human beings had been maintaining the visible shell of something they did not understand for centuries.
+
+That thought followed us to the far wall.
+
+There was no door.
+
+Just a circular depression twelve feet across.
+
+Black lines entered it from every direction.
+
+None emerged.
+
+Pava stood six feet away.
+
+Her humming had stopped again.
+
+Mael said, “No probe.”
+
+“I know.”
+
+The depression looked solid.
+
+Then the air moved.
+
+Inward.
+
+Same slow draw we had felt at the upper passage.
+
+The surveyor held thread near the stone.
+
+It flattened against the surface.
+
+Not enough gap to see.
+
+Enough air to move.
+
+“There is space behind it,” she said.
+
+The technical crew began mapping the edge.
+
+I did not watch them.
+
+I watched the lines.
+
+Every active route in the chamber ended there.
+
+No.
+
+That was wrong.
+
+They did not end.
+
+They crossed the boundary.
+
+I could feel it now.
+
+Faint.
+
+Thousands of tiny transfers through a surface that looked sealed.
+
+“What?” Mael asked.
+
+I realized I had stepped closer.
+
+“Nothing ends here.”
+
+Pava looked at me.
+
+“Explain.”
+
+“The lines cross.”
+
+“Into what?”
+
+“I don’t know.”
+
+Good sentence.
+
+Important sentence.
+
+The sealed wall took load from the entire chamber and passed it to something on the other side.
+
+Or someone.
+
+I thought about the half-inch drop.
+
+The slow recovery.
+
+The way my own boundary magic had made one line answer.
+
+WHAT PAID?
+
+I had written the question like an engineer.
+
+Standing in front of that wall, it stopped feeling abstract.
+
+Then something on the other side exhaled.
+
+Not air through the gap.
+
+A body.
+
+Large.
+
+Slow.
+
+Alive.
+
+Nobody spoke for several seconds.
+
+Mael finally said, “Back ten feet.”
+
+We obeyed.
+
+Even Arcrutus.
+
+The wall remained still.
+
+Behind it, something breathed again.
+
+Pava whispered, “That is not infrastructure.”
+
+I looked at the thousands of black lines crossing the boundary.
+
+“No,” I said.
+
+“But the infrastructure thinks it is.”
