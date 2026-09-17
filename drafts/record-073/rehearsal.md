@@ -1,557 +1,701 @@
 ## RECORD 073
 
-## THE EXAMINER
+## THE OCCUPANT
 
-The first person I failed looked exactly like someone I would have passed at nineteen.
+We did not open the wall.
 
-That made it worse.
+That was the first good decision.
 
-His name was Dalen Marr.
+The second was waiting.
 
-Twenty.
+Nobody enjoyed it.
 
-Strong C-class.
+We had descended for hours to find something alive behind a sealed boundary carrying load from an ancient system nobody understood.
 
-Fast reinforcement.
+Every instinct wanted more information immediately.
 
-Good field scores.
+Mael made us eat instead.
 
-No serious disciplinary record.
+I respected him for this and hated him personally for eleven minutes.
 
-He walked into the licensing hall smiling like the room had already agreed with him.
+The chamber floor remained marked in chalk.
 
-I knew that smile.
+White.
 
-Not from him.
+Red.
 
-From mirrors.
+Blue.
 
-I also knew something nineteen-year-old Greg had not understood.
+Thousands of black lines beneath all of it.
 
-Confidence becomes more expensive when somebody else is authorizing it.
+The circular depression at the far wall breathed once every thirty or forty seconds.
 
-The Guild asked me to sit on regional practical licensing because apparently teaching badly enough for long enough qualifies you to judge other people.
+Not regular enough to count comfortably.
 
-I objected.
+Regular enough that we did anyway.
 
-Aven said, “You have training standards in four districts.”
+The healer listened from ten feet back.
 
-“Copied training standards.”
+“Large lungs.”
 
-“Worse. People actually use them.”
+Arcrutus said, “Useful.”
 
-Cruel logic.
+She looked at him.
 
-The morning of the examination my son had climbed into our bed before dawn because he had dreamed something with teeth.
+“What did you expect me to say?”
 
-He refused to describe the teeth.
+“Nothing would be an improvement.”
 
-My daughter woke because he woke.
+He ate another bite.
 
-Nessa woke because everyone woke.
+I liked her.
 
-I woke because apparently fatherhood was a coordinated attack on sleep.
+Pava sat against the wall with heat wrapped around her forearm.
 
-By breakfast both children were cheerful.
+Mael had forbidden the rod until morning.
 
-Nessa was functional.
+She had argued.
 
-I was thirty years older internally than the face in the mirror.
+He had won by being in charge.
 
-Then I went to a licensing hall to decide whether young people could work without supervision.
+Rare technique.
 
-This felt like a joke with too many layers.
+The technical crew mapped the sealed boundary without touching the black lines.
 
-The panel had three examiners.
+The circle was not a door.
 
-One trade board member.
+Not exactly.
 
-One district operator.
+The stone around it had seams.
 
-Me.
+The inner disk did not.
 
-The practical test was deliberately boring.
+No hinges.
 
-No monster.
+No latch.
 
-No collapsing bridge.
+No mechanical joint.
 
-No trapped child because licensing boards that manufacture emotional emergencies are run by idiots.
+Air crossed anyway.
 
-We gave candidates a mocked pressure station with three faults.
+So did load.
 
-One obvious.
+One specialist held a paper strip near the lower edge.
 
-One irrelevant.
+It pulled inward.
 
-One dangerous only if the candidate assumed the drawing was current.
+Another placed a passive heat gauge against the surrounding wall.
 
-Dalen found the obvious fault immediately.
+Warmer at the center.
 
-Good.
+Not warm.
 
-Worn bypass seal.
+Less cold.
 
-He found the irrelevant one too.
-
-Old discoloration on a dead branch.
-
-Called it cosmetic.
-
-Also good.
-
-Then he reached the third.
-
-Drawing showed north return isolated.
-
-Actual valve tag showed service revision six months earlier.
-
-One small brass marker.
-
-Easy to miss.
-
-Dalen missed it.
-
-He opened the simulated regulator housing.
-
-The operator examiner asked, “Safe?”
-
-“Yes.”
-
-“Why?”
-
-“North return isolated.”
-
-“Evidence?”
-
-“Plan.”
-
-There it was.
-
-The test stopped.
-
-No fake pressure release.
-
-No trick injury.
-
-We do not teach consequences by injuring applicants.
-
-Civilization had learned one thing.
-
-Dalen looked confused.
-
-Then saw the brass marker.
-
-His face changed.
-
-“Revision.”
-
-“Yes,” I said.
-
-He looked at the plan again.
-
-“Plan wasn’t updated.”
-
-“No.”
-
-“So the test is wrong.”
-
-There it was again.
-
-Not the mistake.
-
-The reaction.
-
-The board member said, “Explain.”
-
-Dalen pointed at the drawing.
-
-“You gave me incorrect information.”
-
-“We gave you the current site and an outdated drawing.”
-
-“That is unfair.”
-
-I almost laughed.
-
-Not because he was stupid.
-
-Because I had said versions of that sentence for years.
-
-Reality should provide cleaner inputs.
-
-Very reasonable request.
-
-Reality declined.
-
-The operator examiner asked, “What would you do on a real site if plan and tag disagreed?”
-
-Dalen hesitated.
-
-“Verify.”
-
-“Before opening?”
-
-“Yes.”
-
-“You did not.”
-
-“No.”
-
-He recovered after that.
-
-Good candidate.
-
-Completed the rest carefully.
-
-Passed written.
-
-Passed reinforcement control.
-
-Passed emergency stop procedure.
-
-Failed practical safety.
-
-One failure.
-
-Enough.
-
-The panel voted two to one for deferred license.
-
-I was one of the two.
-
-Dalen waited outside while we decided.
-
-He had twenty minutes to imagine three strangers turning one mistake into the shape of his future.
-
-I hated that part.
-
-Authority is cleaner from the side that signs.
-
-When he came back in, I gave the finding.
-
-“Deferred thirty days. Repeat practical only.”
-
-His jaw tightened.
-
-“For one missed tag?”
-
-“Yes.”
-
-“I corrected it.”
-
-“After the housing was open.”
-
-“In a simulation.”
-
-“Yes.”
-
-“I would be more careful on a real job.”
+Body heat through twelve feet of ancient material.
 
 Maybe.
 
-I hated that answer because I had relied on it myself.
+I kept saying maybe in my head.
 
-The board member said, “The simulation is where we test whether that claim is true before a real job.”
+Good habit underground.
 
-Dalen looked at me.
+After the meal Mael said, “Options.”
 
-“You never made mistakes?”
+The surveyor wanted to find another entrance.
+
+Good.
+
+The technical crew wanted to inspect the circumference and adjacent chambers.
+
+Also good.
+
+Pava wanted to map the load crossing the disk without introducing pressure.
+
+Possible.
+
+Arcrutus wanted to knock.
+
+No one asked him again.
+
+“What about you?” Mael said.
+
+I looked up.
+
+“Me?”
+
+“You have been staring at the floor for ten minutes.”
+
+“I do that.”
+
+“Why?”
+
+Because every active line in the chamber crossed into the sealed space.
+
+Because none returned.
+
+Because the system had reacted to our movement but had not once behaved like a wall bearing ordinary structural load.
+
+Because something behind that boundary had breathed while carrying consequences from rooms hundreds of feet away.
+
+“I want to know whether the load is entering the occupant or passing through the occupant.”
+
+Silence.
+
+The healer looked toward the wall.
+
+“Occupant.”
+
+“We know there is a body.”
+
+“That does not mean it lives here willingly.”
+
+“No.”
+
+The word landed harder than I expected.
+
+Mael said, “How do you distinguish entering from passing?”
+
+“I don’t know yet.”
+
+Good answer.
+
+Pava said, “Phase.”
+
+I looked at her.
+
+“If a passive cycle moves through the chamber, measure before and after the boundary.”
+
+“No probe.”
+
+“No probe.”
+
+Mael considered.
+
+“Passive only.”
+
+We waited for the next load pulse.
+
+Nine minutes.
+
+Then fourteen.
+
+Then six.
+
+Underground time gets strange when everyone is listening for something nobody can hear.
+
+The fourth pulse came hard enough to make the chalk jump.
+
+Pava did not touch her rod.
+
+She watched three gauges.
+
+I watched the crossing.
+
+Pressure arrived through the floor.
+
+Lines tightened.
+
+The sealed boundary accepted it.
+
+For less than a second everything inside my support-trained perception went blank.
+
+Not empty.
+
+Too organized.
+
+Then the load reappeared farther down the system.
+
+Not in this chamber.
+
+Somewhere beyond.
+
+I felt the handoff.
+
+That was the only word I had.
+
+Incoming.
+
+Boundary.
+
+Something living.
+
+Outgoing.
+
+I stood too quickly.
+
+Mael’s hand caught my shoulder before I crossed a red chalk line.
+
+My bad shoulder.
+
+I made a noise.
+
+He released immediately.
+
+“Sorry.”
+
+“Other shoulder next time.”
+
+“What did you see?”
+
+“It passes through.”
+
+Pava’s head came up.
+
+“You are sure?”
+
+“No.”
+
+She frowned.
+
+“I am very sure.”
+
+“That is different.”
+
+“Yes.”
+
+The technical specialist said, “Living relay?”
+
+I hated the phrase.
+
+Too clean.
+
+“Maybe.”
+
+Arcrutus had stopped smiling.
+
+Good.
+
+“If it dies?” he asked.
 
 There it was.
 
-The hypocrisy question.
+Nobody answered.
 
-Good question.
+Mael said, “We do not test that.”
 
-“Many.”
+Excellent leader.
 
-“Then why fail me for one?”
+We spent the rest of the day looking for another way in.
 
-Because I survived mine.
+Found one.
 
-Because other people absorbed some of them.
+Of course.
 
-Because nobody had stopped nineteen-year-old Greg from climbing toward danger because he was capable enough to keep getting away with it.
+Ancient builders like redundancy too.
 
-Because being unusually hard to kill can hide bad judgment for a long time.
+The secondary route started behind a collapsed side wall two chambers back.
 
-None of that was a licensing rule.
+Not a door.
 
-I answered the question he actually asked.
+A maintenance passage.
 
-“Because this mistake creates a class of harm your license would authorize you to create alone.”
+Human-sized only by coincidence.
 
-He stared.
+Narrow.
 
-“That sounds dramatic.”
+Steep.
 
-“It is plumbing.”
+Full of mineral growth.
 
-The operator examiner coughed into her hand.
+We cleared enough to crawl.
 
-I continued.
+This was where Arcrutus’s missing equipment became expensive again.
 
-“You are not being judged as a person. You are being judged for independent authority today.”
+The expedition plan had expected a compact stone shear and second pressure anchor.
 
-“I am qualified.”
+Both had lost the argument against putting me in his bag.
 
-“Mostly.”
+So Arcrutus lay on his side in a crack using a hand tool and physical reinforcement to do work an expensive machine had been designed to do politely.
 
-“That should count.”
+I watched for a while.
 
-“It does. That is why you repeat one section instead of the whole qualification.”
-
-He hated me.
-
-Reasonable.
-
-I would have hated me too.
-
-That evening I found myself standing in the kitchen telling my daughter she could not carry a full cup across the room by herself.
-
-She objected.
-
-Strongly.
-
-“I can.”
-
-“You can carry it.”
-
-“Yes.”
-
-“You cannot carry it without turning the floor into a lake.”
-
-“Yes.”
-
-That was not agreement.
-
-Nessa leaned against the counter watching me.
-
-“Careful,” she said.
+He looked back.
 
 “What?”
 
-“You’re licensing her.”
+“Nothing.”
 
-I looked at the cup.
+“Still angry?”
 
-Then at my daughter.
+“Yes.”
 
-Then at Nessa.
+“Then stop enjoying this.”
 
-“I hate you.”
+“I am not.”
 
-“No you don’t.”
+Lying remained useful.
 
-My daughter got a cup with less water.
+It took four hours.
 
-She carried it successfully.
+The maintenance passage opened above the sealed chamber.
 
-Then my son knocked it over.
+Not above the whole chamber.
 
-Different failure mode.
+Above the occupant.
 
-Useful lesson.
+The surveyor went first on a rope.
 
-Thirty days later Dalen returned.
+Then froze.
 
-Different expression.
+Not fear exactly.
 
-Not humbled.
+Recognition that the word body had been inadequate.
+
+Mael whispered, “Report.”
+
+She did not answer immediately.
+
+Then: “Alive.”
+
+“We know.”
+
+“Large.”
+
+“We know.”
+
+“No. Large.”
+
+Arcrutus smiled again.
+
+Of course.
+
+One by one we moved into the upper gallery.
+
+The space beyond the sealed disk dropped forty feet.
+
+Our lamps found stone.
+
+Black lines.
+
+Metal rings the size of wagon wheels.
+
+Then fur.
+
+I thought it was moss at first.
+
+Dark gold-brown under mineral dust.
+
+The body beneath it filled the central pit.
+
+Four limbs folded under a heavy catlike torso.
+
+Too large for any natural animal I knew.
+
+The shoulders alone stood higher than a man when the creature was lying down.
+
+A mane, or something close to one, had grown ragged around the neck.
+
+Two folded wings lay along the back.
+
+Not feathered.
+
+Leathery.
+
+Scarred where old metal structures crossed them.
+
+The tail disappeared behind the body and returned on the far side, long and muscular, ending in a dark cluster of hard spines that looked unpleasant even while motionless.
+
+Then the head shifted.
+
+The face ruined every easy category.
+
+Too expressive for a beast.
+
+Too inhuman for a person.
+
+Broad eyes beneath a heavy brow.
+
+A mouth capable of speech even before I heard it.
+
+Human resemblance arranged inside something that had never been human.
+
+The surveyor breathed, “What is she?”
+
+Nobody answered.
+
+We had names for creatures shaped like that in stories.
+
+Stories are not field classification.
+
+I did not use one.
+
+The black lines entered the pit from every wall.
+
+Some attached to metal rings around the creature.
+
+Some disappeared into the stone beneath her.
+
+Some crossed directly under her body.
+
+Three thick bands ran over her shoulders and hips.
+
+Not chains.
+
+Load members.
+
+That was worse.
+
+The creature’s breathing moved them slightly.
+
+Each breath transferred pressure into the surrounding structure.
+
+Each exhale returned something different.
+
+The technical specialist beside me whispered, “Containment.”
+
+“No,” I said.
+
+He looked at me.
+
+I pointed at a band crossing the left shoulder.
+
+“When she breathes, it takes load.”
+
+“So?”
+
+“So the restraint is working.”
+
+“Obviously.”
+
+“Not on her.”
+
+He went quiet.
+
+Pava had come in last because Mael made her.
+
+She stared down into the pit.
+
+Her wrapped hand curled around the railing.
+
+“Something is using her.”
+
+That sounded closer.
+
+The creature opened one eye.
+
+Every person in the gallery stopped breathing like idiots.
+
+The eye moved.
+
+Surveyor.
+
+Mael.
+
+Pava.
+
+Arcrutus.
+
+Me.
+
+It stopped on me.
+
+I felt the black lines answer.
+
+Not because she moved.
+
+Because something in the system recognized attention crossing a boundary.
+
+The pupil narrowed.
+
+Then the other eye opened.
+
+The tail shifted once.
+
+Metal groaned beneath it.
+
+Mael raised one hand.
+
+Nobody cast.
 
 Good.
 
-Humiliation is not training.
+The creature looked at the hand.
 
-Prepared.
+Then at Mael.
 
-He walked the entire mock station before touching anything.
+Then back to me.
 
-Checked tags against plans.
+Her mouth opened.
 
-Asked when revisions were last verified.
+The voice came rough from disuse.
 
-Found a deliberately mismatched drain label we had added for the second test.
+Not monstrous.
 
-Stopped.
+Dry.
 
-Asked for current field book.
+“Humans.”
+
+One word.
+
+Pava whispered, “Well.”
+
+Arcrutus said, “Helpful.”
+
+The creature’s gaze moved to him.
+
+“You,” she said, “are loud even when silent.”
+
+I looked at Arcrutus.
+
+He looked delighted.
+
+Of course he did.
+
+Mael said, “We mean no harm.”
+
+The creature closed her eyes again.
+
+“That is rarely predictive.”
+
+Fair.
+
+Mael took that too.
+
+“We are investigating the structure.”
+
+“I know.”
+
+“You can feel us?”
+
+“I carry you.”
+
+Nobody moved.
+
+There it was.
+
+Not metaphor.
+
+The load pulse from the passage.
+
+Our feet.
+
+Our bags.
+
+The rooms above.
+
+Something below.
+
+All of it crossing the body in the pit.
+
+I stepped closer to the railing.
+
+Mael did not stop me.
+
+“What are you carrying?” I asked.
+
+One eye opened again.
+
+The creature studied me.
+
+Not my face.
+
+Something deeper.
+
+My channels maybe.
+
+My aura.
+
+My habit of asking the wrong question first.
+
+“Better,” she said.
+
+“What?”
+
+“Better question.”
+
+Arcrutus made the quiet interested sound again.
+
+I ignored him.
+
+“What are you carrying?”
+
+The creature looked toward the black bands crossing her body.
+
+Then somewhere below all of us.
+
+“Enough that you should not cut anything.”
+
+The technical crew collectively looked offended.
 
 Good.
 
-He passed.
-
-Afterward he said, “Still think the first test was unfair.”
-
-“That is allowed.”
-
-“You agree?”
-
-“No.”
-
-“Asshole.”
-
-Also allowed.
-
-A year later Dalen was working with a municipal crew in West Bell.
-
-I ran into him on an inspection.
-
-He had stopped a branch because a field modification did not match the district drawing.
-
-The modification was safe.
-
-Recent.
-
-Paperwork lagged.
-
-His stop delayed service two hours.
-
-Nobody thanked him.
-
-The foreman complained.
-
-Dalen showed me the tag.
-
-“Could have been nothing.”
+I said, “Are the bands keeping you here?”
 
 “Yes.”
 
-“Was nothing.”
+“Are they keeping something else stable?”
+
+A long pause.
+
+Then she smiled.
+
+Not kindly.
+
+Not cruelly.
+
+Recognition.
 
 “Yes.”
 
-“Still stop?”
+That was the moment the expedition changed.
 
-He was asking.
+We had not found a prisoner inside a machine.
 
-Not permission.
+We had found a prisoner who was part of the machine.
 
-Calibration.
+Freeing her and breaking her containment were no longer the same act.
 
-“What did you know at the time?”
+The creature watched me understand.
 
-“Mismatch. No verified revision. Branch pressure active.”
+“What are you?” Pava asked.
 
-“Then yes.”
+Her gaze moved to Pava.
 
-He nodded.
+“Old.”
 
-That was all he needed.
+Arcrutus laughed.
 
-Not praise.
+The creature ignored him.
 
-Not absolution.
+Mael said, “Do you have a name?”
 
-A second pair of eyes on the reasoning.
+She was silent long enough that I thought she would refuse.
 
-Licensing work continued occasionally.
+Then she gave us one.
 
-I failed people.
+Not the only one she had ever carried.
 
-Passed people.
+One we could pronounce.
 
-Deferred more than I failed outright.
+Nhal.
 
-The power felt wrong every time.
+Ithar shifted in the present cave.
 
-That was probably healthy.
+Small movement.
 
-Not because authority is inherently corrupt.
+Enormous body.
 
-Because comfort with consequential authority is dangerous if it becomes invisible.
+I noticed.
 
-I started writing one question at the top of every candidate sheet.
+He noticed me noticing.
 
-WHAT EXACTLY ARE WE AUTHORIZING THIS PERSON TO DO WITHOUT ASKING US?
+“I remember,” he said.
 
-That helped.
+Record Two.
 
-Sometimes the answer was narrow.
+The first time I had spoken her name here.
 
-Operate a municipal pressure desk alone.
+The first time I told him she had been trapped.
 
-Inspect low-load private lines.
+He had not forgotten.
 
-Perform reinforcement work under a certified lead.
+Good.
 
-Sometimes broad.
+Neither had I.
 
-Approve district isolation.
+Back beneath Vey, Nhal looked at the people above her and said, “Now decide whether you came to understand the load or become part of it.”
 
-Lead legacy access.
+Nobody laughed.
 
-Sign live pressure alterations.
-
-The broader the authority, the less impressed I became by talent alone.
-
-This annoyed talented people.
-
-I understood.
-
-First-life Greg had accumulated permission by surviving increasingly dangerous work.
-
-Survival looked like qualification from inside the body doing it.
-
-It was not nothing.
-
-It was also not the same as proving other people should trust your decisions when they could not watch you.
-
-I learned that late.
-
-Second Life made me learn another version at home.
-
-A child becoming capable did not mean the child became yours to control more efficiently.
-
-It meant the boundary moved.
-
-You let them carry more water.
-
-You accepted some spills.
-
-You stayed close enough that a mistake remained a lesson instead of an injury.
-
-I did not have language for all of that yet.
-
-Mostly I had wet floors.
-
-Ithar said, “You compare professional licensing to children carrying cups.”
-
-“No.”
-
-“You just did.”
-
-“I compared the feeling.”
-
-“Which feeling?”
-
-I thought about Dalen waiting outside the room.
-
-My daughter glaring at the smaller cup.
-
-The strange arrogance of deciding another person was ready.
-
-“The part where authority is temporary if you do it correctly.”
-
-Ithar became very still.
-
-I regretted giving him something interesting.
-
-“So I became the man who denied younger people some of the freedom I had taken,” I said quickly.
-
-“Hypocritical?”
-
-“A little.”
-
-“Necessary?”
-
-“Sometimes.”
-
-“Both?”
-
-“Yes.”
-
-He looked pleased.
-
-I never liked when dragons looked pleased.
+Even Arcrutus.
