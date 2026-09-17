@@ -272,6 +272,14 @@ Children’s clothing sizes.
 
 Shared, because apparently they changed without filing notice.
 
+Pocket inspection before laundry.
+
+Me.
+
+This category existed because our son collected stones and our daughter collected anything he valued enough to put in a pocket.
+
+The washing basin had taught us the rule.
+
 Healer calendar.
 
 Shared.
@@ -1554,7 +1562,7 @@ I was genuinely confused.
 
 “You really are old.”
 
-“I am younger than you.”
+“Rude.”
 
 “Spiritually, you are eighty.”
 
