@@ -50,7 +50,7 @@ That word covered many sins.
 
 Outside, Tracy said:
 
-“You captured Joren Pell.”
+“You captured Joren Venn.”
 
 “Yes.”
 
@@ -300,7 +300,7 @@ Not complete.
 
 I told her.
 
-Would he go after the people who killed Pell again?
+Would he go after the people who killed Venn again?
 
 Yes.
 
