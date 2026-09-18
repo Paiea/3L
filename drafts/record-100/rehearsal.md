@@ -36,7 +36,7 @@ The target was not Hale.
 
 That mattered.
 
-Joren Pell had been with him at the town.
+Joren Venn had been with him at the town.
 
 Not a singer’s invention.
 
