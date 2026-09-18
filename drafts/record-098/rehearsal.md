@@ -596,7 +596,7 @@ Her face went flat.
 
 “No.”
 
-“You haven’t heard the whole—”
+“You haven’t heard the whole...”
 
 “I do not need the whole plan.”
 
@@ -610,7 +610,7 @@ Fuck.
 
 Old Tracy again.
 
-“You always—”
+“You always...”
 
 I cut myself off.
 
