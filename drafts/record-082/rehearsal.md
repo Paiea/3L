@@ -1,811 +1,1249 @@
 ## RECORD 082
 
-## THE CLERK
+## THE EXCHANGE
 
-“First life?” Ithar asked.
+I caught Hale Rusk before sunrise.
+
+Not because I was faster.
+
+Because the song was.
+
+That sounds stupid.
+
+It was not.
+
+Songs preserve the wrong things.
+
+They flatten people.
+
+Clean motives.
+
+Move events.
+
+Make distance musical.
+
+But sometimes a verse keeps a road because the road matters.
+
+Sometimes a rhyme keeps a river crossing because somebody actually crossed there.
+
+Sometimes a singer changes a place-name and accidentally leaves the shape intact.
+
+I knew the song.
+
+I knew the district.
+
+And Hale Rusk had just finished doing the thing the song remembered him for.
+
+So I went where the song said he went next.
+
+The abandoned lime works had been closed for fourteen years.
+
+One roof remained.
+
+Half a wall.
+
+Old kiln.
+
+Water trough fed by a spring that tasted faintly of stone.
+
+Hale sat beside it washing his hands.
+
+That was the first thing I saw.
+
+Not armor.
+
+Not a weapon.
+
+Hands.
+
+One in the water.
+
+One resting on his knee.
+
+He looked tired.
+
+Normal.
+
+That offended me.
+
+I had expected something larger.
+
+The song had made him larger.
+
+Authority reports had made him cleaner.
+
+Posters had made him handsome.
+
+In person, Hale Rusk looked like a man in his forties who needed sleep.
+
+Dark coat.
+
+Travel dust.
+
+A-class field harness.
+
+No visible hurry.
+
+No blood except what the water was taking off.
+
+He heard me before I reached the yard.
+
+Of course he did.
+
+He looked up.
+
+Not alarmed.
+
+Curious.
+
+His eyes moved over me.
+
+Work clothes.
+
+Bad shoulder.
+
+No proper field armor.
+
+Utility knife.
+
+Too much road in one night.
+
+He looked behind me.
+
+Nobody.
+
+Then back.
+
+“You’re from the town.”
+
+Not a question.
+
+I stopped ten paces away.
+
+He studied my face.
+
+“Family?”
 
 “Yes.”
 
-“After Vey.”
+His expression changed.
+
+Not enough.
+
+“Who?”
+
+“My wife.”
+
+He waited.
+
+“My children.”
+
+Something moved behind his eyes.
+
+Recognition.
+
+Not surprise.
+
+He looked down at the water.
+
+“I’m sorry.”
+
+I laughed.
+
+Wrong sound.
+
+He let it happen.
+
+“You’re sorry.”
 
 “Yes.”
 
-“S-class.”
+“You killed them.”
 
-“Officially.”
+“Yes.”
 
-He watched me.
+No defense.
 
-“That qualification remains important to you.”
+That made me angrier.
 
-“It was still new.”
+“You came for the house on the hill.”
 
-“How new?”
+“Yes.”
 
-“New enough that people had started treating me differently and I had not yet learned which parts were useful.”
+“The man inside.”
 
-Ithar settled deeper against the stone.
+“Yes.”
 
-“And the clerk?”
+“He hurt you.”
 
-“D-class.”
+Hale looked at me.
 
-His head moved.
+“He killed my brother. My sister. Four people who surrendered with them.”
+
+His voice remained level.
+
+“He bought the people who investigated it. He bought the magistrate after that. Then he bought the next one.”
+
+I knew pieces of this.
+
+The song had improved them.
+
+Songs do that too.
+
+“They called it a border action,” Hale said. “It was not.”
+
+“My children were not on your border.”
+
+“No.”
+
+“Nessa did not kill your family.”
+
+“No.”
+
+“The people in the market did not kill them.”
+
+“No.”
+
+“Then what the fuck are you saying?”
+
+He looked toward the town.
+
+Smoke still marked the horizon.
+
+“I am telling you why.”
+
+“I know why.”
+
+“Then you know I am not asking you to forgive me.”
+
+That stopped me.
+
+Only because I had expected him to ask.
+
+He stood.
+
+Slowly.
+
+No threat in it.
+
+That was probably deliberate.
+
+He was taller than I had thought.
+
+Not Arcrutus tall.
+
+Normal tall.
+
+Normal man.
+
+A-class Named Ranker.
+
+One of the Authority’s useful people.
+
+One of the people children recognized in public.
+
+One of the men whose name already had a song attached to it.
+
+“I came for him,” Hale said.
+
+“You burned the town.”
+
+“Yes.”
+
+“You knew people were there.”
+
+“Yes.”
+
+“You did it anyway.”
+
+“Yes.”
+
+I wanted denial.
+
+Excuse.
+
+Something weak.
+
+He gave me none.
+
+“Do you regret it?”
+
+He took too long.
+
+“Yes.”
+
+“Would you do it again?”
+
+Another pause.
+
+Longer.
+
+“Yes.”
+
+There.
+
+Something inside me went very quiet.
+
+Hale watched it happen.
+
+“If you kill me for that,” he said, “I will not call you wrong.”
+
+“Good.”
+
+“But you cannot.”
+
+There it was.
+
+Not mockery.
+
+Worse.
+
+Assessment.
+
+He looked at my clothes again.
+
+My stance.
+
+My hands.
+
+The knife.
+
+Whatever current rank I could execute in that body was not enough to interest him.
+
+He understood my anger.
+
+He accepted the claim.
+
+He simply did not believe I had the capacity to collect.
+
+“You are right,” he said.
+
+I said nothing.
+
+“You have every right to come.”
+
+Still nothing.
+
+“You are also not strong enough.”
+
+I drew the knife.
+
+He sighed.
+
+Not dramatically.
+
+Tired.
+
+“Do not.”
+
+I came anyway.
+
+The first move was bad on purpose.
+
+Not so bad he would think it strange.
+
+Just angry.
+
+Direct.
+
+I stepped in hard and cut high.
+
+He caught my wrist.
+
+Easy.
+
+Of course.
+
+His hand closed around mine with the casual confidence of someone who could have broken every bone there without adjusting his stance.
+
+He turned me.
+
+I went with it.
+
+Not enough to look voluntary.
+
+Enough to feel what happened.
+
+Reinforcement moved through his grip before the rest of his arm.
+
+Fast.
+
+Clean.
+
+His hand first.
+
+Forearm second.
+
+Shoulder last.
+
+He released me with a shove.
+
+I hit the dirt.
+
+“That was one,” he said.
+
+I looked at him.
+
+“Counting?”
+
+“I’m trying to decide how long grief gets before it becomes stupidity.”
+
+I got up.
+
+The second move looked smarter.
+
+Barrier.
+
+Cheap.
+
+Common.
+
+Mine had once become something else.
+
+This body could not do what the old one had done.
+
+It could still place a line.
+
+I set one low between us.
+
+Not enough to stop him.
+
+Enough that he had to cross it.
+
+He saw it.
+
+His eyes dropped.
+
+Then returned to me.
+
+“Support.”
+
+“Yes.”
+
+He stepped through.
+
+Broke it.
+
+Casually again.
+
+But I watched the load.
+
+Forward leg.
+
+Hip.
+
+Opposite side catching half a beat later.
+
+His reinforcement was excellent.
+
+Not perfect.
+
+Nothing living was perfect.
+
+He came forward this time.
+
+One hand.
+
+Open.
+
+He intended to put me down without killing me.
+
+Good.
+
+I let him.
+
+His palm hit my chest.
+
+I folded badly.
+
+Rolled.
+
+Hit stone.
+
+Pain through the ribs.
+
+Worth it.
+
+Second answer.
+
+He favored the same correction under resistance.
+
+Lead side first.
+
+Rear side caught after.
+
+His neck stayed loose until the correction finished because he did not need more against me.
+
+Why would he?
+
+I got up again.
+
+Hale stared.
+
+“Enough.”
+
+“No.”
+
+“You have people to bury.”
+
+“There is nothing to bury.”
+
+That reached him.
+
+For the first time, something in his face broke.
+
+Small.
+
+Human.
+
+I hated that too.
+
+“Go home,” he said.
+
+“There is no home.”
+
+He closed his eyes once.
+
+When they opened, the pity was gone.
+
+Better.
+
+The third move looked desperate.
+
+That part was not difficult.
+
+I was desperate.
+
+I came from his left.
+
+Too wide.
+
+He shifted.
+
+I threw a weak Draw against his coat, not his body.
+
+Nothing worth noticing.
+
+Barely moved fabric.
+
+He dismissed it.
+
+Correctly.
+
+But his rear foot landed where I wanted.
+
+The dirt there was broken lime over old stone.
+
+Loose enough to move.
+
+Stable enough not to look like a trap.
+
+I put a Barrier under the outer edge of his heel.
+
+Tiny.
+
+Not a wall.
+
+A decision.
+
+For one instant, part of his foot could not settle where his body expected it to.
+
+Hale corrected.
+
+Automatically.
+
+Exactly as before.
+
+Lead side loaded.
+
+Rear side caught.
+
+His left hand came down to control my shoulder.
+
+His right side opened.
 
 Not much.
 
 Enough.
 
-I smiled despite myself.
+The fourth move was the first real attack.
 
-“Exactly.”
+I used Draw again.
 
-The Guild sent me to Tracy because I was going somewhere poisonous.
+Not to take power.
 
-That was the entire recommendation.
+I could not have.
 
-I had an expedition contract into a marsh where biting things, stinging things, wet things, dry things, and several plants had all independently arrived at the conclusion that humans should suffer.
+Not from him.
 
-The pay was excellent.
+Not enough to matter.
 
-There was a reason.
+I used it on the transition.
 
-I went to the regional Guild branch for medical preparation.
+A little drag against the flow between shoulder and neck at the exact moment his own body was already correcting around the foot.
 
-The man at the front desk checked the destination.
+Nothing another fighter would build a strategy around.
 
-Then looked at me.
+Less than a heartbeat.
 
-Then checked the destination again.
+Maybe less than half.
 
-“Poison stock is downstairs.”
+But I knew where the load was going.
 
-“I know.”
+I knew where it had not arrived yet.
 
-“Talk to Tracy.”
+My knife came up under his jaw.
 
-“Who?”
+Hale Rusk understood at the last possible instant that I was going to kill him.
 
-“Maintenance.”
+Not cut him.
 
-That explained nothing.
+Not surprise him.
 
-He pointed.
+Kill him.
 
-“Downstairs. Third counter. She’s good with poisons and stuff.”
+His hand arrived between us.
 
-“And stuff.”
+Too late to stop the line.
 
-“Yes.”
+Early enough to change the price.
 
-“Strong endorsement.”
+The knife went through a finger.
 
-“She’s cheap.”
+Then across the underside of his jaw.
 
-There it was.
+Not deep.
 
-I went downstairs.
+Deep enough.
 
-The medical maintenance room smelled like alcohol, dried herbs, waxed cloth, and the particular metallic scent of too many sealed cabinets.
+Blood appeared.
 
-Busy place.
+Hale stepped backward.
 
-Bad week to be there.
+I followed.
 
-Half the expedition seemed to have remembered at once that the marsh wanted us dead.
+Because I had it.
 
-Rankers filled the counters.
+I knew I had it.
 
-Crates sat open.
+One more step.
 
-People argued about quantities.
+One more bad transition.
 
-Somebody was complaining about expiration dates as though time had personally cheated him.
+One more fraction.
 
-Third counter.
+For four moves he had been fighting the man in front of him.
 
-Tracy.
+For four moves I had been fighting the body underneath him.
 
-She was shorter than I expected.
+He looked at the blood on his hand.
 
-Not that I had expected anything.
-
-Brown hair tied back badly enough that several strands had escaped.
-
-Guild coat.
-
-Maintenance patch.
-
-Healer credential.
-
-D-class field mark.
-
-Poison specialty notation tucked underneath everything else like an afterthought.
-
-She was selling three A-rankers antidotes.
-
-Very efficiently.
-
-“One standard each,” she said.
-
-The first man nodded.
-
-The second said, “Mint.”
-
-Tracy looked up.
-
-“Costs more.”
-
-“I know.”
-
-The third A-ranker looked at me.
-
-“Get mint.”
-
-I had not asked.
-
-“Why?”
-
-“Because the normal one tastes like boiled ass for a week.”
-
-Tracy’s mouth tightened.
-
-“Medicinal.”
-
-“It tastes like death had a bowel movement.”
-
-“Still medicinal.”
-
-The A-ranker pointed at her.
-
-“She knows.”
-
-“I know what?”
-
-“You’ll buy mint.”
-
-I looked at the shelf.
-
-Two nearly identical bottles.
-
-One had a green mark.
-
-“How much more?”
-
-Tracy told me.
-
-Not trivial.
-
-Not serious money anymore either.
-
-That was still strange.
-
-“Mint,” I said.
-
-The A-ranker nodded as though I had passed something.
-
-Tracy wrapped the bottle.
-
-Then another.
-
-Then another.
-
-She was good at the counter.
-
-That surprised me later only because people imagine important relationships begin with something important.
-
-Ours began with retail.
-
-She knew which travel cases were worth buying.
-
-Which cooling insert the marsh heat actually justified.
-
-Which secondary binder interacted badly with a common reinforcement stimulant.
-
-Which premium preparation was useful.
-
-Which was marketing.
-
-She did not hesitate to upsell when the better version actually solved something.
-
-“Two seal packs,” she told one man.
-
-“I have one.”
-
-“You need two.”
-
-“Why?”
-
-“You’re going for twelve days.”
-
-“So?”
-
-“So the first one lasts seven.”
-
-He bought two.
-
-Next.
-
-Another party leader asked for five full late-stage antidotes.
-
-Tracy reached for them.
-
-No argument.
-
-Just the smallest exhale through her nose.
-
-I noticed.
-
-Then she sold him the mint version because he asked.
-
-Next.
-
-More orders.
-
-More expensive bottles.
-
-More seal packs.
-
-More cases.
-
-At some point one of the other clerks said, “Good week for you.”
-
-Tracy laughed once.
-
-“Good week for the Guild.”
-
-“No commission?”
-
-“Not a copper.”
-
-She sealed another package.
-
-“This expedition is going to erase my lunch break for a week and apparently my reward is selling more mint.”
-
-Nobody cared.
-
-Reasonable.
-
-People were buying medicine.
-
-I remembered it.
-
-Also reasonable.
-
-When my turn came properly, she looked at my paperwork.
-
-Then at the S-class designation.
+Then the blood at his throat.
 
 Then at me.
 
-A little too quickly.
+Everything changed.
 
-“Sir.”
+No flare.
 
-There it was.
+No shouted spell.
 
-Nervous.
+No dramatic aura.
+
+He simply stopped being casual.
+
+His weight settled.
+
+His hands changed.
+
+His eyes stopped looking at my face and started looking at all of me at once.
+
+I had seen that before.
+
+First Life.
+
+S-class people did it differently.
+
+A-class was enough.
+
+Hale Rusk switched on.
+
+I almost died immediately.
+
+The first hit took the knife.
+
+I did not see how.
+
+One moment it was mine.
+
+Then it was twenty feet away.
+
+The second hit put me on one knee.
+
+The third opened something in my shoulder that never felt exactly right again.
+
+I tried Barrier.
+
+He broke the placement before it formed.
+
+I tried Draw.
+
+He changed the route.
+
+I shifted my weight.
+
+He was already there.
+
+That was the difference.
+
+Not strength.
+
+Not only.
+
+Before, Hale had been responding.
+
+Now he was deciding.
+
+I built another sequence.
+
+Never got move two.
+
+He kicked me hard enough that the world went white at the edges.
+
+I woke on my back.
+
+Maybe seconds.
+
+Maybe longer.
+
+Hale stood above me breathing harder now.
+
+One finger missing.
+
+Blood down his wrist.
+
+Cut under his jaw.
+
+Still alive.
+
+Unfortunately.
+
+I tried to move.
+
+He put a boot on my forearm.
+
+Not crushing.
+
+Enough.
+
+“Stop.”
+
+“No.”
+
+His expression did something almost like disbelief.
+
+“You almost killed me.”
+
+“Yes.”
+
+No point lying.
+
+His eyes went to the knife in the dirt.
+
+Then back.
+
+“What are you?”
+
+“Busy.”
+
+Wrong answer.
+
+He almost laughed.
+
+Did not.
+
+“What rank?”
+
+I told him.
+
+He stared.
+
+“No.”
+
+“Yes.”
+
+“That’s all?”
+
+“Today.”
+
+That irritated him.
+
+Good.
+
+I tried to shift.
+
+The boot pressure increased.
 
 Not much.
 
-She covered it well.
+Enough.
 
-“Greg.”
+Hale looked down at his hand.
 
-“Sir?”
+The severed finger lay several feet away.
 
-“My name.”
+He walked over and picked it up.
 
-“I know.”
+For some stupid reason I thought that meant something.
 
-“Then use it.”
+Reattachment.
 
-That made her more nervous.
+Healing.
 
-Excellent work.
+A-class medicine.
 
-She checked the destination.
+A Named Ranker keeping what was his.
 
-“How many days?”
+He came back.
 
-“Ten planned.”
+Crouched.
 
-“Planned.”
+Set the finger on my chest.
 
-“Twelve possible.”
+I stared at it.
 
-“Party size?”
+Then at him.
 
-“Six deep. More at the outer camp.”
+“What the fuck?”
 
-She started assembling the standard preparation.
+“You took it.”
 
-I asked questions.
+“It’s your finger.”
 
-She answered all of them.
+“Not anymore.”
 
-Officially.
+I knocked it off me.
 
-Cleanly.
+It landed beside my shoulder.
 
-Exactly what the Guild recommendation said.
+Hale watched it fall.
 
-Nothing extra.
+“You earned that.”
 
-“What are the most common exposures?”
-
-She listed them.
-
-“What do parties usually get wrong?”
-
-“Follow the dosing schedule.”
-
-“That wasn’t my question.”
-
-“It’s my answer.”
-
-Interesting.
-
-“What was the face about?”
-
-She stopped.
-
-“What face?”
-
-“When the other party bought five.”
-
-“I was counting.”
-
-“No.”
-
-Her eyes moved toward the next customer.
-
-“Anything else for your order?”
-
-That was a dismissal.
-
-I knew one when I heard one.
-
-“I think so.”
-
-“Good.”
-
-She totaled the purchase.
-
-I paid.
-
-She gave me the receipt.
-
-I did not leave.
-
-She looked at me.
-
-“Sir.”
-
-“Greg.”
-
-“There are people waiting.”
-
-Fair.
-
-I left.
-
-Twenty minutes later I was eating.
-
-That is when I remembered the lunch comment.
-
-Not immediately.
-
-Halfway through.
-
-I had found a restaurant two streets from the Guild because the food smelled good from outside and because newly S-class money had begun destroying several old habits.
-
-In earlier years I would have bought bread and walked.
-
-Now I had roasted meat, potatoes, greens, and something with onions that justified the price by itself.
-
-I was halfway through when I remembered:
-
-No lunch break.
-
-A week.
-
-No commission.
-
-I kept eating.
-
-Then stopped.
-
-Annoying.
-
-I ordered another meal.
-
-The woman taking the order asked what I wanted in it.
-
-I had no idea what Tracy liked.
-
-So I bought two things.
-
-This was not efficient.
-
-I brought both back.
-
-The line was shorter.
-
-Tracy saw me approaching and visibly prepared for another argument.
-
-I put the food on the counter.
-
-She looked at it.
-
-Then at me.
-
-“What is that?”
-
-“Commission.”
-
-She stared.
-
-“It’s food.”
-
-“Closest available structure.”
-
-“You bought me lunch because I complained about commission?”
-
-“And lunch.”
-
-“Those were separate complaints.”
-
-“Efficient, then.”
-
-For the first time, she laughed properly.
-
-Small.
-
-Unexpected.
-
-Then she looked inside the packages.
-
-Her attention sharpened.
-
-“You went to Marrin’s?”
-
-Apparently the restaurant had a name.
+“You deserved worse.”
 
 “Yes.”
 
-“You bought the lamb?”
+Again.
 
-“One of them.”
+Immediate.
 
-“What’s the other?”
+No defense.
 
-“Chicken.”
+I hated him for agreeing.
 
-She looked at me.
-
-“Why two?”
-
-“I didn’t know what you liked.”
-
-“That is stupid.”
-
-“Probably.”
-
-She took the lamb.
-
-Useful data.
-
-“I can’t eat now.”
-
-“I know.”
-
-“You came back anyway.”
+“You murdered them.”
 
 “Yes.”
 
-She looked at the food again.
-
-Then at me.
-
-“You’re weird.”
-
-“Frequently.”
-
-She put the package beneath the counter.
-
-“Thank you.”
-
-Progress.
-
-I tried again.
-
-“What bothered you about the five antidotes?”
-
-Her face closed immediately.
-
-“No.”
-
-“Why?”
-
-“I work here.”
-
-“We are discussing medicine.”
-
-“We are discussing what I think about what I sell at the place that pays me to sell it.”
-
-“I’m not asking you to criticize the Guild.”
-
-“You are absolutely asking me to criticize the Guild.”
-
-“That seems dramatic.”
-
-“You’re S-class.”
-
-“So?”
-
-“So if I say one stupid sentence and you repeat it upstairs, it stops being a stupid sentence and becomes a meeting.”
-
-I had not considered that.
-
-She had.
-
-First lesson.
-
-Not poison.
-
-Power.
-
-I leaned against the counter.
-
-“After work.”
-
-“No.”
-
-“Why?”
-
-“I still work here after work.”
-
-Also fair.
-
-“What if I pay you as a consultant?”
-
-“No.”
-
-“You haven’t heard the number.”
-
-“I have a job.”
+“My children.”
 
 “Yes.”
 
-“I like my job.”
-
-That surprised me.
-
-Not because it was a bad job.
-
-Because I had already started constructing the version of Tracy I wanted.
-
-Underused.
-
-Underpaid.
-
-Waiting to be discovered.
-
-She was none of those things in her own head.
-
-She had a chair.
-
-Predictable money.
-
-Medical stock she liked organizing.
-
-Food nearby.
-
-Benefits.
-
-A life.
-
-I had known her for perhaps forty minutes.
-
-Important correction.
-
-I tried another direction.
-
-“How much do you make?”
-
-Her expression changed.
-
-“Excuse me?”
-
-“How much does the Guild pay you?”
-
-“That is rude.”
+“Nessa.”
 
 “Yes.”
 
-“Then why ask?”
+His voice changed on her name.
 
-“Because I’m trying to figure out what it costs to ask you questions properly.”
+Barely.
 
-She stared at me.
+He remembered it.
 
-The clerk at the next counter looked over.
+That was somehow intolerable.
 
-Tracy lowered her voice.
+I tried to sit up.
 
-“You cannot buy my opinion about Guild business.”
+He pushed me back down.
 
-“I don’t want Guild business.”
+Not hard.
 
-“You have spent most of an hour asking about Guild business.”
+I was done.
 
-“I want to know how you think about poison.”
+He knew it.
 
-“That is included in the medicine you just bought.”
+I knew it.
 
-“No.”
+“That was your turn,” he said.
 
-She frowned.
-
-“The instructions are included.”
-
-“Yes.”
-
-“The antidotes are included.”
-
-“Yes.”
-
-“The travel protocol is included.”
-
-“Yes.”
-
-“Then what exactly do you think you’re buying from me?”
-
-There.
-
-Good question.
-
-I did not know yet.
-
-So I told the truth.
-
-“The part you didn’t say.”
-
-She went still.
-
-Not scared.
-
-Careful.
-
-I continued.
-
-“You sold five antidotes without objecting.”
-
-“Yes.”
-
-“You sold mint when people wanted mint.”
-
-“Yes.”
-
-“You told the man to buy two seal packs because one would fail before his trip ended.”
-
-“Yes.”
-
-“You are doing your job.”
-
-“Yes.”
-
-“And you still looked annoyed.”
-
-“I have a face.”
-
-“I’ve heard that defense before.”
-
-“You’ve known me one hour.”
-
-“Still weak.”
-
-She almost smiled.
-
-Almost.
-
-Then the next customer stepped up.
-
-Tracy looked at him.
-
-Then at me.
-
-Conversation over.
-
-I left.
-
-I came back the next day.
-
-With food.
-
-This time chicken and lamb.
-
-She took the chicken.
-
-Contradictory data.
-
-“You cannot keep doing this,” she said.
-
-“Why?”
-
-“Because then I will expect it.”
-
-“That seems manageable.”
-
-She looked at me for a long time.
-
-Then said, “If you want me to quit a stable Guild job and spend my life explaining poison to an S-ranker who apparently does not know when to go away, I’d need at least ten years of pay before I would even think about it.”
-
-She was joking.
-
-I knew she was joking.
-
-Mostly.
-
-I thought about the number.
-
-Ten years of D-class maintenance-clerk salary.
-
-Relocation.
-
-Lost Guild benefits.
-
-Field premium.
-
-Medical credential upkeep.
-
-Probably food.
-
-I looked at her.
-
-“Guaranteed?”
-
-Her smile disappeared.
+I looked at him.
 
 “What?”
 
-“Ten years.”
+He glanced toward the finger.
+
+Then at my legs.
+
+Understanding arrived before the fear.
 
 “No.”
 
-“You said ten.”
+Hale’s face did not change.
 
-“I was making a point.”
+“You came farther than I expected.”
 
-“I understood the point.”
+“Fuck you.”
 
-“You absolutely did not.”
+“You built a kill I did not see.”
 
-“I think I did.”
+“Should have finished it.”
 
-“Greg.”
+“Yes.”
 
-First time she used my name without being told.
+He reached for my right leg.
 
-I liked that.
+I kicked with the left.
 
-“You said ten years of pay.”
+He caught that too.
 
-“I said at least ten years of pay before I would even think about it.”
+Of course.
 
-“Right.”
+“Don’t.”
 
-“That is not an offer.”
+First plea.
+
+I hated that it was.
+
+Hale paused.
+
+Not because he was reconsidering.
+
+Because he heard it.
+
+“You’ll follow tonight if I leave you able.”
+
+“Yes.”
+
+“Tomorrow.”
+
+“Yes.”
+
+“Until one of us dies.”
+
+“Yes.”
+
+He nodded.
 
 “I know.”
 
-“Then stop looking like that.”
+“That doesn’t make this even.”
 
-“Like what?”
+“No.”
 
-“Like you’re doing math.”
+That surprised me.
 
-I was doing math.
+He did not pretend.
 
-That was the problem.
+“Then what is it?”
+
+“My turn.”
+
+Weird answer.
+
+Wrong answer.
+
+His answer.
+
+He drew a short field blade.
+
+Clean.
+
+Practical.
+
+My heart started beating harder than it had during the fight.
+
+I pulled mana into the leg.
+
+Reinforcement.
+
+Barrier.
+
+Anything.
+
+Too little.
+
+Body wrong.
+
+Channels wrong.
+
+Knowledge perfect.
+
+Execution worthless.
+
+Hale saw what I was trying to do.
+
+“I’m sorry,” he said.
+
+“Stop saying that.”
+
+He did.
+
+Then he took the leg below the knee.
+
+I remember the sound.
+
+I wish I did not.
+
+Pain is less interesting than people think.
+
+At sufficient quantity it becomes weather.
+
+Everything.
+
+Everywhere.
+
+No useful center.
+
+I screamed.
+
+Probably.
+
+I do not remember the sound.
+
+I remember Hale working immediately afterward.
+
+Tourniquet.
+
+Pressure.
+
+A field clotting compound.
+
+His hands steady despite the missing finger.
+
+He had done this before.
+
+Maybe not exactly this.
+
+Enough.
+
+He was not trying to kill me.
+
+That made it stranger.
+
+I tried to hit him.
+
+Nothing behind it.
+
+He moved my hand away.
+
+“Save it.”
+
+“For you.”
+
+“Yes.”
+
+He tightened the binding.
+
+I nearly passed out.
+
+“Why?”
+
+He looked at me.
+
+I do not know which question he heard.
+
+Why the town.
+
+Why the leg.
+
+Why leave me alive.
+
+Maybe all of them.
+
+“Because you’re right.”
+
+I laughed again.
+
+Bad sound.
+
+“You killed them.”
+
+“Yes.”
+
+“You think I should kill you.”
+
+His eyes moved to the horizon.
+
+“If you can.”
+
+There was no challenge in it.
+
+No smile.
+
+Just fact.
+
+He stood.
+
+Went to the spring.
+
+Washed his hand again.
+
+Came back with water.
+
+Left it within reach.
+
+Then moved the finger closer too.
+
+I stared at it.
+
+“You really want me to keep that.”
+
+“Yes.”
+
+“So you can’t sew it back on.”
+
+“Yes.”
+
+There.
+
+Finally something almost petty.
+
+Almost.
+
+“Why?”
+
+He looked at the missing place on his hand.
+
+“Because I lost it.”
+
+“That’s stupid.”
+
+“Probably.”
+
+I hated that answer because it sounded like something I might say.
+
+He picked up my knife.
+
+Considered it.
+
+Set it beside the water.
+
+Not within immediate reach.
+
+Still reachable eventually.
+
+Another calculation.
+
+Then he took out a Guild signal flare and placed it on the stone.
+
+“Road team will see that.”
+
+“You called them?”
+
+“No.”
+
+“Then how do you know?”
+
+“Because I know the patrol schedule.”
+
+Of course he did.
+
+Useful man.
+
+Named Ranker.
+
+Professional.
+
+Murderer.
+
+He turned to leave.
+
+“I’ll find you.”
+
+Hale stopped.
+
+Did not look back immediately.
+
+When he did, there was no amusement in him.
+
+“I know.”
+
+“I’ll kill you.”
+
+He looked at the finger beside me.
+
+Then at the space where my lower leg had been.
+
+“I’ll be waiting.”
+
+He left.
+
+The patrol found me before noon.
+
+The finger came with me.
+
+That became a problem at the healer’s station because somebody assumed it was mine.
+
+Technically, by then, Hale would have agreed.
+
+Ithar had gone completely still.
+
+The cave light caught along the edges of his scales.
+
+“Your leg,” he said.
+
+“Yes.”
+
+“He took it.”
+
+“Yes.”
+
+“Deliberately.”
+
+“Yes.”
+
+“After you nearly killed him.”
+
+“Yes.”
+
+“With a body far below his class.”
+
+“Yes.”
+
+Ithar looked at me for a long time.
+
+Then at the peg.
+
+Present.
+
+Wood.
+
+Leather.
+
+Metal.
+
+Years of adjustment hidden inside something simple enough to knock against stone.
+
+“And that was the beginning.”
+
+I rubbed the edge of the socket through my trousers.
+
+“No.”
+
+He waited.
+
+“The beginning was the town.”
+
+A pause.
+
+“The leg was when I understood the problem.”
+
+“What problem?”
+
+I looked at him.
+
+“I knew how to kill him.”
+
+The cave stayed quiet.
+
+“I just wasn’t capable of doing it yet.”
