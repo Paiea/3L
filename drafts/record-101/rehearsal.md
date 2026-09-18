@@ -2,7 +2,7 @@
 
 ## THE PRISONER
 
-Joren Pell did not ask for mercy.
+Joren Venn did not ask for mercy.
 
 That would have been easier.
 
@@ -426,7 +426,7 @@ The world refused to simplify.
 
 “What was his name?”
 
-“Pell.”
+“Venn.”
 
 “I know your family name.”
 
@@ -434,13 +434,13 @@ The world refused to simplify.
 
 He looked at me.
 
-“His name was Pell.”
+“His name was Venn.”
 
 I stared.
 
-“Just Pell?”
+“Just Venn?”
 
-“Everyone called him Pell.”
+“Everyone called him Venn.”
 
 Good.
 
@@ -458,7 +458,7 @@ Not legal summary.
 
 His version.
 
-Pell surrendered.
+Venn surrendered.
 
 Hands visible.
 
@@ -476,7 +476,7 @@ Then another.
 
 Hale lost siblings.
 
-Joren lost Pell.
+Joren lost Venn.
 
 Others lost people too.
 
@@ -486,7 +486,7 @@ Again.
 
 I leaned back.
 
-“My children had nothing to do with Pell.”
+“My children had nothing to do with Venn.”
 
 “I know.”
 
@@ -872,7 +872,7 @@ I thought about the road.
 
 Twenty minutes.
 
-Pell.
+Venn.
 
 Joren’s no.
 
