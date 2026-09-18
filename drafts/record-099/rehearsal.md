@@ -776,7 +776,7 @@ She saw it immediately.
 
 “Good.”
 
-“Your A-class—”
+“Your A-class...”
 
 She held up one finger.
 
