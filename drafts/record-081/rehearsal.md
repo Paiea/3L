@@ -676,188 +676,240 @@ None of it made my children more relevant to the verse.
 
 We were scenery in somebody else’s revenge.
 
-I stood there long enough that the rescue clerk came back.
+Then memory finally became useful.
+
+Not kind.
+
+Useful.
+
+The song had a road in it.
+
+Most versions called it the king’s road.
+
+There had not been a king on that road for two hundred years.
+
+The real road was an old quarry route northwest of town.
+
+The lyric about three stones meant nothing to singers.
+
+It meant something if you knew the district.
+
+Three standing markers at the split.
+
+One route toward the river.
+
+One toward the abandoned lime works.
+
+One toward the ridge.
+
+In First Life I had heard the song hundreds of times.
+
+I had never cared enough to ask where any of it actually was.
+
+Now I knew.
+
+I found the Authority man from the cordon.
+
+“Hale Rusk.”
+
+He looked at me.
+
+“What?”
+
+“Hale Rusk was here.”
+
+His face gave me the answer before his mouth did.
+
+A-class.
+
+Named Ranker.
+
+Famous before the song.
+
+More famous after.
+
+One of the people the story had turned into something larger and cleaner than a man.
+
+“Sir, you need to stay here.”
+
+“Which way did he go?”
+
+“We don’t know.”
+
+That was a lie.
+
+Not a good one.
+
+“Northwest.”
+
+He said nothing.
+
+“Quarry road.”
+
+His eyes changed.
+
+There.
+
+I turned.
+
+He caught my arm.
+
+“Do not.”
+
+I looked at his hand.
+
+He let go again.
+
+Learning.
+
+“They have field teams moving.”
+
+“How long?”
+
+“What?”
+
+“How long since he left?”
+
+“Sir.”
+
+“How long?”
+
+He hesitated.
+
+“Maybe three hours.”
+
+Three hours.
+
+Not gone.
+
+Moving.
+
+Probably tired.
+
+Probably injured.
+
+Almost certainly not expecting me.
+
+The thought arrived complete.
+
+I hated myself later for how normal it felt.
+
+Not whether I would go.
+
+How.
+
+Water.
+
+Food.
+
+Shortest crossing.
+
+Whether the north ferry still ran after dark.
+
+Where the quarry road narrowed.
+
+How much current magic I could actually execute after the run home.
+
+What I could use instead.
+
+The clerk from the school hall found me near the door.
 
 “Sir?”
 
 I looked at him.
 
-“Do you need somewhere to sit?”
+He had been good to me.
 
-No.
+That mattered.
 
-I needed eighteen years.
+“Someone should contact my family.”
 
-I needed Thursday.
+His face softened.
 
-I needed the contract not to exist.
+“Of course.”
 
-I needed the inspector not to break his ankle.
+“My parents. Lena. Nessa’s family if they haven’t already.”
 
-I needed the twins not to need boots.
+“We can.”
 
-I needed my mother not to need healers.
+I nodded.
 
-I needed one different road.
+Then left.
 
-One delayed wagon.
+He called after me.
 
-One argument with Nessa.
+I kept walking.
 
-One fever.
+I had confirmed my wife and children dead less than twenty minutes earlier.
 
-One anything.
+That sounds impossible when I say it now.
 
-Something ordinary enough to keep me home.
+It was not.
 
-Instead everything ordinary had worked.
+Grief did not make me collapse.
 
-That was the problem.
+Not yet.
 
-The job was reasonable.
+It made the world very small.
 
-The money was useful.
+Hale Rusk had done this.
 
-The repair needed doing.
+Hale Rusk was three hours away.
 
-Nessa told me to go.
-
-I wanted to come back.
-
-I bought sweet bread.
-
-No villain lived inside any of those sentences.
+Everything else could wait.
 
 Ithar moved in the cave.
 
-Barely.
+A slow flex of one foreclaw.
 
-A claw against stone.
-
-The sound brought me back badly.
-
-I was sitting.
-
-I did not remember sitting.
-
-My ruined leg had gone stiff.
-
-My hands were empty.
-
-For a while neither of us spoke.
-
-Then Ithar said, “You have stopped.”
+“You pursued him immediately.”
 
 “Yes.”
 
-He waited.
-
-I hated him a little for being good at waiting.
-
-Eventually he said, “The people who did this were taking revenge.”
+“You had just identified your family.”
 
 “Yes.”
 
-“For something real.”
-
-“Yes.”
-
-“And your family was not their target.”
+“You were not remotely his equal.”
 
 “No.”
 
-His eyes narrowed.
-
-“You knew their story before this life.”
-
-“Yes.”
-
-“But not the cost.”
-
-“No.”
-
-The cave stayed quiet.
-
-I looked at the floor.
-
-“I took the job.”
-
-Ithar’s head shifted.
-
-Not sympathy.
-
-Attention.
-
-“Nessa told you to take it.”
-
-“Yes.”
-
-“You wanted the money for the household.”
-
-“Yes.”
-
-“You intended to return.”
-
-“Yes.”
-
-“I am not hearing the crime.”
-
-My throat closed.
-
-“That wasn’t the point.”
-
-“No,” he said.
-
-It was almost gentle.
-
-Almost.
-
-I hated that more.
-
-He did not tell me it was not my fault.
-
-Good.
-
-I would not have listened.
-
-He did not tell me revenge was empty.
-
-Better.
-
-I would have left.
-
-He simply waited until I could breathe normally again.
-
-Then he asked, “What did you believe power could do?”
+“Did you know that?”
 
 I looked at him.
 
-That was not the question I expected.
-
-He continued.
-
-“Before this. In the life where you became S-class. After Vey. What did you actually do with power once you had it?”
-
-I almost laughed.
-
-Of course.
-
-The bastard had found the seam.
-
-Money.
-
-People.
-
-Access.
-
-Margin.
-
-The things I had built when I still believed power was useful because it let more of life work.
-
-I leaned back against the stone.
-
-“Something stupid,” I said.
+“Of course.”
 
 Ithar waited.
 
-“I hired a clerk.”
+That irritated me.
+
+“I wasn’t stupid.”
+
+“No,” he said. “That is why I asked.”
+
+Fair.
+
+I looked at the stone between my hands.
+
+“I knew I couldn’t fight an A-class Named Ranker.”
+
+“And yet.”
+
+“And yet.”
+
+I had lived another life.
+
+The body was wrong.
+
+The channels were wrong.
+
+The rank was wrong.
+
+The knowledge was not.
+
+Hale Rusk had three hours.
+
+I had forty years.
+
+So I went hunting.
