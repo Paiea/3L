@@ -1,0 +1,314 @@
+{
+  "record": "133",
+  "routing_mode": "exact_quote_locked",
+  "voices": {
+    "greg": "deep",
+    "ithar": "normal"
+  },
+  "max_chars": 480,
+  "pause_ms": {
+    "continuation": 220,
+    "paragraph": 450,
+    "action": 700,
+    "speaker_handoff": 1100,
+    "major_beat": 1400
+  },
+  "dragon_quotes": [
+    {
+      "text": "\"I know.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Why?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Two.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Come.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Food.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Because you have been speaking for most of the day.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It is practical.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 2
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 3
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 2
+    },
+    {
+      "text": "\"I understand more than I did.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It is the accurate one.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I know what you believe she was carrying.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 4
+    },
+    {
+      "text": "\"I remain impressed.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Was it worth it?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Your second life.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It is simple.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"What more do you require?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have demonstrated little ability to use ordinary wisdom.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Now?\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 3
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 4
+    },
+    {
+      "text": "\"Greg.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 6
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 7
+    },
+    {
+      "text": "\"You.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 8
+    },
+    {
+      "text": "\"You are dangerous.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It is one.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Because of all of that.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 5
+    },
+    {
+      "text": "\"Anyone.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It is broad.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You possess knowledge no living human should possess. You have demonstrated that you will alter events when you believe you understand their consequences. You know names that were not given to you. You know places you have never visited in this life. You have reached conclusions about systems your species no longer understands because you remember watching those systems fail.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You have lived one sequence of events and entered another carrying the first with you.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"You consider these advantages.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"That is why you are dangerous.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 6
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 10
+    },
+    {
+      "text": "\"It may be.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 8
+    },
+    {
+      "text": "\"You did.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 11
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 12
+    },
+    {
+      "text": "\"Removing you.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Here.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It is a solution to my problem.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 13
+    },
+    {
+      "text": "\"Then you will not be here.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Perhaps.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 9
+    },
+    {
+      "text": "\"If what you describe occurs again, and the world returns to a state before this conversation, I will not remember it.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Then the creature you meet will not be the creature speaking to you now.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 14
+    },
+    {
+      "text": "\"To you.\"",
+      "occurrence": 2
+    },
+    {
+      "text": "\"I will not have killed you.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I will not remember doing so.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"It makes it not mine.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 10
+    },
+    {
+      "text": "\"It is inconvenient for you.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 15
+    },
+    {
+      "text": "\"Enough.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 16
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 17
+    },
+    {
+      "text": "\"Yes.\"",
+      "occurrence": 18
+    },
+    {
+      "text": "\"No.\"",
+      "occurrence": 11
+    },
+    {
+      "text": "\"You have eaten many meals.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"I understand the expression.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Greg.\"",
+      "occurrence": 2
+    },
+    {
+      "text": "\"You were right about one thing.\"",
+      "occurrence": 1
+    },
+    {
+      "text": "\"Knowing what happens does not make you ready for it.\"",
+      "occurrence": 1
+    }
+  ]
+}
