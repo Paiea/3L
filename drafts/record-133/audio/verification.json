@@ -1,0 +1,24 @@
+{
+  "record": "ending-experiment-133",
+  "title": "THE LAST MEAL",
+  "authority": "noncanonical ending experiment",
+  "routing_mode": "exact_quote_locked",
+  "segment_count": 156,
+  "voice_counts": {
+    "deep": 82,
+    "normal": 74
+  },
+  "index_range": [
+    1,
+    156
+  ],
+  "missing_indices": [],
+  "duplicate_indices": [],
+  "handoff_floor_ms": 1100,
+  "tail_ms": 2000,
+  "duration_seconds": 750.681,
+  "sha256": "2f6d45475743706bb293a2c505520f560b7407b67d665d1ca447ba4373f3ee35",
+  "bytes": 12011355,
+  "automated_qc": "passed",
+  "listen_back": "public experiment; ear-level approval remains separate from canon production approval"
+}
