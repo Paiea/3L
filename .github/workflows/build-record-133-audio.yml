@@ -57,9 +57,10 @@ jobs:
         run: |
           set -euo pipefail
           cd audio/tmp-record133
-          cat > concat.txt <<'EOF'
-file 'seg-001.mp3'\nfile 'seg-002.mp3'\nfile 'seg-003.mp3'\nfile 'seg-004.mp3'\nfile 'seg-005.mp3'\nfile 'seg-006.mp3'\nfile 'seg-007.mp3'\nfile 'seg-008.mp3'\nfile 'seg-009.mp3'\nfile 'seg-010.mp3'\nfile 'seg-011.mp3'\nfile 'seg-012.mp3'\nfile 'seg-013.mp3'\nfile 'seg-014.mp3'\nfile 'seg-015.mp3'\nfile 'seg-016.mp3'\nfile 'seg-017.mp3'\nfile 'seg-018.mp3'\nfile 'seg-019.mp3'\nfile 'seg-020.mp3'\nfile 'seg-021.mp3'\nfile 'seg-022.mp3'\nfile 'seg-023.mp3'\nfile 'seg-024.mp3'\nfile 'seg-025.mp3'
-EOF
+          : > concat.txt
+          for f in seg-*.mp3; do
+            printf "file '%s'\n" "$PWD/$f" >> concat.txt
+          done
           ffmpeg -y -f concat -safe 0 -i concat.txt -c:a libmp3lame -q:a 3 ../assets/record-133-full-v1.mp3
           cd ../..
           ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 audio/assets/record-133-full-v1.mp3
