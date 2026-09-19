@@ -159,7 +159,7 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
     </div>
     <div class="hero-detail">
       <p class="story-hook"><strong>Six days up.</strong>The first thing Ithar calls him is food.</p>
-      <div class="hero-actions"><a class="primary" href="?record=001">Listen from the beginning</a><a class="secondary" href="?record=001">Read Record 001</a></div>
+      <div class="hero-actions"><a class="primary" href="?record=001">Listen from the beginning</a><a class="secondary" href="?record=001">Read Record 001</a><a class="secondary" href="?record=133">Hear the current ending</a></div>
     </div>
   </div>
 </section>
@@ -232,9 +232,18 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
     manifest.records.forEach(r=>{byKey.set(String(r.id).toLowerCase(),r);byKey.set(String(r.slot).toLowerCase(),r);byKey.set(String(Number(r.slot)),r)});
 
     const audioFor=rec=>audio.records?.[rec.id];
+    const hasAudioSource=a=>Boolean(a?.src||(Array.isArray(a?.segments)&&a.segments.length));
     const canUseAudio=rec=>{
       const a=audioFor(rec);
-      return Boolean(a?.src&&(a.status==='published'||(working&&a.status==='candidate')));
+      return Boolean(hasAudioSource(a)&&(a.status==='published'||(working&&a.status==='candidate')));
+    };
+    let segmentQueue=[];
+    let segmentIndex=0;
+    const loadAudioSource=a=>{
+      segmentQueue=Array.isArray(a?.segments)?a.segments.filter(Boolean):[];
+      segmentIndex=0;
+      const src=segmentQueue.length?segmentQueue[0]:a?.src;
+      if(src) $('player').src=src;
     };
     const audioRecords=visible.filter(canUseAudio);
 
@@ -244,7 +253,7 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
     $('audioLibraryMeta').textContent=`${audioRecords.length} recording${audioRecords.length===1?'':'s'}`;
     $('audioLibraryList').innerHTML=audioRecords.map(r=>{
       const a=audioFor(r);
-      return `<button class="audio-card" type="button" data-audio-record="${escapeHtml(r.id)}" aria-label="Play Record ${escapeHtml(r.display||r.slot)} ${escapeHtml(r.title)}"><span class="play">▶</span><span class="label"><strong>Record ${escapeHtml(r.display||r.slot)}</strong><span>${escapeHtml(r.title)}</span></span><span class="duration">${durationLabel(a.duration_seconds)}</span></button>`;
+      return `<button class="audio-card" type="button" data-audio-record="${escapeHtml(r.id)}" aria-label="Play Record ${escapeHtml(r.display||r.slot)} ${escapeHtml(r.title)}"><span class="play">▶</span><span class="label"><strong>Record ${escapeHtml(r.display||r.slot)}</strong><span>${escapeHtml(r.title)}</span></span><span class="duration">${a.duration_seconds?durationLabel(a.duration_seconds):(Array.isArray(a.segments)?'segmented':'')}</span></button>`;
     }).join('');
     if(!audioRecords.length) $('audioLibrary').hidden=true;
 
@@ -281,13 +290,15 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
       const a=audioFor(current);
       if(canUseAudio(current)){
         $('audioBox').hidden=false;
-        $('player').src=a.src;
-        $('audioLabel').textContent=a.status==='candidate'?'Listen · Candidate':'Listen';
-        $('audioDuration').textContent=durationLabel(a.duration_seconds);
+        loadAudioSource(a);
+        $('audioLabel').textContent=a.status==='candidate'?'Listen · Candidate':(Array.isArray(a.segments)?'Listen · Ending cut':'Listen');
+        $('audioDuration').textContent=a.duration_seconds?durationLabel(a.duration_seconds):(Array.isArray(a.segments)?`${a.segments.length} parts`:'');
         $('meta').textContent+=a.status==='candidate'?' · candidate audio':' · audio available';
       }else{
         $('audioBox').hidden=true;
         $('player').pause();
+        segmentQueue=[];
+        segmentIndex=0;
         $('player').removeAttribute('src');
         $('player').load();
       }
@@ -308,6 +319,14 @@ h2.section-title{font-family:ui-sans-serif,system-ui,sans-serif;font-size:1.05re
     });
 
     $('player').addEventListener('ended',async()=>{
+      if(segmentQueue.length&&segmentIndex<segmentQueue.length-1){
+        segmentIndex+=1;
+        $('player').src=segmentQueue[segmentIndex];
+        $('player').play().catch(()=>{});
+        return;
+      }
+      segmentQueue=[];
+      segmentIndex=0;
       if(!$('autoplayNext').checked||!activeRecord) return;
       const idx=manifest.records.findIndex(r=>r.id===activeRecord.id);
       const nextAudio=manifest.records.slice(idx+1).find(r=>(working||r.published)&&canUseAudio(r));
