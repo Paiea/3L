@@ -1,0 +1,60 @@
+name: Build Last Meal Ending Experiment
+
+on:
+  push:
+    branches:
+      - experiment/last-meal-two-voice
+    paths:
+      - drafts/record-133/audio/**
+      - scripts/assemble_ending_experiment.py
+      - .github/workflows/build-ending-experiment.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: experiment/last-meal-two-voice
+          fetch-depth: 0
+
+      - name: Install ffmpeg
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y ffmpeg
+          fi
+
+      - name: Assemble ending audio
+        run: python scripts/assemble_ending_experiment.py
+
+      - name: Publish finished experiment asset to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git worktree add /tmp/3l-main origin/main
+          mkdir -p /tmp/3l-main/audio/assets
+          mkdir -p /tmp/3l-main/drafts/record-133/audio
+          cp build/ending-last-meal/ending-last-meal-experiment.mp3 /tmp/3l-main/audio/assets/ending-last-meal-experiment.mp3
+          cp build/ending-last-meal/verification.json /tmp/3l-main/drafts/record-133/audio/verification.json
+          cd /tmp/3l-main
+          git add audio/assets/ending-last-meal-experiment.mp3 drafts/record-133/audio/verification.json
+          if git diff --cached --quiet; then
+            echo "No asset changes to publish"
+          else
+            git commit -m "Publish two-voice Last Meal ending experiment"
+            git push origin HEAD:main
+          fi
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ending-last-meal-experiment
+          path: |
+            build/ending-last-meal/ending-last-meal-experiment.mp3
+            build/ending-last-meal/verification.json
