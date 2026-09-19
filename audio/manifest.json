@@ -337,14 +337,15 @@
       "listened": false
     },
     "r133": {
-      "status": "published",
+      "status": "candidate",
       "src": "audio/assets/record-133-full-v1.mp3",
       "source_sha256": "8c2af584a6d12303d8b1ec69406f5dd61024b50a7f5d24f517360f145ae744d3",
       "audio_sha256": "7abd03fb261df060a3cb628b6caac741245f1e524840eba2b719ad76955e908f",
       "duration_seconds": 556.032,
-      "routing_mode": "single_voice_full_chapter_v1",
+      "routing_mode": "noncompliant_single_voice_rehearsal",
       "voice_id": "deep",
-      "listened": false
+      "listened": false,
+      "note": "Temporary rehearsal only. Production rebuild must follow audio/README.md exact quote-locked Greg=deep / Ithar=normal authority."
     }
   }
 }
