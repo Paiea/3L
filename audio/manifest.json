@@ -338,11 +338,13 @@
     },
     "r133": {
       "status": "published",
-      "src": "https://www.aidocmaker.com/g0/audio?name=15b28ee7ed7c4fc18c89d9b69c91e6bc",
-      "routing_mode": "single_voice_full_experiment",
+      "src": "audio/assets/record-133-full-v1.mp3",
+      "source_sha256": "8c2af584a6d12303d8b1ec69406f5dd61024b50a7f5d24f517360f145ae744d3",
+      "audio_sha256": "7abd03fb261df060a3cb628b6caac741245f1e524840eba2b719ad76955e908f",
+      "duration_seconds": 556.032,
+      "routing_mode": "single_voice_full_chapter_v1",
       "voice_id": "deep",
-      "listened": false,
-      "note": "Full-length ending experiment. Replace later with quote-locked Greg/Ithar production mix."
+      "listened": false
     }
   }
 }
