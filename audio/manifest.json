@@ -335,6 +335,40 @@
       "duration_seconds": 1125.648,
       "routing_mode": "exact_quote_locked",
       "listened": false
+    },
+    "r133": {
+      "status": "published",
+      "segments": [
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/aeff7b5b-02c0-41ba-8326-285366e7dcee.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/325b22fc-6293-4ccd-8397-d4845aa2f409.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/20d56e16-ead4-4682-8654-a2935a870a69.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/47095333-6f62-4f0a-ab0e-5741a7bb433e.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/6392e086-096d-4171-ba36-d94dc9407a34.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d8e3c8e7-ed39-4a49-9c41-6c8b5ca88cd3.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b9366108-26e7-448f-8311-acb0bcbd9324.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/c0adff54-dd07-4e0f-b2fe-235a682d6efd.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/76f439c6-834a-4b80-81cc-c2d4cf501a37.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/de07517f-db2e-4d0a-96a9-bc3460e19d6c.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4cf7692f-b0b4-4eb5-80bd-a195100f7826.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/b41afc5d-5285-4cbb-be30-a4da2eefba05.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/bb2f16b3-0d86-413e-8f94-3c4943d5952e.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/99356489-d143-42c6-9829-7e3ebe917263.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/3e83f226-8320-43ce-b3f4-21b7d249a75b.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ec322dc5-68f9-4fab-a1f0-247cc1b4ef2f.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/4c69b56a-8662-4e79-b95e-8ca96cc06011.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/a089001a-1c11-4503-9ef6-2f171cf11a92.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8e796d46-100e-4f27-9b01-8178d6d1f7c1.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ff8c453f-2b50-42b3-86ba-54c94314bc92.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/68a1351f-41d7-460d-b93b-a345534cdf2b.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/77d96208-819d-4e4b-855e-0e3b17461d0e.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/979bd7a4-6d9a-4f5e-ae54-55802c9262ef.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/435368c6-cf87-40ec-ad31-9d3c975c77c5.mp3",
+        "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/d00810d8-0e9f-4098-8337-d78ec3983db8.mp3"
+      ],
+      "routing_mode": "single_voice_segmented_experiment",
+      "voice_id": "deep",
+      "listened": false,
+      "note": "Temporary public conclusion audio. Replace with quote-locked Greg/Ithar production mix later."
     }
   }
 }
