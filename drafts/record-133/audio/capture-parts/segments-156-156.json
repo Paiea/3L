@@ -1,0 +1,14 @@
+{
+  "record": "ending-experiment-133",
+  "segments": [
+    {
+      "index": 156,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/ff646358-8db4-4d7c-9432-e349e89a6cbf.mp3",
+      "audio_url": "https://www.aidocmaker.com/g0/audio?name=cb7bb4ab19b5467daf58c91d310534a8",
+      "pause_after_ms": 0,
+      "status": "ready"
+    }
+  ]
+}
