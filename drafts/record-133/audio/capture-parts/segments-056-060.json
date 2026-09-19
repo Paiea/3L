@@ -1,0 +1,50 @@
+{
+  "record": "ending-experiment-133",
+  "segments": [
+    {
+      "index": 56,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/9be784ff-7cb2-470f-bd29-9fd99427ea28.mp3",
+      "audio_url": "https://www.aidocmaker.com/g0/audio?name=225ac84040d943e29ed979b3a5eff3ab",
+      "pause_after_ms": 1100,
+      "status": "ready"
+    },
+    {
+      "index": 57,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/12a9ee1a-b59d-4336-8952-65431d84c568.mp3",
+      "audio_url": "https://www.aidocmaker.com/g0/audio?name=07fdfe1cf46d4dbf9921fc60c2ee4861",
+      "pause_after_ms": 1100,
+      "status": "ready"
+    },
+    {
+      "index": 58,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/887cf701-03e7-477e-9f63-42b0a7cf6cac.mp3",
+      "audio_url": "https://www.aidocmaker.com/g0/audio?name=e6603a851f214b10b7ee68384358f199",
+      "pause_after_ms": 1100,
+      "status": "ready"
+    },
+    {
+      "index": 59,
+      "speaker": "greg",
+      "voice_id": "deep",
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/8ecd3f70-2d65-4172-9413-a4094428cf6c.mp3",
+      "audio_url": "https://www.aidocmaker.com/g0/audio?name=436ff3c2428d41c380a11887ddaca1e7",
+      "pause_after_ms": 1100,
+      "status": "ready"
+    },
+    {
+      "index": 60,
+      "speaker": "ithar",
+      "voice_id": "normal",
+      "preview_url": "https://storage.googleapis.com/adm--audio-playback--7d--public/mcp-preview/0bc4dd34-8692-4b5c-b016-d4484b6c53b2.mp3",
+      "audio_url": "https://www.aidocmaker.com/g0/audio?name=edef84a6570441d188fc0993f029cc42",
+      "pause_after_ms": 1100,
+      "status": "ready"
+    }
+  ]
+}
